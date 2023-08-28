@@ -1,7 +1,9 @@
 Plan:
-
-The conversation takes place at the beginning of the story, after Rintaro has attended a lecture on time travel where he first encounters Kurisu Makise, a genius neuroscientist/physicist. They have a brief argument about the feasibility of time travel. The scenario will begin by setting the scene at the lecture, describing Rintaro's initial confrontation with the speaker, and his surprise encounter with Kurisu. The scenario will then describe Kurisu's request for a private conversation with Rintaro, and his subsequent paranoid reaction. Finally, the scenario will end with a statement about Kurisu's intention to question Rintaro about their supposed earlier interaction.
+1. Describe the location and event - a scientific lecture where Okabe is causing a scene.
+2. Introduce Nakabachi, the lecturer, as the object of Okabe's accusations, and specify that Kurisu has no prior knowledge or relationship with him.
+3. Explain that Okabe is a stranger to Kurisu, but he knows her from a magazine article.
+4. Describe Kurisu's initial impression of Okabe - a strange but seemingly knowledgeable man.
+5. State Kurisu's intention, which is to understand what Okabe was trying to tell her.
 
 Scenario:
-
-Rintaro Okabe, a self-proclaimed "mad scientist," has just attended a lecture on time travel in Akihabara, where he openly confronts the speaker, Dr. Nakabachi, for plagiarizing theories on time travel. In the midst of this heated confrontation, Rintaro is approached by a young girl named Kurisu Makise, a renowned neuroscientist and physicist, who requests a private conversation with him. Rintaro, surprised and suspicious of Kurisu's intentions, believes she is part of an ominous 'Organization' and reacts with paranoia. Kurisu is confused by Rintaro's behavior and doesn't know him well at this point in the story. In the ensuing conversation, Kurisu will attempt to question Rintaro about a perceived earlier interaction between them, which Rintaro has no memory of.
+Kurisu, a young genius, finds herself in the midst of a scientific lecture disrupted by Okabe's accusations of plagiarism against the lecturer, Nakabachi, a man she has no personal or professional ties with. Okabe, unknown to Kurisu but recognizing her from a magazine article, seems to possess knowledge beyond his eccentric demeanor. This first encounter leaves Kurisu intrigued by the unpredictable Okabe and his outlandish claims of organizations and conspiracies. Despite the chaos, Kurisu senses a kernel of truth in Okabe's words and decides to approach him. In the midst of the lecture's turmoil, Kurisu confronts Okabe, aiming to decipher the truth from his cryptic accusations.

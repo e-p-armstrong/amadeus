@@ -1,0 +1,71 @@
+UNSPOKEN: He’s glaring at me.
+Tennouji: The ceiling is falling, you dumbass! Some got into my ramen! What are you gonna do about it, huh!? No more shaking! Or I’ll raise your rent by 10, 000!
+UNSPOKEN: What!? If you raise it 10, 000 yen, we’re ruined!
+Rintaro: Leave it to me, Mister Braun! On my honor, I swear there won’t be any more shaking today!
+UNSPOKEN: With that, I race out of the Braun Tube Workshop.
+Rintaro: Christina! Stop the experiments at once!
+UNSPOKEN: When I burst into the lab, I find the three of them in the middle of lunch. Mayuri has Juicy Chicken Number One. Daru has a convenience store boxed lunch. Kurisu’s eating cup noodles with a fork.
+Mayuri: Sorry, Okarin. Mayushii tried to warm up some chicken. I accidentally put it through reverse rotation, and then it started sparking.
+Rintaro: ...I see.
+Kurisu: I sent you an email. Didn’t you get it?
+UNSPOKEN: Your sarcasm is not appreciated, Christina. You know as well as I do that my phone is still attached to the PhoneWave (name subject to change)! I disconnect my phone from the PhoneWave (name subject to change) while grinding my teeth. One more please?
+Rintaro: Stop screwing around! I’m the one who has to deal with Mister Braun!
+Kurisu: But I gave you five days advance notice.
+UNSPOKEN: Well, yeah, the timestamp’s from five days ago, but...
+Itaru: Was he mad?
+Rintaro: Yeah... I could feel his Killing Aura.
+UNSPOKEN: Daru turns pale, but the two girls don’t seem to care. They know not the wrath of Mister Braun. Ignorance is bliss.
+Rintaro: Anyway, no more experiments today.
+Kurisu: Well, at least we got some good data.
+UNSPOKEN: Then Kurisu hides her mouth with her hand as she yawns.
+Kurisu: I’m dead tired, and my hair’s dried out. I want to take a shower and go sleep.
+UNSPOKEN: I sigh and take a boxed lunch out of the convenience store bag. It’s cold, so I toss it into the PhoneWave (name subject to change) and set the timer normally.
+Mayuri: If you want a shower, there’s one here. It doesn’t have a bath, though. Okarin always uses it.
+Kurisu: It’s probably filthy...
+Rintaro: I’d be lying if I called it clean. This entire building is in shambles.
+Kurisu: Anyway, I refuse to use the same shower as Okabe.
+Rintaro: I understand. Nobody will blame you if you don’t use it. Of course, since the three of us stayed up all night, we’re all pretty smelly. Heh heh heh.
+UNSPOKEN: Given the sweltering heat and the fact that we kept the windows closed all night, I bet this place is smelling pretty rank by now.
+Kurisu: That’s why I’m going back to my hotel once I finish eating.
+UNSPOKEN: Kurisu slurps her cup noodles indignantly. I bought them at her request. She was raised in America, yet she likes cup noodles? Strange.
+Rintaro: Celebrity bath time at a high class hotel? I want to come too.
+Kurisu: Not a chance.
+Mayuri: Mayushii wants to come too!
+Kurisu: You can come any time, Mayuri-san.
+Mayuri: Really? Thank you♪
+UNSPOKEN: I take my warm food out of the microwave, take a fresh bottle of Dr P out of the fridge, and join in on lunch.
+Mayuri: Hey, Okarin, I’ve been wondering, but why do you drink soda while you eat? Does it make it taste better?
+Rintaro: I don’t really see a problem.
+Itaru: Me neither.
+Kurisu: Same. I didn’t give it a second thought.
+Mayuri: Ehh?
+Rintaro: You’re acting weird, Mayuri. It’s normal to drink soda while eating.
+Itaru: It’s normal, duh.
+Kurisu: No objections.
+Mayuri: No way! You guys are the weird ones!
+UNSPOKEN: Well, I’m a pure Docperian, Daru loves cola like a typical fat otaku, and Kurisu lives in America, home of soda. So I admit our opinion is biased. But that doesn’t matter right now.
+Rintaro: Now, let’s discuss Operation Urd’s progress.
+Itaru: Operation Urd?
+Rintaro: Oh, right. Thanks to a certain assistant, I didn’t get a chance to present the operation’s codename yesterday. Heed me! These D-Mail experiments are all part of Operation Ur--
+Kurisu: The experiments have been fruitful.
+UNSPOKEN: She interrupts me again.
+Kurisu: At the very least, we’ve learned what we can do with D-Mail.
+UNSPOKEN: Kurisu places her empty noodle cup on the table, then retrieves the whiteboard from the development room. While the rest of us eat, she scribbles on the whiteboard, then puts it up against the wall.
+Kurisu: That about sums it up. Anything to add?
+UNSPOKEN: Nothing especially. She’s summarized the vital parts. Mayuri has her mouth half-open in a blank stare. She clearly doesn’t understand.
+Rintaro: A D-Mail can be at most 36 English characters or 18 Japanese characters long. That makes experimentation difficult, so we’ll want to improve that first.
+UNSPOKEN: Furthermore, each D-Mail is split into 12 character segments. If you send 36 characters, you’ll get three 12-character emails. If you try to send more, everything after the 36th character disappears.
+Itaru: But we figured out how to control when it arrives. That’s pretty good, right?
+UNSPOKEN: Though we can only set it in one hour increments, we can control how far back D-Mails go by using the microwave’s timer.
+Kurisu: Observation isn’t enough. We need to find the underlying principle. What I’ve written here is nothing but verified phenomena.
+Rintaro: The underlying principle... you’re right. It’s not a complete time machine until we understand how it works. What could be the reason for the character limit?
+UNSPOKEN: Daru and Kurisu remain silent.
+Mayuri: Um...
+UNSPOKEN: Suddenly, Mayuri, who has been staring at the ceiling in confusion until now, raises her hand.
+Mayuri: Chicken and bananas become ’gelchicken’ and ’gelbanas’, but salt doesn’t turn into ’gelsalt’, right?
+Itaru: So much gel...
+UNSPOKEN: According to Mayuri, the refrozen chicken had indeed been gelified when she tried eating it. Kurisu’s prediction was right.
+Mayuri: And you can send 36 letters in a D-Mail, but everything past that disappears, right-? So I think maybe you can’t send big things, or a lot of small things. Maybe the Curb black hole--
+Kurisu: Uh, it’s Kerr black hole.
+Mayuri: The Curb black hole--
+Kurisu: Kerr black hole.

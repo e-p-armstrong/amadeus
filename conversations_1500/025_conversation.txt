@@ -1,0 +1,58 @@
+Rintaro: Daru! What do you mean forget about me?
+Itaru: I’m tired of listening to conspiracy theories. I’m more interested in the Z Program than in your delusions.
+UNSPOKEN: I told you, they’re not delusions, and they’re not theories... But Daru does have a point. Our top priority now is to expose the dark side of the international research organization known as SERN.
+Rintaro: Continue, assistant.
+Kurisu: At least show respect when you’re asking a favor...
+UNSPOKEN: Though huffing out complaints, Kurisu obediently goes back to translating.
+Kurisu: Umm... ’Stage 1: Construction and implementation of the Large Hadron Collider.’ ’Over the past half century, beginning with the Proton Synchrotron completed in 1959, particle accelerator technology has reached the point where standardized results may be obtained.’ ’Stage 2: Implementation and testing of lifter technology.’ ’The formation of more than two artificial localized singularities, as well as the formation of Kerr black holes, will become possible when this stage is complete.’ ’In order to hide the program’s true goal, it is necessary to intentionally leak misinformation regarding the formation of black holes.’ ’Stage 3: Animal experimentation.’ ’Stage 4...
+UNSPOKEN: Kurisu stops talking. She takes a deep breath, then finally mutters angrily.
+Kurisu: ...Human experimentation.
+Itaru: ...For real?
+UNSPOKEN: A chill runs up my spine. I admit it. Some part of me still saw this as a game. I was elated to discover that an institution as respected as SERN was actually doing time travel research. After all, we ourselves had succeeded -- whether by chance or design -- in producing our own time travel phenomenon. I thought that maybe we could beat SERN to the first functional time machine design. And wouldn’t that be something? But now... Just like I said to Kurisu, the world is full of lies. Morals are meaningless. Was it really okay for us to get involved in this?
+Itaru: H-hey, Okarin. Remember when we hacked in before? I’m pretty sure that email we read said this... Result: Error. Human is dead, mismatch. For details, see the Jellyman’s Report...
+UNSPOKEN: Someone... died?
+Itaru: Could that have something to do with... human experimentation?
+UNSPOKEN: My throat goes dry. Cold sweat seeps through my brow. And it’s not because of the heat. Kurisu and Daru are waiting for me to speak. Are they entrusting the decision to me? True, but can I live with myself if I ignore this conspiracy?
+Rintaro: Daru... look up the Jellyman’s Report.
+Itaru: Really?
+Rintaro: Really. But first, Christina.
+Kurisu: Eh?
+Rintaro: You should leave.
+Kurisu: Why are you suddenly--
+Rintaro: The Jellyman’s Report... it just gives me a bad feeling. Once we see it, we can no longer return to our normal lives. You’re a genius. You’re already published, for crying out loud. There’s no need to throw away your promising future.
+Kurisu: Are you worried about me?
+Rintaro: Of course I am. You are my assistant, after all.
+Kurisu: ...I keep telling you, I’m not your assistant. Thanks for your concern. But I’m not leaving. We need to expose this truth to the world.
+Rintaro: No! It’s too dangerous.
+Kurisu: You chickening out?
+Rintaro: We’re powerless against this conspiracy. One wrong move, and they’ll have us erased.
+Kurisu: But still--
+Rintaro: This isn’t a game! I’m not joking here.
+Kurisu: ...Fine. I won’t tell anyone.
+UNSPOKEN: Though her expression shows she still doesn’t agree, she finally submits.
+Kurisu: But I’m not leaving. It’ll keep me awake at night.
+Rintaro: You won’t regret this?
+Kurisu: I won’t.
+UNSPOKEN: She declares firmly. I don’t know if it’s her competitive spirit, or if it’s her bravery, or if she’s just ignorant to the ways of the world. But it doesn’t look like I can persuade her to back down.
+Rintaro: What about you, Daru? Prepared?
+Itaru: Well, I am a super hacker.
+UNSPOKEN: He’s comfortable even in this situation.
+Itaru: And with my skills, they’ll never know we were there.
+UNSPOKEN: That settles it. It’s good that Mayuri’s not here. I can’t get her involved. I look Daru and Kurisu in the eye.
+Rintaro: Alright... let’s begin.
+UNSPOKEN: Kurisu gives the seat to Daru.
+Rintaro: Henceforth, this shall be known as Operation Laegjarn’s Chest!
+Kurisu: Why Norse mythology?
+Itaru: Is that Norse mythology? Because it’s cool, I guess.
+Kurisu: Anyway, what is it with men and military terms...
+Rintaro: Daru, begin the operation!
+UNSPOKEN: He soon finds the Jellyman’s Report. It required a second password authentication, which Daru broke through easily.
+Itaru: Ready? I’m opening it.
+UNSPOKEN: Daru looks at me and Kurisu. I wet my parched lips and nod. The air in the lab suddenly seems thicker. Unable to escape through the closed window, it surrounds us with an oppressive heat. Daru wipes the sweat off his forehead with a handkerchief, then timidly presses the enter key. The file opens. At first glance, it looks like a resume. There’s a photograph on the top right. The top left has name, age, height, weight, and other information. In the center is a long string of English text. Underneath that, there’s something attached, like a scan of a newspaper clipping with a black and white photo. And then I know. I know exactly what the Jellyman in Jellyman’s Report means.
+Kurisu: ’Jellyman’s Report 10’ ’Subject: James McCarthy, Age: 31, American’ ’Z Program Stage 4, Date of Experiment: 2005-01-28 T13:05’
+UNSPOKEN: Kurisu bends over Daru’s shoulder, reading the contents out loud.
+Kurisu: ’Results: Error. Human is dead. Mismatch.’
+Itaru: That again...
+Kurisu: ’It is believed that due to infinite compression by supergravity, the subject could not endure passage through the singularity inside the Kerr black hole.’ ’April 3, 1921. New York City. An unidentified man was discovered dead in an alley off Union Square. The right half of his body was embedded in a nearby wall.’
+UNSPOKEN: It sounds like Kurisu is reading the newspaper article at the end.
+Kurisu: ’The man’s body... ...was completely gelified.’

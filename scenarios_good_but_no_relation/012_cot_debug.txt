@@ -1,0 +1,3 @@
+Plan: Given the nature of the conversation, it appears to be taking place after Rintaro and Kurisu have met a second time and she has joined his lab. They are discussing the PhoneWave and time travel, with Rintaro confronting Kurisu about her disbelief in their discovery. 
+
+Scenario: After several experiments with the PhoneWave (name subject to change) in the Future Gadget Laboratory, Kurisu is still skeptical about the possibility of time travel, despite witnessing the phenomena. Rintaro brings up their first meeting, attempting to jog her memory about an event that she doesn't recall due to timeline alterations. As the conversation continues, Kurisu will be challenged by Rintaro to reassess her scientific beliefs and confront the fringe science they are dealing with.

@@ -1,0 +1,3 @@
+Plan: Given the context, this conversation seems to occur after a dangerous event, possibly an attack. Rintaro is injured, but they're about to send a D-mail which will change the worldline and 'erase' the injury. The mention of Tennouji and Moeka suggests this is happening around the time they are undoing the D-mails, specifically Moeka's.
+
+Scenario: Rintaro and Kurisu are in the Future Gadget Laboratory after escaping a dangerous encounter with Tennouji. They are preparing to send a D-Mail to undo the changes caused by a previous D-Mail, with Rintaro nursing an injury that will disappear once the worldline shifts. Kurisu, worried and frantic, will try to keep the situation under control by assisting Rintaro and discussing the peculiar behaviour of Tennouji.

@@ -1,0 +1,71 @@
+Rintaro: Stop making her say stuff like that!
+UNSPOKEN: Mayuri has flowers for brains, so she’s easy prey for Daru’s perversions. It drives me crazy.
+Kurisu: The hole is tight... huh. That might not be entirely wrong. Maybe we have the same problem SERN has with their time machine. Since they can’t fully control the lifter, they can’t make the singularities perfectly naked, which limits how much they can send.
+Itaru: Anyway, 6 Japanese or 12 English characters comes out to 12 bytes.
+UNSPOKEN: English characters are half-width, so they only use one byte, but full-width Japanese characters use two.
+Kurisu: Bytes? Not kilobytes?
+Itaru: Oh? So Makise-shi’s bad with computers?
+Rintaro: Heh. Is that so, assistant?
+Kurisu: Sh-shut up! You don’t see things measured in bytes nowadays, so I was just making sure...
+UNSPOKEN: By the way, 1 kilobyte is 1024 bytes. 1 byte is 8 bits.
+Itaru: Well, email isn’t just comprised of text. There’s more to it, like the sender and receiver’s email addresses, the header, and various other things. So roughly speaking, we can send data in three batches of 12 bytes, then? By the way, I don’t know if using a subject changes anything.
+Rintaro: But I’m pretty sure that chicken and bananas have to be larger than 12 bytes.
+UNSPOKEN: How do you measure a banana in bytes anyway?
+Rintaro: Since each grain of salt is tiny, it’s possible they could be converted to less than 12 bytes.
+Kurisu: So larger masses get crushed by supergravity?
+Rintaro: Mass might not be the issue here. Data doesn’t have mass.
+Kurisu: In any case, since the singularity isn’t naked, the object is forced to pass through the event horizon. Inside the event horizon, space and time switch places, causing the subject that arrived at the ring singularity to reach ultra high speed... The data, crushed and destroyed by super gravity, is shot out of the black hole...
+Rintaro: As a jellyman.
+Kurisu: But even a small mass has to pass through supergravity. How does it emerge unscathed?
+Rintaro: If the hole is too tight, then just inject more electrons.
+Kurisu: I don’t think it’s that simple. I mean, I’m sure SERN’s tried that already. And yet they haven’t gotten any results after nine years of experiments. It’s not as simple as increasing the flow of electrons.
+Rintaro: I see...
+Kurisu: SERN has a lifter, but we don’t know what in the PhoneWave is filling the same role, much less how to adjust it.
+UNSPOKEN: She has a point.
+Rintaro: We don’t know what acts as the lifter... But we do know that it has successfully created a path wide enough to send approximately 36 bytes of data through the ring singularity.
+Mayuri: I don’t get it...
+UNSPOKEN: Mayuri, finished with her chicken, looks at us in confusion.
+Rintaro: Think of it like an RPG. The ring singularity, the entrance to the event horizon, is the gate to the Demon Lord’s castle.
+Kurisu: D-demon Lord...?
+Mayuri: So the soldiers who went home as slimes are jellymen?
+Rintaro: But there’s an exception.
+Itaru: Combining soldiers? That’s just silly.
+Rintaro: It’s to illustrate that the object can’t be too big.
+Mayuri: I get it! That’s really easy to understand.
+Kurisu: It is?
+Itaru: It’s a dumb metaphor, but I guess it works? At least as an explanation for why things get gelified.
+Rintaro: Heh. It’s all thanks to Mayuri’s hint.
+Mayuri: Mayushii was helpful?
+Rintaro: Yeah. Great insight, Mayuri.
+Mayuri: Ehehe! Yay!
+Kurisu: But it’s still a hypothesis. It hasn’t been proven.
+Itaru: How would you prove it? With human experiments like SERN?
+Kurisu: If Okabe and Hashida-san volunteer as test subjects, I’ll happily experiment on you.
+Itaru: Human experimentation sounds kinda dirty. If you know what I mean. But I refuse. I’d rather play the doctor than the subject.
+Rintaro: Same here. No, not in the way he’s implying.
+Kurisu: Idiots.
+UNSPOKEN: Kurisu gives us a cold stare and shrugs her shoulders in exasperation.
+Kurisu: As I keep saying, the real problem is what the PhoneWave uses as a lifter.
+Rintaro: That and one other thing. How come the discharge phenomenon and gelification only happen during a certain timeframe?
+Itaru: We may not understand everything, but we’ve perfected the art of D-Mailing. Isn’t that our Final Answer?
+Mayuri: Sending mail to the past is amazing, isn’t it?
+Itaru: Though I guess it’s not a real time machine unless we can send people to the past.
+Kurisu: Even SERN has failed to send humans through. If you believe what Titor says, it won’t be another, what, 24 years before there’s a true time machine?
+UNSPOKEN: I answer Kurisu’s sarcastic question with a nod.
+Rintaro: Physical time travel is impossible for us at the moment. We lack the funds and facilities available to SERN. And yet we have realized a form of time travel. We’ve sent data to the past.
+Kurisu: We should investigate the PhoneWave further. We need to understand what’s going on.
+Itaru: I have some fun ideas for how to use D-Mail.
+Rintaro: I know how you feel, but we can’t today. If we shake the building again, Mister Braun is sure to blow a gasket.
+UNSPOKEN: He’ll raise the rent or kick us out of the lab.
+Rintaro: We can start experimenting again tomorrow. But this, I will declare now.
+UNSPOKEN: I step onto the couch and look at each lab mem in turn.
+Mayuri: You have to take off your shoes. It’s dirty!
+Rintaro: Today -- uhh, what day is it?
+Itaru: August 2nd.
+Rintaro: August 2nd, 2010 is a date which will live in infamy! For on this day, we, the Future Gadget Laboratory, have developed-- The first successful time machine in the history of mankind!
+Itaru: It’s not the first. SERN beat us.
+Kurisu: And you can’t even say we developed it. It happened by accident.
+Rintaro: Hmph! It seems that my assistant doesn’t know the meaning of the word ’serendipity’. Penicillin, X-ray machines, dynamite -- these inventions and more were all born from coincidence!
+Kurisu: I guess...
+Mayuri: But Chris-chan, you said before that time machines don’t exist, right? But now you admit they do!
+Kurisu: It’s just that I have to admit it for now. If we investigate how the PhoneWave works, it might turn out to be something that only seems like time travel.

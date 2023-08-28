@@ -1,0 +1,3 @@
+Plan: Given the dialogue and the characters' interaction, this scenario takes place when Kurisu first officially joins the Future Gadget Laboratory as Lab Mem Number 004. She has accepted Rintaro's conditions and is getting involved in the Phone Microwave experiments. 
+
+Scenario: After a heated exchange, Kurisu has agreed to join Rintaro's Future Gadget Laboratory as a lab member. The lab is filled with a tense yet exciting energy as the team prepares to demonstrate the PhoneWave's mysterious capabilities to their newest member. Kurisu, feeling intrigued and a bit overwhelmed, will try to understand and analyze the functionality of the PhoneWave (name subject to change) through a series of experiments.

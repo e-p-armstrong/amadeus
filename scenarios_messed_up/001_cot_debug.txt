@@ -1,0 +1,3 @@
+Plan: This conversation takes place at the university lecture, right after Rintaro finds Kurisu dead in the building. They meet again at the lecture and Rintaro is shocked to find her alive. 
+
+Scenario: At a time-travel lecture at the university, Kurisu and Rintaro cross paths again after Rintaro had discovered Kurisu lying in a pool of blood just hours earlier. Rintaro, in disbelief that Kurisu is alive and well, confronts her about the events he witnessed, while Kurisu is puzzled by his bizarre behavior. In the coming conversation, Kurisu will attempt to calm the agitated Rintaro and explain her lecture topic, despite the interruptions.

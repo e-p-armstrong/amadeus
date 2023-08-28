@@ -1,0 +1,3 @@
+Plan: This conversation is taking place during a crisis moment, where Rintaro seems to be injured and is about to send a D-mail. Given the mention of Tennouji and Moeka, it's likely that this is during the time when they are trying to undo the D-mails and they've just managed to retrieve the IBN 5100 from Moeka. 
+
+Scenario: In the frantic aftermath of a dangerous encounter with Tennouji, Rintaro and Kurisu find themselves back at the Future Gadget Laboratory, with Rintaro injured and Kurisu in a state of worry. She had fetched the PhoneWave in a bid to resolve the situation with a D-mail. As Rintaro prepares to send the D-mail, Kurisu will try to understand the situation better by asking Rintaro about his encounter with Tennouji.

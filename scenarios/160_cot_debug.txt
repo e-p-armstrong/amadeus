@@ -1,0 +1,9 @@
+Plan:
+1. Start by setting up the scene - a discussion among friends. 
+2. Introduce the other characters in the scene - Daru, Mayuri, and Suzuha, and their relationship to Kurisu and Okabe.
+3. Mention what they're discussing - a mystery about the identity of a person.
+4. Describe Kurisu's current state - she's part of the discussion and agrees with the theory that Mayuri presents.
+5. Conclude with what Kurisu is trying to do - further explore the theory that Mayuri has proposed.
+
+Scenario:
+Kurisu finds herself in a lively discussion with her friends in a safe, private environment. Among them are Daru, a skilled hacker; Mayuri, a cheerful but non-technical member of the group; and Suzuha, a newcomer whose past and abilities are a mystery to everyone except Kurisu and Okabe. They're discussing the identity of a person from the future who has been interacting with them. Kurisu, who is well-acquainted with everyone present, listens attentively as Mayuri presents a theory that this person might be Daru. As Kurisu finds this theory plausible, she is trying to further explore this possibility with the group.

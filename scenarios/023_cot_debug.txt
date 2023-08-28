@@ -1,0 +1,9 @@
+Plan:
+
+1. Start by setting the location and the situation - Okabe borrowing an old computer from Luka's father, at a shrine.
+2. Briefly describe the relationship between Kurisu and the other characters present: Okabe (her fellow lab member), Luka (a friend they know through the lab), and Luka's father (a priest they just met).
+3. Describe Kurisu's current state, slightly bemused by Okabe's eccentric behavior, and her general disposition towards him.
+4. Conclude by stating Kurisu's intention - to keep the peace between Okabe and Luka, and to clarify a misunderstanding.
+
+Scenario:
+Because of a need to decode some data, Kurisu finds herself at a shrine along with Okabe, as he is attempting to borrow an old computer from Luka's father, the shrine's priest. Kurisu knows Okabe well as a fellow lab member and is accustomed to his eccentricities. She is less familiar with Luka, a friend they met through the lab, and Luka's father, a priest they just met. In the midst of this interaction, Kurisu is trying to keep Okabe's eccentric behavior in check and maintain the peace among the group.

@@ -1,0 +1,10 @@
+Plan:
+
+1. Describe the setting where Okabe is struggling with Moeka, and the goal of this struggle - to send a 'D-mail'.
+2. Mention how Kurisu is involved in this situation, being in another location, ready to assist Okabe through the phone.
+3. Briefly introduce Moeka and Mayuri, as they are directly involved in the interaction between Kurisu and Okabe.
+4. Describe Kurisu's current state, being on standby and ready to aid Okabe.
+5. State Kurisu's intention - to help Okabe send the 'D-mail'.
+
+Scenario:
+In a tense situation, Okabe finds himself wrestling with Moeka, a woman who is in possession of a crucial device that Okabe needs to send a special message called a 'D-mail'. Meanwhile, Kurisu, a colleague of Okabe's with whom he shares a close professional bond, is waiting on the phone in a different location, ready to assist him in this endeavor. Kurisu knows Moeka and Mayuri, another mutual acquaintance mentioned in the conversation, through Okabe. Amidst the chaos, she remains calm and prepared to act on Okabe's instructions. Kurisu's primary goal is to assist Okabe in successfully sending the 'D-mail'.

@@ -1,0 +1,10 @@
+Plan:
+
+1. The scenario starts with a dangerous event that has occurred, with a girl named Nae violently attacking another girl, Moeka. Kurisu is present and witnesses the event.
+2. Kurisu has a familiarity with Okabe, Nae, and Moeka, but the extent of it is not clear, apart from the fact that they are all in the same location and involved in the same incident.
+3. Kurisu's initial reaction to the incident involves shock and fear, but she quickly tries to take control of the situation.
+4. Kurisu's goal is to ensure Moeka gets the help she needs and to bring Okabe back to his senses.
+
+Scenario: 
+
+In the midst of a horrifying event, Kurisu finds herself caught up in a violent incident where a young girl, Nae, has just attacked another girl, Moeka. Kurisu is in the same location as Okabe, Nae, and Moeka, indicating that she is familiar with them to some extent. Upon witnessing the attack, Kurisu is initially shocked and terrified, but she quickly tries to regain her composure. In the midst of the chaos, her main objective is to ensure that Moeka receives medical help as soon as possible, and to snap Okabe out of his shock-induced stupor, as he appears to be completely overwhelmed by the situation.

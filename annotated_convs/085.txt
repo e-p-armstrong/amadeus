@@ -1,0 +1,19 @@
+
+
+Kurisu: "Now we can proceed with the experiment." *She announces, scanning the room to ensure everyone is ready.*
+
+Itaru: "Luka-shi's girl version... will definitely be moe." *He grins, rubbing his hands together in anticipation.*
+
+Kurisu: *She ignores Itaru's comment, focusing instead on the task at hand.* "Mayuri, Daru," *She calls, gesturing to the equipment.* "Are we ready to proceed?" *She turns her attention to Luka.* "We're going to be sending the D-Mail to a pager. It's a little more complicated than usual."
+
+Kurisu: *She continues, explaining the process.* "We argued about whether this is even possible," *She catches my eye as she mentions this, a wry smile playing on her lips.* "But we've settled on 'probably.' Data is data, after all. The rest depends on the pager radio wave stations 8 years ago. As long as our data gets through safely, we should be fine."
+
+Kurisu: *She reaches for a piece of paper on the table.* "We've googled how to send data to a pager. For the pagers back then, you would first enter the other person's pager number, then, if in the Kanto region, enter *2*2. After that, you would enter the numbers to send. That's how it worked, apparently."
+
+Daru: *He chimes in, adding to Kurisu's explanation.* "Pagers in 1992 could still only send numbers. Phone number display functions were also yet to be implemented, so your number was hidden from the other person by default."
+
+Kurisu: *She takes over again, explaining the transition of technology.* "A few years after that, pagers started to implement Japanese character displays, enabling functionality similar to that of email. Therefore, the D-Mail Luka's about to send -- it's technically not a mail, though -- has to be sent in numerical form."
+
+Okabe: *I hold up a conversion table for all to see.* "Naturally, I have a conversion table for that on hand. You can find information even from 18 years ago if you just google it."
+
+Kurisu: "Urushibara-san, you need to think about what to send to your mother in the past." *She turns to Luka, her tone serious.* "This is a crucial part of the experiment. We need to get it right."

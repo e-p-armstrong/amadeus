@@ -1,3 +1,0 @@
-Plan: This conversation takes place when Kurisu first visits the Future Gadget Laboratory after meeting Rintaro at the lecture. Rintaro is surprised, as he believes she had died, and reacts wildly. This is the first interaction of Kurisu with Rintaro and Itaru in the lab.
-
-Scenario: Kurisu has just entered the Future Gadget Laboratory, surprising Rintaro and Itaru with her unexpected visit. She appears curious about their ongoing experiment, while Rintaro, shocked and paranoid due to his belief that Kurisu had died, responds with his typical conspiracy theories. Kurisu will attempt to clarify the confusing situation and understand the strange antics of Rintaro and Itaru.

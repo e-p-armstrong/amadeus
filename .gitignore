@@ -9,3 +9,6 @@ checkpoint-10
 old_models
 combined_script.txt
 combined_script_bad_data_in_it.txt
+outputs/
+.DS_Store
+MythoMaxKurisu-13b-smaller-epochs/

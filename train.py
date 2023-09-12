@@ -10,9 +10,12 @@ from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
 import json
 from peft import LoraConfig, get_peft_model
 import transformers
-from .make_card_alichat import make_card_alichat
-from .make_card_bullets import make_card_bullets
+from make_card_alichat import make_card_alichat
+from make_card_bullets import make_card_bullets
 import json
+import random
+
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 def parse_json_file(json_file_path):
     # Initialize an empty list to store the reformatted dictionaries
@@ -48,16 +51,27 @@ def parse_json_file(json_file_path):
     
     return reformatted_list
 
-# Example usage
-json_file_path = "final_dataset.json"  # Replace with the actual file path
+
+json_file_path = "final_dataset.json"
 reformatted_data = parse_json_file(json_file_path)
-print(reformatted_data)
+
+print(reformatted_data[0])
 
 
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
+# New dataset code:
+def format_chat_history(chat_history):
+    return '\n'.join([f'### Response:\n#### Kurisu: {line}' if speaker == "Kurisu" else f'### Instruction:\n#### {speaker}: {line}' for speaker, line in chat_history])
+
+card_dataset = []
+
+for ex in reformatted_data: # make a version of the dataset with the first card
+    card_dataset.append(make_card_alichat(ex["scenario"], format_chat_history(ex["history"]), ex["completion"]))
+    
+for ex in reformatted_data: # make a version with the second, so that the model doesn't learn to predict correctly when given only a very specific type of card (experiment)
+    card_dataset.append(make_card_bullets(ex["scenario"], format_chat_history(ex["history"]), ex["completion"]))
 
 # Load dataset and convert to Huggingface Dataset Dict
-dataset = Dataset.from_list(json.load(open('formatted_training_examples.json', 'r')))
+dataset = Dataset.from_list(card_dataset)
 
 print(dataset,"\n\n\n")
 
@@ -73,20 +87,14 @@ tokenizer.pad_token_id = tokenizer.eos_token_id
 # add eos token to training data
 dataset = dataset.map(lambda example: {"text": example["text"] + tokenizer.eos_token})
 
-dataset = dataset.map(lambda example: {"text": example["text"].replace("... ...", "...").replace("\u2019","'")})
-
 dataset = dataset.train_test_split(test_size=0.05)
 
 print(dataset)
 
 print(dataset["train"][0]["text"])
 
-# New dataset code:
-def format_chat_history(chat_history):
-    return '\n'.join([f'### Response:\n#### Kurisu: {line}' if speaker == "Kurisu" else f'### Instruction:\n#### {speaker}: {line}' for speaker, line in chat_history])
 
-
-
+# don't forget pip install -U git+https://github.com/lvwerra/trl
 
 # Model time!
 
@@ -167,16 +175,17 @@ model.enable_input_require_grads() # sometimes prevents an error for some reason
 # model.gradient_checkpointing_enable()
 
 training_args = TrainingArguments(
-    per_device_eval_batch_size=4,
+    per_device_eval_batch_size=2,
     gradient_accumulation_steps=32,
     gradient_checkpointing=True,
     learning_rate=1e-4,
-    num_train_epochs=3,
+    num_train_epochs=2,
     save_strategy="epoch",
+    # save_steps=len(reformatted_data), # save every time we go through the dataset once, not through the dataset 2x
     logging_steps=1,
     fp16=True,
     output_dir="outputs",
-    per_device_train_batch_size=3,
+    per_device_train_batch_size=2,
 )
 
 trainer = SFTTrainer( 
@@ -192,4 +201,4 @@ trainer = SFTTrainer(
 )
 
 trainer.train()
-trainer.save_model("MythoMaxKurisu-13b")
+trainer.save_model("MythoMaxKurisu-13b-smaller-epochs")

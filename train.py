@@ -79,7 +79,7 @@ print(dataset,"\n\n\n")
 # dataset = dataset.map(lambda example: {"text": example["text"], "length": len(example["text"])})
 # dataset = dataset.sort("length", reverse=True)
 
-tokenizer = AutoTokenizer.from_pretrained("Gryphe/MythoMax-L2-13b", max_length=4000, padding_side="right")
+tokenizer = AutoTokenizer.from_pretrained("Undi95/ReMM-Mistral-13B", max_length=4000, padding_side="right")
 # tokenizer.add_special_tokens({"pad_token": "[PAD]"}) # Note, do not do this, it will break the embedding and cause a hard-to-fix error
 
 tokenizer.pad_token_id = tokenizer.eos_token_id
@@ -149,7 +149,7 @@ quantization_config = BitsAndBytesConfig(
 )
 
 base_model = LlamaForCausalLM.from_pretrained(
-    "Gryphe/MythoMax-L2-13b",
+    "Undi95/ReMM-Mistral-13B",
     quantization_config=quantization_config,
     device_map="auto",
     trust_remote_code=True,
@@ -201,4 +201,4 @@ trainer = SFTTrainer(
 )
 
 trainer.train()
-trainer.save_model("MythoMaxKurisu-13b-smaller-epochs")
+trainer.save_model("MistralMakise-13b-")

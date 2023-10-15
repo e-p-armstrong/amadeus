@@ -1,5 +1,8 @@
+Mayuri: Hey, what are you mumbling about?
+UNSPOKEN: There's no sound from the phone against my right ear. Only silence. I am baking in the summer sun. Sweat slowly slides down my chin and drips onto the asphalt.
+Mayuri: Okarin? Earth to Okarin!
 UNSPOKEN: A girl is standing in front of me. She calls my name with an inquisitive tilt of her head. We are about to infiltrate deep into enemy territory. Yet despite the imminent risk of death, there is no hint of tension on her innocent, childlike features. I cover my phone's mouthpiece and turn to the girl with an index finger to my lips.
-???: You talking to someone?
+Mayuri: You talking to someone?
 UNSPOKEN: I nod and put my phone back to my ear. Still no sound from the other side. My contact is wise to maintain silence. The whole area could be bugged.
 Rintaro: ...No, I was just talking to someone. Everything's fine. I'm about to infiltrate the assembly hall.
 UNSPOKEN: Still no reply. Looks like they just want my report. It's too dangerous to waste time talking here anyway.
@@ -176,7 +179,7 @@ UNSPOKEN: Mayuri tries calling its name. I don't know if she truly expects a res
 NOTE: ---NEW_CONV---
 Mayuri: Sounds like you, Okarin!
 UNSPOKEN: Woah, wasn't expecting that from Mayuri.
-???: AHHHHHHHHHHH!
+Distant Voice: AHHHHHHHHHHH!
 Rintaro: !?
 UNSPOKEN: Wh-what was that?
 Mayuri: Was that a scream?
@@ -401,9 +404,9 @@ Itaru: So basically, you're just pulling stuff outta your ass. You can't call th
 Rintaro: Daru. I have a hunch that the PhoneWave (name subject to change) may be the key to opening Steins Gate. How's that?
 Itaru: Steins what? You lost me back at 'ridiculous', man.
 UNSPOKEN: A chime signals our arrival on the 5th floor. The elevator doors open slowly. As we step out of the elevator--
-???: Ah!
+Kurisu: Ah!
 UNSPOKEN: I bump into someone. I quickly grab the person's shoulder to keep them from falling.
-???: I'm sorry!
+Kurisu: I'm sorry!
 Rintaro: Wha...!?
 UNSPOKEN: It's a girl. And I recognize her.
 Rintaro: You... you...!
@@ -633,7 +636,7 @@ Rintaro: ...I'm okay. Looks like you drove away the evil spirit. Good job, Lukak
 UNSPOKEN: Lukako sighs in relief and blushes.
 Luka: I'm glad I was able to help.
 UNSPOKEN: His shy smile really does make him look like a girl. After I get back to the lab, I take the broken TV down to the Braun Tube Workshop for repairs. Daru and Mayuri have already gone home, so I have to carry the TV down the narrow staircase by myself. It's brutal, back-breaking work, but I manage. I push the workshop door open with my hips and head inside. The room is dimly lit by the setting sun, but the gloom is offset by the glare from the gigantic CRT in the center of the room. A 42-inch CRT television. It doesn't seem like something you could get in modern Japan. With LCD TVs becoming the new standard, I seriously doubt anyone would want a bulky, old CRT.
-???: Yo! What's up, Okabe?
+Tennouji: Yo! What's up, Okabe?
 UNSPOKEN: Sitting in front of the huge CRT is an equally huge man reading a sports newspaper. He's the workshop's manager, actually the owner of this whole building, Tennouji Yuugo. I call him Mister Braun. It's a fitting name for someone who loves Braun tubes.
 Rintaro: What's up? That TV you gave me broke, that's what.
 Tennouji: I bet you were treating it rough, weren't ya?
@@ -984,9 +987,9 @@ NOTE: ---NEW_CONV---
 Rintaro: H-hey, Daru... could this possibly be...
 UNSPOKEN: The word I spoke impulsively a few seconds ago. I hesitate to speak it again. But I must. Because no matter how unbelievable it may be, we saw it with our own eyes! My head's full of question marks. I don't know how this happened. But if I were to explain it as I saw it... The banana that was inside the PhoneWave (name subject to change) returned instantly to its bunch. In other words...
 Rintaro: A teleporter... we've invented a teleporter!
-???: Oh?
+Kurisu: Oh?
 UNSPOKEN: I hear a girl's voice coming from the lounge.
-???: That looks like an interesting experiment.
+Kurisu: That looks like an interesting experiment.
 Rintaro: Who's there!?
 UNSPOKEN: My heart just skipped a beat. I turn towards the voice in surprise. And get pierced by a sharp stare.
 Rintaro: Impossible! What are you doing here!? The 18-year-old genius girl! A sadist who humiliates men in public! Also known as The Zombie! Makise... Kurisu!
@@ -1411,11 +1414,11 @@ Rintaro: Anyway, I'm gonna sleep. It's all yours.
 UNSPOKEN: I lie down on the sofa and let the clacking of Daru's keyboard lull me to sleep. I wake up to the twilight sun streaming in through the window. A refreshing breeze blows in, softly brushing my cheek. Daru's exactly where I left him before I fell asleep. He's sitting in exactly the same position. Not much has changed besides his typing speed. Oh, and now he's muttering to himself. I guess he hasn't had any success at hacking yet. I look around the room, but I can't find Mayuri. Maybe she's not coming today. I guess food-related grudges really do run deep. I stand up and stretch. I don't want to bother Daru, so I don't say anything to him. I take a cold Dr P out of the fridge and quench my thirst. Then I throw myself back down onto the sofa and start browsing @channel on my phone. And what perfect timing! Titor is currently posting in the thread.
 NOTE: ---NEW_CONV---
 UNSPOKEN: I'm immersed in a heated internet argument when an unfamiliar voice interrupts me. The door opens, and a girl peeks inside. I recognize her. It's the girl I met yesterday at the Braun Tube Workshop.
-Girl: Hi! I'm from the Braun Tube Workshop.
+Suzuha: Hi! I'm from the Braun Tube Workshop.
 UNSPOKEN: When our eyes meet, she smiles.
-Girl: The TV you sent in for repairs has been fixed. Mind picking it up?
+Suzuha: The TV you sent in for repairs has been fixed. Mind picking it up?
 UNSPOKEN: Daru's typing gets even faster. Looks like he's in the zone. It would be a bad idea to disturb him with our voices. I nod to the girl and hurry outside.
-Girl: Why do we have to be sneaky?
+Suzuha: Why do we have to be sneaky?
 UNSPOKEN: Umm, what was this girl's name again? I think it was something like Aruma or Amore. ...Oh right, Amane. Amane Suzuha.
 Rintaro: Currently, my genius partner in crime is executing an important mission. I don't want to bother him.
 Suzuha: Hmmm. What exactly do you guys do?
@@ -2310,13 +2313,14 @@ UNSPOKEN: What the hell is a Faris Cup anyway? No, more importantly, the shrine.
 Rintaro: Who is this?
 UNSPOKEN: What? All I can hear is noise. Wrong number? No, maybe--
 Rintaro: You're from the Organization, aren't you? Is this a warning? You telling me to stop getting involved with SERN?
-???: Huh?
+Kurisu: Huh?
 UNSPOKEN: Hm? It's a woman's voice. And she clearly doesn't understand what I'm talking about.
 Rintaro: You're not from the Organization?
-???: ...No. It's Makise.
+Kurisu: ...No. It's Makise.
 Rintaro: Makise...
 UNSPOKEN: Who? I think I remember this voice from somewhere...
-NOTE: ---NEW_CONV---
+Rintaro: Sorry, but I don't remember. Tell me where we met. Paris? Or London, perh--
+Woman Named Makise: Akihabara. We saw each other yesterday, remember?
 UNSPOKEN: Yesterday? Makise... Makise...
 Rintaro: Oh! My assistant!
 Kurisu: Not your assistant! Makise Kurisu!
@@ -2326,7 +2330,7 @@ Rintaro: You never stop complaining, do you?
 Kurisu: Whose fault is that? Whose?
 Rintaro: Wait a minute. How do you know my phone number?
 UNSPOKEN: Something's not right here. It's not like Kurisu's free of suspicion. She could still be a spy.
-Kurisu: Hashida-san told me.
+NOTE: ---NEW_CONV---
 Rintaro: Oh, that's boring. So, what is it, assistant?
 Kurisu: I said I'm not your assistant. Haah, what's the point... Where are you now?
 Rintaro: I'm headed to Yanabayashi Shrine.
@@ -2360,7 +2364,7 @@ UNSPOKEN: Kurisu looks up at Yanabayashi Shrine's small archway.
 Kurisu: A shrine?
 Rintaro: Correct.
 UNSPOKEN: Then, with perfect timing, a beautiful girl -- er, boy -- dressed in miko garb appears from the nearby shrine office, holding a bamboo broom.
-NOTE: ---NEW_CONV---
+Luka: Ah, Oka... Kyouma-san, hello.
 Rintaro: ...Lukako, why don't you have it?
 Luka: Huh? Um, are you talking about Demon Sword Samidare?
 Rintaro: I thought I told you to carry it at all times!
@@ -2368,7 +2372,7 @@ Luka: I'm sorry, but, it gets in the way when I'm cleaning, so...
 Rintaro: What if they attack while you're cleaning? Nobody's going to come to your rescue, you know.
 Luka: Th-that's true... I'll be more careful from now on.
 Kurisu: Hey. What are you two talking about?
-UNSPOKEN: Lukako finally notices Kurisu and gives me a puzzled look.
+NOTE: ---NEW_CONV---
 Luka: Um... who might this be?
 Rintaro: My assistant.
 Kurisu: No! What kind of introduction is that!?
@@ -2411,12 +2415,12 @@ Luka’s Father: Slow down a little. If you rush me, I'm going to fall.
 Luka: But the future of mankind is at stake!
 Luka’s Father: Oh. Well. That's certainly serious.
 UNSPOKEN: I've met Lukako's father several times before. He's a gentle, respectable adult. With the exception of how he raised Lukako. Apparently, the reason Lukako wears miko garb is because his father requested it. Maybe his dad's a pervert. No, it's not like I mean to mock the Shinto priesthood or anything like that.
-NOTE: ---NEW_CONV---
+Luka’s Father: Ah, Hououin-kun. It's been a while. Thank you for always taking care of Luka.
 Rintaro: The honor is mine.
 Kurisu: ...His name isn't Hououin. It's Okabe.
 Luka’s Father: Oh. Really?
 Rintaro: You there, assistant! Stop making things complicated!
-Kurisu: I'm just telling the truth.
+NOTE: ---NEW_CONV---
 UNSPOKEN: Tch, what did she come here for?
 Luka’s Father: Luka told me his name was Hououin. Hmm, maybe Luka was just playing a trick on me. Hahaha.
 Luka: Th-that's not it, Dad. Okabe-san is his real name, and Hououin is, umm...
@@ -7509,14 +7513,20 @@ Kurisu: No!
 UNSPOKEN: Moeka pulls the trigger.
 Moeka: ...!?
 UNSPOKEN: The sound of the shot smites upon my eardrums. I feel a sharp pain on the side of my head. I nearly lose my balance again. But I'm still alive. What happened? I realize that Moeka's gun is lying at her feet. Beside it is a small stone. Someone must have thrown it and knocked her gun aside.
-???: Get down!
+Suzuha: Get down!
 Attacker B: Gweh!!
 UNSPOKEN: Suddenly, Suzuha is there in the doorway, knocking one man down in the blink of an eye. Before anyone can react, she darts into another man's range and delivers a piercing elbow strike to his solar plexus. The man drops to his knees, gasping for air. The remaining men turn their guns on her, but she throws the incapacitated man towards them to block their aim. She then slides into the feet of the man at the rear, tripping him forward, and in a single smooth, flowing motion, drives her knee into the man's face as he falls.
 Attacker A: Who the hell!?
 UNSPOKEN: The dark-skinned man aims his rifle. But before he can fire, Suzuha snatches a stunned attacker's gun and shoots him.
 Attacker A: Gwah!!
 UNSPOKEN: Blood spurts from the man's hand. Without pausing, Suzuha leaps into the air and delivers a soaring roundhouse kick to his jaw.
-NOTE: ---NEW_CONV---
+Moeka: Enough.
+Suzuha: !!
+UNSPOKEN: The next thing I know, the five men are down, and Moeka's gun is aimed at Suzuha's face. But Suzuha doesn't back down. Her gun is trained on Moeka's neck. It's a standoff. Neither moves. Silence returns to the room.
+Moeka: Who are you?
+Suzuha: 42.
+UNSPOKEN: Suzuha's reply makes no sense. She glances at me.
+Suzuha: TV.
 UNSPOKEN: What is she saying?
 Suzuha: Turned on.
 Moeka: What...
@@ -7525,7 +7535,7 @@ Moeka: Don't move!
 Suzuha: That's my line!
 Moeka: ...Tch.
 UNSPOKEN: I suddenly realize the meaning of Suzuha's words. The 42-inch TV downstairs. It's on. She wants me to use the Time Leap Machine!? I look at Mayuri's body. She's lying there quietly. Her eyes are closed. They'll never open again. One of the men Suzuha knocked out starts to moan. If they wake up, it's all over. Suzuha looks at me again. Her eyes implore me to make my move. If I use the machine, I can avert Mayuri's death. But at the same time, it could fry my brain. Fry my brain? So what? What is there to fear? Mayuri is dead, shot in cold blood. This isn't right. I won't accept it! Then change it. Change the past. You have the power. Use it! I stagger into the development room. Kurisu is about to put on the headgear. I pull it away from her.
-Kurisu: Okabe...
+NOTE: ---NEW_CONV---
 Rintaro: I'm going back!
 Kurisu: No! I should be the one to--
 UNSPOKEN: I grab Kurisu's wrist as she tries to take it back. I stare into her eyes, eyes wet with tears.
@@ -7546,9 +7556,9 @@ Rintaro: Leaaaaaaaap!!
 UNSPOKEN: The world explodes into light.
 Rintaro: Mayuri? ...Mayuri?
 UNSPOKEN: No matter how many times I call her name... Mayuri doesn't answer. Mayuri is standing in front of a grave, gazing at the sky. The grave belongs to her grandmother, who died when Mayuri was eleven years old. Her parents were always busy with work, so her grandmother was her only companion.  I was close to Mayuri's family, so her death was sad for me too. At the wake, I expected Mayuri to break down and cry. She didn't. Instead, she spent the whole time gazing vacantly at her grandmother's memorial portrait. Six months went by. I had advanced to middle school, so Mayuri and I no longer commuted together. But whenever I passed the cemetery on the way home, Mayuri would always be standing there. Every day, rain or shine, she would stand for hours before the grave, staring wordlessly at the sky as if she could see her grandmother in heaven. In her hands, an old pocket watch. The watch had belonged to her grandmother. Mayuri always held it when visiting the grave.
-NOTE: ---NEW_CONV---
-UNSPOKEN: No matter how many times I called her name, Mayuri did not answer. Back then, Mayuri wouldn't talk to anyone. Not to me, not even to her parents. Whenever I saw her standing there, staring at the sky, I felt unease grip my heart. Her gaze was so earnest, her intentions so pure, that I feared some power might grant her wish, and carry her off to heaven to join her beloved grandmother. And so, to ensure that nothing like that happened, I made sure to stop by the cemetery every day. I would stand next to the skygazing Mayuri, and call her name.
 Rintaro: Mayuri?
+UNSPOKEN: No matter how many times I called her name, Mayuri did not answer. Back then, Mayuri wouldn't talk to anyone. Not to me, not even to her parents. Whenever I saw her standing there, staring at the sky, I felt unease grip my heart. Her gaze was so earnest, her intentions so pure, that I feared some power might grant her wish, and carry her off to heaven to join her beloved grandmother. And so, to ensure that nothing like that happened, I made sure to stop by the cemetery every day. I would stand next to the skygazing Mayuri, and call her name.
+NOTE: ---NEW_CONV---
 UNSPOKEN: But no matter how many times I'd call her, Mayuri wouldn't reply. The only sound in the lonely cemetery was the echo of my voice, calling her name. It was raining that day, too. Mayuri had a light blue umbrella. In contrast to the umbrella's color, the sky was glazed gray, covered in clouds. After a while, the rain stopped. Rays of light shone through gaps in the clouds, a stunningly beautiful sight. Rembrandt's Rays, they are called, or sometimes the Angel's Ladder. Suddenly, a strong wind swept through the cemetery. It caught Mayuri's umbrella and carried it into the sky. Mayuri seemed not to notice. She kept staring at the sky. And then, slowly... So very slowly... She stretched her hand out to the sky. As if to grasp the rays of light. As if her grandmother were reaching down to pull her up. And then, she lifted herself on her toes. To me, it looked as if she were floating up towards heaven. Impulsively, I grabbed Mayuri's outstretched hand and pulled her into my embrace. In retrospect, my fears were just a childish fantasy, but at the time, I truly believed that Mayuri might vanish.
 Rintaro: I won't let you go. I won't let anyone take you away.
 UNSPOKEN: I realized how embarrassing the words coming from my own mouth were.
@@ -7560,11 +7570,11 @@ Mayuri: Oh... sniff...
 UNSPOKEN: She whispered. It was the first time in six months that I had heard her speak. Her voice was choked with tears.
 Mayuri: Mayushii's your hostage... I guess I'm stuck here, huh? Ehehe...
 UNSPOKEN: She smiled happily. Tears fell from her eyes. And then, Mayuri buried her face in my chest. Where am I? Who am I? I can't see. I can barely think. A terrible screech fills my head, like feedback from a giant speaker.
-NOTE: ---NEW_CONV---
+Rintaro: AHHHHHHHHHHH!
 UNSPOKEN: It penetrates my brain like a hundred sharp needles stabbing me right behind the eyes. I thought brains weren't supposed to feel pain.
 Rintaro: Aagh, ahhhh!!
 UNSPOKEN: And there's more. I feel a shiver of pleasure beneath the pain, and a terrible itching like my body is on fire. I want to crack open my skull and tear out my brain. I want to scrape out my soft gray matter with my fingers and eat it. The assault on my brain is driving me crazy. Who am I!?
-Rintaro: Ah!
+NOTE: ---NEW_CONV---
 UNSPOKEN: Suddenly, the shattered pieces of the world reform. I slowly come back to my senses. I'm in the lab, standing in front of the PhoneWave (name subject to change) with my cellphone to my ear. No, not the PhoneWave (name subject to change). Since headgear is attached to it, it's the Time Leap Machine. It's hard to breathe. Give me oxygen. I hear a low, wheezing groan and realize that it's coming from my own throat.
 Rintaro: Ahhh...
 UNSPOKEN: I close my mouth, then take a deep breath.
@@ -7593,13 +7603,13 @@ UNSPOKEN: I grab Kurisu's shoulders and pull her close.
 Rintaro: What time is it now!? What month? What day!?
 Kurisu: Hey, that hurts! Calm down!
 Rintaro: How can I be calm!? Shopping? You said we're going shopping?
-NOTE: ---NEW_CONV---
+UNSPOKEN: Which shopping trip is she talking about? Daru is sitting at his computer, staring at us wide-eyed.
 Rintaro: Daru! What day is it!? What time is it!?
 Itaru: Uh, ummm, well, it's the 13th... a little past 5.
 UNSPOKEN: The 13th, a little past 5...
 Rintaro: ...Did it work?
 UNSPOKEN: Did I manage to time leap in the middle of all that chaos? Did my memories really jump through time? Does that mean I've leaped into my past self? Is there a chance that it was all a dream? Thinking back -- forward -- it doesn't seem real. Commandos breaking into the lab... it's like something out of a Hollywood movie. But the sight of Mayuri, broken and bloody, is burned into my eyes. I remember the smell of the blood. The sound of the gunshot. The weight of the headgear on my head. The pain of the bullet tearing through my arm. Kurisu screaming. Suzuha fighting to defend us. I remember it all vividly. I touch my arm. No bullet holes. No pain, even. Was it all a dream? I don't know. I've never time leaped before. I can only hope that it was a dream. A future like that... is too much to bear. I recall Mayuri's last moments and my eyes fill with tears. I force the tide of emotion back.
-Rintaro: ...Where's Mayuri?
+NOTE: ---NEW_CONV---
 UNSPOKEN: I look around the lab. Kurisu and Daru are here. But I can't find Mayuri.
 Rintaro: Where's Mayuri!?
 Itaru: Uh, she just left saying she was going to Luka-shi's place. Weren't you listening?
@@ -7617,7 +7627,7 @@ Mayuri: Feris-chan has a RaiNet tournament.
 Itaru: Crap, I should've gone to cheer! How careless of me!
 Mayuri: And Luka-chan seemed embarrassed for some reason.
 Kurisu: Maybe she thinks you'll make her wear a costume again.
-NOTE: ---NEW_CONV---
+UNSPOKEN: It's just like my dream. I've never remembered a dream this vividly before. I remember every word that was spoken.
 Rintaro: You still haven't convinced her to cosplay?
 Mayuri: She said it was embarrassing. I keep telling her 'Cuteness is Justice', but she never listens...
 Kurisu: 'Cuteness is Justice'... is that what they say?
@@ -7629,35 +7639,10 @@ Mayuri: You don't have to show anyone, but eventually, you'll want them to see. 
 Kurisu: Oh, this? I attended Ayamein for about two weeks. I modeled this outfit after their uniform.
 Mayuri: Oh! Their uniform is really cute, but you made it even cuter! You might have really good design sense♪ I'll bring the costume tomorrow, okay? Will you try it on then?
 Kurisu: Sure.
-Itaru: When's the photo shoot?
-Kurisu: Good to know you're still a pervert, Hashida.
-Itaru: Come on, it's Blood Tune's Seira! She's got 'panmoro' going on!
-Kurisu: Panmoro?
-Itaru: It means her panties are completely exposed!
-Kurisu: N-no way...
-Mayuri: It's okay♪ You might not know this, but last year, there was a really popular saying. 'They're not panties, so it's not embarrassing!'
-Kurisu: Japan is over...
-Mayuri: Wear it, okay? It's a promise!
-Suzuha: Maybe you shouldn't bother.
-UNSPOKEN: Suzuha speaks, her tone sharp. She's scowling at Kurisu again. Suddenly, the atmosphere in the room changes. ...I remember this too. I feel like I'm losing my mind here.
-Suzuha: You're asking for trouble by trusting Makise Kurisu.
-Kurisu: What's that supposed to mean? I've been meaning to ask. Did I do something to you?
-Suzuha: Not to me. But I know everything you have done.
-Kurisu: What do you mean? I've done nothing to be guilty of.
-Suzuha: Perhaps. But I know your true nature.
-Kurisu: Wow, you can see into my heart? That's groundbreaking technology. I'd love to hear how it works.
-Suzuha: It's not science. It's... a prediction.
-Kurisu: So you're just making it up.
-Suzuha: I know.
-Mayuri: Okarin.
-UNSPOKEN: Mayuri clings to me with teary eyes.
-Mayuri: Stop them from fighting.
-UNSPOKEN: Should I listen to Mayuri's plea? Like I did in the dream? Knowing that I can't stop the fight, should I just let Mayuri handle it instead? I don't know. I can't move a muscle.
-Mayuri: Geez...
-UNSPOKEN: Mayuri pouts, then goes over to the two girls.
+NOTE: ---NEW_CONV---
 Mayuri: Um, guys? Mayushii doesn't like it when you fight. Let's all get along, okay?
 UNSPOKEN: Daru comes over to chat with Suzuha, and gradually peace returns to the lab. Kurisu is in the development room, making a call. Probably to her mother in America. I sit on the sofa and watch TV while sipping Dr P. But I can't pay attention to what I see on the screen. It doesn't enter my head. Mayuri sits down next to me. She peels a banana and begins eating it.
-NOTE: ---NEW_CONV---
+Mayuri: Hey, Okarin. It's been really lively here these past few weeks, huh?
 UNSPOKEN: Stop it. Why are you saying the same things as in that terrible dream? It was a dream. It has to be a dream.
 Mayuri: It's fun♪
 UNSPOKEN: Mayuri smiles happily, not noticing my lack of a reply.
@@ -7683,7 +7668,6 @@ Suzuha: Okay. I just remembered I've got something to do. I'm going out.
 UNSPOKEN: Suzuha leaves the lab without another word.
 Kurisu: What's wrong with her?
 UNSPOKEN: Does she know what's about to happen? Nothing's going to happen. The break-in was a dream. But no matter how hard I try to convince myself of that, I can't shake the icy hand clutching my heart. I can't breathe. Even though it's hot and humid, my body shivers. I remember this feeling, too, from the dream. Did I choose wrong? Was I granted a second chance, only to let it go to waste? A soft feeling against my fingers. I look down to see Mayuri's hand holding mine. When I look up, I see worry written in her face. I reflexively look towards the door. If the dream wasn't a dream, then... Any second now... It happens exactly as I remember. Five men burst into the lab. Their movements are swift and sure -- professional -- and each of them is carrying a gun. They spread out just inside the door and aim their weapons at us. I recognize each of them. There's no denying it now. I did leap through time. It was the future I remembered. I was supposed to change this present, to stop the madness about to unfold. But I told myself that it was a dream, and wasted my chance to save everyone.
-Attacker A: Hands in the air. Nobody move.
 NOTE: ---NEW_CONV---
 UNSPOKEN: Daru clutches his head and falls to his knees, screaming at the top of his lungs. In my arms, Mayuri takes one long, ragged breath. And then...
 Mayuri: O...kari...
@@ -7869,18 +7853,18 @@ Premise Announcer: Your attention please. The Yamanote, Keihin-Tohoku, and Sobu 
 UNSPOKEN: Finally, I realize my mistake. That's right. Before the attack, the trains were stopped by a bomb threat! No wonder there are so many people standing around. In my haste to flee the city, I completely forgot! How could I have been so stupid!?
 Mayuri: I wonder what happened...
 UNSPOKEN: All of the train lines are stopped. We can't escape Akiba! What about other means of public transportation -- the subway or the bus? Should we go to another station? I turn around and head back the way we came, keeping a firm grip on Mayuri's hand. But before we get more than a few steps, a man steps out of the crowd and blocks our way. I realize that we're surrounded.
-???: Okabe Rintaro?
+SERN Agent: Okabe Rintaro?
 UNSPOKEN: A low voice. A face I've never seen. He's not one of the five who broke into the lab.
 Mayuri: Okarin, do you know these people?
 UNSPOKEN: Mayuri grips my arm tightly as she looks anxiously at the men.
-???: Come with us.
+SERN Agent: Come with us.
 Rintaro: Who are you?
 UNSPOKEN: Instead of answering, the man makes a grab for my arm. I jerk away and try to escape, but the men move to block us again.
-???: If you resist, we'll kill you.
+SERN Agent: If you resist, we'll kill you.
 Rintaro: SERN!
 UNSPOKEN: They're with Moeka!? She must have planned for this in advance. A chill runs up my spine. We made a terrible mistake when we hacked into SERN. I realize that now, though it's far too late.
 Rintaro: Are you going to kill us with all these witnesses around?
-???: This isn't a game.
+SERN Agent: This isn't a game.
 UNSPOKEN: I feel something cold against my back. I don't realize what it is at first. Then it hits me. A gun. I gulp. My blood goes cold. Am I going to die here? Will my time leaping be for naught? No! I can't give up. I won't let Mayuri die. I won't accept that future. But how do I get out of this? The crowd at the station has grown even thicker. People are starting to argue with the station personnel, demanding to know when they can go home. The situation is quickly becoming chaotic. Suddenly, a fight breaks out nearby. It looks like some people are trying to shove their way through. This could be our chance. A tide of people surges into us, knocking the man behind me off balance. Now! I quickly turn and strike the man's hand aside. His gun falls away. Then the man gets swallowed by the crowd.
 NOTE: ---NEW_CONV---
 UNSPOKEN: I grab Mayuri's hand and start running. We have to fight our way through the crowd, but that also thwarts our pursuers. As soon as we reach the main street, we start running back towards the lab. Of course, we can't return to the lab itself. Moeka's group will be there shortly. Is the subway still running? If we get on at Suehirocho Station, we can take the Ginza line to Shibuya. From there, we can grab a train heading out of Tokyo. I still haven't recovered from my exhaustion. I don't know how much longer I can hold on. We can't stop now. I have to keep running. It doesn't take long before a new obstacle appears. Four men walking together up ahead suddenly stop and turn to face us. I've got a bad feeling about this. They don't look like otaku. Are they with SERN too? My fears are confirmed when the four men start walking towards us, arms spread to block the street. No doubt about it. They're after us too! I turn to flee back towards the station, and there I see the first group of men closing in behind us. We're trapped. Enemies on both sides. There's only one choice. I grab Mayuri and make for the nearby side street.
@@ -8004,7 +7988,7 @@ UNSPOKEN: So that's where she was. Just then, an announcement plays over the PA 
 Mayuri: About the party tonight...
 UNSPOKEN: Mayuri is saying something. I can't quite hear her over the train.
 Mayuri: It got canceled, but we should definitely--
-???: Mayuri♪
+Nae: Mayuri♪
 UNSPOKEN: Suddenly, Mayuri disappears.
 Rintaro: Huh?
 UNSPOKEN: There she is, leaning out over the tracks. She's off balance, as if she stumbled, or someone pushed her. She seems to hang there for a moment, and then the train comes screaming into the station. I hear a sound from under the train. I can't describe it, but it makes me instantly nauseous. Sparks fly as the train slams on its brakes. The people on the platform scream. I turn to where Mayuri was just a moment ago. There stands a familiar girl. Tiny, adorable, a cute black rabbit pouch slung over her shoulder. Tennouji Nae. She looks up at me. Her eyes are wide. Her lips tremble.
@@ -8831,7 +8815,7 @@ UNSPOKEN: Mayuri grins triumphantly.
 Mayuri: It's a good strategy, dontcha think? Umm, the operation name is 'Mayushii's Awesome Leaflet Plan'.
 Suzuha: Um... isn't this going a little too far?
 UNSPOKEN: Yeah, what happens if the police hear about--
-???: You three.
+Policeman: You three.
 Rintaro: !?
 UNSPOKEN: My heart freezes as if sprayed with liquid nitrogen. I slowly turn around... A stern-faced policeman is standing there with crossed arms. Speak of the devil!
 Policeman: What are these leaflets about? Let's talk at the station.
@@ -9769,7 +9753,7 @@ UNSPOKEN: Bearing the pain in my shin, I force my way in front of Faris and stan
 Rintaro: Faris, please. Mayuri's life depends on it!
 Faris: Someone! Someone come here, nya! Help me, nyan!
 UNSPOKEN: Faris suddenly starts shouting. She grabs the attention of the surrounding participants and spectators. Even staff members are gathering. Crap, I can't talk about time machines or Mayuri's life with this much attention around us. But unless I can get Faris to listen to me, there's no way I can undo her D-Mail. What should I do?
-???: You seem to have an awful lot of time on your hands. Eh, Champion?
+4℃: You seem to have an awful lot of time on your hands. Eh, Champion?
 UNSPOKEN: That smug voice. A tall man dressed entirely in black walks up to us with a grin on his face. Whenever he takes a step, all of his silver accessories jingle. He dramatically takes off his sunglasses, revealing the face of that guy who gave me trouble before. If I'm not mistaken, he called himself 4℃ or something like that.
 4℃: Heh. Swooping down unto the street, I am the black peacock of the RaiNetter realm. The name's 4℃. That's Shido, you get me? I'm the leader of the Viral Attackers.
 Faris: The Viral Attackers...
@@ -12350,6 +12334,7 @@ Mayuri: Wow! What's that?
 Itaru: It's a robot, right? The transforming kind?
 UNSPOKEN: Mayuri and Daru are just as surprised. What is that thing? I mean, it looks like Suzuha's time machine. But there's something different about it. Suzuha's looked old and beat up. This one looks brand new. It's not stuck in the wall, either. And besides, this is the Beta worldline, where SERN's dystopia never forms. Suzuha has no reason to travel to 2010. That satellite shouldn't be here. And yet, I feel like I've seen it before. Where? When did I... Of course! It was at Doctor Nakabachi's presentation! Right before the presentation started, something shook the building like an earthquake. And when I went to check the roof, this satellite was sitting there. Though still confused, I approach the satellite. Just then, the hatch opens, and someone steps outside.
 NOTE: ---NEW_CONV---
+Suzuha: ...Okabe Rintaro?
 Rintaro: Suzuha!
 UNSPOKEN: It really is her. The part-time warrior. John Titor. Time traveler from 2036. Daru's daughter, who will be born 7 years from now.
 Rintaro: Why are you here!?

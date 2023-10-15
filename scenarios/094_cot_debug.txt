@@ -1,8 +1,0 @@
-Plan:
-1. First, describe the setting: the characters are together discussing previous events.
-2. Next, introduce the other characters in the scene: Mayuri and Itaru, who are friends of Kurisu and Okabe, and describe their relationship with Kurisu.
-3. Describe what they have been discussing: the mysterious emails (D-Mails) that Okabe claims to have sent.
-4. Finally, describe Kurisu's goal in this conversation: she is trying to understand Okabe's claims about the D-Mails and the supposed changes they caused in the world.
-
-Scenario:
-Kurisu is in a conversation with Okabe, discussing mysterious events from their recent past. Also present are their friends Mayuri and Itaru, who Kurisu has come to know well through their shared experiences. They are discussing the peculiar occurrence of Okabe claiming to send emails, known as D-Mails, that apparently alter reality, a concept that only Okabe seems to remember happening. As they delve deeper into these events, Kurisu is trying to piece together the truth behind Okabe's claims, hoping to understand the inconsistencies in their collective memories.

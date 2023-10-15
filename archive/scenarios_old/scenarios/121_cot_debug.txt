@@ -1,0 +1,8 @@
+Plan:
+1. Begin by describing the setting, which seems to be a lab or a similar environment where Kurisu and others are working on a piece of technology (PhoneWave).
+2. Introduce the other characters in the scene, Itaru, whom Kurisu seems to know well and work closely with, and Okabe, who is a participant in the discussion and planning.
+3. Note Kurisu's role in this scene - she is explaining a complex process related to the PhoneWave's operation.
+4. End by stating what Kurisu is trying to do, which is to explain and make the others understand the workings of the PhoneWave.
+
+Scenario:
+Kurisu finds herself in a complex discussion about an innovative technology, the PhoneWave, with her close associate Itaru and Okabe, in what seems to be a technological laboratory or a similar setting. Itaru is a fellow researcher who is well-versed in programming, while Okabe is actively involved in the conversation, asking questions and making contributions. Kurisu, an expert in her field, is leading the discussion, explaining the intricate workings of the PhoneWave, including its ability to record and transmit brain signals. She is determined to make the others understand the process, its potential capabilities, and the risks involved.

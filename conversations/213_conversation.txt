@@ -1,20 +1,29 @@
-Rintaro: ...Black Tortoise, Vermilion Bird, Blue Dragon, and White Tiger.
-Mayuri: Yeah, that! You know, it was really fun talking to Okarin about stuff like that... But now... Um, Okarin? If Mayushii's a burden... just say so, okay?
-Rintaro: What!? I never...!
-Mayuri: Ehehe. I'm hanging up now. If you feel like talking to Mayushii about anything, just call okay? Tutturu♪
-UNSPOKEN: She hung up on me.
-Kurisu: What did Mayuri say?
-UNSPOKEN: The ringtone cuts off during my hesitation.
-Kurisu: You're such a wimp. I'm disappointed in you.
-Rintaro: Aren't you afraid of dying?
-Kurisu: Did you not hear what I just said?
-Rintaro: I heard, but--
-UNSPOKEN: An email interrupts me. I don't want to argue with Kurisu any more, so I open my phone to break the conversation.
-Rintaro: How are you a burden!? Don't say things like that, dammit! Why is she only serious at times like this!?
-Kurisu: A burden, huh...
-Rintaro: I've never felt Mayuri was a burden. Not once.
-Kurisu: Then you should tell her that.
-UNSPOKEN: Maybe it wasn't a good idea to leave Mayuri in the dark. She never looks like she's thinking anything. And yet, she saw my doubt? Either way, I can't tell her the truth.
+Rintaro: There's only one step...
+UNSPOKEN: Unlike before, the signal doesn't pass through any intermediate servers. The PC we're using -- its registered name is AKIHABARA_PC -- is connected directly to SERN in France.
+Itaru: And the transfer rate is hundreds of times better than usual. Crazy fast! You can't even get these numbers domestically, man.
+Rintaro: Why do we have a direct line? Is this even possible?
+Itaru: It was like this when we found it. I didn't do anything.
+Rintaro: So the building already had a hotline to SERN? This can't be a coincidence. It might just be the choice of Stei--
+Itaru: It doesn't make sense. Why would there be an independent line running from here all the way to SERN?
+UNSPOKEN: Daru's so excited, he interrupted me.
+Itaru: No Japanese or French telecommunication company would set up something like this. Which means...
+Rintaro: SERN did it themselves.
+UNSPOKEN: Daru gulps and nods. Cold sweat oozes from his brow. I feel a chill as well. SERN might be able to see everything we're doing. No. Maybe... Maybe SERN has been expecting us for years. How could that be? The answer is simple. John Titor claims that SERN completed their time machine in 2034. Just two years later, the world is a dystopia under their rule. Maybe the SERN of 2034 considers our opposition in 2010 a threat. Maybe they used their time machine to travel to 2000 and install a fiberoptic cable to track our every move. It's entirely possible. Has the invention of the time machine started an inter-temporal war? If so, what can we do? Our enemy might be stronger than even I can imagine. No, I mustn't lose heart. I need to think positive.
+Itaru: But thanks to this direct line, we can now control the LHC remotely.
+Rintaro: You figured out how!?
+Mayuri: Wow! That's amazing, Daru-kun.
+UNSPOKEN: Mayuri pauses her DVD and comes up beside me.
+Itaru: With a connection this fast, we can control the LHC practically in real-time. I haven't actually tried it yet, though.
+UNSPOKEN: That's right. Even if this is some kind of SERN trap, we might be able to make use of it. They're still vulnerable to our attack.
+Mayuri: The LHC is that 20-kilometer-long tunnel thing, right? Um, what does it do again?
+Rintaro: It accelerates protons and smashes them together.
+Mayuri: Oh yeah. Mini black holes, right?
+Itaru: The official line is that mini black holes might manifest as a byproduct of the particle collision, but that's not the truth.
+Rintaro: According to the top secret documents we found, the LHC was intended to create black holes from the very beginning.
+UNSPOKEN: But we still don't know exactly how they do it. We need to think of a way to--
 Kurisu: Okabe.
-UNSPOKEN: Kurisu sighs, then glares at me.
-Kurisu: The old you wouldn't have worried about anything. Anyway, you should go see Mayuri. I'm sure she has a lot to say.
+UNSPOKEN: Kurisu suddenly emerges from the development room. She was cooped up in there all morning. Her expression is unusually grave.
+Rintaro: What's wrong?
+Kurisu: I figured it out.
+UNSPOKEN: Figured what out?
+Kurisu: I think I know how the PhoneWave works.

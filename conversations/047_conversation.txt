@@ -1,42 +1,32 @@
-Kurisu: Pfft...
-UNSPOKEN: Kurisu starts laughing when she sees the mail, even though she's the one who wrote it. The OKABE in the first one is obviously my name. But what does AIRHEAD in the second one mean? My English is shaky. Is she saying my head can fly or something? Whatever. I may not know what it means, but I do know this. My assistant is making fun of me. But that doesn't matter right now.
-Rintaro: Christina. Did you send two mails?
-Kurisu: Eh? No. I only sent one.
-Mayuri: Mayushii saw it too. She really only sent one.
-Rintaro: But I received two.
-Kurisu: You're right... I even sent it in one sentence, but it got divided.
-Rintaro: By the way, what does this word mean?
-Kurisu: Why don't you look it up?
-UNSPOKEN: I guess she doesn't want to answer.
-Itaru: That reminds me. The D-Mail from before was cut up mid-sentence too.
-Rintaro: Was it?
-Itaru: Yeah. Look at your history. I'm pretty sure I sent 'Okarin's a perv'.
-Rintaro: You're right. This one got split too.
-Kurisu: I wonder what's causing it.
-Rintaro: Maybe it's related to the jellymen.
-Mayuri: Um, Mayushii wants to know why it arrived five days ago.
-Kurisu: Good point. Didn't the last one also arrive five days before we sent it?
-Rintaro: Yeah. It did.
-Itaru: Is there some kind of rule for when it arrives?
-Mayuri: Let's try sending more!
-UNSPOKEN: Mayuri's right. Now that we've figured out how to send D-Mails, we should keep experimenting and collect as much data as we can.
-Rintaro: Alright, lab mems! Battle stations!
-Kurisu: He's at it again...
-Rintaro: Our mission: to send as many D-Mails as possible! Daru, man the X68000. Your job is to observe, adjust, and gather information on the PhoneWave (name subject to change). Assistant, keep those mails coming! Try various patterns of text. Japanese, English, full-width, half-width, emoticons. The actual messages don't matter.
-UNSPOKEN: I'm sure Shining Finger would be better for the job, but since she's not a lab mem, I'll leave it to Kurisu.
-Mayuri: What about Mayushii?
-Rintaro: Your mission is to go shopping. Just buy some bananas for now. I, Hououin Kyouma, shall fund you!
-Mayuri: Wow! You're so generous♪
-Kurisu: So I guess your job is opening the microwave.
-Itaru: Whoa! You saved the easiest job for yourself?
-Rintaro: Heh. No, my assistant's judgment is sound. The key to a successful D-Mail is most likely the correct timing of opening the microwave door!
-Kurisu: Uh, I was just kidding.
-Rintaro: MUHAHAHAHA! Leave this task to Hououin Kyouma! I shall open this door with precision, boldness, and delicacy, as if it were the flesh of a beautiful woman!
-Mayuri: Okarin, that's naughty!
-Rintaro: Furthermore, the current operation is top secret. You must not leak it to anyone. Got it?
-UNSPOKEN: Mayuri nods. The others are ignoring me.
-Rintaro: Now I shall give this operation a name! It shall be known as Op--
-Kurisu: Don't need one. Let's start.
-Rintaro: Wha... but...
-UNSPOKEN: You ruined my climactic scene! Damn you, assistant! This is an outrage! Afterwards, the D-Mail experiment -- its name is Operation Urd, though I lost my chance to announce it -- continues for two hours. During that time, every D-Mail goes back in time without a hitch. Now it's time to take a break. We're all hungry, and except for Mayuri, we've been up since last night.
-Kurisu: Go ahead and rest. I'm gonna have a go at it a little longer.
+Itaru: Yeah, but you went with Mayu-shi anyway, remember?
+UNSPOKEN: ...No, I don't remember that. After all, Nakabachi's presentation wasn't canceled, the way I remember it. I still don't understand why my memories seem to disagree with everyone else's.
+Rintaro: That reminds me. I sent you an email back then. Did you get it?
+Itaru: An email?
+Kurisu: That email you showed me at ATF yesterday?
+UNSPOKEN: When I nod, Kurisu comes closer.
+Kurisu: It said someone stabbed me at the presentation, didn't it?
+Rintaro: Yeah. But for some reason, Daru's phone received it a week ago...
+Itaru: Huh? Wasn't that one of your stories? If it wasn't, then that would make the timestamp weird.
+Rintaro: I always speak the truth! If you don't trust me, I'll show you my send history.
+UNSPOKEN: I whip out my phone and call up the history. But--
+Rintaro: It's gone...
+UNSPOKEN: Not a trace of that mail remains. According to my memory, I think it was about 30 minutes after Doctor Nakabachi's conference. About ten people including me saw Kurisu's body, panicked, and fled Radi-Kan. That's when I sent that mail. But no matter how many times I check, there's no record of it. It should be there, but it isn't. Just like the banana inside the PhoneWave (name subject to change).
+Rintaro: Where did it go? I could've sworn I sent it just before 1 PM.
+Itaru: Oh yeah! That's when the discharge phenomenon happened! The show I was watching was about to end.
+UNSPOKEN: Suddenly, a flash of inspiration strikes. Inspiration! Edison would be proud. This isn't something you can accomplish with effort. Basically, I'm a genius! I turn to Daru and Kurisu with a huge grin on my face.
+Rintaro: I get it... So that's what happened.
+Kurisu: Uh, what?
+Itaru: Oh, this is one of Okarin's usual habits, so don't mind it. Seriously.
+Rintaro: Silence! I've reached the answer, and now the world will tremble!
+UNSPOKEN: I slap the top of the PhoneWave (name subject to change).
+Rintaro: The disappearance of my mail, the strange timestamp, and the sudden electrical discharge must be... Related somehow!
+Kurisu: ...And?
+Rintaro: Huh?
+Kurisu: I understand that they're related somehow. But how?
+Rintaro: It's your job to figure that out, Christina.
+Kurisu: Hashida-san, talking to this guy's so tiring.
+Itaru: Everyone's like that at first. The trick is to not take him seriously.
+Rintaro: And you call yourself my right-hand man!?
+UNSPOKEN: Whatever. I'll prove that I'm right. If we can reproduce the electrical discharge phenomenon, it should bring us closer to understanding the timestamp mystery.
+Rintaro: Daru, describe the PhoneWave (name subject to change)'s status when the discharge phenomenon occurred.
+Itaru: It was kind of a mess. I'd connected my phone to the PhoneWave, and I was testing to see if I could control it with the X68000.

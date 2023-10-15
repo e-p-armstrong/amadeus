@@ -1,23 +1,34 @@
-UNSPOKEN: What is she saying?
-Suzuha: Turned on.
-Moeka: What...
-UNSPOKEN: Suddenly, Kurisu springs up and makes a break for the development room.
-Moeka: Don't move!
-Suzuha: That's my line!
-Moeka: ...Tch.
-UNSPOKEN: I suddenly realize the meaning of Suzuha's words. The 42-inch TV downstairs. It's on. She wants me to use the Time Leap Machine!? I look at Mayuri's body. She's lying there quietly. Her eyes are closed. They'll never open again. One of the men Suzuha knocked out starts to moan. If they wake up, it's all over. Suzuha looks at me again. Her eyes implore me to make my move. If I use the machine, I can avert Mayuri's death. But at the same time, it could fry my brain. Fry my brain? So what? What is there to fear? Mayuri is dead, shot in cold blood. This isn't right. I won't accept it! Then change it. Change the past. You have the power. Use it! I stagger into the development room. Kurisu is about to put on the headgear. I pull it away from her.
-Kurisu: Okabe...
-Rintaro: I'm going back!
-Kurisu: No! I should be the one to--
-UNSPOKEN: I grab Kurisu's wrist as she tries to take it back. I stare into her eyes, eyes wet with tears.
-Rintaro: I will save Mayuri!
-Kurisu: But what if it fails!?
-UNSPOKEN: I ignore her and put on the headgear. Moeka's last shot grazed the side of my head. My ears are still ringing, and there's blood on my neck. It doesn't matter. I might fail. I might even die. But I have to try. It's my only chance to save Mayuri. Kurisu bites her lip and activates the X68000.
-Suzuha: Okabe Rintaro! One of them's moving!
-Moeka: Get in there! Kill them!
-Attacker A: Damn... kids!
-UNSPOKEN: The crew-cut man staggers into the development room. Acting purely on instinct, I grab Future Gadget No. 4: Moad Snake from the shelf and flick the switch. White smoke instantly fills the room, rendering it impossible to see.
-Moeka: Kill them!
-Kurisu: Augh!
-Rintaro: Kurisu!?
-Kurisu: Ugh, gh, Okabe!! Are you sure!? Are you sure about this!? Really!?
+UNSPOKEN: Moeka nods.
+Itaru: Alright, program complete.
+UNSPOKEN: Kurisu, lying on the sofa, looks up from the technical manual she was reading. She got here about thirty minutes ago.
+Kurisu: Then lets resume the experiments.
+Mayuri: But won't the manager scold us again?
+Rintaro: Heh, don't worry. Yesterday, I made this promise with Mister Braun. 'I swear there won't be any more shaking today.' In other words, the no-shaking promise only applied yesterday, so since today is yesterday's tomorrow, we can shake it all we want!
+Kurisu: That doesn't settle anything. Why you're so confident is a mystery to me.
+Rintaro: In other words, Christina, you want me to erase Mister Braun.
+Kurisu: No! Besides, I don't think a wimp like you stands a chance against him.
+Mayuri: He's so muscley!
+UNSPOKEN: Unfortunately, it's impossible to experiment without shaking the building. I have no choice but to negotiate with Mister Braun somehow. The other four members look at me in anticipation. Are they planning to sacrifice me!?
+Rintaro: Is this the choice of Steins Gate? But how do I...
+UNSPOKEN: While trying to think of a way to avoid talking to the manager, I wander over to the window and look outside.
+Rintaro: Hm?
+UNSPOKEN: The street below is mostly empty. A girl is polishing her bicycle in front of the building. A much younger girl is squatting next to her, watching her work. They're alone. I can only see the backs of their heads from here, but I know who they are.
+Rintaro: Hey you! Part-Time Warrior!
+UNSPOKEN: When I call her, Suzuha looks left and right while wiping the sweat off her brow before finally looking up here.
+Suzuha: Sup!
+UNSPOKEN: The girl beside her also looks up. This cute little girl is Tennouji Nae, Mister Braun's only daughter. Looks like she came to play with her father today. I've always wondered how it's possible for such a muscular man to spawn such a cute girl. Nae bows her head when we make eye contact. I return the nod, then call out to Suzuha.
+Rintaro: What are you doing there?
+Suzuha: Can't you tell? I'm polishing my bicycle!
+Rintaro: Aren't you working today?
+Suzuha: Of course I am. Why else would I be here?
+UNSPOKEN: You're polishing your bicycle even though you're at work? I mean, I guess the store barely has any customers. To put it bluntly, was there even a need for a part timer?
+Kurisu: What, is she still tinkering with that bike of hers?
+UNSPOKEN: I can hear Kurisu's sour voice from inside the lab.
+Kurisu: She was there when I came in, glaring at me.
+UNSPOKEN: Looks like they're still fighting.
+Rintaro: Hey, Part-Time Warrior! Where's Mister Braun?
+Suzuha: Mister Braun? Who's that?
+Rintaro: The manager of that junk shop you work at.
+Kurisu: It's not a junk shop. It's a CRT specialty shop.
+UNSPOKEN: My assistant's so picky. Junk shop was just a joke to add a little Hououin Kyouma spice to the mix.
+Suzuha: Oh, so that's who you meant. Ahaha.

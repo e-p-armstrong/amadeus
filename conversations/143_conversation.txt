@@ -1,39 +1,28 @@
-Rintaro: Then what do we do!?
-Kurisu: Calm down.
-Rintaro: How can I calm down!? Do you know how many times I've seen Mayuri die!? Covered in blood! Gasping for breath! The light fading from her eyes! Again... and again... and again... And all I could do... was watch!
-UNSPOKEN: I hear my teeth grinding in my skull. Recalling that despair, that feeling of utter powerlessness, makes me want to lash out at everything within reach.
-Kurisu: Getting emotional won't solve anything.
-Rintaro: You're only calm because you weren't there!
-Kurisu: ...True. I don't know what happens five hours from now. To be honest, it doesn't feel real at all. But it's not like I don't believe you. You have to stay strong, Okabe.
-UNSPOKEN: Kurisu pats my arm. Her hand is warm and her touch is gentle. How... American of her.
-Rintaro: ...Sorry.
-UNSPOKEN: She's right. Getting emotional won't solve anything. I need to calm down. Calm down...
-Rintaro: What I don't understand is how the cause can change but the effect can stay the same. It's like causality itself is broken.
-Kurisu: Maybe Kiryu Moeka shooting her isn't the real cause of her death. Maybe it's something larger and less obvious. For example, maybe she dies because we invented a time machine, or because SERN discovered our hacking. If that's the cause, then it doesn't really matter how she dies. Causality remains intact.
-Rintaro: Can that theory explain why Nae pushed her in front of a train?
-Kurisu: Oh, right... hmm... Anyway, the principle of causality is absolute. Deny that, and you deny all of physics. There must be a distinct cause for Mayuri's death.
-Rintaro: So if we figure out what it is, then maybe we can save her.
-Kurisu: Not necessarily.
-Rintaro: What do you mean?
-Kurisu: The problem is when the causal event occurred. If it happened too far in the past... then there's nothing we can do.
-Rintaro: But I can travel to any time I had a cell phone, can't I!?
-Kurisu: No. It's still theoretical, but I believe that one leap with our machine has a maximum range of 48 hours.
-UNSPOKEN: 48 hours... I can only go back two days!?
-Rintaro: Why didn't you tell me that before!?
-Kurisu: Before what? I just finished the Time Leap Machine, remember?
-UNSPOKEN: That's true...
-Rintaro: Future you didn't say anything about it either.
-Kurisu: Oh, so that's what you mean. Maybe she just didn't have the chance.
-Rintaro: So how come I can only leap 48 hours?
-Kurisu: I don't know. Even I don't understand everything that's going on inside that thing. But you can do consecutive leaps. That is, as long as the Time Leap Machine exists. For example, if the Time Leap Machine remains functional for ten straight years, you could leap back to this moment ten years from now. Of course, it would take a total of 1825 leaps, so I don't recommend it. Still, it's theoretically possible.
-Rintaro: Then what's the problem?
-Kurisu: Weren't you listening? I said, as long as the Time Leap Machine exists. When was the machine completed?
-Rintaro: ...Ah.
-Kurisu: Exactly. An hour ago. August 13th, 2010. 2:00 PM, or thereabouts. It didn't exist before then. It's impossible to use the machine before 2 PM today.
-Rintaro: So what you're saying is...
-UNSPOKEN: Count 48 hours back.
-Rintaro: I can't go back farther than 2 PM on the 11th!?
-UNSPOKEN: Kurisu nods, her expression grave.
-Kurisu: Most likely.
-Rintaro: Can't you improve it!?
-Kurisu: Eventually, maybe, but certainly not now. I'd need a real laboratory with real equipment. It would be expensive, which means we'd need sponsors. And if we go looking, I'm pretty sure SERN would crush us. I'd say that's proven by the fact that neither you nor I have leapt here from the far future yet.
+UNSPOKEN: The undoing of past events could possibly be explained through the many-worlds interpretation that Titor talked about. And come to think of it, it was Titor's advice that led me to the IBN 5100. He should be able to give me a hint this time too. I quickly take out my phone.
+Rintaro: It's me. John Titor may have come from the future to guide me. Yeah, that's right. His arrival here in 2010 must be the choice of Steins Gate. El Psy Kongroo.
+Nae: Who is he talking to?
+Suzuha: Dunno. Who could it be? Maybe it's someone from the future.
+Nae: From the future...!
+Rintaro: ...Do you want to know who I'm talking to, Sister Braun?
+Nae: N-no, I...
+UNSPOKEN: Nae shakes her head rapidly. She looks scared. I respond with the weary expression of a mad scientist who has seen everything and lost much.
+Rintaro: Good. Even if you are interested, never ask. I could tell you, but then I'd have to silence you. And I don't want to have to do that to an innocent girl.
+Nae: ...!
+Suzuha: Come on, stop scaring her. She's just a little girl.
+UNSPOKEN: I assume Nae is frightened because of the aura of danger that follows me everywhere. She's right to be.
+Rintaro: I'll get in touch with Titor immediately. Your advice is appreciated, Part-Time Warrior!
+Suzuha: Ahaha, was I useful? That's gr--
+UNSPOKEN: Part-Time Warrior's eyes pop open mid-sentence.
+Suzuha: Oh crap! The boss is back! The boss is back!
+UNSPOKEN: I follow Suzuha's glance to see a moped headed this way. Judging by the sheer size of the driver, it must be Mister Braun.
+Suzuha: Nae, if Manager asks, tell him I was doing my job!
+Nae: Okay. But you have to let me ride your bike, okay?
+Suzuha: Okay, okay! Good luck, Okabe Rintaro! I'm rooting for you!
+UNSPOKEN: Suzuha pats me on the shoulder and rushes into the workshop. Nae and I are left in front of the store. The driver stops the moped and takes off his full-face helmet, revealing Mister Braun.
+Nae: Welcome back, Daddy!
+Tennouji: Nae! What did this nutjob do to you!?
+UNSPOKEN: Manager leaps from his moped and interposes himself between me and his daughter. His eyes are bloodshot. My spine freezes. What a powerful aura of malice!
+Tennouji: You son of a... how dare you make moves on my precious daughter!? I'll kill ya!
+Rintaro: W-wait! I haven't done anything!
+Tennouji: Then why were you talking with Nae alone, huh!?
+Rintaro: We weren't alone! Suzuha was here too! That girl was skipping work to polish her bicycle!

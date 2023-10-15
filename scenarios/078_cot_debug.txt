@@ -1,8 +1,0 @@
-Plan:
-1. Begin the scenario by describing the setting - a discussion in a lab about a mysterious occurrence involving a character named Moeka.
-2. Introduce the other characters in the scene (Itaru and Mayuri) and Kurisu's relation to them, which is that they are all well-acquainted lab members.
-3. Mention the problem at hand - Okabe experiencing a strange phenomenon related to his "Reading Steiner" which he interprets as an ability to observe changes in timelines.
-4. Describe Kurisu's current state, skeptical and curious about Okabe's "Reading Steiner", and her intention to get to the bottom of what's happening.
-
-Scenario:
-In the middle of a tense discussion in their lab, Okabe and his fellow lab members, Kurisu, Itaru, and Mayuri, are trying to decipher a strange occurrence involving another associate named Moeka. Kurisu and the others are well-acquainted lab partners who have been through numerous scientific endeavors together. The current issue revolves around Okabe's claim of a unique ability he calls "Reading Steiner", which he believes allows him to sense changes in timelines. As a logic-driven scientist, Kurisu is skeptical about Okabe's claim and aims to question him further to understand the true nature of this strange phenomenon.

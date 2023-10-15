@@ -1,27 +1,40 @@
-UNSPOKEN: She's certainly in a hurry.
-Rintaro: The time machine -- its name is the PhoneWave (name subject to change), by the way -- is in our lab.
-UNSPOKEN: This time, we'll make use of the PhoneWave (name subject to change)'s original function and send the D-Mail by remote control. Kurisu should still be in the lab. I'll leave the setup to her. I ask Faris where she wants the D-Mail to go. She says she's sending it to her father 10 years ago. I take down his email address. The destination is April 3, 2000. It has to be at 8am that day, so we use an online calculator to factor in leap years, resulting in 86168 hours.
-Mayuri: Umm, so does that mean it has to keep going for 86, 000 seconds? Won't PhoneWave-chan get tired?
-Rintaro: It doesn't actually have to run the entire duration.
-UNSPOKEN: Our previous experiments have confirmed that.
-Rintaro: The mail reaches the past if you send it as soon as the discharge begins. In accordance with the Butterfly Effect, the remaining seconds should be canceled out. The experiment never happened.
-UNSPOKEN: The fact that the D-Mail was sent is erased, leaving behind only the mail in the recipient's phone. At least, that's what our experiments have shown so far. Now, let's call Kurisu.
-Kurisu: Hallo.
-Rintaro: It's me. What's the situation? She hung up on me!
-Itaru: Of course she did. Mayu-shi and I are the only ones who can deal with your act, you know?
-UNSPOKEN: Again!
-Kurisu: Hallo.
-Rintaro: It's Hououin Kyouma. Don't hang up.
-Kurisu: Oh, it's Okabe. I was sure it was a prank call.
-Rintaro: It shows you my number, doesn't it!?
-Kurisu: You were talking crazy, so I got scared and hung up.
-Rintaro: In other words, you fear the insanity of Hououin Kyouma! Well, I suppose you can't be blamed for-- She hung up! Again!
-Itaru: Like I said, we're the only ones who can put up with you...
-UNSPOKEN: I quickly redial.
-Kurisu: Hallo.
-Rintaro: This is Okabe Rintaro. Sorry, but could you mess with the PhoneWave (name subject to change)'s settings a little, please?
-Kurisu: Well why didn't you say so? Hmm... you're going to use the PhoneWave? I don't want to anger the guy downstairs, though.
-Rintaro: We're about to perform a critical experiment. Understand, assistant? Mister Braun might yell at you, but that small sacrifice will bring mankind's dream, the time machine, to fruition.
-Kurisu: You're really irresponsible, you know that? ...Well? What should I set it to?
-UNSPOKEN: I tell her Faris's dad's mail address. And I have her set the timer.
-Kurisu: Okay, it's ready.
+Suzuha: ...Hmph.
+UNSPOKEN: Suzuha turns away, and without looking back, disappears into the Braun Tube Workshop.
+Kurisu: Who was that?
+Mayuri: Oh, she works part-time at the Braun Tube Workshop. Her name's Suzu-san!
+Rintaro: I know.
+UNSPOKEN: I don't know about the Suzu-san part, though.
+Mayuri: You do?
+Kurisu: Why was she glaring at me like that?
+Rintaro: How should I know? Did you do something to make her angry?
+Kurisu: I've never seen her before in my life. How rude.
+UNSPOKEN: Kurisu picked a fight with me the first time we met too. But that was a hallucination, so I don't say anything.
+Rintaro: Anyway, help me out here. We're taking this thing into the lab.
+UNSPOKEN: Suzuha's departure decreases the number of helpers, but the four of us should be enough. By the time we wrestle the IBN 5100 into the lab, every one of us is out of breath. Daru's at his computer eating potato chips.
+Rintaro: Hey! Why didn't you help!?
+Itaru: Well, you didn't call me.
+Rintaro: I said all members assemble, didn't I!?
+UNSPOKEN: Since Daru didn't come, the three girls -- err, two girls and one crossdressing boy -- are all worn out. Mayuri and Lukako are clearly not cut out for physical labor, and Kurisu did nothing but complain.
+Kurisu: Haah, haah... why do I... have to...
+Mayuri: So tired...
+Luka: I can't walk any more...
+Rintaro: Good work, you three.
+UNSPOKEN: I pick three bananas from the bunch on the table and distribute them among the three worn-out girls.
+Rintaro: This is my thanks for helping. Eat up.
+Luka: Thank you! I'm so happy!
+Mayuri: But those are Mayushii's bananas...
+Rintaro: That reminds me, Mayuri. It's thanks to you that I got this IBN 5100. If it weren't for your information, it would've taken forever to find it.
+Mayuri: Ehehe! Really? I'm glad I was useful.
+UNSPOKEN: Mayuri happily takes a bite of her banana.
+Kurisu: What are you going to use the IBN 5100 for? Yesterday you said something about SERN.
+Rintaro: You interested, Christina?
+Kurisu: I'm not Christina, and I'm not interested. If you don't want to tell me, then I don't really care.
+UNSPOKEN: But to me, it looks like she's dying to know. It's evident by the way she keeps glancing at the cardboard box.
+Rintaro: This artifact is needed for the war against SERN.
+Kurisu: War? SERN's a research institution.
+Rintaro: Ostensibly, yes.
+Kurisu: ...What are you trying to do? Depending on the situation, I could turn you over to the police, you know?
+Rintaro: Hmph, the police? Do you really think a mad scientist like me is afraid of the police? I've spent my life on the run from the Organization, a more fearsome enemy than you can possibly imagine.
+Kurisu: You can't be serious. Tell me what you're trying to do.
+UNSPOKEN: You know, she's really pompous for an assistant.
+Rintaro: We'll have plenty of time to talk about that later. More importantly, Daru, when do you think we can use the IBN 5100 to hack SERN?

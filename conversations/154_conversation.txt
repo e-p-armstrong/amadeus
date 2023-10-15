@@ -1,46 +1,32 @@
-UNSPOKEN: Nice excuse, Suzuha!
-Rintaro: P-precisely!
-Itaru: Fix it in two days? That's just nuts.
-Rintaro: But if you do, you'll earn the right to a date with Faris.
-Itaru: ...!?
-Rintaro: Can you fix it?
-Itaru: No problem!
-UNSPOKEN: Great. Now I just need to figure out how I'm going to convince Faris... OSHM***A 7010 We're searching for something with the same cryptic logo as this mysterious pin. Honestly, I didn't think it would be this difficult. Akiba has plenty of niche stores, but they're all for electronic goods and PC parts. There aren't that many selling accessories like Suzuha's pin. We check every one we can find, but come up empty-handed. None of the store employees have any idea where it came from either. We even check nearby neighborhoods like Ueno and Asakusa. Nothing. Suzuha and I return to the lab with heavy hearts.
-Kurisu: Welcome back.
-UNSPOKEN: Kurisu emerges from the development room to greet us. She's alone.
-Kurisu: From the looks on your faces, I guess you didn't find anything.
-Rintaro: Where's Daru?
-Kurisu: He hasn't come back yet. It's already dark, so maybe he went straight home?
-UNSPOKEN: It's too dark to work at Radi-Kan now. We can't use lights, because that would be too conspicuous to the people below.  Mayuri isn't around. Is she making any progress in the search for Suzuha's father?
-Suzuha: I feel bad. There's no time for this...
-Rintaro: It's not for you. We're doing it to save Mayuri.
-Suzuha: ...Yeah.
-UNSPOKEN: I start up Daru's computer and search the net for communities of people who collect unique pins. I'll investigate tomorrow based on the information I find. There's a pin collecting group on a site called FrePara, where everyone shows off their collections. I post there, asking for information. I'm sleeping on the couch when a loud alarm rings in my ears.
-Rintaro: Is it SERN!?
-UNSPOKEN: I jump up and see Kurisu and Suzuha. Kurisu is holding her phone. That's the source of the sound.
+Mayuri: Chris-chan, tutturu♪
 Kurisu: Good morning.
-UNSPOKEN: Her sour expression says it's not good at all. I wish she'd put herself in my shoes and see what it's like to be woken up suddenly like that. I check the time on my phone. It's just before 7 AM.
-Rintaro: ...You came to wake me up? Thanks.
-Kurisu: I didn't do it for you.
-Suzuha: I asked her to wake you up, Okabe Rintaro. There's something I want to show you.
-UNSPOKEN: I realize that there's a strange object sitting on the table in front of me.
-Rintaro: ...What's this?
-Suzuha: A divergence meter. The numbers indicate the divergence value of the current worldline.
-UNSPOKEN: The meter displays 0. 337187%.
-Suzuha: Divergence is measured from my original worldline, which corresponds to zero.
-Rintaro: You made this?
-Suzuha: No. I brought it with me from 2036.
-Rintaro: These are Nixie tubes, right? Whoever made this has taste. I'd happily dub it Future Gadget No. 9.
-Kurisu: How exactly does it work? It shouldn't be possible to measure changes like that.
-UNSPOKEN: Suzuha shrugs.
-Suzuha: I don't know either.
-Rintaro: You don't know!?
-Suzuha: Can you guess who made it?
-UNSPOKEN: How should I know?
-Suzuha: You did, Okabe Rintaro.
-Rintaro: Huh?
-Suzuha: You made it, umm... 11 years from now. It apparently works the same way your special power does.
-Rintaro: Huh...
-Kurisu: So this meter lets other people check worldline divergence?
-Suzuha: I wish. I'm pretty sure only Okabe Rintaro would notice if the number changed.
-Kurisu: What? Then there's no point. Make something useful for once, Okabe.
+Rintaro: What did you say to the part-timer downstairs?
+UNSPOKEN: Kurisu shrugs her shoulders.
+Kurisu: Nothing much. I told her if she wanted to say something, she should just say it.
+UNSPOKEN: I don't think that's nothing... She's lucky that didn't lead to blows.
+Rintaro: What did she say?
+Kurisu: Nothing. She just groaned. I wonder what's wrong with her.
+Itaru: She's jealous of Makise-shi's popularity, duh!
+UNSPOKEN: Daru bursts into the lab.
+Itaru: She's thinking 'If only I'd joined the lab instead of her. Then I would be having fun with everyone right now! I'm so jealous!' or something like that. I'm telling you, man. 3D is hell.
+Kurisu: If she wants my lab mem number, she can have it.
+Rintaro: What!? The lab mem number you carry is the highest credential a scientist could hope to achieve! They sell for millions on the black market, but you would give it away!?
+Kurisu: It's not exactly a counterfeit passport. Also, shut up.
+Mayuri: Mayushii wants everyone to get along.
+UNSPOKEN: Well, I don't really care about their little quarrel anyway. Only one thing interests me now: the mystery of D-Mail. We begin experimenting immediately. Even though it's still morning, the electrical discharge occurs on demand. Things look favorable today. That reminds me. We haven't talked to Mister Braun yet. Maybe we should come up with an excuse first. To be honest, though, I don't care what he thinks. For we are at war! War against the Organization and SERN, the dark powers that rule the world from the shadows!
+Itaru: Anzai-sensei, I want to eat Faris-tan's home cooking...
+Mayuri: If you give up, it's game over!
+UNSPOKEN: Unfortunately, Daru's second D-Mail fails to change the past. I get the feeling RaiNet matches are difficult to cheat your way out of like this. Not to mention we're limited to 36 bytes of text. Looks like we have to give up on Daru. He's gone to drown his sorrows in the internet. Alright, so who do we experiment on? From the look on Kurisu's face, I don't think she's willing to change her policy. That leaves only one candidate.
+Rintaro: Mayuri, it's time for you to change the past.
+Mayuri: Eh? Me? Are you sure? But, um... what should I change?
+UNSPOKEN: Mayuri looks stumped as she slurps her canned ramen.
+Mayuri: Oh, I know! I'll make Luka-kun wear one of my costumes!
+Rintaro: How?
+Mayuri: By sending Luka-kun a mail! Ehehe!
+UNSPOKEN: I don't think a simple request is going to change the past...
+Rintaro: Can't you think of anything easier to change and observe?
+Mayuri: Hmm...
+UNSPOKEN: She slurps more ramen.
+Rintaro: ...Let's use that canned ramen.
+UNSPOKEN: Looks like I'm the only one with ideas.
+Rintaro: You'll send a D-Mail to yourself one hour ago. Type 'I wanna eat canned oden' or something like that.

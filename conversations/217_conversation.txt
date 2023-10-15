@@ -1,30 +1,14 @@
-UNSPOKEN: I need to say it.
-Rintaro: I'll save you. Not just Mayuri, but--
-Kurisu: Don't make promises you can't keep!
-UNSPOKEN: Kurisu cuts me off sharply, then buries her face in her knees.
-Kurisu: You asked me if I wasn't afraid. ...Of course I'm afraid. Maybe I'll disappear. Maybe I'll be left behind all alone. Or maybe only you will disappear and everything else will stay the same. The world will continue, and nobody will even know that you existed. I'll go back to America as if nothing ever happened. Maybe... maybe... maybe! I feel hopeless, just thinking about all the possibilities. But even so!
-UNSPOKEN: Kurisu raises her head and spears me with her glare.
-Kurisu: Do you think I would tell you to let Mayuri die!?
-Rintaro: Kurisu...
-Kurisu: Jesus, it's cold!
-UNSPOKEN: Kurisu grabs her own arms. In the darkness, I see her shoulders shaking.
-Kurisu: It's because of these wet clothes! This sucks. Anyway, enough of this nonsense. It's nothing but conjecture. Baseless. Worthless. I want to cut open my skull and excise the part of my brain that comes up with these delusions.
-UNSPOKEN: Now she's talking to herself in an angry tone. Kurisu has always been calm when faced with the unknown. I admired her for that. I thought she was facing this calmly too. But I was wrong. Behind her cool facade, she was struggling to cope with the knowledge that her very existence was in jeopardy. She was fighting that fear all alone, and now it has finally come to the surface. Of course she's afraid. However brilliant she may be, she's still just an 18-year-old girl. Kurisu abruptly stands up. I realize that I no longer hear the sound of rain pounding on the roof.
-Kurisu: Listen, Okabe. You can't save both of us. Correct? No matter how you struggle, it's one or the other.
-Rintaro: But...
-Kurisu: No buts. My answer won't change. Save Mayuri.
-UNSPOKEN: I hear the pain in her voice... and also the resolve. Kurisu has made up her mind. I look away and clench my fists. My nails dig into the palms of my hands.
-Rintaro: Are you telling me to give up!? To abandon you!? I could never do that!
-Kurisu: You can, and you must! There's no other way.
-Rintaro: No! You're our friend! I won't abandon you!
-Kurisu: Okabe!
-UNSPOKEN: Kurisu drops to her knees and grabs me by the collar. I gasp for breath as she stares into my eyes. Her eyes are hard and stern. It's always like this when she scolds me. Always the same glare...
-Kurisu: Is there another solution? There isn't, is there? I don't want to live if it means sacrificing Mayuri! If you don't save her, I'll never forgive you!
-Rintaro: Guh...
-UNSPOKEN: This can't be happening! I hate this choice with no right answer. I hate the universe for being so cruel. And most of all, I hate myself for forcing Kurisu to speak these words when she is the one with the most to lose. Tears well up in my eyes, but I bite my lip and hold them back. Is there really no other way? I can't bear it. I look straight back at Kurisu as she holds me by the collar...
-Kurisu: Eh...?
-UNSPOKEN: And tightly embrace her slender body. Her clothes are still wet from the rain, but all I feel is warmth radiating from the core of her being.
-Rintaro: But you're right here! Why does it have to be this way!?
-Kurisu: Okabe...
-UNSPOKEN: Tension drains from her back and her hands. She gives her whole body to my embrace.
-Kurisu: Thank you. I know you're hurting for me. But you've done enough. I'm fine, so just think about Mayuri, okay?
+Kurisu: Imagine a chest of drawers. Each drawer is filled with tiny boxes, and inside each box is another bunch of tiny boxes. You keep opening boxes until you find the memory you're looking for.
+UNSPOKEN: Kurisu discovered that the number of retrieval commands -- nerve impulses used to search up memories -- is surprisingly low. Out of hundreds of millions of nerve impulse patterns in the brain, only a few thousand are related to memory. It was the successful analysis of these patterns that earned Kurisu and her research team critical acclaim in the scientific community.
+Kurisu: Now, before you ask how this relates to time travel, there's one more thing I need to explain. Several years ago, my lab -- the Neurophysiology Lab at Victor Condoria University -- developed a technology called Visual Rebuilding, or VR for short. Put simply, it enables conversion of video data into nerve impulse signals. Used in reverse, it can also convert nerve impulses into video data, or any other kind of electronic data. So, if we combine VR technology with my research... do you see where I'm going?
+Itaru: ...No way.
+Rintaro: We can convert memories into data?
+Kurisu: Not just that. Memory transplantation, backups, external storage... all of those things become possible.
+UNSPOKEN: It's like science fiction... In a sense, this technology could be used to copy a person's soul. According to Kurisu, some religious groups strongly opposed this research, as you might expect. On the other hand, the medical community is ecstatic about the possibilities. In any case, it's amazing that my assistant here was able to make such an incredible discovery. Of course, she did have a university supporting her, but still.
+Rintaro: So basically, what you're saying is that we convert the subject's memories into video data... Use the LHC's black hole to compress that data into 36 bytes... Send that data through the Kerr black hole inside the PhoneWave (name subject to change)... And finally, imprint those memories on the subject's brain in the past.
+Mayuri: What does that mean?
+Kurisu: We can send our memories back in time. In order to differentiate it from physical time travel, let's call it a 'time leap' for now. You don't go back, just your memories. It's so crazy that nobody's thought of it before.
+UNSPOKEN: She's right. The idea is ridiculous, which is exactly why none of the geniuses at SERN could come up with it. But this union of physics, neuroscience, and neurophysiology will make the impossible possible. To transfer memories to the past via cellphone. To time leap.
+Kurisu: The important thing to remember is that only memories are being transferred. Personality and consciousness aren't included.
+Rintaro: What does that mean? How is it different from what you see in sci-fi novels?
+Kurisu: Time leaping in sci-fi usually sends everything -- consciousness, personality, and memory. But in real life, there's probably too much data, and besides, we only analyzed memories. Think of consciousness, personality, and memory as separate things. Memories are like the video data stored on your computer. And consciousness and personality are like the OS.

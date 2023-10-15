@@ -1,22 +1,14 @@
-UNSPOKEN: Kurisu suddenly starts speaking. The footsteps pass right by my hiding spot. I'm so tense, I can't move a muscle. The newcomer finally appears in my narrow field of vision. And it's...
-Rintaro: ...!?
-UNSPOKEN: Doctor Nakabachi! I slap a hand over my mouth to keep from shouting in astonishment. Kurisu and Doctor Nakabachi know each other!?
-Suzuha: Oh, one more thing. Watch out for Doctor Nakabachi.
-UNSPOKEN: Something else occurs to me. Why would Kurisu, an accomplished scientist, attend the presentation of a man like Nakabachi? He's just a two-bit inventor. Only fifteen people came to hear him speak, and that's including trolls like me. There wasn't even any press coverage. Besides, Kurisu hates time travel science. That much was obvious from her lecture at ATF. In that case, it's obvious why she's here. She didn't come to see his presentation. She came to see him. But why? What could be the connection? ...Wait. It can't be...
-Kurisu: Are you listening, Papa?
-UNSPOKEN: Papa... He's her father... her estranged father, who she told me she hadn't seen in seven years. Kurisu did say that her father was a physicist. And Nakabachi certainly is a physicist, though the scientific community at large has rejected his research. But wait... does this mean that Nakabachi killed his own daughter? Or was it someone else, someone who has yet to appear? There's no way to know. If I could be sure that Nakabachi was the killer, then I would intervene right now. But I'm not. I'd better keep watching, see what happens.
-Nakabachi: What is that?
-Kurisu: I heard you were giving a presentation on time travel. So I thought about it too. Could it be possible to make a time machine?
-UNSPOKEN: Kurisu wrote a paper on time travel!? But when she spoke at ATF, she rejected the very idea of time travel! Although, come to think of it, she was awfully interested in the PhoneWave... ...Damn, I forgot how much of a tsundere she was.
-Kurisu: I'd like your opinion, Papa. We can polish it together, then submit it to the scientific community. I don't know if they'll listen, but just in case, I do have acquaintances at Science Magazine.
-UNSPOKEN: Nakabachi takes out the document and starts reading it with a disgusted frown. So that's what it was. She didn't have anything dangerous in that envelope, like drugs or a gun. It was just some document. But that raises a new question. Could that be the Nakabachi Paper? According to Suzuha, that document sparked a time travel arms race that ultimately led to World War Three and the deaths of 5. 7 billion people.
-Suzuha: It started with a race between the EU and Russia. Then America got involved, and things really went to hell.
-UNSPOKEN: Is that why Kurisu's safety is so important to changing divergence? I get it now. Nothing is coincidence. Everything is inevitable. Nakabachi flips restlessly through the document. He's not even trying to hide his irritation.
-Nakabachi: Did I ask you to write this?
-Kurisu: Well... no, but... You invited me to come, remember? It was the first time we'd talked in seven years. That's what got me thinking. And as I worked on the thesis, I started to realize it might actually be possible to build a time machine.  If the thesis is published, you could have your revenge on the scientific community for shunning you--
-Nakabachi: I wasn't shunned!
-UNSPOKEN: Nakabachi suddenly shrieks at Kurisu, causing her to shrink back in fear.
-Nakabachi: Those incompetent bastards were just jealous of my superiority. I was the one who gave up on them!
-Kurisu: Please don't yell...
-UNSPOKEN: Nakabachi gives his daughter a disdainful snort, then goes back to flipping through the paper.
-Kurisu: You read really fast, Papa. Just like I remember.
+Mayuri: No. For Mayushii.
+UNSPOKEN: I don't get what she means.
+Mayuri: Maybe that's why Chris-chan doesn't want to change the past.
+UNSPOKEN: She nods to herself with a bright smile.
+Mayuri: Oh! I just thought of something. Can you time leap into the future?
+Rintaro: Maybe, but there wouldn't be a point.
+UNSPOKEN: Kurisu and I reached that conclusion yesterday. The memories you send overwrite the memories at your destination. If you sent your memories one week into the future, then the future you would lose one week of memories.
+Rintaro: The whole point of our time leap machine is to affect past events. We don't need to worry about the future. Besides, you're less likely to reach the future than you are the past. And that's because the future is inherently unpredictable. For example, do you think you'll have the same phone number for all eternity?
+Mayuri: How should I know? Ehehe.
+Rintaro: Exactly my point. And remember, pagers became obsolete with the advent of cellphones. Similarly, our phones may be replaced by some other device in the future.
+UNSPOKEN: In order for the time leap to succeed, the target you must have a phone whose number you know. As long as that condition is met, there should never be a problem with setting the destination. The real problem is what inside the PhoneWave (name subject to change) is acting as the lifter. Until we figure that out, we can't reproduce the discharge phenomenon at will. The PhoneWave (name subject to change) will remain incomplete. On the other hand, if we can figure it out, we'll have an endless source of electrons that, unlike SERN's, needs no tuning. I'm exhilarated. The PhoneWave (name subject to change) is evolving by the day. Our invention of the time leap machine will put us light years ahead of SERN. Time travel will finally become a reality. I can't wait to try it out. My soul yearns for the taste of chaos. I barely manage to keep from bursting out in mad laughter. Come to think of it, more than one week has passed since we sent the first D-Mail, and although there was that strange threatening email, there remains no sign of men in black coming to haul us away. According to Daru, SERN hasn't discovered our hacking, either. The next problem is what will happen when we use the Time Leap Machine. In order to compress a human's entire wealth of memory into the requisite thirty-six bytes, we have to borrow the LHC's black hole. I can't believe that SERN won't notice an unauthorized activation of the LHC. How do we keep them from finding us? We need a plan.
+Mayuri: Oh... I guess I can't go back to grade school, can I? I didn't have a phone back then.
+UNSPOKEN: Mayuri's still talking about the time leap.
+Rintaro: You want to go back to your elementary school days? Heh heh heh, I know exactly how you feel. If you repeat elementary school with the knowledge you have now, you'll get top grades and have an easy time bending children to your will.

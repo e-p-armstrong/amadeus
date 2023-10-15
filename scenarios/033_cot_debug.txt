@@ -1,9 +1,0 @@
-Plan:
-1. Describe the setting - at the lab, late at night, working on an experiment.
-2. Mention other characters present - Hashida, who is not actively involved in the conversation, but is present during the experiment. No need to mention who Hashida is.
-3. Describe Kurisu's relation to Okabe and Hashida - she knows them well, as they are all working on the same project.
-4. Describe Kurisu's current state - she's absorbed in figuring out the experiment, and is also hungry.
-5. State Kurisu's intent - she wants to continue working on the experiment and to eat something.
-
-Scenario:
-In a lab late at night, Kurisu, Okabe, and their fellow researcher, Hashida, are working on an intricate experiment. Kurisu knows both Okabe and Hashida well as they have been working together on the same project for some time. Amidst the intensity of their research, Kurisu's hunger pangs surface, leading her to reluctantly take a break. She's not only trying to figure out the variables of their experiment, but also deciding on what to eat from the lab's limited food supply.

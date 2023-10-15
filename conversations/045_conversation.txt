@@ -1,43 +1,29 @@
-UNSPOKEN: Somehow, Kurisu manages to glare at me even while soothing Mayuri.
-Itaru: I vote 'The Mail Who Leapt through Time'.
-Rintaro: That's too stiff. It's hard to say.
-Itaru: It's better than your 'Nostalagisticexpialidocious' nonsense! And mine makes a movie title referen--
-Rintaro: That's not cool. It needs to be cool.
-Itaru: You're rejecting it for that?
-Mayuri: Tutturu♪ Mayushii has an idea! How about 'Back to the Mail'? I took a movie title, and changed a word to mail!
-Itaru: I already did the movie joke, Mayu-shi.
-Kurisu: Besides, I think the meaning is a little off.
-UNSPOKEN: She probably meant Mail to the Future, but our emails go to the past.
-Mayuri: It's not about the meaning... I took a movie title and changed a word to mail...
-Rintaro: Either way, it's too long!
-Itaru: Then how about DeLorean Mail?
-Rintaro: That doesn't even say what kind of email it is!
-Kurisu: Hey. We don't have time for this nonsense. Let's just abbreviate it to 'D-Mail' and move on.
-Rintaro: But that's boring.
-Kurisu: It don't care if it's boring.
-UNSPOKEN: Shot down. Kurisu's influence in the lab seems to have grown significantly these past few days.
-Mayuri: D-Mail it is!
-UNSPOKEN: Mayuri, finished with her jelly, proclaims in satisfaction. Wait, when did Mayuri become the moderator?
-Itaru: So why does the D-Mail phenomenon occur?
-Rintaro: Because the path through the ring singularity is open. We've been over this already.
-Kurisu: We don't know if there's actually a black hole at work here. It could be an entirely different phenomenon that just happens to resemble SERN's experiments. It's dangerous to jump to conclusions.
-Rintaro: Why so timid? Don't you want our time travel experiments to succeed? That's why we put our lives on the line to hack SERN! What we need to figure out is how to turn the PhoneWave (name subject to change) into a usable time machine.
-Itaru: Do you really think that's possible?
-Rintaro: There is no think. Only do!
-Kurisu: What, did you read that off a motivational poster? You're like the classic incompetent boss.
-Rintaro: Damn you! You dare insult the insane mad scientist, Hououin Kyouma!?
-Itaru: Well, it's not like Okarin's the boss anyway.
-Rintaro: Indeed. I am the symbol of this lab, not the boss.
-Kurisu: I don't know what you mean by symbol, but how do you plan to turn the PhoneWave into a time machine? Let's have details.
-Rintaro: My plan... alright, there is one thing. We've been thinking that the electrical discharge happens at random, but I have a hypothesis.
-Kurisu: Which is?
-UNSPOKEN: I look at my watch. It's past noon.
-Rintaro: Recall the conditions when it occurred, Christina. We experimented through the night with no results, but there's one variable we overlooked. The simplest, most definitive variable of all. That is, the time of the occurrence.
-Kurisu: ...ah.
-Rintaro: I checked the times of the two previous occurrences. When I accidentally sent the first D-Mail to Daru's phone, it happened between noon and one PM. The second time, when all four of us observed the D-Mail, it was six PM. So if we perform the experiment within that timeframe, we might be able to reproduce the effect.
-Kurisu: Let's try it right now!
-UNSPOKEN: Kurisu bolts into the development room, suddenly bursting with enthusiasm.
-Itaru: Well, I'm glad to see she has her priorities straight.
-Mayuri: Mayushii's banana supply is getting low... gotta buy more.
-UNSPOKEN: Only one banana remains untouched. We got rid of the gelified bananas, and then we ate the rest.
-Kurisu: Sorry, Mayuri-san. I'll go buy you some new bananas later.
+Rintaro: Hehehe, good answer. From this moment forth, you are Lab Mem Number 004. Welcome, Christina -- codename, The Zombie!
+Kurisu: I won't answer to either. Use my real name, Hououin.
+UNSPOKEN: We spend a minute staring each other down. Kurisu's the first to look away. She does so in a way that says good grief.
+Kurisu: You're such a child.
+Rintaro: You say something? Genius perv girl?
+Kurisu: Come on! No more saying 'perv'! I won't treat you like a perv either! So let's drop it already!
+Rintaro: As long as you understand. Now for the issue at hand. Daru, give Christina--
+Kurisu: No '-tina' either.
+Rintaro: Give Kurisu-kun an explanation on our experiments so far.
+Itaru: But I refuse.
+UNSPOKEN: In the end, I'm the one who has to explain. Along the way, I also relate the tale of my heroic deeds -- which enrages Kurisu, of course -- but I finally tell her everything about the bananas and the PhoneWave (name subject to change). Kurisu doesn't ask any questions. She's quick to understand, as expected of a genius.
+Kurisu: Fascinating.
+Rintaro: Let's hear your opinion.
+Kurisu: I think we can at least throw out completely worthless theories like electromagnetic weaponry and teleportation.
+UNSPOKEN: The lady doth protest too much.
+Kurisu: Can we run the experiment one more time? I want to see it for myself.
+UNSPOKEN: Without waiting for our approval, Kurisu plucks an untouched banana and sticks it in the microwave, then starts entering the commands on her phone. It's strange. She's still wearing her usual frown, but I can't shake the feeling that she's really enjoying herself. I can't put my finger on why. Call it a hunch. But I mean, she is a scientist. Why shouldn't she enjoy experimenting?
+Kurisu: Okabe-san, Hashida-san, please watch the bananas.
+Rintaro: Who are you to give me orders? I am the mad scientist, Houou--
+Kurisu: Whatever. Just keep your eye on the bananas!
+UNSPOKEN: Okay, so she's a little snippy. Daru and I do as we're told and stare at the bananas. Truth be told, we were planning to watch the bananas anyway. After missing it the first time, we're determined to witness what transpired with our own eyes.
+Kurisu: Sixty seconds have passed. Any change?
+Itaru: Nope.
+UNSPOKEN: Any second now, the gelified banana should reappear on the stem. If it only happens once, we can just call it an accident and be done with it. But if it happens twice, then that's proof that something's actually going on.  And then, Kurisu will have to admit that I, the great Hououin Kyouma, have invented humanity's first teleporter! I keep staring at the bananas in anticipation.
+Kurisu: 100 seconds.
+UNSPOKEN: A few moments after Kurisu's report--
+Itaru: Ah!
+UNSPOKEN: A gelbana suddenly appears without a sound. Now there are two of them on the bunch. It happened faster than the blink of an eye.
+Itaru: It appeared!

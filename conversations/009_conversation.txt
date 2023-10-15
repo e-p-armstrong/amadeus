@@ -1,41 +1,8 @@
-UNSPOKEN: Kurisu turns her back to us with perked shoulders. Looks like she's capable of expressing human emotion after all. That rules out robotic killing machine. Ah! I feel refreshed. I haven't felt this good in years. Way to go, Daru. That's my right-hand man! Always gets the job done.
-Kurisu: I get it. You're both pervs.
-Itaru: Well... you could say that.
-UNSPOKEN: Don't admit it, you idiot.
-Rintaro: I don't want to hear that from you.
-Kurisu: Okay! If I came off as a little rude, I apologize.
-UNSPOKEN: Kurisu sighs deeply and turns back to us. Her composure has already returned.
-Kurisu: I was only acting that way because you molested me, but I'll ignore that for now.
-UNSPOKEN: I wish she would stop saying for now. It's like she's gonna call the cops on me later.
-Kurisu: Please tell me what happened to this banana. I'd also like to hear about that...
-UNSPOKEN: Kurisu glances at the PhoneWave (name subject to change).
-Kurisu: That microwave thing.
-Rintaro: That's top secret. The one thing I'm cleared to share with unauthorized individuals is that its name is the PhoneWave (name subject to change).
-Kurisu: Name subject to change? What's that about?
-Rintaro: PhoneWave is weak. It needs a better name.
-Kurisu: I couldn't care less about its name.
-Rintaro: I'm afraid that's the only information you're cleared for.
-Itaru: Hold on, Okarin. Makise-shi might be able to explain what's going on.
-Rintaro: Hmm... well...
-UNSPOKEN: She is a genius. She would have to be to defeat my sharp wit. We can trust her intellect, at least. But it's hard to stomach her attitude. Plus, she has danger written on her face. Not to mention, she's a little scary too. Then, I get a great idea.
-Kurisu: That creepy grin... are you thinking perverted thoughts again?
-Rintaro: You said your name's Christina, right?
-Kurisu: Who the hell's Christina!? I never said that!
-UNSPOKEN: 'Christina' sounds like the name of a Hollywood film star. It definitely has more flavor than her real name.
-Rintaro: If you wish to learn the secrets of this microwave, then you must meet my conditions.
-Kurisu: ...Which are?
-Rintaro: Condition One: You must become a lab mem.
-Kurisu: Ramen?
-Rintaro: No! Lab mem, stupid! Short for laboratory member!
-Kurisu: You mean you want me to join your research team? I'm supposed to return to America in August.
-Rintaro: I'll have you sign a non-disclosure agreement so you won't betray our secrets. Break the agreement, and I'll report your steamy, perverted acts to Science Magazine.
-Kurisu: Gh...
-Itaru: You're a monster, Okarin. I'll take five copies.
-Rintaro: From the moment you become a lab mem to the moment of your departure, your brain shall be used for the benefit of our lab.
-Kurisu: You're so full of it. Let's see the contract, then.
-Rintaro: What contract? This is a lab, not a corporation!
-Kurisu: I don't mind lending you my knowledge, but if there is more pervy nonsense involved, the answer is NO.
-Rintaro: Don't worry, we don't bite.
-Kurisu: No more molestation?
-Rintaro: No, alright!?
-Kurisu: You said that was condition one. So there's gotta be a second one, right? It better not be--
+UNSPOKEN: What was that? Wait! Look around!
+Rintaro: They're gone...
+UNSPOKEN: Summer break. Noon. The busiest street in town. Just now, thousands of pedestrians vanished into thin air. Is this a dream? Am I hallucinating? I don't know. But they're gone. I saw them vanish with my own two eyes. I stand petrified, speechless, and alone on the empty street. Desperate to find someone, anyone, I look up. And there, at the top of Radi-Kan... Sticking out from the 8th floor event hall where we just were... Is a crashed satellite.
+Rintaro: Hey, you. Can you see us? Why won't you answer? I'm asking you a question. Yes, you on the other side of the monitor. Hmph. Your silence only strengthens my hypothesis. I suppose that, from your perspective, it appears that we are the ones inside the monitor. Heh heh heh, but that's where you're wrong! For it is you who are inside! Your reality is nothing but lies and shadows. Naturally, that includes you, too. True reality is on this side of the screen. Don't believe me? I don't blame you. Few are those who can handle the truth. But no matter. I shall speak in simpler terms, easy enough for even you to understand. This is the Future Gadget Laboratory, located in the Akihabara district of Tokyo. We call it simply... the lab. Our purpose is to shatter the System and plunge the world into chaos.
+Mayuri: Really? You shouldn't do bad things, Okarin.
+Rintaro: Quiet. I'm a mad scientist, remember? From the station, head down Chuo-dori until you reach Suehirocho Station, then take a left onto Kuramaebashi-dori. In the alley before the traffic light, you'll find the run-down Ohiyama Building. The lab is on the second floor. On the first floor is a store of ill repute called the Braun Tube Workshop. You can't miss it. It deals exclusively in CRT monitors, of all things. Can you imagine? Even in the heart of Akihabara's Electric Town, the demand for CRTs is practically nonexistent. But the proprietor of the Braun Tube Workshop, Tennouji, is also the owner of the building. That's how he can afford to maintain his ridiculously niche hobby shop even as land value continues to rise. He may seem a rough sort, but he was no match for my charisma. Now the entire second floor is mine for next to nothing. Muhahaha! I digress. The Future Gadget Laboratory is currently experiencing a severe shortage of manpower. We welcome dedicated scientists from all fields to apply. At present, our researchers are--
+Mayuri: Okarin, Okarin. You've gotta say 'lab mems', not researchers.
+Rintaro: ...Our lab mems -- laboratory members -- are three! I am the founder of the Future Gadget Lab, Lab Mem Number 001, the insane mad scientist, Hououin Kyouma!

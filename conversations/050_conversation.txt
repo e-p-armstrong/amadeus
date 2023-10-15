@@ -1,43 +1,24 @@
-Rintaro: Since each grain of salt is tiny, it's possible they could be converted to less than 12 bytes.
-Kurisu: So larger masses get crushed by supergravity?
-Rintaro: Mass might not be the issue here. Data doesn't have mass.
-Kurisu: In any case, since the singularity isn't naked, the object is forced to pass through the event horizon. Inside the event horizon, space and time switch places, causing the subject that arrived at the ring singularity to reach ultra high speed... The data, crushed and destroyed by super gravity, is shot out of the black hole...
-Rintaro: As a jellyman.
-Kurisu: But even a small mass has to pass through supergravity. How does it emerge unscathed?
-Rintaro: If the hole is too tight, then just inject more electrons.
-Kurisu: I don't think it's that simple. I mean, I'm sure SERN's tried that already. And yet they haven't gotten any results after nine years of experiments. It's not as simple as increasing the flow of electrons.
-Rintaro: I see...
-Kurisu: SERN has a lifter, but we don't know what in the PhoneWave is filling the same role, much less how to adjust it.
-UNSPOKEN: She has a point.
-Rintaro: We don't know what acts as the lifter... But we do know that it has successfully created a path wide enough to send approximately 36 bytes of data through the ring singularity.
-Mayuri: I don't get it...
-UNSPOKEN: Mayuri, finished with her chicken, looks at us in confusion.
-Rintaro: Think of it like an RPG. The ring singularity, the entrance to the event horizon, is the gate to the Demon Lord's castle.
-Kurisu: D-demon Lord...?
-Mayuri: So the soldiers who went home as slimes are jellymen?
-Rintaro: But there's an exception.
-Itaru: Combining soldiers? That's just silly.
-Rintaro: It's to illustrate that the object can't be too big.
-Mayuri: I get it! That's really easy to understand.
-Kurisu: It is?
-Itaru: It's a dumb metaphor, but I guess it works? At least as an explanation for why things get gelified.
-Rintaro: Heh. It's all thanks to Mayuri's hint.
-Mayuri: Mayushii was helpful?
-Rintaro: Yeah. Great insight, Mayuri.
-Mayuri: Ehehe! Yay!
-Kurisu: But it's still a hypothesis. It hasn't been proven.
-Itaru: How would you prove it? With human experiments like SERN?
-Kurisu: If Okabe and Hashida-san volunteer as test subjects, I'll happily experiment on you.
-Itaru: Human experimentation sounds kinda dirty. If you know what I mean. But I refuse. I'd rather play the doctor than the subject.
-Rintaro: Same here. No, not in the way he's implying.
-Kurisu: Idiots.
-UNSPOKEN: Kurisu gives us a cold stare and shrugs her shoulders in exasperation.
-Kurisu: As I keep saying, the real problem is what the PhoneWave uses as a lifter.
-Rintaro: That and one other thing. How come the discharge phenomenon and gelification only happen during a certain timeframe?
-Itaru: We may not understand everything, but we've perfected the art of D-Mailing. Isn't that our Final Answer?
-Mayuri: Sending mail to the past is amazing, isn't it?
-Itaru: Though I guess it's not a real time machine unless we can send people to the past.
-Kurisu: Even SERN has failed to send humans through. If you believe what Titor says, it won't be another, what, 24 years before there's a true time machine?
-UNSPOKEN: I answer Kurisu's sarcastic question with a nod.
-Rintaro: Physical time travel is impossible for us at the moment. We lack the funds and facilities available to SERN. And yet we have realized a form of time travel. We've sent data to the past.
-Kurisu: We should investigate the PhoneWave further. We need to understand what's going on.
+UNSPOKEN: Mayuri stands up and looks inside the PhoneWave (name subject to change). It's embedded in the floor, but she somehow manages to pry the door open.
+Mayuri: Ahh! M-Mayushii's chicken is all burnt black...
+UNSPOKEN: I pat Mayuri's shoulders to cheer her up.
+Rintaro: Juicy Chicken Number One made a noble sacrifice for the progress of science. Let us pray for his happiness in the next life.
+Kurisu: The chicken doesn't matter! Right now, we need to determine what happened with the Phonewa--
+Mayuri: It doesn't matter? That's so mean, uh, Christina-chan...
+Kurisu: Hey, Hououin Kyouma! Do something about this! Mayushii-san learned my name wrong!
+Itaru: More importantly, we need ventilation. *cough cough*
+Rintaro: Silence, all of you!
+UNSPOKEN: I affix everyone with an overpowering stare. This shall be remembered as the moment that the greatest experiment of the century succeeded and brought humanity a step forward in a new direction. These guys have no right to ruin that with their foolish talk. My heart pounding, I detach my phone from the PhoneWave (name subject to change). Luckily, it's completely unharmed. I open it. It still works. I bring up the list of received emails. New emails should come at the top. However... My heart beats even faster. The topmost email isn't the one Daru sent before the discharge occurred. This impossible phenomenon is exactly what I was hoping for. I look back through my email history. And there... I find it.
+Rintaro: Muhaha! Muhahaha! MUHAHAHAHA!
+UNSPOKEN: Success. I don't know why, but it was a success! The timestamp proves it. I received this email on July 24th -- five days ago. This is the same exact thing that happened to my someone stabbed Kurisu email. A mail sent on the 29th arrived on the 24th. And just now, the truth was revealed to me in a flash of inspiration.
+Rintaro: It all connects. There's a meaning behind this series of events, and only one true answer. I've discovered the PhoneWave (name subject to change)'s true hidden function! This isn't intuition. That's right. This is conviction!
+Kurisu: Just spit it out. What do you think it is?
+UNSPOKEN: I feel my lips twist into a grin. I meet Kurisu's glare head on.
+Rintaro: First, let me say one thing. The greatest inventions are created by accident. This we call serendipity.
+Kurisu: Get on with it.
+UNSPOKEN: How dare she ruin my speech? Oh well. Let's get to the point.
+Rintaro: The mail was sent to the past. The chicken returned to its frozen state. The plucked banana returned to the bunch.
+Kurisu: ...No way.
+UNSPOKEN: Kurisu seems to get it now. As expected of my genius assistant.
+Rintaro: Yes way!
+UNSPOKEN: This is the choice of Steins Gate.
+Rintaro: The PhoneWave (name subject to change)... Is a time machine!

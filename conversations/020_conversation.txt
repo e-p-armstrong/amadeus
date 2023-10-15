@@ -1,43 +1,16 @@
-Kurisu: That presentation was canceled because of the satellite crash.
-Rintaro: So it seems. But in my hallucination, the presentation proceeded as planned. Mayuri and I went to see it, and you came over to flirt with me.
-Kurisu: I don't flirt. Especially not with idiots like you.
-Rintaro: Like I said, it wasn't real, okay? No... maybe this world is what isn't real. That would explain the riddle of the PhoneWave (name subject to change). If this world is some kind of simulation, then we can disregard the laws of physics.
-Kurisu: Escapism? That's unexpectedly chicken of you.
-Rintaro: It's a hypothesis. Your favorite thing.
-Kurisu: So who stabbed me? Don't tell me it was you.
-UNSPOKEN: I recall the sight of Kurisu collapsed in a puddle of blood. It sends shivers down my spine. Was that really just a hallucination? It was too real. I can clearly remember the smell of blood.
-Rintaro: You were already dead when I got there. I didn't see who did it.
-Kurisu: I don't get it. Why do I have to die in your mind? You have something against me?
-Rintaro: Of course not. At that point in time, we had only spoken once. We were just strangers.
-UNSPOKEN: Well, that one time we talked was during the events I imagined. So strictly speaking, at that point in time, all I knew about her was what I'd read in the magazine.
-Rintaro: Anyway, we didn't know each other. That's why I ran away instead of calling for an ambulance.
-Kurisu: My hero.
-Rintaro: What? You want me to go back in time and give you CPR or something? I'd need to use the PhoneWave (name subject to change) for that.
-Kurisu: ...I've heard enough. No more hallucinating about me, okay? Dying isn't fun, even if it's in someone else's head.
-Rintaro: I can't make any guarantees. That would require perfect 24-hour surveillance inside my brain.
-Kurisu: You have a comeback for everything, don't you.
-UNSPOKEN: Kurisu shakes her head in exasperation, then turns and walks off towards the station. Looks like she wants to end the conversation. In revenge for last time, I grab Kurisu's slender shoulder from behind.
-Kurisu: Kyah! What now!?
-Rintaro: I'm not done talking!
-Kurisu: You trying to pick a fight?
-Rintaro: It's revenge for ruining my farewell scene, Christina! You shall regret your thoughtless actions!
-Kurisu: Okay, okay, fine. What is it?
-Rintaro: About the IBN 5100.
-Kurisu: I don't know what you're talking about.
-Rintaro: ...If you don't know, then forget about it. Farewell! We will not meet again.
-UNSPOKEN: I turn my back to Kurisu. This time, I'll make a perfect--
-Kurisu: Hey! Don't tell me to forget about it!
-UNSPOKEN: She grabs my arm. Dammit! This is the second time!
-Kurisu: What is the IBN five... whatever?
-Rintaro: Then IBN 5100. It's a retro PC from 1975. I'm looking for one.
-Kurisu: Yeah? What are you going to do with it?
-UNSPOKEN: Looks like she's interested. She was the same way when she came to the lab. I guess this girl is just brimming with curiosity.
-Rintaro: Interested?
-UNSPOKEN: Kurisu quickly averts her eyes. But she doesn't let go of my arm.
-Rintaro: You're interested, aren't you?
-Kurisu: ...Just a little.
-Rintaro: Then I shall answer! The IBN 5100 is the key to unlocking SERN's most closely guarded secrets.
-Kurisu: SERN? You mean... the SERN?
-Rintaro: Indeed. Through the tireless efforts of my faithful lab mems, we have uncovered evidence that SERN is researching time travel.
-UNSPOKEN: Come! Be astonished!
-Kurisu: ...Great. I shouldn't have asked.
+Itaru: Okarin, you magnificent fool!
+UNSPOKEN: Sitting at my side, Daru throws me a small salute. ATF staff are approaching, probably to kick me out. Perhaps I got too carried away.
+Kurisu: Um... okay. It's fine, I guess. It'll be easier to talk in a discussion format.
+UNSPOKEN: Thanks to her proposal, the event staff refrain from escorting me out. She sounds a little pissed, but let's not mind that.
+Kurisu: But before that, please listen to my thoughts on the subject. Scientists have proposed many theoretical models of time travel, but there are eleven in particular that bear mentioning.
+UNSPOKEN: Hmm... what are the major theories of time travel? I have heard about the cosmic string theory, at least.
+Kurisu: Neutron Star Theory. Black Hole Theory. Lightspeed Theory. Tachyon Theory. Wormhole Theory. Exotic Matter Theory. Cosmic String Theory. Quantum Gravity Theory. Cesium Laser Theory. Elementary Particle Ring & Laser Theory. Dirac Antiparticle Theory.
+UNSPOKEN: Hmm... not bad. Perhaps Makise Kurisu is a worthy rival after all.
+Kurisu: However, all of these models are purely theoretical. Some of them even contradict each other.
+Rintaro: Well, what if someone comes up with a 12th model?
+Kurisu: Hm? Ahh, uhh, right, well... It could be contradicted by the 13th model, now couldn't it?
+UNSPOKEN: Damn! She twisted my question and used it against me! Touche, genius girl. Suddenly, I feel eyes on me. Some puffed-up professors are giving me hard looks from across the room. Maybe I got too carried away. I don't want to risk losing my credits. I should back off for now.
+Kurisu: By the way, time travel to the future is available to us right now, according to Einstein's special theory of relativity. For example, let's say someone were to go to Haneda Airport and board a plane headed to Okinawa. Upon arrival, that person would be about one hundred millionth of a second farther into the future than I am.
+UNSPOKEN: What does that mean?
+Kurisu: According to the special theory of relativity, time moves slower for objects as they approach the speed of light. For example, if you could run at near the speed of light, you could reach a point where time only moves half as fast for you. If you were to keep running at that speed for 24 hours, 48 hours would elapse in the rest of the world, meaning you would 'jump' one day into the future. Understand, Hououin Kyouma?
+Rintaro: Gah!

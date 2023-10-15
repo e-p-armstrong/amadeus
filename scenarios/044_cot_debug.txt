@@ -1,9 +1,0 @@
-Plan:
-1. Set the context by explaining that Kurisu, Okabe, and their friends are in the lab discussing the peculiar properties of their experimental device, the PhoneWave (name subject to change).
-2. Introduce the other characters in the scene -- Mayuri and Itaru -- as friends and fellow lab members, but emphasize that Kurisu is more familiar with Okabe.
-3. Reflect on the conversation that's happening, highlighting Kurisu's attempts to make sense of the PhoneWave's odd behavior.
-4. Conclude with what Kurisu is trying to do: engage in a logical discussion to figure out the unknowns about the PhoneWave.
-
-Scenario:
-
-Because of their shared interest in a peculiar experimental device, the PhoneWave (name subject to change), Kurisu finds herself in a lab with Okabe and their friends, Mayuri and Itaru. Although Kurisu is relatively new to the group, she's become particularly familiar with Okabe due to their frequent scientific debates. In the midst of another discussion about the mysterious device, Kurisu challenges Okabe's theories while trying to understand the device's odd behavior. As Okabe offers a new perspective, Kurisu, striving to keep the conversation grounded in logic and reason, attempts to dissect his claims and contribute her own insights.

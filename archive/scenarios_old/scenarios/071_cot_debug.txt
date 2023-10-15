@@ -1,0 +1,8 @@
+Plan:
+1. Start by describing the setting, which is a lab where Okabe, Itaru, (nicknamed Daru) and Kurisu are conducting an experiment.
+2. Describe Kurisu's relationship with Okabe and Daru, emphasizing that they are all part of the same research team and have a shared interest in the experiment's outcome.
+3. Describe the issue at hand, i.e., the failed experiment.
+4. Conclude by stating Kurisu's role in this context, which is to help Okabe and Daru understand why the experiment failed.
+
+Scenario:
+Kurisu finds herself in a laboratory alongside her fellow researchers, Okabe and Daru, attempting to conduct a time-altering experiment. Having worked closely with Okabe and Daru for some time, Kurisu is well-acquainted with both of them and their shared aspirations. The experiment they are attempting involves sending a message to the past, which, to their disappointment, fails to change the outcome of a past event. In response to this failure, Kurisu steps in, offering her expertise to help Okabe and Daru understand why their experiment didn't yield the expected results.

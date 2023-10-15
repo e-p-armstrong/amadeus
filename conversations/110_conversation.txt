@@ -1,34 +1,41 @@
-UNSPOKEN: She smiles, but in her smile I see a hint of self-mockery.
-Kurisu: My father's a physicist. Even as a child, I loved to hear him talk about science. I couldn't understand a word of it, but I always begged him to explain. I wanted to understand his work, so I started studying physics. I must have been five.
-UNSPOKEN: Damn. I guess that's what makes her a genius. Or perhaps the yearning for her father's love was what gave birth to her genius.
-Kurisu: Thanks to that, I always got perfect grades in math. I ignored all the other subjects, though, so my grades were a little skewed. I even read my father's papers. I was a little girl trying to comprehend theoretical physics, but I gave it everything I had. I needed to understand. By sixth grade, I had learned enough that I could discuss my father's theories with him. I was so happy that I could talk to my father on his level, you know? We used to argue all night long. And then I started winning those arguments. All of them.
-Rintaro: Yeah. I can definitely see how that would make him hate you.
-UNSPOKEN: A tragedy fitting for a girl genius. What kind of scientist loses to a grade-school girl anyway? Seriously.
-Kurisu: You really think that's why?
-Rintaro: I'm absolutely certain that's why.
-Kurisu: I guess he did have a lot of pride. Anyway, one day, he suddenly stopped talking to me altogether. Then he started fighting with my mom, and finally he stopped coming home. I really loved my dad, so it was a big shock. I felt it was my fault things turned out that way. I couldn't go to school, I was so depressed. And then Mom recommended I study abroad.
-UNSPOKEN: So that's why she went to America.
-Rintaro: You were just too talented for your own good. So, how do you feel about your father now?
-Kurisu: I don't know...
-UNSPOKEN: Kurisu looks down.
-Rintaro: He's in Japan, right? Have you seen him at all?
-Kurisu: No... he doesn't want to see me. That's what we were talking about on the phone. I asked if we could meet, but he told me to stay away from him.
-UNSPOKEN: Her father has quite the inferiority complex. No wonder she was crying. Even for someone as strong-willed as Kurisu, it must hurt to hear that from her father.
-Kurisu: Even if we did meet, I wouldn't know what to say... I tried to talk to him before I left, you know? I tried so hard, but he just ignored me. It hurts. Whenever I think about going to see him, I remember those times. I worry he'll ignore me again, and then I can't do anything. Sniff...
-Rintaro: Are you crying?
-Kurisu: J-just a little, okay?
-Rintaro: You want to reconcile with your father. Correct?
-Kurisu: I don't know...
-Rintaro: If you didn't, then you wouldn't have confided in me. And you wouldn't be crying, would you?
-Kurisu: True...
-Rintaro: Just be straight with him. Say 'I love you, Dad. Let's make up.'
-Kurisu: I think that's a little out of character for me.
-Rintaro: It's your father. Stop acting like a weak little girl.
-UNSPOKEN: Kurisu jerks upright, her face bright red.
-Kurisu: I'm not acting like a little girl!
-Rintaro: Yes, you are. You'll never reconcile with him like that. You need to speak from the heart, give it to him straight. It's the only way to get your message across. You can't sugarcoat it. If that doesn't work, nothing will. Then you'll just have to hope that time heals the rift between you.
-Kurisu: And how long will that take?
-Rintaro: How should I know? I'm only a year older than you, remember? How long has it been since you went to America?
-Kurisu: Umm... seven years.
-Rintaro: If nothing has changed in seven years, then maybe it will take twice that much time.
-Kurisu: I... guess you're right.
+Kurisu: It wouldn't just gelify you. It would tear you apart particle from particle. That's what a black hole does.
+Itaru: Before we discuss this, shouldn't we look through the rest of their time machine research?
+UNSPOKEN: Daru's already started pulling up new documents. I'm suddenly afraid. Is it okay to keep hacking SERN like this? Should I stop him? I'm the one who asked him to do it, but things have gotten serious now. But at the same time, irresistible curiosity wells up inside me. Time travel is becoming a reality. I want to know that it's true. I can't stop now.
+Itaru: Here we go! There's a file in the Z Program that explains time travel theory.
+Kurisu: That was pretty easy to find. SERN should have better security.
+Itaru: Their security's fine. I'm just too good.
+Rintaro: Daru is my Favorite Right Arm.
+Kurisu: I thought he was your super hacka.
+Itaru: Hacker!
+Rintaro: So what does it say, Christina?
+UNSPOKEN: This is in English too, so I have no choice but to rely on my assistant.
+Kurisu: Umm... can you give me some time to read it?
+UNSPOKEN: Kurisu's eyes dart left and right across the lines. Her earlier reluctance has vanished. It looks like she's as curious as I am.
+Kurisu: No way... but this is... Is Titor really...?
+Rintaro: What are you muttering about? Tell me what it says.
+Kurisu: ...Oh, right. You know, this feels like one big joke.
+Rintaro: What do you mean?
+Kurisu: It's almost the same. The same as Titor's theory. Basically... The LHC smashes protons together at 99. 9999991% the speed of light. By doing so, they compress a mass of 10kg into an extremely tiny space of 10m.
+Itaru: In Japanese please. Three lines max.
+Kurisu: A small mass. Thrust into a narrow space. With great force.
+UNSPOKEN: That explanation's too vague.
+Itaru: That explanation's too erotic!
+Kurisu: Huh? What part of it is erot-- ...Ah! H-Hashida, you pervert!!
+Itaru: Sounds like you have a pretty good imagination yourself.
+Kurisu: I-I'm not like you!
+UNSPOKEN: Her blushing cheeks make her denial less than effective.
+Rintaro: Don't listen to this fool, Christina. Continue.
+Kurisu: ...ugh. Uh, what were we talking about?
+Itaru: Thrusting with great force.
+Rintaro: Proton compression.
+Kurisu: Right. Successful compression generates a micro-singularity, which--
+Itaru: A micro singularity? Not a mini black hole?
+Rintaro: Same thing, essentially. A singularity is the core of a black hole.
+Kurisu: This process generates a black hole with two micro-singularities.
+UNSPOKEN: A black hole with two cores? Like a cowlick with two hairs? No, I don't think that's it...
+Itaru: Explain with cute girls.
+Kurisu: Fine. Say there are two cute girls, Mic-chan and Cro-chan.
+Itaru: Sisters are moe. Haah, haah.
+Kurisu: By feeding Mic-chan and Cro-chan electrons, you can make them do whatever you want.
+Itaru: Electric shock torture? This some sort of eroge?
+Kurisu: So you force them to rotate at an extremely high velocity. And then, theoretically, Mic-chan and Cro-chan transform into Magical Girl 'Ring Singularity'.

@@ -1,56 +1,32 @@
-Rintaro: Yanabayashi Shrine.
-Suzuha: Yanbayashi Shrine? You mean, like a Shinto shrine?
-Rintaro: Yeah.
-Suzuha: What was it doing there...
-UNSPOKEN: The warrior looks confused for some reason.
-Mayuri: Oh! So that's why Luka-kun's with you.
-Luka: Y-yeah...
-Kurisu: What's this? What're you talking about?
-Luka: Um, the IBN... two thousand... five thousand... what was it?
-Rintaro: I got an IBN 5100.
-Kurisu: Oh, that thing you were talking about yesterday.
-Suzuha: Ah...!
-UNSPOKEN: For some reason, Suzuha gasps when she sees my assistant. And then, she approaches until they're close enough to feel each other's breath.
-Kurisu: Y-yes?
-Suzuha: Makise Kurisu?
-Kurisu: Yes...?
-UNSPOKEN: For some reason, she stares at Kurisu with frightful intensity. Kurisu narrows her eyes and meets Suzuha's stare. Wh-what's going on here? I can't move a muscle, the air's so thick with tension.
-Kurisu: What is it? Have I done something to you?
-Suzuha: ...Hmph.
-UNSPOKEN: Suzuha turns away, and without looking back, disappears into the Braun Tube Workshop.
-Kurisu: Who was that?
-Mayuri: Oh, she works part-time at the Braun Tube Workshop. Her name's Suzu-san!
-Rintaro: I know.
-UNSPOKEN: I don't know about the Suzu-san part, though.
-Mayuri: You do?
-Kurisu: Why was she glaring at me like that?
-Rintaro: How should I know? Did you do something to make her angry?
-Kurisu: I've never seen her before in my life. How rude.
-UNSPOKEN: Kurisu picked a fight with me the first time we met too. But that was a hallucination, so I don't say anything.
-Rintaro: Anyway, help me out here. We're taking this thing into the lab.
-UNSPOKEN: Suzuha's departure decreases the number of helpers, but the four of us should be enough. By the time we wrestle the IBN 5100 into the lab, every one of us is out of breath. Daru's at his computer eating potato chips.
-Rintaro: Hey! Why didn't you help!?
-Itaru: Well, you didn't call me.
-Rintaro: I said all members assemble, didn't I!?
-UNSPOKEN: Since Daru didn't come, the three girls -- err, two girls and one crossdressing boy -- are all worn out. Mayuri and Lukako are clearly not cut out for physical labor, and Kurisu did nothing but complain.
-Kurisu: Haah, haah... why do I... have to...
-Mayuri: So tired...
-Luka: I can't walk any more...
-Rintaro: Good work, you three.
-UNSPOKEN: I pick three bananas from the bunch on the table and distribute them among the three worn-out girls.
-Rintaro: This is my thanks for helping. Eat up.
-Luka: Thank you! I'm so happy!
-Mayuri: But those are Mayushii's bananas...
-Rintaro: That reminds me, Mayuri. It's thanks to you that I got this IBN 5100. If it weren't for your information, it would've taken forever to find it.
-Mayuri: Ehehe! Really? I'm glad I was useful.
-UNSPOKEN: Mayuri happily takes a bite of her banana.
-Kurisu: What are you going to use the IBN 5100 for? Yesterday you said something about SERN.
-Rintaro: You interested, Christina?
-Kurisu: I'm not Christina, and I'm not interested. If you don't want to tell me, then I don't really care.
-UNSPOKEN: But to me, it looks like she's dying to know. It's evident by the way she keeps glancing at the cardboard box.
-Rintaro: This artifact is needed for the war against SERN.
-Kurisu: War? SERN's a research institution.
-Rintaro: Ostensibly, yes.
-Kurisu: ...What are you trying to do? Depending on the situation, I could turn you over to the police, you know?
-Rintaro: Hmph, the police? Do you really think a mad scientist like me is afraid of the police? I've spent my life on the run from the Organization, a more fearsome enemy than you can possibly imagine.
-Kurisu: You can't be serious. Tell me what you're trying to do.
+UNSPOKEN: Same as me.
+Tennouji: Student?
+Amane: No.
+UNSPOKEN: She shakes her head.
+Tennouji: Why do you want to work here?
+Suzuha: Because I love CRTs.
+Tennouji: Hired! You start tomorrow!
+Rintaro: Wait, what? Is this some sort of joke? Are we on camera!?
+Suzuha: Thanks, boss.
+UNSPOKEN: Finally, Amane Suzuha seems to relax. Then she looks at me.
+Suzuha: Um, who are you?
+Rintaro: You... dare ask my name? Banish the thought from your head, girl. To learn it would place your life in jeopardy. Countless women have learned my name only to find themselves targets of the Organization. Sarah in America, Claudia in Italy, Simone in France... I won't put anyone else in danger.
+Tennouji: Hey, stop pulling things outta yer ass.
+UNSPOKEN: He just doesn't understand my pain.
+Tennouji: This idiot rents the second floor. Name's Okabe Rintaro.
+Rintaro: My name is not Okabe. It's Hououin--
+Tennouji: Quit it, or I raise your rent.
+Rintaro: ...I'm Okabe Rintaro.
+UNSPOKEN: The girl stands up, places her hand on my shoulder, and looks at me with a serious expression.
+Suzuha: I don't know anything about this Organization that's after you. But if you're ever in trouble, Okabe Rintaro, let me know. I can help with stuff like that.
+Rintaro: ...Huh?
+Tennouji: ...?
+UNSPOKEN: Stuff... like what?
+Suzuha: If necessary, I can hurt them so bad they'll never bother you again.
+Rintaro: Mister Braun, I don't think you should hire her.
+Tennouji: Yeah. She might be a wild one. I'll fire her if she causes any trouble. Anyway, ignore that Organization nonsense. It's all in Okabe's head.
+Suzuha: It is?
+Rintaro: You just keep thinking that.
+UNSPOKEN: But some day, the world will kneel before me. Muhahaha! And then, Amane Suzuha stares straight at me again. Maybe she has a habit of looking people in the eye.
+Suzuha: So that's the current trend. Thanks for the tip!
+UNSPOKEN: Trend? I don't think so.
+Rintaro: ...so hot.

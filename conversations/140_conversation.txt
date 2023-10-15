@@ -1,33 +1,30 @@
-UNSPOKEN: I'm no longer afraid to time leap. I'll do anything to save Mayuri.
-Kurisu: I-it's just a joke. Don't take it so seriously.
-UNSPOKEN: Kurisu stands up and looks at her watch.
-Kurisu: There's not much time. I think you should have a clear plan before trying to change the future again.
-Rintaro: Meaning?
-Kurisu: Leap to an even earlier time. Then explain the situation to me again.
-UNSPOKEN: Kurisu's right. My actions so far have been almost entirely random, and look where that's gotten me. I need a real plan if I'm going to save Mayuri.
-Kurisu: Let's go.
-UNSPOKEN: Kurisu stretches out her hand. I grasp it and pull myself up. Mayuri and Daru are already back when we return to the lab. Suzuha is there too. To get rid of them, Kurisu and I explain that we forgot to do the shopping, so could they please take care of it for us? I have to cough up the money to convince them to go, but it works.
-Kurisu: I understand why you can't tell Mayuri, but why can't you tell Hashida?
-Rintaro: I'll tell him when it's necessary.
-UNSPOKEN: For now, it's not, and I don't have time to explain. While Kurisu sets up the machine, I head downstairs to the Braun Tube Workshop, kick the door open, and turn on the 42-inch CRT. That went more smoothly than I anticipated. It's highly illegal, of course, but I'll leap long before the cops get here. Kurisu looks shocked when I return to the lab.
-Kurisu: They'll throw you in the slammer for breaking and entering.
-Rintaro: In a few seconds, it won't have happened.
-UNSPOKEN: Kurisu hands me the headgear and I put it on.
-Kurisu: I see. That's how it looks from your perspective. What does it look like from my perspective? What happens here after you leap?
-Rintaro: ...You'll know soon enough.
-UNSPOKEN: My consciousness travels to the past. That, I know from experience. But what about the body I leave behind? If time is a straight line, then it's likely that the present will be reconstructed based on my actions in the past. But if the many-worlds interpretation holds, then after I leave, this world will continue on as if nothing happened. I used to be so fascinated by the structure of the universe, but now I don't really care. All that matters is saving Mayuri. Kurisu's fingers stop typing on the keyboard.
-Rintaro: What's wrong?
-Kurisu: It's nothing. I was just thinking.
-Rintaro: Maybe it works like a D-Mail.
-UNSPOKEN: The instant we send a D-Mail, the present changes around us. Thanks to Reading Steiner, only I remember what it was like before the change.
-Kurisu: That would make things easier, though I kind of hope you're wrong.
-Rintaro: Because you can't collect data if you can't record the change?
-Kurisu: Exactly.
-UNSPOKEN: Kurisu nods and begins tinkering with the settings again.
-Kurisu: I set the destination to five hours ago. You should arrive around 1:40 PM. I completed the Time Leap Machine just after 2. Do you remember?
-UNSPOKEN: Barely. For Kurisu, that happened only five hours ago. For me, it feels like weeks.  Maybe it has been weeks.
-Kurisu: Nobody likes a man who can't remember dates. Be thankful that I make a habit of checking the time. I have a pretty good idea what happened when.
-UNSPOKEN: Kurisu finishes typing and turns to face me.
-Kurisu: Listen, Okabe. If you're going to keep using the Time Leap Machine, there's one thing you must remember. Don't let go of your phone. Ever. It's your lifeline. Your destination marker. As long as you keep it with you, you can leap to any time you want. But if you lose your phone... if someone else gets ahold of it...
-UNSPOKEN: Then if I leap to that time, my memories could overwrite theirs. I don't want to imagine what might happen next.
-Kurisu: If it breaks, or the battery dies...
+Rintaro: Sorry, Lukako, but I need to know. Where did you get that LOTO SIX ticket?
+Luka: Um... you told me the numbers.
+Rintaro: I... did?
+UNSPOKEN: Lukako nods with teary eyes.
+Luka: You told me to buy them because they might win...
+Rintaro: R-really? When was that!?
+Luka: A week ago...
+UNSPOKEN: Damn you, past me! What were you thinking!? This wasn't supposed to happen! However, the past certainly has changed. ...Or has it? It seems like it has, but at the same time, the present seems to have changed too.
+Itaru: Wait, did Luka-shi win the LOTO SIX?
+Mayuri: Wow! Okarin's a psychic!
+Kurisu: Don't tell me... you sent the winning numbers with the PhoneWave?
+UNSPOKEN: Her question makes no sense.
+Rintaro: Why are you asking me that? You saw me send them.
+Kurisu: I did? What are you talking about?
+UNSPOKEN: Disconnect. Our stories don't match.
+Rintaro: I sent the winning numbers in a D-Mail just now. We discussed it and decided that's what we would do. You all watched it happen. Then the past changed. It actually changed.
+UNSPOKEN: I glance at the PhoneWave (name subject to change). There's no denying it now. That grotesque appliance, the bastard child of microwave and cell phone, actually changed the past. We have the power of a god! Though I still don't know why everyone else forgot about it.
+Itaru: Hold on, Luka-shi! How much did you win!?
+Rintaro: 700, 000, right? 3rd place.
+UNSPOKEN: I answer with conviction. However...
+Luka: Um...
+UNSPOKEN: Lukako begins fidgeting. Something's strange about his behavior.
+Luka: I'm really sorry, Kyouma-san. Even though you told me exactly what to do, I... Filled one of the numbers in wrong...
+UNSPOKEN: Huh? He what? I stare at the numbers on the ticket in Lukako's trembling hands.
+Luka: Um... if that '18' had been a '19', then it would've been 3rd place... just like Kyouma-san said.
+Itaru: Nooo! So close! And yet so far!
+UNSPOKEN: I'm pretty sure I sent it with a 19. I'll know if I check my phone's send history. I take out my phone. And bring up the send history.
+Rintaro: ...Huh? It's gone! Why!?
+UNSPOKEN: The D-Mail I sent has vanished from my send history. Just like everyone's memories. The D-Mail should be there... but it's not. Almost as if it never existed in the first place. I ignore the worried stares of my lab mems and head outside for some fresh air. I need to calm down and figure this out. The ticket Lukako bought turned out to be 4th place. The prize is just 5, 000 yen.
+Suzuha: Hey there, Okabe Rintaro.

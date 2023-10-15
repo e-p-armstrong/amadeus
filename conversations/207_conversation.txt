@@ -1,36 +1,30 @@
-Kurisu: Let me sleep, for crying out loud.
-UNSPOKEN: Kurisu rubs her eyes and complains. She looks dead tired.
-Kurisu: I was up all night.
-Rintaro: A question, Daru. Have you researched how to use the IBN 5100?
-Itaru: Huh? Well, yeah, I guess. Can you believe I did it while preparing for ComiMa? I'm like a saint or something. They'd knight me for this in England.
-Rintaro: Then we shall call you Sir Super Hacka!
-Itaru: Hell no.
-Kurisu: Will you guys shut up? You're giving me a headache.
-UNSPOKEN: If Daru knows how to use the IBN 5100, then we can hack SERN right now!
-Rintaro: Hear me, lab mems!
-UNSPOKEN: Mayuri's not here, but that's actually more convenient.
-Rintaro: Our long struggle has at last reached its climax! Ragnarok is at hand! Now we must deliver the decisive blow. With the power of the IBN 5100, we shall crack SERN's most secure database and destroy it from the inside! Through the cowardly apparatus known as Echelon, the enemy has acquired precious intelligence on our activities. Now they plot to steal our sacred time machine, upon which rest the hopes and dreams of all mankind! Beneath its scholarly trappings, SERN is a hive of scum and villainy, of men who would sacrifice innocent souls in their quest to rule all space and time. But now we are poised to crush them with the Hammer of Justice! And when we do, they will know once and for all by whose hand the wheel of fate truly turns! When the sun sets upon the battlefield, the foul System that rules the world will crumble! And from the flames, a new age will rise! An age of glorious, unfettered Chaos!
-Kurisu: Argh! Shut up!
-UNSPOKEN: Kurisu gets fed up and rises from the sofa.
-Kurisu: What are you talking about!?
-Itaru: Nobody can know the darkness in Okarin's heart...
-Kurisu: First, get your character straight! What kind of mad scientist talks about the Hammer of Justice?
-Itaru: I guess he just got caught up in the heat of the moment. Maybe he regrets it now.
-Rintaro: Come on, guys! Stop complaining and get ready!
-Itaru: Get ready?
-Rintaro: To crack SERN! Weren't you listening?
-Kurisu: Uh, I don't think that's a good idea.
-Rintaro: When did you become a goody two shoes? Where's your ambition!?
-Kurisu: Are you trying to get us arrested?
-Rintaro: That's not the problem!
-UNSPOKEN: I fight the urge to grind my teeth. Instead, I fix Kurisu with my stare.
-Rintaro: It's taken me so long -- so long -- just to reach this point! This is my chance to escape the Alpha worldline and save Mayuri. I won't let anyone get in my way. Anyone!
-Kurisu: Okabe...
-Itaru: W-why so serious, man?
-UNSPOKEN: I've got good reason. To them, only half an hour has passed since the Time Leap Machine was built. But to me, many days have passed since this ordeal began.
-Rintaro: Please!
-UNSPOKEN: I bow my head deeply.
-Rintaro: Please, hear me out.
-UNSPOKEN: Or else Mayuri will die, and in 26 years, the world will be ruled by SERN. Suzuha's sacrifice will have been for nothing. Daru claps me on the shoulder, then smiles broadly and thrusts his thumb skyward.
-Itaru: I-it's not like I'm cracking for you or anything, okay!?
-Kurisu: Oh god...
+UNSPOKEN: I give chase, ignoring the stares of passers-by. ...She's gone. Dammit! Where did she... Hold on a second. Why am I chasing her? Do I have some kind of urge to chase things that run away? That's stupid. I'm not a dog! Shouldn't I just leave her be? It's not like we're that close, right?
+Suzuha: ...You're a nice guy. You know that? I think talking to you really did help.
+UNSPOKEN: But Suzuha is all alone in this town. What if I was the only one she could talk to about her father? I know she's hurting. She needs my help. Shouldn't I do everything in my power?
+Rintaro: ...!?
+UNSPOKEN: Just now, I think I saw someone who looked like Suzuha. But the run from the station has left me exhausted. I drop to my knees, gasping for breath. My sides ache. I can't take another step. Even after searching the entire area around the station, I couldn't find Suzuha. I guess this, too, is the choice of Steins Gate. As I rest, I look up at the night sky. The satellite remains buried in Radi-Kan's wall. I wipe the sweat off my brow and head back to the lab.
+Mayuri: Okarin! Did you find Suzu-san?
+UNSPOKEN: Everyone's still there when I return.
+Rintaro: It's late. Go home, everyone.
+Luka: But...
+Kurisu: Tell us what happened.
+Itaru: Yeah. Keep us in the loop, man.
+Rintaro: Suzuha ran away from me. I guess she couldn't find her father.
+Mayuri: Oh...
+UNSPOKEN: A gloomy silence falls. I can see the sadness on everyone's face.
+Rintaro: Heh... heh heh heh...
+UNSPOKEN: I begin to laugh.
+Rintaro: MUHAHAHAHA!
+Luka: O-Okabe-san? What's wrong? Are you okay?
+Kurisu: His brain is probably oxygen-starved from too much running.
+Itaru: Okarin... chill.
+Rintaro: Heh, look at you all! Why the long faces, friends!? Have you forgotten? We have just the thing for moments like these!
+UNSPOKEN: I thrust my finger at the curtain to the development room.
+Kurisu: You're going to send a D-Mail?
+Itaru: But the discharge phenomenon won't occur this late, will it?
+Rintaro: Then we'll send it tomorrow.
+UNSPOKEN: D-Mails leap through time. It matters not when we send it, but when it is received.
+Mayuri: Who are you sending it to?
+Rintaro: To myself this afternoon. The message...
+UNSPOKEN: I smile triumphantly.
+Rintaro: Don't listen to Christina. Pursue Suzuha!'

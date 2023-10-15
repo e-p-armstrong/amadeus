@@ -1,26 +1,37 @@
-Rintaro: I tried to save Mayuri, but nothing worked. Every worldline converged on the same result, just as attractor field theory said they would.
-Itaru: You know, if this is all in your head, I think you've got a career as a light novel author ahead of you.
-Rintaro: It's true. All of it. To prevent Mayuri's death...
-UNSPOKEN: And to free Suzuha's future from SERN...
-Rintaro: We need to escape from the Alpha worldline. And I think we can do that by canceling all of our changes to the timeline so far. That should return us to the Beta worldline, the worldline that existed before I sent that first D-Mail. There's just one more step. We need to erase the first D-Mail from SERN's database.
-UNSPOKEN: If what Suzuha said is correct, then erasing that data will take us over 1% divergence and back to the Beta worldline. It was just one short email, barely 36 bytes, but it changed the course of human history. The Butterfly Effect.
-Kurisu: Fascinating.
-UNSPOKEN: Kurisu mutters as she sips her hot coffee. It looks like she's already recovered from her exhaustion.
-Itaru: You believe him, Makise-shi?
-Kurisu: In theory. I'd like to see objective data, but that's obviously impossible.
-Rintaro: Relax. Your Time Leap Machine worked perfectly.
-Kurisu: O-of course it did.
-UNSPOKEN: She doesn't deny it. That's just like Kurisu.
-Kurisu: Besides, we were already planning to crack SERN's database, weren't we? Fine. Let's see what's in there. If the mail data exists, then it's proof that what you said is true.
-Itaru: So what you're saying is, 'don't think, feel.' Got it.
-Kurisu: Uh, you lost me.
-Rintaro: What he meant to say was, 'don't think, do.'
-UNSPOKEN: Daru extracts his massive body from the space behind the desk, plops himself down on the chair, and wipes away his sweat.
-Itaru: Done bridging them. I need to tinker with the settings a little, but we should be up and running in about ten minutes.
-Rintaro: Alright.
-Kurisu: So the first D-Mail started everything... Was that the one you showed me at ATF? The one that said I died or something.
-Rintaro: Right. I found you dead at Radi-Kan and sent Daru an email. Daru happened to be experimenting on the PhoneWave (name subject to change) at the time, so the discharge phenomenon occurred and the mail... was...
-UNSPOKEN: My voice trails off. Something is telling me to stop. Fear rises in my chest, a sudden, terrible certainty that I am missing something vital. I frantically replay the conversation in my head. We must cancel all of our changes to the timeline so far. The very first D-Mail started it all. The one that said I died or something. Return to the worldline that existed before I sent the first D-Mail.
-Rintaro: ...!
-UNSPOKEN: An icy fist seizes my heart, and I turn to Kurisu with a look of pure terror. Our eyes meet. Those eyes of hers no longer show the sharp defiance from when we first met. Instead, they glow warmly with the light of curiosity.
-Kurisu: What?
+UNSPOKEN: I try to remain calm as I call out to her.
+Suzuha: Sup.
+UNSPOKEN: She greets me in her usual listless fashion.
+Rintaro: Slacking off?
+Suzuha: It's not like anyone's gonna come. And besides, I was up all night partying. I'm really tired.
+Rintaro: You were partying? With who?
+Suzuha: Were you drinking, Okabe Rintaro? Big no-no. You're only eighteen.
+UNSPOKEN: We have shifted from a worldline where we failed to stop Suzuha from leaving to one where we succeeded. As a result, the events of yesterday changed.
+Rintaro: You couldn't find your father, so we held the 'Last Supper' to make you a test subject. Correct?
+Suzuha: Ahaha! Yeah, I remember you saying something like that. Thanks for all your help yesterday.
+Rintaro: ...My memory's a bit fuzzy. Remind me again how we captured you.
+Suzuha: Wait, were you really drinking last night?
+Rintaro: Just tell me.
+Suzuha: Well, I was on my way home from the time machine meet when--
+Rintaro: Woah, wait a second. Time machine meet!?
+Suzuha: Yup.
+UNSPOKEN: That's the same offline meet that Daru was going to...
+Rintaro: Was that where your father was supposed to appear?
+Suzuha: I said so yesterday, didn't I?
+Rintaro: So you were going home, and then?
+Suzuha: You, Hashida Itaru, and Shiina Mayuri appeared out of nowhere. You brought me to the lab, and we partied all night long.
+UNSPOKEN: So my pursuit of Suzuha was a resounding success. I can't help but smile at how smoothly things went. Suzuha, meanwhile, looks back up at the clear blue sky.
+Suzuha: Yesterday sure was fun...
+UNSPOKEN: Her tone is sincere.
+Suzuha: It would've been more fun if not for Makise Kurisu. The apple pie she made was deadly. But Urushibara Luka's curry was awesome. Your lab seems kinda like... umm... like a clubhouse? It's nice. Everyone gets along, and you're always smiling... I've never had so much fun in my life.
+UNSPOKEN: Hmm. It sounds like Suzuha had a pretty dark childhood. Maybe she was bullied in school. Could that be related to her father's disappearance?
+Rintaro: Part-Time Warrior. As promised, you are now my test subject.
+Suzuha: But I already told you. I don't know his email address.
+Rintaro: Then we'll have to postpone the experiment until you find out. By the way, the PhoneWave (name subject to change) used in the experiment is our lab's greatest secret. You must become a lab mem to guarantee your silence.
+Suzuha: Lab mem?
+Rintaro: Short for laboratory member. When you become a lab mem, you become one of us.
+Suzuha: ...Can I really join?
+Rintaro: You don't have a choice in the matter! From this day forth, you are Lab Mem 008!
+UNSPOKEN: Suzuha lowers her head, no doubt awed by my proclamation. I hear what sounds like a sniffle. Then she looks up, revealing a smile.
+Suzuha: I guess I don't have a choice, huh? I'm all yours.
+Rintaro: ...You're not going to leave?
+Suzuha: Nope. Maybe there's still a chance to find my dad.

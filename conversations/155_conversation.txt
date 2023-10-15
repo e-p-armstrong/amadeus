@@ -1,51 +1,26 @@
-UNSPOKEN: Yeah, what happens if the police hear about--
-???: You three.
-Rintaro: !?
-UNSPOKEN: My heart freezes as if sprayed with liquid nitrogen. I slowly turn around... A stern-faced policeman is standing there with crossed arms. Speak of the devil!
-Policeman: What are these leaflets about? Let's talk at the station.
-Mayuri: Ehh?
-UNSPOKEN: I consider making a run for it, but that will just make things worse. I grab Suzuha's arm before she can do anything rash. Better just to bite the bullet and go along. After about an hour of interrogation, they release us without charges. Kurisu greets the three of us when we return to the lab dead tired.
-Kurisu: Hey, Okabe, remember the lifter? I don't suppose you've figured out what it is... no, of course you haven't.
-UNSPOKEN: Oh, right. We hadn't discovered the lifter at this point in time.
-Rintaro: I already know. It's the 42-inch CRT downstairs.
-Kurisu: R-really? What's your proof?
-Rintaro: I've been here before, remember?
-Kurisu: ...Oh, right. The CRT... I see...
-UNSPOKEN: Kurisu heads back into the development room, nodding to herself.
-Mayuri: I'm sorry, guys. I made things worse...
-UNSPOKEN: I give Mayuri some chicken to cheer her up. There's not much time left. What else can we do before the time limit?
-Kurisu: Hello.
-Rintaro: Assistant? It's me.
-Kurisu: Oh, I think you got the wrong number.
-Rintaro: What are you saying? It's me, Hououin Kyouma.
-Kurisu: My name isn't Assistant. And your name isn't Hououin Kyouma.
-Rintaro: Would you prefer to be called 'KuriGohan and Kamehameha'?
-Kurisu: Bwah!?
-UNSPOKEN: I hear rattling from the other side of the phone.
-Kurisu: How do you know about that!?
-Rintaro: Before I time leaped, you made a tearful confession. You said, 'I'm an @channeler, a Nicojunkie, and a camwhore who posts tits, but will you still accept me as your assistant?' And I, of course, replied... 'You may be an @channeler, a Nicojunkie, and a camwhore who posts tits, but you're still a member of this lab. And that makes you my assistant, now and forever. So wipe your tears, for there is still much--'
-Kurisu: I'm gonna post your personal info all over VIP if you don't shut your mouth right this second!
-Rintaro: ...How are things there?
-Kurisu: Fine. You called at the right time. We need to talk.
-UNSPOKEN: Just like that, we're back to normal conversation.
-Rintaro: I'll be right there.
-Kurisu: OK. I'll be waiting.
-UNSPOKEN: I take Suzuha back to the lab. Kurisu greets us with a cold stare when we return to the lab.
-Kurisu: For your information, I don't post t...ti... I don't post pictures of my chest, okay!?
-Rintaro: It was just a joke. Let it die.
-Suzuha: Kurigohan and Kamehameha... so you're the one who kept picking fights with me on the internet. Makes sense.
-Kurisu: I thought you wanted an open discussion.
-Suzuha: Sure. You were kind of annoying, though.
-Kurisu: Hehehe...
-Suzuha: Ahaha!
-UNSPOKEN: Are these two still fighting?
-Rintaro: By the way, it may shock you to learn that I am the poster known as Hououin Kyou--
-Kurisu & Suzuha: I know.
-UNSPOKEN: Gh, the same reaction again! Why do they only agree when it's at my expense!? I clear my throat and change the subject.
-Rintaro: So, what did you want to talk about? The Time Leap Machine?
-Kurisu: I think you probably forgot, so I wanted to make sure just in case. Have you been looking for the lifter? You haven't, have you?
-UNSPOKEN: Oh, right. We hadn't discovered what it was at this point in time.
-Rintaro: I already know. It's the 42-inch CRT downstairs.
-Kurisu: R-really? What's your proof?
-Rintaro: I've been here before, remember?
-Kurisu: I see...
+Mayuri: Oh, that might work!
+Kurisu: Eh...?
+Mayuri: When I went to the vending machine today, I spent ten minutes wondering if I should get canned oden or canned ramen. It was really hard!
+Rintaro: So a little push should be enough to make you choose canned oden! Alright, let's go with that!
+Mayuri: Okay! But before we change the past, I gotta finish this ramen first.
+UNSPOKEN: Mayuri starts shoveling the ramen into her mouth.
+Kurisu: What happens if you don't finish it?
+Mayuri: It'll go to waste♪
+Kurisu: Oh... of course. Ahaha...
+UNSPOKEN: Kurisu clearly doesn't know what to say. Mayuri really is a ditz. I'm used to it by now, of course. I get the PhoneWave (name subject to change) prepped for D-Mail. The content of Mayuri's mail is simple enough. I just hope it actually works. We wait for Mayuri to finish eating her canned ramen, then activate the PhoneWave (name subject to change). To send it one hour back, we input 1#. In other words, we set the microwave for only one second. I wonder if the discharge phenomenon will occur in such a short span of time. That's something else we'll learn from this experiment.
+Rintaro: PhoneWave (name subject to change), activate!
+Mayuri: Aw... I haven't sent it yet...
+UNSPOKEN: There wasn't enough time to blink.
+Kurisu: So one second isn't enough for the discharge to occur. That's what I expected, but it's good to have proof.
+Itaru: What if you try warming it up beforehand?
+Kurisu: Warming it up?
+Itaru: One second isn't enough, right? So just run the microwave for about 30 seconds without sending a mail. As soon as it's done, run it again with the timer set at one second. That should cause the discharge, right?
+Kurisu: Any basis for that?
+Itaru: Nope.
+Rintaro: Damn. Mayuri, got anything else!?
+Mayuri: Um, well... we could change the flavor of rice ball I bought last night...
+Rintaro: Do you remember what kind of rice ball you ate last night?
+Mayuri: Smoked tuna.
+Kurisu: She remembers!?
+UNSPOKEN: Impressive.
+Mayuri: So let's change that to, um... fish eggs!

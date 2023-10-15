@@ -1,8 +1,0 @@
-Plan:
-1. Begin by explaining the setting: Kurisu and Okabe are in the Future Gadget Laboratory.
-2. Introduce Itaru, briefly explaining his relation to Kurisu and Okabe. 
-3. Explain what Kurisu is doing at the lab, trying to understand the PhoneWave.
-4. Conclude with what Kurisu aims to do next – to run tests on the PhoneWave.
-
-Scenario:
-Kurisu finds herself in the Future Gadget Laboratory, a place filled with bizarre inventions and research equipment, alongside Okabe and Itaru, another member of the lab. Itaru, a hacker and close friend of Okabe, is also present. Following an intense discussion about a secret project related to SERN, the world's top research institution, Kurisu's curiosity is piqued about the PhoneWave, a creation of the lab that supposedly sends emails to the past. Knowing Okabe and Itaru well enough to trust their words despite their eccentricities, she decides to stay at the lab despite the late hour. Kurisu is determined to run some tests on the PhoneWave to understand its capabilities and verify their claims.

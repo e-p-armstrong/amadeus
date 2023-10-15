@@ -1,12 +1,16 @@
-UNSPOKEN: Kurisu turns away and mumbles something. But her voice is so low, I can't make it out.
-Rintaro: If you have something to say, say it.
-UNSPOKEN: Kurisu turns bright red, but her sullen expression doesn't change.
-Kurisu: Don't tell anyone else about this.
-Rintaro: What difference does it make? Daru's the most hardcore @channeler who ever lived, and Mayuri's an otaku too. Even I browse @channel regularly. There's nothing to be ashamed of! Just boldly write 'Hobbies: Browsing @channel' on your resume!
-Kurisu: Not a chance, you idiot!
-Rintaro: What!? You mean you'd rather post anchors on VIP!?
-Kurisu: Gh, I hate myself for understanding those words!
-Rintaro: Well, whatever. If it will help you focus on the time leap machine, I'll keep your secret for now. Besides, it's just a matter of time before you make another mistake and reveal your true colors.
-Kurisu: You don't have to worry about me. Remember that I represented my entire laboratory when we presented our research, even though there were men twice my age on the project. I'm an expert at dealing with people. I'll have no trouble keeping it a secret.
-Rintaro: ...Nullpo.
-Kurisu: Gah! No...!
+Rintaro: Titor said he had a 'variable gravity lock system'. He can use that to lock onto the Earth's gravity and ensure he arrives somewhere on the planet's surface.
+Kurisu: Titor's explanation on that point was vague. He mentioned having such a device, but he didn't explain how it worked.
+Itaru: But if you're only moving through time, won't you just arrive in the same location?
+Kurisu: Of course not.
+Itaru: Why not?
+Rintaro: Because the Earth is always moving.
+Kurisu: Right. Rotation and revolution. The Earth's rotational velocity is about 1, 650 kilometers per hour. Its orbital velocity around the sun is about 114, 000 kilometers per hour. Meaning one hour ago, we were that far away from where we are now.
+Itaru: Whoa! When you think about it like that, we're earth-shatteringly fast!
+Kurisu: And that's not all. The Solar System is part of the Milky Way. And the Milky Way spins like a giant whirlpool. There are various theories, but basically the earth moves about 50 million kilometers a day.
+UNSPOKEN: How can she roll all those numbers so smoothly off her tongue? I get that she's a genius, but it's hardly common knowledge. Has she been doing research on the topic?
+Itaru: We've kinda gotten to a ludicrous scale.
+Kurisu: By the way, the Milky Way is part of a large cluster of galaxies, which is itself part of an even larger supercluster. And these clusters and superclusters might be moving too. If that's the case, we're moving even more than 50 million kilometers a day. The point is that setting the destination would require insane calculations, even if you only want to travel one second into the past. Doing it by hand is impossible, and it might take years for a supercomputer to come up with a solution, just to get you to the same location.
+Rintaro: Then we have no choice. We need to find Titor and borrow his variable gravity system.
+Kurisu: Great idea. Go for it. I wonder how SERN is dealing with this problem...
+UNSPOKEN: After blowing me off, Kurisu goes back to reading SERN's documents. Daru and I aren't good with English, so there's nothing we can do but let her work. Dawn breaks. We stayed up all night again. Fighting drowsiness, I refill my mug with instant coffee. I've already lost count of how many I've had.
+Kurisu: Okabe.

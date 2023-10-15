@@ -1,21 +1,20 @@
-UNSPOKEN: Mayuri stands up and turns to the grave once more. As an offering, she leaves a brand new white lily, as well as some dango dumplings.
-Mayuri: Let's head back, Okarin.
-Rintaro: Shouldn't we get some dango for ourselves first?
-UNSPOKEN: Back when we used to visit the cemetery together, it was part of our daily routine to eat dango on the way back.
-Mayuri: Ehehe! Of course♪
-UNSPOKEN: Akiba is empty again today. The otaku have all made the Exodus to ComiMa for the second day of battle. But come nightfall, they will return to Akiba like a victorious army laden with spoils, and the streets will be chaos. I know Daru has gone to ComiMa. The question is, has Mayuri? I hope she has. I want things to be normal again. I remember what I heard yesterday. The feelings Mayuri expressed at her grandmother's grave. The events of the last few weeks have affected her as well. After I escorted Mayuri home from the cemetery, I spent the whole night wracking my brain for a third option, a way out of this mess. My thoughts were a jumble, ideas coming and going too fast to judge which were right and which were wrong. But of course, there isn't a right choice here. For in the end, it always comes back to the same question. Who do I let die? And no matter how I try to dance around it, the answer is always the same. I can't choose. Is there no one else who can make this decision? No. Even if there were, I know I'd never accept their choice. Whichever it happened to be. Once again, I'm heading for the roof of Radi-Kan. I had to get out of the lab. Mayuri or Kurisu might return at any moment, and I can't face them now. I look up at the sky. The clouds are dark and heavy. It could start raining any minute now.
-Rintaro: ...!
-UNSPOKEN: I thought that I was alone, but someone was here before me. Kurisu is lying in the middle of the roof, arms and legs spread as if making a snow angel. The image of Kurisu in a pool of blood flashes through my mind. Is she alright!? I run towards her, but before I make it halfway, she suddenly sits up and turns to face me.
-Kurisu: ...Okabe.
-Rintaro: You're alive...
-UNSPOKEN: What a dumb thing to say. Fortunately, it looks like Kurisu didn't hear me. She's busy combing her disheveled hair with her fingers. I breathe a silent sigh of relief.
-Kurisu: Right. I forgot I might run into you here.
-Rintaro: What were you doing?
-Kurisu: ...Thinking.
-Rintaro: Oh...
-UNSPOKEN: Was she thinking about her death? I don't know what to say, so I keep my mouth shut. Kurisu appears to be in the same boat. She's staring at the capsule toy dispenser in the corner, her face wearing the usual frown. The awkward silence drags on. When you think about it, Kurisu's fate rests in my hands. My decision will determine whether she lives or dies. Her fantastic hypothesis yesterday was a desperate attempt to construct a scenario where she doesn't die. Even if she believes that her theory is correct, it must be difficult for her to avoid imagining her own death. I force a smile. I'm getting really uncomfortable here.
-Rintaro: Looks like I'm in your way, so I'll just go.
-Kurisu: ...Oh, okay.
-UNSPOKEN: Damn. I was expecting a sarcastic remark like Since when do mad scientists have manners? or something. Just then, something cold lands on the tip of my nose. When I look up, raindrops start landing on my forehead. An evening shower. It's only going to get more intense, and quickly. Kurisu hasn't moved a muscle. She's just standing there with her arms folded, staring at the ground as if she doesn't notice the rain at all.
-Rintaro: Hey. It's raining.
-Kurisu: Huh? Oh, yeah.
+UNSPOKEN: Kurisu nods. She still hasn't smiled.
+Kurisu: Keep in mind that this is just a hypothesis based on what we've observed. It's closely related to what you guys were just talking about -- the LHC.
+Rintaro: I believe it was you, Christina, who called the LHC the world's largest microwave. 
+Kurisu: Yes. Exactly. My hunch was right. You've created a monster, Okabe.
+UNSPOKEN: A monster...
+Kurisu: It doesn't belong in some amateur lab. And before you take that as an endorsement of your abilities, I mean it in a bad way.
+UNSPOKEN: Kurisu clutches her arms as if to keep from trembling.
+Rintaro: Give me details.
+Kurisu: Did you know that the microwave oven was invented as a byproduct of radar research?
+UNSPOKEN: Daru and I nod. Mayuri shakes her head. We read up on all that back then the PhoneWave (name subject to change) started acting weird.
+Kurisu: Microwaves are electromagnetic waves with a frequency of 2. 45 gigahertz. The PhoneWave is commercial grade, so its output is around 1500-2000 watts. Here's the important part.
+UNSPOKEN: Kurisu goes on to explain that the electromagnetic waves output by the microwave are somehow connected to the electromagnetic waves output by the phone. In fact, you could say they fuse together.
+Rintaro: According to Daru's blueprints, the microwave and the phone are made to send out shared electromagnetic waves by taking their leads... And hardwiring each of them to the magnetron's cathode and anode.
+UNSPOKEN: On one hand, we have the microwave's super strong electromagnetic waves, originally a byproduct of the military's research into radar technology. On the other, we have the cellphone's standardized electromagnetic waves, a frequency now ubiquitous throughout the world. What happens when you fuse those two waves?
+Kurisu: Both devices use electromagnetic waves. I'm not a specialist, though, so I can't examine the extent or magnitude of the influence that fusion has... But hypothetically, if the cellphone were to become a stepping stone, scattering the military-grade electromagnetic waves over a vast range of hundreds of kilometers-- Then not just Akihabara, but all of Tokyo would turn into the inside of a microwave oven. Taking into account slight variance due to body weight, the average time until death for the people inside would be-- Three minutes.
+Mayuri: Ehh!?
+Itaru: Seriously? Then the PhoneWave's a weapon of mass destruction, isn't it!?
+UNSPOKEN: I-is it really that powerful?
+Kurisu: Let me tell you what happens inside the PhoneWave. The air inside the oven is full of invisible hydrogen atoms. First, it bombards the atoms with microwaves to increase their energy potential. This is the normal function of a microwave oven. But when you add the electromagnetic waves from the phone... The harmonics trigger a chain reaction. The particles collide repeatedly at near light-speed, gaining mass and energy each time. In other words, it becomes a sort of particle accelerator.
+Rintaro: A particle accelerator!?

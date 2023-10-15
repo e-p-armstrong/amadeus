@@ -1,32 +1,23 @@
-UNSPOKEN: Something's wrong.
-Rintaro: Hey, what happened!? Daru!?
-Itaru: I'm sor... some guys... came out of nowhere... they took Mayu-shi... I think... they wanted... me... I... ran... but Mayu-shi... What do I do, Okarin!?
-UNSPOKEN: It's the Rounders. They kidnapped her. And then they probably killed her. To them, Mayuri is expendable. I grind my teeth in frustration. It didn't work. I still haven't averted Mayuri's death. I toss Moad Snake onto the couch. The preparations were a waste. Mayuri died somewhere else. I hang up and walk to the development room.
-Rintaro: I won't let you kill Mayuri!
-UNSPOKEN: And so, once more, I send my memories to the past. An unpleasant sound pierces my ears. My vision ripples. My flesh and my soul momentarily feel separate. I grab my right wrist. I close my eyes, take deep breaths, and wait for my pulse to return to normal.
-Rintaro: Whew...
-UNSPOKEN: The worst is over. All that's left is a headache. Now I have my answer. Mayuri's death is still fixed, just as in my heart I knew it would be. The change merely delayed it by another 24 hours. I need to cancel Lukako's D-Mail. I sit down in a pipe chair and try to come up with a plan. Nothing. I've been searching for a way to tell Lukako the truth, but every mental simulation I run ends with her in tears. I suppose that's to be expected. After all, I've already seen it happen once. I mistook Lukako for a guy, and she ended up in tears. I mean, Lukako cries at just about anything... To broach the topic now would be like poking an open wound. Damn. It looks like I have no choice but to ask Kurisu. She's a girl, so she should understand how Lukako feels. I call Kurisu out to the bench in front of the Braun Tube Workshop. We're alone.
-Kurisu: This seems serious.
-Rintaro: Yes. I have a difficult problem that requires... delicacy to resolve.
-Kurisu: Delicacy? That's like the exact opposite of what anyone expects from you.
-Rintaro: That's why I want to ask a girl. Plus, you're my assistant, so I need you to save my ass this instant.
-Kurisu: Oh, you. Why do you need to ask a girl anyway?
-UNSPOKEN: I give her the rundown -- including how many times I've time leaped, and what happened with Suzuha and Faris. How many times have I explained this to her now? This time, she believes me more readily than I expected. The only thing she doesn't believe is the story about Lukako.
-Kurisu: Urushibara-san is actually a guy? That's totally ridiculous.
-Rintaro: But it's the truth. Was the truth.
-Kurisu: So basically, umm...
-UNSPOKEN: She wrinkles her brow in thought.
-Kurisu: She looked like Hashida?
-UNSPOKEN: Crap, I got a mental image there for a second. Judging by her expression, so did Kurisu.
-Rintaro & Kurisu: Ugh.
-UNSPOKEN: We grimace.
-Kurisu: Unacceptable! There's no way such a cute girl was a guy.
-Rintaro: Hey, hold your horses. I never said that Lukako looked like a guy. He actually looked pretty much the same. He was always androgynous, so much you couldn't help but think he was secreting excess female hormones or something.
-UNSPOKEN: As a result, I didn't even notice when Lukako became a girl at first, and made a fatal mistake.
-Kurisu: He looked like she does now?
-UNSPOKEN: Kurisu's gaze wanders for bit...
-Kurisu: Acceptable.
-UNSPOKEN: What?
-Kurisu: Anyway. You want to turn her back into a guy?
-Rintaro: Unless we do, Mayuri dies.
-Kurisu: Mayuri's life is tied to Urushibara-san's gender... That's so crazy it doesn't seem real at all. Have you come up with a solution?
+Rintaro: So what you're saying is that the present is subjective to the observer.
+Faris: If we go with that assumption, then the past and the future also depend on the observer, nyan. If Faris were to use a time machine to travel back one week, then Kyouma and Daru-nyan's present would become Faris's future, nya.
+Itaru: I guess that makes sense...
+Faris: So how does the leaf model reflect that difference, nya?
+UNSPOKEN: Neither Daru nor I has an answer to that. Perhaps nobody has an answer. Just like the 'collapse of causality' thing that Kurisu mentioned. Does that mean that time machines and time travel are impossible after all? But SERN's gelified test subjects physically traveled as far back as 1921...
+Faris: Anyway, if everything depends on the observer, then clocks are meaningless, nyan. Fun times fly, and hard times drag, nya. In other words, the flow of time changes depending on your point of view, nyan.
+Itaru: Speaking of which, as you grow older, it feels like time starts to flow faster, doesn't it?
+Rintaro: Janet's law...
+Faris: Faris thinks about this stuff sometimes, nya. I think time might not be something as simple as a river, nyan.
+Itaru: Yeah, the more you think about it, the more complicated it gets.
+UNSPOKEN: The strict definition of time, similar to the question of Where is the self?, is one of humanity's eternal questions. Countless renowned scholars have left this question unanswered. There's no way amateurs like us can answer it. But there's one thing I can do.
+Rintaro: Heh. Heh heh heh. Muhahaha!
+Faris: Nyanya?
+Rintaro: Fret not. Though physics and philosophy may deny us, our machine has made time travel possible! Am I correct, Daru!?
+Itaru: Yeah. Yeah! That's right!
+Faris: Nyaa... looks like you guys have kicked reason to the curb, nya. But Faris wants to use the time machine too, nya. Can I, please?
+Itaru: Sure! I'll let you use it as much as you want, Faris-tan.
+Faris: Really nya? Then it's a promise, nya!
+Rintaro: Daru, don't decide things on your own!
+UNSPOKEN: Faris springs up with joy and hugs Daru's rotund body. That's all it takes to make Daru look like he's died and gone to heaven. After killing some more time at MayQueen, I leave Daru and head back to the lab. When I arrive, I find Kurisu sitting on the bench in front of the Braun Tube Workshop, talking on her phone. 
+Kurisu: What? You called me all the way to Japan, and now you-- ...I knew it. You never wanted to see me, did you? ...sniff.
+UNSPOKEN: The street is dark and her hair is covering her eyes, so I can't make out her expression. But from the sound of her voice, I can tell that she's crying.
+Kurisu: Why did you ask me to come here, then? Can you at least tell me tha--

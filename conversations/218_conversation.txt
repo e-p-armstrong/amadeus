@@ -1,24 +1,20 @@
-Kurisu: ...Kuh!
-UNSPOKEN: Kurisu suddenly pushes me away. She steps back. Her face is hidden behind her hair. But her fists are trembling. Her body exudes raw fury.
-Kurisu: This is ridiculous! You... motherfucker!
-Rintaro: Whoa!
-Kurisu: I said I was fine! What do you mean you won't give up!? Are you stupid? Wanna die? Are you trying to be a hero, you chuunibyou wackjob? Don't make promises you can't keep! Your stupidity is infuriating! Why can't you just do as I say!?
-Rintaro: I...
-Kurisu: What's the problem, huh!? If you weigh the options logically, saving Mayuri is the only--
-Rintaro: Fuck logic!
-Kurisu: ...!
-UNSPOKEN: Kurisu stares at me in shock.
-Rintaro: I'm not God! Maybe I got close, but that's not me! I can't decide who lives and who dies anymore!
-UNSPOKEN: Suzuha. Faris. Lukako. I sacrificed their happiness to save Mayuri. And the whole time, a voice in the back of my head was asking... Is this really okay? What gives me the right?
-Rintaro: This time...
-UNSPOKEN: This time, I want to save both of them, without sacrificing anyone.
-Kurisu: Hmph!
-UNSPOKEN: Kurisu turns away with a frown, then starts tapping her foot in a clear gesture of displeasure.
-Kurisu: There's nothing you can do. It's the choice of Steins Gate. Isn't that what you always say? The equation is proven, Okabe. There's no escape. You're just one man. No matter how hard you try, you can't overcome the will of the universe.
-Rintaro: I know... but I'm still going to try!
-UNSPOKEN: I won't lose Mayuri or Kurisu.
-Kurisu: Kuh...
-UNSPOKEN: I hear Kurisu grinding her teeth. Then she turns her back to me.
-Kurisu: Have it your way! But I'm not helping. I'm going back to America, and that's that. Goodbye. I don't expect we'll meet again, Hououin Kyouma.
-Rintaro: Kuh...
-Kurisu: I can't believe this! How stupid can you be? You're so... stupid!
+Kurisu: It's just an example. For starters, it's still not clear where personality and consciousness are located, or how they are constructed. So we can't convert them into data. Or at least, I can't.
+Rintaro: So we can only send memories. Where does that leave us?
+Kurisu: Your memories aren't the only thing that define you. Even if you send your memories to the past, it will be the receiving you's consciousness and personality that process them.
+Itaru: So in Mindorz terms, it's like copying data from a VISTA computer to a Min95 computer?
+Kurisu: Data created with the latest OS might not work on an older OS. It might cause errors. For example, if you sent your current memories to yourself in elementary school, the gap between your memories and your body could have serious consequences.
+Rintaro: Anyway, is it correct to assume that we'll be targeting ourselves in the past?
+UNSPOKEN: Kurisu nods at my question.
+Kurisu: Just like with D-Mail, we're using cellphones as the transfer medium. To be precise, you can only leap into your own body, and only if you had a cellphone at the time of reception.
+UNSPOKEN: There was an exception in Lukako's case where we sent a D-Mail to a pager, but that doesn't apply to time leaping.
+Kurisu: If you try sending memories to someone else... umm, how do I put this... there's a danger that the electrical signals might be rejected.
+Itaru: Wouldn't want to jump into someone else's body. I mean, unless it's the body of a cute girl. Uhehe!
+UNSPOKEN: Is this guy capable of a non-perverted thought?
+Kurisu: Don't 'uhehe' me, you idiot! If it just bounces off, that's fine, but I'm worried incompatible memory data might do serious damage to the recipient's psyche. I don't know what might happen. No one's done it before, after all.
+UNSPOKEN: That makes us pioneers. I like it.
+Kurisu: There are two things I do know. One, you definitely cannot go back before you were born; and two, you won't exist in two places at once. That means you don't have to worry about causing a paradox. You can't kill your parents before you were born.
+Rintaro: So the phones act like black and white holes...
+UNSPOKEN: It seems like a strange coincidence that cellphones would be the medium of time travel, but really, could it have been anything else? These days, people wear their phones like a second skin. No other medium could reliably deliver the memories to their intended target. The more I think about it, the more I realize that this was meant to be.
+Rintaro: Heh... heh heh heh... MUHAHAHA!
+UNSPOKEN: I whip out my phone and place it to my ear.
+Rintaro: It's me. Everything is falling into place. The plan can now proceed to the final stage. I'm talking about Operation Verthandi, obviously. Heh. Christina had me fooled. I never knew she was capable of this. It must have been the choice of Steins Gate that sent her here. Don't worry. I have everything under control. Nothing can stop us now. El Psy Kongroo.

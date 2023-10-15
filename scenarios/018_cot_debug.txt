@@ -1,8 +1,0 @@
-Plan:
-1. Describe the setting which is an informal discussion between Okabe and Kurisu.
-2. Mention that Okabe and Kurisu are already familiar with each other, having spent time together in the lab where they experimented with the PhoneWave.
-3. Mention Okabe's eccentric personality, which is a constant source of bemusement for Kurisu.
-4. Conclude by stating what Kurisu is trying to do, which is to understand Okabe's perspective on their discussion topic.
-
-Scenario:
-Kurisu is in the midst of an informal debate with Okabe, an eccentric young man known for his dramatic proclamations and odd theories. They are in a lab where they have spent time together, tinkering with a machine they call the PhoneWave. Kurisu knows Okabe well, having dealt with his peculiarities and outlandish theories on many occasions. Despite Okabe's eccentricity, Kurisu is trying to engage with him, attempting to understand his perspective on the topic they are discussing.

@@ -1,47 +1,37 @@
-UNSPOKEN: Talking to Kurisu lets me sort out everything I've done. Everything I've seen.
-Rintaro: I shouldn't have told Daru to hack SERN. I shouldn't have asked you to build a time machine. I shouldn't have made Moeka a lab mem. Mayuri's death... is all my fault.
-UNSPOKEN: That's why I needed to bear the burden myself.  I was resolved to do whatever it took to save Mayuri, never faltering, never giving up. And yet, my resolve has already crumbled.
-Kurisu: If you know that Mayuri's going to die, then what are you doing wasting time here?
-UNSPOKEN: Kurisu's tone is haughty. Is this how I sound when I'm playing Hououin Kyouma?
-Rintaro: ...I just don't get it anymore.
-Kurisu: What don't you get?
-Rintaro: How to save Mayuri.
-Kurisu: Based on what you said, I guess the chronology protection conjecture is true.
-Rintaro: No matter what I do, Mayuri dies.
-Kurisu: And that's why you keep time leaping... There's no guarantee that the machine is safe, you know.
-UNSPOKEN: Kurisu lowers her gaze and cups her chin, as she often does when assessing a problem.
-Kurisu: Even if the machine works perfectly, repeated use may have serious side effects. For example, you may become disconnected from causality itself. You need to understand the risks if you're going to continue.
-Rintaro: Disconnected from causality, meaning?
-Kurisu: It happens all the time in sci-fi. You'll become trapped in a closed time loop, never aging, never dying, but doomed to repeat the same day for all eternity. Worst case, you may cease to exist entirely.
-UNSPOKEN: What?
-Kurisu: Every trace of your existence will vanish. Nobody will remember you, because your life will have never happened. Leaping through time is that dangerous.
-Rintaro: 'Humans are temporal beings.'
-UNSPOKEN: Kurisu looks surprised.
-Kurisu: Heidegger. I was thinking of that quote too.
-Rintaro: I heard it from you first.
-Kurisu: When?
-Rintaro: This isn't the first time I've leaped.
-Kurisu: Right. Of course.
-UNSPOKEN: Kurisu squats next to me, thinking deeply.
-Kurisu: If what you said is true, then I want to save Mayuri too. But as the co-creator of the Time Leap Machine, I can't recommend its continued use. Will you listen to my advice?
-Rintaro: I...
-UNSPOKEN: I can't do it alone. I know that now.
-Rintaro: I need your help. I have to save Mayuri! I can't do it alone, but together, we might have a chance. I want... I need to believe that! Please, lend me your strength.
-UNSPOKEN: Kurisu sighs.
-Kurisu: You're such a stubborn fool. What you've been through... I'm surprised it hasn't broken you already.
-UNSPOKEN: Incredibly, she sounds concerned about me. She looks at me for a moment, then turns away as if embarrassed.
-Kurisu: I'll help. Mayuri's my friend, and a fellow lab mem. And besides... I don't want to see you in such pain.
-Rintaro: I'm sorry.
-Kurisu: Don't apologize. Remember when I told you about my father? You really helped me out back then. Now it's my turn to return the favor. I want to be your strength. Besides, you still have to come with me to Aomori.
-UNSPOKEN: She smiles a wry but gentle smile, as if I were her mischievous younger brother.
-Kurisu: I know you're going to leap no matter what I say. You are a mad scientist, after all, and mad scientists play by their own rules. Hey. Aren't you supposed to go 'muhahahaha' or something?
-Rintaro: Yeah...
-Kurisu: Why do I even try?
-UNSPOKEN: Kurisu is right. I'll do anything to save Mayuri.
-Kurisu: Anyway, I'm not doing this for you, okay? I'm doing it for Mayuri.
-Rintaro: Yeah, of course.
-Kurisu: That, and I think you'll make a good test subject.
-Rintaro: Now you're talking like SERN.
-Kurisu: It's completely different.
-Rintaro: How so?
-Kurisu: I only experiment on you. Besides, mad scientists experiment on themselves all the time, don't they?
+UNSPOKEN: Daru's eyes light up.
+Itaru: That's brilliant, man! We can use D-Mails to make ourselves billionaires! I could buy all the computer parts I want and go to MayQueen for every meal of the day! I AM SO PUMPED UP!
+UNSPOKEN: ...This is wrong.
+Rintaro: Mayuri, you were gonna buy a truckload of bananas... right?
+Mayuri: A truckload? Who's gonna fill it up?
+UNSPOKEN: ...This is wrong. I look at Moeka. She's staring at the floor like usual, but I don't miss the confused glance she throws my way.
+Rintaro: Wait! What happened to stage two of Operation Urd!?
+Kurisu: By stage two, you mean an experiment to see if we can change the past, right?
+Rintaro: R-right! That's it!
+Itaru: Yeah, that's why we're all thinking.
+Rintaro: What?
+Mayuri: About what to send, so we can tell if the past has changed.
+Itaru: I think we should definitely go with Okarin's LOTO SIX idea.
+Mayuri: Mayushii thinks we shouldn't be so greedy for dough. Ah, but when I say dough, I don't mean like for baking.
+Kurisu: I think we all know what you mean.
+Mayuri: Really? That's great! So, instead of being greedy, we should do something that will bring peace to the world! Like, if we gave everybody in the whole wide world an Upa cushion, I think everyone would be happy♪
+Itaru: The only ones who'd be happy are little kids and Mayu-shi.
+UNSPOKEN: What? What are these guys saying? They're acting like I never sent that D-Mail with the winning numbers.
+Luka: Um... hello?
+UNSPOKEN: The front door opens slowly, and Lukako sticks his head inside.
+Mayuri: Ah, it's Luka-kun! Welcome♪
+Luka: Pardon the sudden intrusion...
+UNSPOKEN: Lukako bows his head apologetically. Mayuri, Kurisu, and Daru go into welcome mode. Moeka... keeps staring at her phone. But I'm not in any condition to greet Lukako. I can't stop sweating. And it's not because of the heat. I don't know what's going on anymore. Questions keep spinning around in my head.
+Mayuri: Did you decide to wear one of Mayushii's costumes? That would make me happy♪
+Luka: Ah, no, that's not why I came...
+UNSPOKEN: Lukako looks at me apologetically, like he wants to say something.
+Rintaro: ...What is it?
+UNSPOKEN: I reply mechanically. My mind is still blank.
+Luka: Actually, Okabe-san... I mean, Kyouma-san, there's something I need to apologize for...
+UNSPOKEN: What could he have to apologize for? Timidly, Lukako holds out his hand. And there, between his fingers...
+Rintaro: Ah...!
+UNSPOKEN: Is a LOTO SIX ticket. And the numbers are the same as the ones in my D-Mail! I grab Lukako by his slender wrist.
+Rintaro: Where did you get this!?
+Luka: T-that hurts...
+Mayuri: Don't pick on Luka-kun!
+UNSPOKEN: Mayuri gets between us. I let go reluctantly.
+Kurisu: What's wrong with you, Okabe? You're acting weird.

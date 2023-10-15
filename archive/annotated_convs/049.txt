@@ -1,0 +1,43 @@
+
+
+Okabe: "Oh, right. Thanks to a certain assistant, I didn't get a chance to present the operation's codename yesterday. Heed me! These D-Mail experiments are all part of Operation Ur--" *I start, but am abruptly interrupted.*
+
+Kurisu: "The experiments have been fruitful." *She stands up, placing her empty noodle cup on the table. She retrieves the whiteboard from the development room, scribbles on it, and puts it up against the wall.* "At the very least, we've learned what we can do with D-Mail. That about sums it up. Anything to add?"
+
+Okabe: *I glance at the whiteboard, processing her summary.* "A D-Mail can be at most 36 English characters or 18 Japanese characters long. That makes experimentation difficult, so we'll want to improve that first. Furthermore, each D-Mail is split into 12 character segments. If you send 36 characters, you'll get three 12-character emails. If you try to send more, everything after the 36th character disappears."
+
+Itaru: "But we figured out how to control when it arrives. That's pretty good, right?" *He interjects, spinning his chair around to face us.* "Though we can only set it in one hour increments, we can control how far back D-Mails go by using the microwave's timer."
+
+Kurisu: *She crosses her arms, looking thoughtful.* "Observation isn't enough. We need to find the underlying principle. What I've written here is nothing but verified phenomena."
+
+Okabe: *I nod in agreement.* "The underlying principle... you're right. It's not a complete time machine until we understand how it works. What could be the reason for the character limit?" *I question, looking between Daru and Kurisu.*
+
+Mayuri: *Suddenly, she raises her hand, looking at us with wide eyes.* "Um... Chicken and bananas become 'gelchicken' and 'gelbanas', but salt doesn't turn into 'gelsalt', right? And you can send 36 letters in a D-Mail, but everything past that disappears, right-? So I think maybe you can't send big things, or a lot of small things. Maybe the Curb black hole--"
+
+Kurisu: *She corrects her gently.* "Uh, it's Kerr black hole."
+
+Mayuri: "The Curb black hole--"
+
+Kurisu: *She interrupts again, more firmly.* "Kerr black hole."
+
+Mayuri: "...the black hole's hole is too tight." 
+
+Itaru: *He grins widely.* "Mayu-shi... say that one more time. Starting from 'hole'."
+
+Mayuri: "The hole is too tight!"
+
+Itaru: *He bursts into laughter.* "Outrageous!"
+
+Okabe: "Stop making her say stuff like that!" *I scold Itaru, glancing protectively at Mayuri.*
+
+Kurisu: *She seems to be seriously considering Mayuri's words.* "The hole is tight... huh. That might not be entirely wrong. Maybe we have the same problem SERN has with their time machine. Since they can't fully control the lifter, they can't make the singularities perfectly naked, which limits how much they can send."
+
+Itaru: "Anyway, 6 Japanese or 12 English characters comes out to 12 bytes." *He explains, leaning back in his chair.*
+
+Kurisu: *She tilts her head to the side, looking puzzled.* "Bytes? Not kilobytes?"
+
+Itaru: "Oh? So Makise-shi's bad with computers?" *He teases, smirking at her surprised expression.*
+
+Okabe: *I join in, unable to resist.* "Heh. Is that so, assistant?"
+
+Kurisu: "Sh-shut up! You don't see things measured in bytes nowadays, so I was just making sure..." *She mutters, turning away with a huff.*

@@ -1,36 +1,26 @@
-Kurisu: Okabe!
-UNSPOKEN: Kurisu's advances on me with a stern glare.
-Kurisu: If you want to give me stupid nicknames, that's fine -- I mean, it's not, but... What you said just now is below the belt. I didn't take you for the kind of guy who thinks it's funny to hurt people's feelings, but I guess I was wrong. You're a real jerk, Okabe.
-Rintaro: Huh?
-UNSPOKEN: What did I do to deserve this tongue-lashing?
-Kurisu: Apologize. Apologize to Urushibara-san right now.
-Rintaro: Wait a second. I don't have to apologize for anything. I just said the tru--
-Luka: It's okay.
-UNSPOKEN: Lukako gets up from the sofa. His head is still hanging, and his voice is barely audible.
-Luka: So that's how Okabe-san sees me...
-Rintaro: No no no! That's not how I see you, Lukako. You're a guy, remember!? Or are you denying reality too!?
-Kurisu: You're the one denying reality!
-Mayuri: That's right! Luka-chan's a girl, Okarin. You're terrible.
-Rintaro: Mayuri, when did you start calling Lukako 'Luka-chan' instead of 'Luka-kun'?
-Kurisu: Cut it out already, Okabe! She's a girl!
-UNSPOKEN: Mayuri nods in agreement. Uh... huh? What's going on here? Is this some kind of prank?
-Luka: I'm going home!
-UNSPOKEN: Lukako tries to slip by me out of the lab. I grab his hand to stop him from leaving.
-Rintaro: Hold it, Lukako! You can't fool me! You're as much a man as I am! And I know how to prove it!
-UNSPOKEN: I pin Lukako's arms and reach for his package. Let's see what you're hiding... down... Nothing.
-Rintaro: Oh...?
-Luka: ah...
-Kurisu: You...
-Mayuri: Awawa...
-Rintaro: Ohhhh? Huh? What? Why?
-UNSPOKEN: I feel around some more.
-Luka: Ugh, no, don't... Okabe-san, please... stop... sniff.
-UNSPOKEN: Nothing. Nada. It should be there. I mean, he's a guy... isn't he? An electric current runs through my brain. No way... Yes way. So that's what happened!
-Rintaro: Lukako, you...
-UNSPOKEN: The D-Mail that I thought had failed... Was actually a success!
-Rintaro: You're a girl!?
-Kurisu: That's what we've been saying!
-UNSPOKEN: A half-second later, Kurisu cracks me over the head with her heavy textbook.
-Luka: hic... ugg... egh...
-UNSPOKEN: When my vision clears, Lukako is crying. Mayuri is rubbing her back comfortingly. Kurisu, meanwhile, is glaring down at me like I'm something she scraped off the bottom of her shoe. Daru, who arrived a moment ago, is in the corner, trying not to laugh. Honestly, I can't blame him.  Righteous High School Girl Makes Perverted College Guy Beg for Forgiveness If I had to put a title to this scene, that's what it would be. The top of my head is throbbing. Most likely because Kurisu wiped out a hundred million of my precious neurons, envied by scientists the world over. I put a moist towel to my head.
-Kurisu: I want to vivisect your skull and remove your brain for a good washing. Then I'll submerge it in culture fluid so you can never do anything like that again! Anyway, just be thankful I haven't reported you to the police.
+Rintaro: And they've successfully generated mini black holes.
+Kurisu: No way... Then why haven't they made an official announcement!?
+Rintaro: That's just it. For some reason, those bastards won't announce any of it. That the LHC has been operating for nine years. That they've successfully created mini black holes. That they're researching time travel. Basically, it's proof that SERN has--
+UNSPOKEN: Dammit. Another email. I'll start over.
+Rintaro: Basically, it's proof that SERN has something to hide. Can't you just smell the conspiracy?
+Kurisu: I don't believe in conspiracies, but... If you can prove what you said is real, then I might be surprised. SERN doing time travel research... Ah, but what about the IBN 5100? How is that involved?
+Rintaro: SERN's database uses--
+UNSPOKEN: Another email. There's only one person who can send them this fast. That mail demon! Didn't I tell her to give it a rest!?
+Rintaro: Sorry. Daru, please continue the explanation.
+UNSPOKEN: I excuse myself and open the email. It's a reply to my earlier email. She's so impatient. Kurisu is glaring at me. Better make the reply brief. I got an IBN 5100. I can't lend it to you, but if you want to see it, you can come to our lab. I send the email after adding the lab's address, and close my phone.
+Rintaro: So, how far did you get?
+Itaru: Up to the point where SERN's using IBN 5100 code for their database.
+Rintaro: So basically, what that means is-- The only way to decrypt that database is to use an IBN 5100 of our own.
+Kurisu: How do you know that?
+Rintaro: I have my sources.
+UNSPOKEN: I don't drop Titor's name. I have no doubt this genius girl would laugh if I did. Kurisu puts a finger to her lip, deep in thought.
+Kurisu: Setting the IBN 5100 and such aside... I want to see proof that SERN's really doing that sort of research.
+UNSPOKEN: True, we didn't get any definite proof of SERN's time travel research last time we hacked them.
+Rintaro: Daru. Will it take much longer to find the server admin's account?
+Itaru: Actually, I was just thinking about doing that. It shouldn't take more than half a day, I guess.
+Rintaro: There you go.
+Kurisu: ...I'll wait until then.
+Itaru: You'll wait? It's already getting dark. Why not go home for tonight and come back tomorrow morning?
+Kurisu: No thanks. I'll wait. I want to know as soon as possible, even if it's just a microsecond sooner.
+Rintaro: Heh heh heh, that's the spirit. You're already fascinated by the conspiracy. You can't help but want to know what lies at the heart of SERN.
+Kurisu: If what you guys are saying is true... then this isn't something to joke about. SERN is the world's top research institution. If they're doing secret experiments without publishing their results... They're making fools of scientists the world over. That's only if it's true, though.

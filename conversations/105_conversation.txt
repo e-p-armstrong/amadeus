@@ -1,35 +1,29 @@
-UNSPOKEN: Mayuri pauses her DVD and comes up beside me.
-Itaru: With a connection this fast, we can control the LHC practically in real-time. I haven't actually tried it yet, though.
-UNSPOKEN: That's right. Even if this is some kind of SERN trap, we might be able to make use of it. They're still vulnerable to our attack.
-Mayuri: The LHC is that 20-kilometer-long tunnel thing, right? Um, what does it do again?
-Rintaro: It accelerates protons and smashes them together.
-Mayuri: Oh yeah. Mini black holes, right?
-Itaru: The official line is that mini black holes might manifest as a byproduct of the particle collision, but that's not the truth.
-Rintaro: According to the top secret documents we found, the LHC was intended to create black holes from the very beginning.
-UNSPOKEN: But we still don't know exactly how they do it. We need to think of a way to--
-Kurisu: Okabe.
-UNSPOKEN: Kurisu suddenly emerges from the development room. She was cooped up in there all morning. Her expression is unusually grave.
-Rintaro: What's wrong?
-Kurisu: I figured it out.
-UNSPOKEN: Figured what out?
-Kurisu: I think I know how the PhoneWave works.
-Rintaro: Really!?
-UNSPOKEN: Kurisu nods. She still hasn't smiled.
-Kurisu: Keep in mind that this is just a hypothesis based on what we've observed. It's closely related to what you guys were just talking about -- the LHC.
-Rintaro: I believe it was you, Christina, who called the LHC the world's largest microwave.
-Kurisu: Yes. Exactly. My hunch was right. You've created a monster, Okabe.
-UNSPOKEN: A monster...
-Kurisu: It doesn't belong in some amateur lab. And before you take that as an endorsement of your abilities, I mean it in a bad way.
-UNSPOKEN: Kurisu clutches her arms as if to keep from trembling.
-Rintaro: Give me details.
-Kurisu: Did you know that the microwave oven was invented as a byproduct of radar research?
-UNSPOKEN: Daru and I nod. Mayuri shakes her head. We read up on all that back then the PhoneWave (name subject to change) started acting weird.
-Kurisu: Microwaves are electromagnetic waves with a frequency of 2. 45 gigahertz. The PhoneWave is commercial grade, so its output is around 1500-2000 watts. Here's the important part.
-UNSPOKEN: Kurisu goes on to explain that the electromagnetic waves output by the microwave are somehow connected to the electromagnetic waves output by the phone. In fact, you could say they fuse together.
-Rintaro: According to Daru's blueprints, the microwave and the phone are made to send out shared electromagnetic waves by taking their leads... And hardwiring each of them to the magnetron's cathode and anode.
-UNSPOKEN: On one hand, we have the microwave's super strong electromagnetic waves, originally a byproduct of the military's research into radar technology. On the other, we have the cellphone's standardized electromagnetic waves, a frequency now ubiquitous throughout the world. What happens when you fuse those two waves?
-Kurisu: Both devices use electromagnetic waves. I'm not a specialist, though, so I can't examine the extent or magnitude of the influence that fusion has... But hypothetically, if the cellphone were to become a stepping stone, scattering the military-grade electromagnetic waves over a vast range of hundreds of kilometers-- Then not just Akihabara, but all of Tokyo would turn into the inside of a microwave oven. Taking into account slight variance due to body weight, the average time until death for the people inside would be-- Three minutes.
-Mayuri: Ehh!?
-Itaru: Seriously? Then the PhoneWave's a weapon of mass destruction, isn't it!?
-UNSPOKEN: I-is it really that powerful?
-Kurisu: Let me tell you what happens inside the PhoneWave. The air inside the oven is full of invisible hydrogen atoms. First, it bombards the atoms with microwaves to increase their energy potential. This is the normal function of a microwave oven. But when you add the electromagnetic waves from the phone... The harmonics trigger a chain reaction. The particles collide repeatedly at near light-speed, gaining mass and energy each time. In other words, it becomes a sort of particle accelerator.
+Rintaro: Is there anything specific about what exactly the Z Program is?
+UNSPOKEN: Daru types on the keyboard from the side, bringing up another window.
+Kurisu: Hmm... ah... here. This... can't be!
+UNSPOKEN: Kurisu bends forward and stares wide-eyed at the words on the screen.
+Rintaro: What is it?
+Kurisu: 'The purpose of the Z Program is to perform time-space displacement experiments by means of high-energy proton-proton collisions.'
+UNSPOKEN: Time-space displacement experiments.
+Rintaro: Time travel!
+UNSPOKEN: I have to struggle to keep from shouting. I quickly run over to the window and close it. It might make it hotter inside, but it would be worse if people outside overheard us.
+Kurisu: No way... it was true? You're telling me they've been deceiving the world for nearly 40 years?
+Rintaro: Just as I suspected. A great shadow lurks behind SERN. Most likely the Organization, or one of its puppets.'
+Kurisu: What Organization, you chuunibyou nutjob? At least try to be serious some of the time.
+Rintaro: Hmph, don't be ridiculous. My words are always grounded in truth.
+Itaru: Anyway, shouldn't it be 'the Committee' instead of 'the Organization'? That's what it says here.
+Kurisu: The Committee of 300? I don't think they mean SERN's Executive Council. What are they talking about?
+Rintaro: The world is full of lies. It's not as beautiful as you think.
+Itaru: Listen, Okarin...
+Rintaro: I am listening. The Committee of 300 is the dark power that controls every secret society, every government, every multinational corporation.
+Kurisu: You're making things up again.
+Rintaro: It's the truth. Google it if you don't believe me. Until now, the human race, for all its accomplishments, has never been able to overcome the barrier called time. The technology of time travel, which can break through that barrier, will change the course of human history. Literally. As it was when we split the atom, this forbidden fruit has the potential to grant us godlike power. Not a man exists who can resist its temptation. And naturally, all those with power will use any means at their disposal to obtain it. Human morality is naught but a joke to those who would stand with the gods. Understand, Christina?
+Kurisu: ...Wow. That was quite a speech. Since you seem to know so much about it, does that mean you're aiming for godhood too?
+Rintaro: What Hououin Kyouma desires is the destruction of all who would call themselves gods, the collapse of their hateful System, and a glorious new age of Chaos. Muhahaha!
+Kurisu: I'm not asking Hououin. I'm asking Okabe.
+Rintaro: I... I am Hououin!
+Kurisu: In other words, you don't have your own reason.
+UNSPOKEN: Damn you, assistant. How dare you attack my very identity?
+Itaru: Forget about him, Makise-shi. Please keep reading.
+Rintaro: Daru! What do you mean forget about me?
+Itaru: I'm tired of listening to conspiracy theories. I'm more interested in the Z Program than in your delusions.

@@ -1,8 +1,0 @@
-Plan:
-1. Describe the ongoing event - Okabe and his friends are preparing to send a D-Mail using their time machine, the PhoneWave. 
-2. Introduce the other characters present - Faris, who wishes to send the D-mail, Mayuri, another friend, and Itaru, a confidant of Okabe. 
-3. Describe Kurisu's relationship with the other characters - she is familiar with all of them, having worked together on the PhoneWave project. 
-4. Describe Kurisu's current state and what she's trying to do - she is in their lab, setting up the PhoneWave for the experiment under Okabe's instructions.
-
-Scenario:
-Okabe and his friends are gearing up for a time-altering experiment using their home-brewed time machine, the PhoneWave. Accompanying him are Faris, who wishes to send a message to the past, and his friends Mayuri and Itaru. Kurisu, a key member of their group, is familiar with everyone present, having spent significant time working together on the PhoneWave project. As the experiment begins, Kurisu is in their shared lab, remotely configuring the settings of the PhoneWave under Okabe's direction.

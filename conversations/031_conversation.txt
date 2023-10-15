@@ -1,39 +1,17 @@
-Kurisu: ...I'll wait until then.
-Itaru: You'll wait? It's already getting dark. Why not go home for tonight and come back tomorrow morning?
-Kurisu: No thanks. I'll wait. I want to know as soon as possible, even if it's just a microsecond sooner.
-Rintaro: Heh heh heh, that's the spirit. You're already fascinated by the conspiracy. You can't help but want to know what lies at the heart of SERN.
-Kurisu: If what you guys are saying is true... then this isn't something to joke about. SERN is the world's top research institution. If they're doing secret experiments without publishing their results... They're making fools of scientists the world over. That's only if it's true, though.
-UNSPOKEN: She finishes by emphasizing that point again. Doesn't look like she believes us.
-Rintaro: Anyway, Daru. I'll leave it to you.
-UNSPOKEN: According to Daru's research, the IBN 5100 weighs 25 kilos. For now, we'll leave it on the shelf in the development room. We carry the cardboard box to the room, half dragging it. Kurisu follows.
-Kurisu: Can you show me the PhoneWave?
-Rintaro: Indeed I can. Want to experiment?
-Kurisu: You haven't been able to send another email to the past yet, right? Do you know why?
-UNSPOKEN: I can only shake my head.
-Kurisu: Let's run some tests.
-UNSPOKEN: Kurisu looks around the development room.
-Kurisu: Man. You have a ton of junk.
-Rintaro: It's not junk! Since you're new to the Future Gadget Laboratory, I'll explain. These are the glorious fruits of our science: the Future Gadgets! Future Gadgets 1-7 are stored here. The PhoneWave, with which you are already familiar, is Gadget Number 8.
-Kurisu: Future Gadgets, huh...
-UNSPOKEN: Kurisu casually picks Future Gadget 4: Moad Snake up from the shelf and stares at it.
-Kurisu: Hey. Isn't this... a weapon?
-Rintaro: Future Gadget No. 4: Moad Snake, designed after a claymore landmine, is an instant humidifier.
-Kurisu: How confusing.
-Rintaro: Insert water and turn the power on, and in mere seconds, it generates a thick cloud of steam.
-Kurisu: So it's junk. I thought so.
-UNSPOKEN: Kurisu sighs and returns Moad Snake to the shelf.
-Kurisu: I'm borrowing this.
-UNSPOKEN: Without waiting for a reply, she grabs Daru's never-worn lab coat from the shelf and puts it on gallantly.
-Rintaro: Whoa!
-Kurisu: It's just not right without a lab coat.
-UNSPOKEN: Overcome with emotion, I seize Kurisu's hand and grasp it firmly.
-Kurisu: Hey!
-Rintaro: Assistant! You get it, don't you!?
-Kurisu: G-get what? Let go!
-Rintaro: If you're gonna do science, you need a lab coat! Right!?
-UNSPOKEN: I told Daru over and over, but he wouldn't wear one. But my assistant is different. She put it on before I even said anything!
-Rintaro: I knew you were meant for this, Christina! You're the best assistant a mad scientist could ask for!
-Kurisu: I don't know if that's supposed to be a compliment, but it's coming off as an insult. Now let go!
-UNSPOKEN: She shakes off my hand and turns her back to me.
-Rintaro: I'm giving you that lab coat to commemorate your joining the lab. Don't worry. It's never been worn. Or maybe this fateful encounter between you and that lab coat was decided by destiny long ago. Daru not wearing it was just another inevitability. This is the choice of Steins--
-Kurisu: Shut up so we can start the experiment.
+Rintaro: If you deleted it, then prove it.
+UNSPOKEN: She silently shows me her screen. The only picture remaining is the one of that computer. That's a relief.
+Moeka: I'll email you... later. So ask... okay?
+Rintaro: About what?
+Moeka: ...The urban legend.
+UNSPOKEN: Oh, that. I almost forgot. With that, Shining Finger wanders off. Throughout the encounter, she kept the same cool expression. Actually, I don't think we ever once made eye contact. And, send. Her phone doesn't react, and she gives me a look that seems to ask something. Why won't it transfer? We both look at her phone's screen in bewilderment. What's wrong? This is so annoying. I'll send it again. And, send. Her phone doesn't react, and she gives me a look, like she wants to asks something. Why won't it transfer? We both examine her phone's screen. This is getting annoying. I'll send it again. And, send. Her phone is silent. She looks at me as if to ask something. What's going on with the transfer? We both look at her phone's screen in bewilderment. I'll try to send it again. And, send. Her phone doesn't react, and she gives me a look that seems to ask something. Why won't it transfer? We both look at her phone's screen in bewilderment. I'll try to send it again. She frowns while looking at her own phone. And then she glances my way. I can feel those eyes clearly saying hurry up. But I'm hesitant. I'm not sure if it's a good idea to give her my true name. But regardless of how long I hesitate, I don't think that she'll let me go until I send her the email. She sure is persistent. Looks like I have no choice but to send the email. We exchange a few words, and then I get away from her as fast as I can.
+Maids: Welcome back, Myaster!
+UNSPOKEN: I open the door to the MayQueen+Nyan² maid cafe, and two familiar cat-eared girls greet me with smiles.
+Mayuri: It's Okarin!
+UNSPOKEN: One of them is Mayuri. But here, she's called Mayushii NyanNyan. Since she works here, I stop by about twice a month. I guess that would make me a regular customer. Actually, I've never been to any other maid cafe.
+Mayuri: Welcome back, Okarin.
+UNSPOKEN: After bowing again, Mayuri gasps as if she thought of something.
+Mayuri: Hey, Okarin! Mayushii just noticed something. 'Welcome back' and 'Okarin' go really well together!
+UNSPOKEN: Whatever...
+Faris: Kyouma! It's great that you came, nya!
+UNSPOKEN: The other maid who came to greet me, Faris NyanNyan -- her professional name, of course -- hits me with her trademark combo attack of cute cat-like gestures. She's MayQueen+Nyan²'s most popular maid. Even though she and Mayuri are about the same age, she looks and acts a bit younger.
+Faris: Daru-nyan's here too. He's been waiting, nya.

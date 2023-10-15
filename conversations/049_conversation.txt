@@ -1,36 +1,28 @@
-Rintaro: Oh, right. Thanks to a certain assistant, I didn't get a chance to present the operation's codename yesterday. Heed me! These D-Mail experiments are all part of Operation Ur--
-Kurisu: The experiments have been fruitful.
-UNSPOKEN: She interrupts me again.
-Kurisu: At the very least, we've learned what we can do with D-Mail.
-UNSPOKEN: Kurisu places her empty noodle cup on the table, then retrieves the whiteboard from the development room. While the rest of us eat, she scribbles on the whiteboard, then puts it up against the wall.
-Kurisu: That about sums it up. Anything to add?
-UNSPOKEN: Nothing especially. She's summarized the vital parts. Mayuri has her mouth half-open in a blank stare. She clearly doesn't understand.
-Rintaro: A D-Mail can be at most 36 English characters or 18 Japanese characters long. That makes experimentation difficult, so we'll want to improve that first.
-UNSPOKEN: Furthermore, each D-Mail is split into 12 character segments. If you send 36 characters, you'll get three 12-character emails. If you try to send more, everything after the 36th character disappears.
-Itaru: But we figured out how to control when it arrives. That's pretty good, right?
-UNSPOKEN: Though we can only set it in one hour increments, we can control how far back D-Mails go by using the microwave's timer.
-Kurisu: Observation isn't enough. We need to find the underlying principle. What I've written here is nothing but verified phenomena.
-Rintaro: The underlying principle... you're right. It's not a complete time machine until we understand how it works. What could be the reason for the character limit?
-UNSPOKEN: Daru and Kurisu remain silent.
-Mayuri: Um...
-UNSPOKEN: Suddenly, Mayuri, who has been staring at the ceiling in confusion until now, raises her hand.
-Mayuri: Chicken and bananas become 'gelchicken' and 'gelbanas', but salt doesn't turn into 'gelsalt', right?
-Itaru: So much gel...
-UNSPOKEN: According to Mayuri, the refrozen chicken had indeed been gelified when she tried eating it. Kurisu's prediction was right.
-Mayuri: And you can send 36 letters in a D-Mail, but everything past that disappears, right-? So I think maybe you can't send big things, or a lot of small things. Maybe the Curb black hole--
-Kurisu: Uh, it's Kerr black hole.
-Mayuri: The Curb black hole--
-Kurisu: Kerr black hole.
-Mayuri: ...the black hole's hole is too tight.
-Itaru: Mayu-shi... say that one more time. Starting from 'hole'.
-Mayuri: The hole is too tight!
-Itaru: Outrageous!
-Rintaro: Stop making her say stuff like that!
-UNSPOKEN: Mayuri has flowers for brains, so she's easy prey for Daru's perversions. It drives me crazy.
-Kurisu: The hole is tight... huh. That might not be entirely wrong. Maybe we have the same problem SERN has with their time machine. Since they can't fully control the lifter, they can't make the singularities perfectly naked, which limits how much they can send.
-Itaru: Anyway, 6 Japanese or 12 English characters comes out to 12 bytes.
-UNSPOKEN: English characters are half-width, so they only use one byte, but full-width Japanese characters use two.
-Kurisu: Bytes? Not kilobytes?
-Itaru: Oh? So Makise-shi's bad with computers?
-Rintaro: Heh. Is that so, assistant?
-Kurisu: Sh-shut up! You don't see things measured in bytes nowadays, so I was just making sure...
+Itaru: 'Kay, sending it now. Sending, sending, click.
+UNSPOKEN: Mayuri slips past me and steps up to the active PhoneWave (name subject to change). Before anyone can react, she grabs the handle--
+Rintaro: Wait! Don't open that!
+Mayuri: Huh?
+UNSPOKEN: But it's too late.
+Mayuri: Wawah!
+UNSPOKEN: Blue-white light fills the room, crackling angrily like the heart of a storm.
+Kurisu: An electrical discharge!
+UNSPOKEN: A violent sparking sound. I grab Mayuri and pull her away from the PhoneWave (name subject to change).
+Itaru: Are we gonna die!?
+UNSPOKEN: A thin cloud of smoke fills the room. It smells like something's burning. My eyes are numb from all the flashing light. I try blinking several times to regain my sight. I can hear Kurisu and Daru coughing.
+Rintaro: E-everyone okay?
+Itaru: S-somehow.
+Kurisu: That was definitely more than two seconds.
+UNSPOKEN: Mayuri squeezes my upper arm with her slender fingers.
+Mayuri: O-Okarin? Umm, what just happened?
+UNSPOKEN: My vision gradually returns. Mayuri looks perplexed.
+Rintaro: Are you okay? No burns or anything?
+Mayuri: Hmm... It doesn't hurt anywhere, so I think I'm okay...
+UNSPOKEN: Looks like covering Mayuri was the right choice. I may be an insane mad scientist, but I still risk life and limb for the safety of my comrades. I gently let Mayuri out of my embrace. Whew. Well, that was something. I wipe the sweat off my brow.
+Kurisu: H-hey! Look at this!
+UNSPOKEN: Kurisu voice is strained. With my vision finally restored, I take another look around the room. And what I see strikes me speechless. The large table in the center of the room is made of thick, solid wood. It can hold about five or six people without breaking. That's why we placed the PhoneWave (name subject to change) and the X68000 on it. That table has been split in two, as if by a woodcutter's axe. The computer and other parts connected to the microwave are scattered across the floor. And the microwave itself... Has broken through the table. It's literally stuck in the floor.
+Itaru: What the hell? How did that... Yeah, it's a microwave, but it's not heavy enough to make a hole in the floor...
+Kurisu: This can't be caused by electrical discharge. Some other phenomenon?
+UNSPOKEN: I shake off my surprise. This is no time to be standing with jaw agape, Hououin Kyouma. Seize the moment!
+Rintaro: Heh... heh heh heh... MUHAHAHA! Just as my calculations predicted!
+UNSPOKEN: First, some maniacal laughter. Next, I try to take out my phone and do the usual, but unfortunately, it's still plugged into the PhoneWave (name subject to change). El Psy Kongroo. I whisper the words. Words that have no meaning. Words I use simply because they sound cool. These words have meaning because they have no meaning. After years of repeated use, just speaking them is enough to calm my heart.
+Itaru: ...So, about Mayu-shi's chicken.

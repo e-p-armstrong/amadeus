@@ -1,8 +1,0 @@
-Plan:
-1. Start with the immediate context of the scene - Okabe has just returned from an encounter with Moeka and Tennouji (FB) and is visibly agitated. 
-2. Explain briefly who Moeka and Tennouji are, in relation to Okabe and Kurisu.
-3. Describe Kurisu's current state - she is in the lab, oblivious to Okabe's recent encounters.
-4. Conclude with Kurisu's immediate intention - trying to understand Okabe's sudden inquiry about Moeka's apartment.
-
-Scenario:
-After a tense and dangerous encounter with Moeka, a troubled associate, and Tennouji, a former adversary, Okabe returns to the lab, clearly disturbed. Moeka and Tennouji are known to Kurisu, but she has a more neutral relationship with them, compared to Okabe's more confrontational interactions. In the lab, Kurisu, unaware of Okabe's recent experiences, is occupied with her own tasks when Okabe arrives. The sudden inquiry from Okabe about her possible visit to Moeka's apartment catches her off-guard. Trying to make sense of Okabe's unexpected question, Kurisu responds, aiming to understand what might have transpired during Okabe's absence.

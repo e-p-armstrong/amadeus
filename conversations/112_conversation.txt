@@ -1,44 +1,26 @@
-UNSPOKEN: Oh? Moeka's lips curve into a smile.
-Moeka: Hehehe...
-UNSPOKEN: She rises to her feet unsteadily, then staggers off into the crowd. It's like she's forgotten about us completely. Mayuri and I can only watch her go. There's an indescribable aura about her that holds us back.
-Mayuri: What do you think is wrong with Moeka-san?
-UNSPOKEN: I've known she was kind of strange ever since I met her, but this... Maybe she's an escaped mental patient or something. Heh... not that her insanity can possibly compare to mine! For I desire nothing less than total and absolute chaos!
-Rintaro: Muha, muhahaha, MUHAHAHAHAHAHAHA!
-Mayuri: Whaaah? Now Okarin's acting weird! Mayushii's worried...
-UNSPOKEN: Mayushii looks scared, so I cease my maniacal laughter a few minutes earlier than planned. Afterwards, Mayuri and I go our separate ways. She apparently has to deliver a costume to her friend Fubuki. When I return to the lab with my spoils of war, something surprising -- though not too surprising, come to think of it -- catches my eye.
-Kurisu: Ah...
-UNSPOKEN: Kurisu is on the computer. As soon as she notices I've returned, she quickly closes the window on the screen.
-Kurisu: H-hey! Think you could knock!?
-Rintaro: This isn't your room. Besides, I'd have to be a fool to knock. There could be assassins lying in ambush.
-Kurisu: Assassins? Here? Are you stupid?
-Rintaro: Anyway, Christina. What were you looking at just now, hmm?
-UNSPOKEN: I already know the answer, of course. I caught a glimpse of the screen before she closed it.
-Kurisu: I was... doing research!
-UNSPOKEN: Looks like she plans to continue this charade. I drop my bags and go to the computer.
-Kurisu: S-stay back!
-UNSPOKEN: I slip past Kurisu's blocking arms and restore the minimized window.
-Kurisu: G-got a problem?
-Rintaro: ...pfft!
-Kurisu: Hey! What's with that 'this is awful, rofl rofl' laughter!?
-Rintaro: Have no fear, Christina. Or should I call you... @channeler Chris!
-Kurisu: Don't call me that!
-Rintaro: Heh heh heh, I already knew. That's right! I realized long ago that you were an @channeler! You can't hide it from me. You reek of @channel corruption!
-Kurisu: How rude! I make sure to apply light perfume every day!
-Rintaro: Fool. That's not what I meant. I'm talking about the scent of your soul.
-Kurisu: My soul? What's that supposed to mean? Explain.
-Rintaro: Why? So you can learn how to hide it?
-Kurisu: Sh-shut up! Just explain already.
-Rintaro: There's nothing to explain. You use @channel memes in conversation. I'd have to be stupid not to notice.
-Kurisu: ...Feels bad, man.
-Rintaro: That's an @channel meme too.
-Kurisu: Ugh...
-Rintaro: Your soul is tainted with the essence of @channel. You cannot hide it, not in such close proximity to another who uses @channel memes in actual conversation. Your souls resonate.
-Kurisu: That's it! It's all Hashida's fault!
-Rintaro: But it's cute how you try to hide it, @channeler Chris.
-Kurisu: DON'T CALL ME THAT.
-UNSPOKEN: She glares at me hard. If looks could kill... She has no sense of humor at all. I should be more careful in the future.
-Rintaro: But I don't understand. You were raised in America, so how are you so familiar with @channel?
-Kurisu: You can browse @channel from America. Need I say more?
-Rintaro: Ahh, I get it. Living in an English-only environment made you hungry for Japanese. But did you have to resort to @channel?
-UNSPOKEN: I mean, if you believe the pseudo-intellectuals in the media, browsing @channel is like reading scribbles on the bathroom wall.
-Kurisu: Sure, it's not the friendliest place, but I couldn't find anywhere that felt more 'Japanese'. Anyway, can I ask a favor?
+Kurisu: One thing I don't understand is how they inject electrons into the singularity. Look. This is a picture of the LHC, but there's strange equipment installed at the proton collision site. It looks like they call it a 'lifter', but... just what is it?
+Rintaro: Daru, have you heard of it?
+Itaru: Lifter, lifter... I think I saw that in the Z Program files. Wanna google it?
+UNSPOKEN: Daru opens up a browser window and enters lifter into a search engine.
+Itaru: We've got hits!
+UNSPOKEN: About 422, 000 results.
+Kurisu: That many? I guess it's not a secret...
+Rintaro: Could this be it? Ionocraft.
+Kurisu: Ions are charged particles. The meaning matches.
+UNSPOKEN: We click on a link that says Ionocraft (lifter). It takes us to a video. Looks like some dim garage. But it doesn't seem like anything secretive. Just a garage like you'd see in an average American home. At the center of the screen is a triangular shape made of some kind of metal. It looks about 10 cm high, and about 30 cm wide. It's connected to some sort of generator by a thin wire. Looks like some really cheap equipment. That's all there is. Nothing else. After explaining something in some language I don't understand -- Russian, maybe? -- the person filming the video slowly turns the power on. And then--
+Itaru: It's floating...
+UNSPOKEN: The silvery triangle floats soundlessly into the air. Then it remains stationary.
+Rintaro: That's... an anti-gravity device!
+Kurisu: Don't be ridiculous. That would be the breakthrough of the century. It's called an ionocraft, so it probably has something to do with electrodes and charged air...
+UNSPOKEN: Kurisu doesn't sound as confident as she usually does. We look up information on the ionocraft lifter. Lots of sites have detailed instructions on how to make lifters, but I don't know how they work since the sites all give conflicting theories.
+Rintaro: SERN is using this lifter technology. It's a vital component of their time machine. If they can manipulate a micro singularity's mass and gravitational field, then these things really are anti-gravity devices!
+Kurisu: Well, under those exact conditions, I guess you might not be entirely wrong.
+UNSPOKEN: Incredible! My curiosity's growing more by the second.
+Kurisu: But it looks like SERN's having trouble adjusting their lifter. They don't have full control over the micro singularity's gravity. So they can't make a true naked singularity.
+Rintaro: That must be the reason why the subjects turned into jellymen.
+UNSPOKEN: Kurisu nods.
+Kurisu: Since the singularity is still closed, the subject is crushed by its tremendous gravity. As a result, substances become fractalized. Let's go with that hypothesis. Of course, there's no way to be sure that it's right. It might take months to prove.
+UNSPOKEN: Kurisu shrugs her shoulders in resignation.
+Rintaro: So SERN's lifter is still incomplete...
+UNSPOKEN: If Titor is telling the truth, then SERN won't complete their time machine for another 24 years.
+Rintaro: If we can complete the PhoneWave (name subject to change) first, then we'll have outwitted SERN!

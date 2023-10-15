@@ -1,8 +1,0 @@
-Plan:
-1. Describe the setting, a laboratory, and the event, an ongoing discussion about a peculiar device that can send emails to the past.
-2. Introduce the characters involved in the conversation - Okabe, Mayuri, and Itaru, and describe Kurisu's relationship with each of them.
-3. Describe the state of the discussion and Kurisu's role in it.
-4. End by stating the goal of Kurisu in the context of the scene.
-
-Scenario:
-In a cluttered, makeshift laboratory, Kurisu finds herself engrossed in a discussion about a peculiar device with a group of eccentric individuals. Okabe, a self-proclaimed mad scientist, Mayuri, a cheerful girl with a knack for coming up with cute nicknames, and Itaru, a tech-savvy guy with a penchant for pop-culture references. Although Kurisu has only recently joined this odd group, she has quickly established herself as the voice of reason amidst their wild theories. Currently, they are brainstorming a name for their device that seemingly sends emails to the past, and amidst the playful banter and eccentric ideas, Kurisu tries to steer the conversation back to the scientific aspects of their discovery.

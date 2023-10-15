@@ -1,40 +1,19 @@
-Rintaro: Quantum theory. The observer is an important element to the experiment.
-Kurisu: There were four of us here when the discharge phenomenon occurred last time. But before that, it occurred when Hashida-san was alone. Each time fractalization occurred, there were either two or three people observing. You and I each saw both phenomena. In other words, the conditions haven't changed.
-Rintaro: In that case...
-Kurisu: Hmmm...
-UNSPOKEN: There must be some other variable. It's on the tip of my tongue. Then I hear a rumbling sound from Kurisu's stomach.
-Rintaro: Hungry?
-Kurisu: Sh-shut up! I haven't eaten anything since lunch.
-UNSPOKEN: Kurisu turns away as she looks at her watch.
-Kurisu: It's already 8?
-Rintaro: Just eat a banana. But only one of the two we just warmed. They are, after all, the fruit of our experiments. Or you could take something from our stock of cup noodles. Don't want any? Well, since you have lived in America for so long, I guess you'd prefer fast food instead--
-Kurisu: Cup noodles.
-Rintaro: What?
-Kurisu: I'll have cup noodles.
-Rintaro: Cup noodles!?
-Kurisu: What flavors?
-Rintaro: There's soy sauce flavor and chicken flavor.
-Kurisu: Chicken.
-UNSPOKEN: She seems in the mood to eat.
-Kurisu: Also... do you have a fork?
-UNSPOKEN: It's past midnight. At 8 o'clock, the two of us silently ate cup noodles and warm bananas -- Daru said he didn't want any -- and ever since then, we've been examining the PhoneWave (name subject to change). I've mainly focused on the terminal mode settings through the X68000. The programs Daru wrote are all Wizard-class though, so I can't understand most of them. Kurisu's been examining the AC adapter and the lab's electrical switchboard for a while. Though we stopped her when she tried to disassemble them. It's early morning, and she still shows no sign of leaving. Where is she staying anyway? She's been in Japan for one or two months, and she did say she was going back to America this month. The trains aren't running this late, so I guess she might not be able to leave even if she wants to. But in that case, why didn't she leave before the trains stopped? Don't tell me she plans to stay!? No girls have ever stayed over at the lab. Mayuri has a curfew, so she always goes back home to Ikebukuro. Daru and I frequently stay here, though. It's not an exaggeration to say we live here half the time. Maybe it's normal for American girls to stay overnight in labs.
-Rintaro: Christina, is it okay to stay here this late? Perhaps you should contact your family.
-Kurisu: No need.
-Rintaro: What? Do your parents let you do whatever you want?
-UNSPOKEN: Kurisu turns to me and sighs.
-Kurisu: I haven't seen my father in seven years. My mother is in America. I'm living in a hotel right now. Understand?
-Rintaro: Wha...!
-UNSPOKEN: Living in a hotel? Well, true, renting an apartment for just a month is absurd, but--
-Rintaro: You damn celebrity! If you're American, then you should at least use a motel instead of a hotel, right!?
-Kurisu: I'm not American, and there aren't any motels in the heart of Tokyo.
-Rintaro: What sort of hotel?
-Kurisu: What do you mean? It's a normal hotel in Ochanomizu.
-Rintaro: Ochanomizu? Then you can walk there from here, can't you?
-Kurisu: Sure.
-UNSPOKEN: I see. That's why she's so flexible with her schedule. I finally understand.
-Rintaro: So, tell me about your father.
-Kurisu: Sorry?
-Rintaro: You said you haven't seen him in seven years?
-Kurisu: Why do you care about my father?
-Rintaro: You're the one who mentioned him. Isn't that basically a hidden message saying 'please give me some advice about my father, please'?
-Kurisu: You're crazy.
+Faris: Nyahaha! Sorry, nya. Table for two, this way, nyan♪ Mayushii, I'll leave it to you, nyan nyan.
+Mayuri: Leave it to me, nyan nyan♪
+UNSPOKEN: If you hadn't noticed, the cat-eared maids here at MayQueen+Nyan² are required to add cat sounds -- nyas and nyans -- to their words with some frequency. Mayuri takes my hand and leads me inside. Apparently, Mayushii NyanNyan is the only one who leads customers by the hand like this. It probably comes naturally to her. She doesn't even realize the effect it has on her customers. And that's why she's second to Faris in popularity at this maid cafe. She guides me to Daru's table. The tables are about 60% full. Among Akiba's maid cafes, MayQueen+Nyan²'s popularity is solid, but not booming.  Considering what Faris and the others are wearing, it's more like a cosplay cafe than a maid cafe. Furthermore, the cat ears and NyanNyanian dialect makes it less accessible to low-level otaku and first timers. On the other hand, those same cat ears are a topic of heated debate among die-hard maid cafe fans. These two viewpoints clash. This place is one of the older maid cafes in Akihabara, but it doesn't get much media exposure. Maybe that's what makes it more comfortable than most. At least, that's what Daru says. He talks about this stuff so much that it's been burned into my synapses.
+Mayuri: Daru-kun, Okarin is here, nyan.
+Itaru: You're way late. Seriously, man.
+UNSPOKEN: Daru sits in front of me, but doesn't look my way. He looks upset for some reason.
+Itaru: So, what were you just talking about with Faris? I want details.
+Rintaro: ...You really want to know? I don't think you'd understand it.
+UNSPOKEN: Hell, even I didn't get most of it.
+Itaru: Ah, the usual... Your conversations are too much for regular otaku. You guys exude an aura or something, you know? It's like you too have your own Reality Marble! You know I can't forgive you!
+Mayuri: I think Feris-chan likes Okarin, nya. Of all the maids and masters here, nya, the only one who can keep up with Feris-chan is you, Okarin.
+UNSPOKEN: I'm not even close to keeping up with her.
+Itaru: I'm so jealous! You lucky bastard!
+Rintaro: Hmph, I have no interest in women who dress themselves in lies.
+Itaru: Like you're one to talk.
+Rintaro: Silence, you unfaithful bastard! All your 2D wives are crying.
+Itaru: Gwahh, you struck a nerve, man...
+UNSPOKEN: Daru theatrically grabs his chest and falls onto the table. I sip from one of the glasses of water that Mayuri brought to our table.
+Mayuri: Master, may I take your order, nya?

@@ -1,8 +1,0 @@
-Plan:
-1. Start by describing the setting: Okabe is about to send a D-Mail to change certain events, and Kurisu and Mayuri are present.
-2. Describe the relation between Kurisu and Okabe: they're both key members of the same team working on time travel.
-3. Describe the relation between Kurisu, Okabe, and the other character present, Mayuri: they all know each other well as they're all part of the same team.
-4. Finally, describe Kurisu's intention at the start of the scene: she's trying to find out Okabe's plan, as he seems to be hesitating about sending the D-Mail.
-
-Scenario: 
-In a tense moment, Okabe is on the brink of sending a D-Mail to change the course of events that have unfolded. He's in a lab, the birthplace of their time-travel experiments, with Kurisu and Mayuri, two of his closest allies in these endeavors. As integral parts of the same team, they all know each other well. Despite the urgency of the situation, Okabe seems hesitant, and Kurisu, aware of the gravity of their actions, is trying to understand Okabe's plan before he makes his final decision.

@@ -1,4 +1,33 @@
-Kurisu: Don't tell me... you sent the winning numbers with the PhoneWave?
-UNSPOKEN: Her question makes no sense.
-Rintaro: Why are you asking me that? You saw me send them.
-Kurisu: I did? What are you talking about?
+Itaru: Oho! Looks like this is top secret stuff from France, England, and Holland.
+Rintaro: ...Government secrets?
+Itaru: SERN's not even a government organization, so why? Wait, should we be looking at this stuff? We might be in a little deep here.
+Rintaro: I don't care. Get me details.
+Itaru: Hold on. If we get caught, we're not getting off with an apology.
+Rintaro: Are you so incompetent as to let yourself be traced?
+Itaru: ...I took the necessary precautions.
+Rintaro: Then I fail to see the problem.
+Itaru: Well, thanks.
+UNSPOKEN: Daru makes a slightly awkward face as he takes the file about the Z Program and feeds it into the translation software.
+Itaru: Hmm... 'May 14th, 137th Z Program Experiment Report'... 'Because we have already succeeded at creating mini black holes, the report is omitted. First--'
+Rintaro: Stop! Stooopp!
+UNSPOKEN: All of a sudden, Titor's prediction became a reality!
+Rintaro: So SERN did use the LHC to generate mini black holes!
+Itaru: But they announced that their experiments still haven't succeeded, so why...
+UNSPOKEN: This is what Titor was referring to when he posted don't believe what they say.
+Itaru: But the goal of the experiment wasn't even to generate mini black holes. It was to create new elementary particle reactions...
+UNSPOKEN: Daru doesn't take his wide eyes off the monitor.
+Rintaro: But in reality, they're already generating those mini black holes.
+Itaru: Sure does seem like it.
+Rintaro: What does it say next?
+Itaru: Umm... 'Results: Error. Human is dead, mismatch. For details, consult Jellyman's Report No. 14.' 'We propose that further experiments be halted until the lifter is perfected and all local field conformity points are online.'
+Rintaro: Wh-what does that mean?
+Itaru: 'Human is dead' means somebody died, right?
+Rintaro: Wha...
+UNSPOKEN: Somebody died? Seriously? I groan. This isn't a joke anymore. Something very serious is going on here. Maybe we are in too deep. Hmph. And what if we are? I'm not afraid. I'm not! After all, I am the insane mad scientist, Hououin Kyouma! We can't stop now. I can't control my curiosity. Besides, now that I have proof of their evil deeds, ignoring it would just leave a bad taste in my mouth. My throat's gone dry. I swallow my saliva. In an attempt to keep whatever composure I can, I scold myself for being so faint of heart.
+Rintaro: What is this Jellyman's Report?
+UNSPOKEN: Daru starts typing once I ask my question, but he soon clicks his tongue.
+Itaru: I can't find it in Jack's email. We'll need an account with more privileges.
+Rintaro: Then we'll save that for next time. Search for something related to time machines.
+Itaru: You know we're not going to find anything, right?
+UNSPOKEN: After that, Daru spends about 15 minutes fishing through the accelerator division chief's email. But he doesn't find anything about time machines.
+Itaru: Words like 'accelerator technical committee,' and 'LHC project lead' came up, so I guess we should look for an ID from there. Maybe then we can get more information.

@@ -1,37 +1,20 @@
-UNSPOKEN: Daru is visibly relieved.
-Kurisu: Amane-san. You said that most of what you posted as John Titor was true, right?
-Suzuha: Right.
-Kurisu: Does that mean you know how the universe works? You claimed that the Everett-Wheeler model -- the many-worlds interpretation -- is correct.
-Suzuha: That was a lie. Camouflage so that SERN wouldn't target me. If I mix one lie into the truth, then the bad apple spoils the barrel.
-Kurisu: So you don't know.
-Suzuha: I do. By 2036, scientists have successfully modeled the structure of the universe. And it's not the many-worlds interpretation.
-Kurisu: Really? Tell me!
-Rintaro: Attractor Fields...
-Suzuha: Right. I told you by mail, didn't I?
-Kurisu: What sort of model is that?
-Suzuha: The universe is made up of worldlines and attractor fields.
-UNSPOKEN: Suzuha walks over to Mayuri's sewing table and picks up a ball of red yarn. She holds one end of the yarn and drops the ball to the floor, then holds about a meter of yarn in front of her face.
-Suzuha: The universe is like this piece of yarn. Countless possible worldlines exist side by side, branching out to infinity. From a distance, it looks like a single string, but when you look closer, the string is actually made up of individual threads woven together. At the end, those threads converge on a single point. The paths are different, but the destination is the same.
-Kurisu: Isn't that determinism?
-Suzuha: Close. This model is a little looser. You could say it cherry-picks from the many-worlds interpretation and the Copenhagen interpretation.
-Rintaro: If the branches all lead to the same place, does that mean there's only one world in the end?
-Suzuha: Exactly. The bundle of worldlines that share a point of convergence is called an attractor field. There are also many attractor fields. This string is Attractor Field Alpha. The threads are Alpha worldlines.
-UNSPOKEN: Suzuha then cuts meter lengths of blue, yellow, and white yarn.
-Suzuha: Blue is Beta, yellow is Gamma, and white is Delta. Each is made up of countless Beta worldlines, Gamma worldlines, or Delta worldlines.
-UNSPOKEN: She twists the different colored strings together, then stretches them out as one fat, multicolored string.
-Suzuha: Attractor fields are superpositioned like this. In each attractor field, the worldlines converge on a different result. They don't interact. Each attractor field is independent of the others. Of course, they all diverged from a common point somewhere in the past, and they will all converge again at some point in the future, but that takes many hundreds of years. You can think of the attractor fields as very long worldlines.
-Itaru: Can you compare it to an eroge? Teach me, oh erotic one.
-Kurisu: T-there's no erotic one here!
-Rintaro: No, he's right. It is like an eroge. Each heroine's route is an attractor field, and the small choices within are the individual worldlines. But at the end, they all enter the true route for the grand ending.
-Itaru: The only difference is the length of the common parts. By the way, I'd choose the little sister's attractor field.
-Rintaro: Whatever.
-Kurisu: You guys are hopeless. Better do something quick.
-Suzuha: Umm, I don't know what you guys are talking about...
-Kurisu: Just ignore them.
-UNSPOKEN: Let me get this straight. The reason I can't save Mayuri... is that her death is the event upon which this attractor field converges? But that means... That means the world really is killing Mayuri.
-Itaru: But then, isn't it impossible to change the future? It always converges in the end, right? No matter what you do, the result is the same.
-UNSPOKEN: That's right. That's why Mayuri dies no matter how many times I leap.
-Suzuha: We have to escape Attractor Field Alpha.
-Rintaro: Escape?
-Suzuha: In other words, we're going to jump to a worldline in Attractor Field Beta.
-Kurisu: I thought attractor fields couldn't interact.
+Rintaro: My true power... is the magic eye, 'Reading Steiner'!
+Kurisu: Sounds to me like you've got a bad case of chuunibyou.
+Rintaro: Eh?
+Kurisu: Eh...?
+UNSPOKEN: Kurisu hides her face in her book. She pretends to read, but I can see from here that her ears are bright red. How does she know about chuunibyou? Is she an @channeler after all? No, that doesn't matter now. I need to reply to Titor. Ok, now it's getting creepy. Is this some new cult? Or is he really trying to con me here? He's also contradicting himself again. The Titor who appeared in 2000 said he traveled back in time to retrieve technology lost in World War III. Yet this guy's saying he came to prevent the creation of a dystopia ruled by SERN. This guy might be an impostor. I'm fed up, so I quit replying. But just as I'm about to put away my phone--
+Rintaro: ...Tch.
+UNSPOKEN: Another mail comes. I open up my phone reluctantly while enduring Kurisu's cold glare. And what I read there... Raises the hairs on the back of my neck. What is this? Fear? Disgust? I don't know, but something is very wrong.
+Rintaro: John Titor is a fraud!
+UNSPOKEN: I scream at the absurdity. Daru and Kurisu give me exasperated stares, but I ignore them.
+Rintaro: Me, the Messiah? Hmph. Ludicrous! To think that I would save humanity! I am no Messiah! I am the insane mad scientist, Hououin Kyouma, who has walked through fire and bathed in an ocean of blood to escape the clutches of the Organization! My desire is chaos unending. Do you think that destroying the System will bring peace to the world? The answer is no! No, I say! Death to the naive fools who believe such lies! The collapse of authority means that lawless CHAOS shall reign! MUHAHAHAHA!
+Itaru: Um, Makise-shi? What the hell happened to Okarin?
+Kurisu: Beats me. A few hours ago, he was exchanging emails with John Titor, and then he suddenly got quiet. And then he started ranting. He's been like this for half an hour.
+Itaru: He's been acting strange all day, don't you think?
+Kurisu: Agreed.
+Rintaro: Listen up, lab mems! It's time to resume Operation Urd!
+Itaru: Seriously? The manager's still downstairs, you know?
+Rintaro: Fret not. It's almost closing time for the Braun Tube Workshop.
+Kurisu: The PhoneWave doesn't work at night, remember?
+Rintaro: It's worth a try! We need to figure out how late the PhoneWave (name subject to change) works. At the same time, I want to see if the two of you can use D-Mails to change the past.
+Itaru: Change the past...!

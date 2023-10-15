@@ -1,39 +1,32 @@
-Kurisu: You go, Okabe. You're Mayuri's guardian, aren't you?
-Mayuri: No, Mayushii is Okarin's hostage!
-Kurisu: Oh, right. That's what it was. Well you don't want your hostage to escape, do you? Shouldn't you take her along in handcuffs or something?
-Rintaro: I've got business in Akiba.
-Kurisu: What do you mean, business?
-UNSPOKEN: The search for Kiryu Moeka. I already sent her an email -- We need to talk. -- and now I'm awaiting her reply. Something tells me it's not going to work.
-Kurisu: No answer? I guess it was just an excuse.
-Rintaro: Christina. We need to talk.
-Kurisu: Again? Abrupt as usual.
-Rintaro: Hm? What do you mean, again?
-Kurisu: Nothing.
-Mayuri: Whatcha gonna talk about? You two have been really close lately, huh? You're always talking together. Mayushii really wants to join in your secret meetings and stuff.
-Rintaro: Don't worry. We've been talking about the Time Leap Machine. It would just be gibberish to you.
-UNSPOKEN: Not entirely accurate, but not a lie either.
-Rintaro: Besides, the purpose of this particular discussion is to convince Christina to attend ComiMa. Prepare for good news, Mayuri! Muhahaha!
-Mayuri: Oh, great! Thanks, Okarin.
-UNSPOKEN: Mayuri waits in the lab as I take Kurisu outside.
-Rintaro: So, Christina.
-Kurisu: I'm not going to ComiMa.
-Rintaro: You said 'again' just now. We've talked like this before, just the two of us?
-Kurisu: Losing your memory now? Does our little mad scientist have an acetylcholine deficiency?
-Rintaro: I'm being serious.
-Kurisu: You're acting weird today. What's going on?
-Rintaro: Please. I need to know.
-Kurisu: I mean, yeah. This is like the fifth time you've brought me outside to talk about the Time Leap Machine.
-Rintaro: Have we talked about my time leaping?
-UNSPOKEN: For an instant, Kurisu opens her eyes wide in surprise. But then, she gives me an angry glare.
-Kurisu: You're time leaping?
+Itaru: Whoa, Okarin! Hold on there! Faris-tan's name is Faris NyanNyan. She doesn't have any other names!
+Rintaro: Face reality, Daru. Faris NyanNyan is just her professional name.
+Itaru: Uwahh, you're the worst! Why do you have to crush my dreams like that, man?
+UNSPOKEN: Quit grumbling. You just can't handle the truth!
+Rintaro: Well, Mayuri? Don't you know?
+Mayuri: Hmmm, is it okay for Mayushii to tell you?
+Rintaro: It's not like you took a vow of secrecy, right? And besides, we're visiting her home, so we'll find out soon enough.
+Mayuri: Oh. I guess you're right... But just promise me you'll keep it secret, okay? Like from the masters who come to MayQueen.
 UNSPOKEN: I nod.
-Rintaro: More than a dozen times already.
-Kurisu: That many!? What the hell are you doing!?
-UNSPOKEN: Hmm... Looks like she doesn't know anything about Lukako or my shifting between worldlines. But that's only natural. So far, I've changed worldlines a total of three times. Let's call the first worldline where Mayuri died Alpha 1. The worldline where Faris and I fought the Viral Attackers is Alpha 2. The worldline where I dated girl Lukako is Alpha 3. And now I'm on Alpha 4. From my perspective, Alpha 1, Alpha 2, and Alpha 3 were undone by my D-Mails. But for Kurisu and everyone else on Alpha 4, those worldlines were nothing but separate, intangible possibilities to begin with. I guess I have to explain everything again. I sigh heavily, then begin.
-Kurisu: ...I think I get it.
-UNSPOKEN: After I'm done, Kurisu sighs and lightly pats my arm.
-Kurisu: Don't wear yourself out.
-Rintaro: It's a disgrace to be comforted by my assistant.
-Kurisu: Why are you always like that!? I'm even trying to be nice. You're really full of yourself, you know?
-Rintaro: I don't need your sympathy. Everything that happened is my fault. I'm just getting what I deserve. ...Come to think of it, every time I explain this to you, I always end up hating myself in the end.
-Kurisu: Okabe...
+Mayuri: Okay. Feris-chan's real name is Akiha Rumiho-chan!
+Itaru: Nyah nyah nyah, not listening!
+UNSPOKEN: Daru covers his ears and drowns the sound out.
+Rintaro: Akiha...
+UNSPOKEN: The same characters as in Akihabara. Appropriate. Our destination turns out to be the high-rise apartment building next to UPX.
+Mayuri: Waahh... awwwesome...
+Itaru: Wait... seriously?
+Rintaro: She lives... here?
+UNSPOKEN: We stand there for a while, staring wide-eyed at the towering building before us. According to the address Faris gave me, she lives on the top floor... all the way up there.
+Rintaro: Did we get the wrong address?
+UNSPOKEN: No. I wouldn't make such a stupid mistake.
+Rintaro: Don't tell me Faris is working for the Organization!?
+UNSPOKEN: I quickly scan the area. No suspicious figures in sight.
+Rintaro: Does she have men in black waiting to haul us off to a re-education camp!?
+Itaru: Nice delusion, man. The truth is stranger than fiction. Besides, don't you think it would be super moe if Faris-tan turned out to be a 'rich girl' character?
+Rintaro: Nice delusion yourself, man.
+Mayuri: Anyway, let's go in!
+UNSPOKEN: When we call the top floor room via intercom, we're greeted by the voice of an elderly man. He lets us in immediately once I introduce myself as Hououin Kyouma. It feels like we're walking into a trap, but I can't turn back now. When we get off the elevator, the elderly man from the intercom is there to lead us inside. He turns out to be a silver-haired gentleman in a tuxedo.
+Mayuri: A real live butler...
+UNSPOKEN: He does indeed look like a stereotypical butler. He fits the bill so well, you wouldn't think he was anything else.
+Butler: Mistress. Mr. Hououin Kyouma and friends have arrived.
+UNSPOKEN: The butler leads us into a room. Faris is standing before a large window with a panoramic view of Akiba.
+Faris: Thanks, Kuroki nya.

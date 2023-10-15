@@ -1,24 +1,26 @@
-UNSPOKEN: It looks like I'll have to explain everything all over again.
-Kurisu: Hmmm...
-UNSPOKEN: I told her about Mayuri's many deaths, and about what happened with Suzuha and Moeka. I also gave a summary of what Suzuha told me about the structure of the universe. Kurisu does not appear to doubt my story.
-Kurisu: So basically, you win if you get the IBN 5100 back.
-UNSPOKEN: Kurisu sums up what I told her.
-Kurisu: This is just a guess... But maybe you should look at what Amane-san said from the opposite angle. I think the critical change takes place when you get the IBN 5100 and erase the data in SERN's database. That instant is most likely when you'll achieve divergence over 1%.
-Rintaro: The problem is where the IBN 5100 is now.
-Kurisu: You've already found it once. That is, if your memories are real. If you can get back to the worldline where you first obtained it, then isn't it bound to return to you?
-Rintaro: I see... You're right. The IBN 5100 was at the lab, and then it suddenly disappeared.
-Kurisu: You threw a fit about that earlier. I remember thinking, 'Oh god, Okabe's finally lost his ability to distinguish fantasy from reality.'
-Rintaro: You're such a wannabe American. What do you mean, 'oh god'? Oh, I get it. Chris-chan is a Chris-tian.
-UNSPOKEN: Kurisu looks at me in disdain as soon as those words leave my lips.
-Kurisu: That's terrible.
-Rintaro: ...I regret it too.
-UNSPOKEN: This is no time for puns.
-Rintaro: So, Christina... let me see if I understand what you're saying. The changes we made to the worldline -- namely, all of the D-Mails we've sent -- must be reversed. That will return us to the worldline where I found the IBN 5100 at Yanabayashi Shrine.
-UNSPOKEN: From what I've experienced so far, I'm confident that the IBN 5100's disappearance from the lab wasn't due to theft. After all, I was sleeping at the lab. And whenever I wasn't around, another lab mem was. The lab was occupied every hour of the day. It would have been impossible for someone to steal that heavy computer without anyone noticing. It makes more sense to assume that a D-Mail caused us to diverge from the worldline where I found the IBN 5100 at Yanabayashi Shrine.
-Kurisu: It's still a hypothesis. I only came to that conclusion based on your explanation. If you're mistaking your facts, deceiving me, or shooting off delusions, then this hypothesis will fail.
-UNSPOKEN: This assistant of mine has no confidence in me at all.
-Kurisu: You can't just blindly follow this hypothesis either. You may have a safety net, but if you get careless and leave yourself without a way out... Then you'll never get another chance to save Mayuri.
-UNSPOKEN: I know that. I'd ask for Suzuha's opinion too, if she were here, but on this worldline, she traveled to 1975 on the night of August 9th. There's no way I can speak to her now.
-Kurisu: Why did the IBN 5100 disappear? Which of the D-Mails caused its disappearance? Figure that out, and you're well on your way to finding the solution.
-Rintaro: What I don't understand is how we delayed the timing of Mayuri's death exactly 24 hours.
-Kurisu: True, that is interesting. Maybe it's related to the change in divergence. It could be the Butterfly Effect. If that's the case, any trivial change could produce a significantly deviant result. Anyway, it's important to act with discretion. Don't do anything careless. Your death, Okabe, is the worst thing that could possibly happen. You're probably the only person who can remember previous worldlines. If you die, then consider Mayuri dead for good. ...Don't die. Okay?
+UNSPOKEN: Pager typing is commonly known as two-touch typing or pager input. It's somewhat different from cellphone input. You choose the consonant and then input the vowel. The consonants are A K S T N H M Y R W. The vowels are a, i, u, e, o. Basically, to input Ke... You press 2 to input the consonant K... Then you press 4 for the vowel e.
+Itaru: This is a pain. Let's just send '831831831'. That should do it.
+Mayuri: Why 831?
+Itaru: 8(ya) 3(sa) 1(i) for veggies (yasai), duh. VEGGIES VEGGIES VEGGIES -- we just have to drill this into Luka-shi's mother's brain.
+Rintaro: She'll just pass that message off as a prank.
+Mayuri: Then, how about '29292929'?
+Rintaro: I'm going to regret asking this, but what does that mean?
+Mayuri: Ni(2) ku(9) for meat. MEAT MEAT MEAT MEAT.
+Rintaro: Why do you want her to like meat!?
+Mayuri: That's not it! If you keep repeating 'MEAT', then she'll actually start to hate meat and want to eat vegetables instead, don't you think?
+Itaru: Yeah... no.
+UNSPOKEN: Lukako completes his composition while we speak our nonsense.
+Luka: How about something like this? 'MOM EAT VEGGIES OK'
+Itaru: Isn't that a little too vague?
+Rintaro: And the first 'MOM' should go. That'll just make it harder to believe.
+Luka: Then... 'EAT LOTS OF VEGGIES TO GIVE BIRTH TO A GIRL'.
+Kurisu: That's a little too direct. And it's over the character limit.
+Luka: 'EAT VEGGIES FOR HEALTHY KID'
+Itaru: Wait a sec. According to this conversion chart, it looks like you gotta use two more numbers for voiced consonants. So that sentence is four bytes over.
+Rintaro: Then a little modification. How about 'EAT VEG 4 HEALTHY KID'?
+Kurisu: Isn't that a little too informal? You're talking to Urushibara-san's mother, you know? Would she understand the 'VEG 4' part?
+Rintaro: You have any bright ideas?
+UNSPOKEN: Kurisu shrugs her shoulders and says no more. Then it's settled.
+Mayuri: Come on, let's type it out!
+UNSPOKEN: When sending to a pager, the number-encoded message is handled like a telephone number, so we enter the input into the X68000. The long, random-looking string of numbers is complete.
+Rintaro: Alright, we're good to go.

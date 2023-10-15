@@ -1,20 +1,35 @@
-Rintaro: You have one!?
-UNSPOKEN: Suzuha shakes her head.
-Suzuha: I'm going to 1975 to obtain one.
-UNSPOKEN: 1975. The year the IBN 5100 went to market. I know because the John Titor in 2000 said that was his mission. Was that John Titor Suzuha too? Anyway, if Suzuha can get us an IBN 5100, then we can leave this attractor field and jump to a Beta worldline, where SERN never finds us and their time machine is never completed. Mayuri won't have to die.
-Rintaro: Alright! We need to move fast. How soon can you leave, Suzuha?
-Suzuha: I was trying to leave when you caught me, but...
-UNSPOKEN: Suzuha bows her head apologetically. I look at her burnt hand. She's hiding it from Mayuri and Daru, but I can see the blood staining my handkerchief. It hurts to look at. Maybe we should get her to a doctor.
-Rintaro: Right... your time machine's broken.
-Kurisu: Can you fix it?
-Suzuha: No. I just ride it. My dad's the one who built it. I've memorized the manual, so I know how it works, but...
-UNSPOKEN: That doesn't mean she knows how to repair it, and there's no guarantee that a time machine from 2036 can be repaired with today's technology.
-Kurisu: Maybe we can use the Time Leap Machine to go back before Amane-san's time machine broke.
-Itaru: Wait, you're going to use the Time Leap Machine? Wasn't the plan not to experiment?
-UNSPOKEN: I still haven't told Daru about my time leaping. There's no time to explain.
-Rintaro: We'll use it if the situation demands. Do you know when it broke, Suzuha?
-Suzuha: No... but it was probably the rain a few days ago. It's supposed to be airtight, but the inside was all wet when I checked it today.
-Itaru: Maybe it made a hole when you crashed into Radi-Kan?
-Suzuha: That wasn't a crash. The coordinates were slightly off, so it just appeared there. It's not exactly the most stable machine.
-Rintaro: Anyone remember when it rained?
-Kurisu: The morning of the 10th. Just before dawn.
+Kurisu: Of course I remember. What are you... Oh, I see. According to your hypothesis, you and I shouldn't remember sending the D-Mail.
+Rintaro: Daru, did you beat Faris in the Faris Cup?
+Itaru: ...I dunno.
+Rintaro: You said the winner gets Faris's home cooking, right? Did you eat it? What happened?
+Itaru: I don't know... This sucks.
+UNSPOKEN: I check Daru's send history. As expected, the D-Mail he just sent isn't there. I do, however, find the D-Mail in his inbox. He received it two days ago, just like we wanted. This is the same thing that happened when I sent my D-Mail.
+Kurisu: ...Maybe the past hasn't changed?
+Itaru: I'll try calling Mayu-shi.
+UNSPOKEN: He's the one who changed the past, yet he doesn't remember what happened after the change? That's odd.
+Itaru: Mayu-shi? You're still at work, right? Is Faris-tan there? ...She is!? Um, can you ask her if I beat her in the Faris Cup? Did I get to eat her home cooking? ...Who lost? I did? Oh... Barely took five seconds? Oh... okay...
+UNSPOKEN: Daru's shoulders droop as he hangs up the phone.
+Kurisu: I guess that means the past hasn't changed.
+Itaru: Why!? It changed for Okarin, right!?
+Kurisu: Maybe your foolproof plan wasn't so foolproof. Like, maybe it only gave you a slight advantage.
+UNSPOKEN: I had the same thought. Faris is supposedly a world-class player. Daru's time travel cheat may not have been enough.
+Kurisu: Since Faris-san defeated you anyway, the past didn't change.
+Itaru: Yeah, but I mean, the game would've played out differently.
+Rintaro: That might not be enough to cause worldline divergence.
+Kurisu: Like Okabe said, you need to make a change that's easier to observe. Or else there's no point to this experiment. Um, n-not that I approve of this experiment or anything.
+Itaru: No, it's not over yet. I can still fight!
+UNSPOKEN: Daru starts typing another mail.
+Itaru: One more time. I'll try sending my past self some more advice. This time, something that'll ensure my victory.
+Kurisu: You really want to win that badly?
+Rintaro: More like he wants to eat Faris's home cooking that badly.
+Itaru: That's my Final Answer.
+UNSPOKEN: Daru writes another D-Mail. I don't bother checking what it says. I won't understand anyway. We activate the PhoneWave (name subject to change) and send the mail through, just like before.
+Rintaro: Oh...?
+UNSPOKEN: Nothing happens. No discharge. Usually, it happens ten to twenty seconds after pushing the start button. The timer counts down to zero without incident.
+Kurisu: ...Out of time?
+Rintaro: Looks like it.
+Itaru: But my advice was perfect...
+Rintaro: There's nothing we can do about it. We'll postpone the experiment till tomorrow.
+UNSPOKEN: I check the clock. It's just past 7PM. Looks like that's the cutoff.
+Kurisu: After I left yesterday, I was thinking. How exactly does the PhoneWave make time travel possible?
+Rintaro: It works like the LHC. Didn't you say the LHC was like a giant microwave?

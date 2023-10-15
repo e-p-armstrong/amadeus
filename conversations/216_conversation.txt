@@ -1,40 +1,29 @@
-Kurisu: It's wet, so it's kinda hard to thread.
-Okabe: ...Did you really just happen to have that on you?
-Kurisu: Get over it already. Is it really so wrong for me to have a sewing kit?
-Okabe: It's not wrong. It just seems like you planned for this.
-Kurisu: So you're saying I brought it with me because I somehow knew your coat was going to get ripped. Uh-huh. Ridiculous. And before you get the wrong idea, I'm not fixing your coat because I want to or anything, okay?
-Okabe: Nice tsundere line.
-Kurisu: Don't mock me. You just happened to tear your clothes, and I just happened to have a sewing kit handy when you did. It's coincidence. That's all.
-Okabe: Coincidence... Hey... you didn't time leap, did you?
-Kurisu: So now you're saying that I went back in time for the sole purpose of repairing your stupid lab coat. Uh-huh. Ridiculous. Ridiculous! There. It's so important I said it twice. Comprendes?
-Okabe: You're right. If you had time leaped, you would've brought a towel, not a sewing kit.
-Kurisu: What's that, sarcasm? All you do is complain.
-UNSPOKEN: After working for a while, Kurisu cuts the string with her teeth, then hands me back my coat.
-Kurisu: Here.
-Okabe: Thanks.
-Kurisu: Um, by the way... it was dark, so I couldn't really see. If it turns out bad, it's not my fault. It was dark. That's all. Oh, and I hope you like the color. Because I have no idea which thread I used.
-Okabe: It's... random?
-Kurisu: Black, red, or pink. Those are the three possibilities.
-Okabe: Let's just hope it's not pink...
-Kurisu: Achoo!
-Okabe: Cold?
-Kurisu: I guess.
-Okabe: Take my coat.
-Kurisu: But it's wet.
-Okabe: Well, yeah, but...
-UNSPOKEN: Silence again. The words flow so naturally when it's just harmless banter, but one second of silence, and suddenly we have nothing to say. It must be because of what happened yesterday. I'm so desperate to avoid the topic that nothing seems safe. I know I need to say something, but what?
-Kurisu: ...Have you made your decision yet?
-UNSPOKEN: Her voice is barely a whisper, but I can hear her clearly in the silence of the empty stairwell. I look at Kurisu. She's hugging her knees to her chest, presumably against the cold. My decision. I know what she means. That's why I can't answer.
-Kurisu: Sigh... You still haven't made up your mind? You like Mayuri, don't you?
-Okabe: What?
-UNSPOKEN: Where did that come from? Kurisu keeps staring into the darkness.
-Kurisu: It's probably just my imagination, but lately, I've been seeing things. Like a strange sort of deja vu. In these visions, you're fighting to save Mayuri all by yourself. You never give up, no matter how much it hurts.
-UNSPOKEN: Kurisu, too?
-Kurisu: Then you come to me for help. You're so desperate, so earnest, that I just have to do what I can. N-not that I'm doing it for you, okay!? I just want to save Mayuri, that's all. Anyway, these images are stuck in my head, like memories.
-UNSPOKEN: So Kurisu's the same. She still has faint memories from previous worldlines.
-Kurisu: I tried self-analysis. Maybe I'm mistaking dreams for reality, projecting my hopes and fantasies... I don't know. But there's one thing I do know. You have to save Mayuri.
-Okabe: ...Aren't you afraid?
-UNSPOKEN: To save Mayuri, I must undo the current worldline. If I do that, Kurisu will die.
-Kurisu: You know, it kinda feels like we're trapped in an ancient ruin.
-UNSPOKEN: Kurisu suddenly changes the subject. She looks around the dark, empty stairwell.
-Kurisu: Like the world ended... And we're the only two people left. I've been thinking. Say you go to the Beta worldline, and everyone else goes with you. What if I can't go with you? What if I'm the only one left behind? Would the entire world become like this place? It's just a theory... but I can't help but wonder.
+Kurisu: SERN's been working on it for nine years and they still haven't solved it.
+UNSPOKEN: We're just amateurs, so it's bound to take even longer. ...Wait. I have an idea.
+Rintaro: Let's look at it from a different angle. SERN tried to send people back in time, but they couldn't get the electron feed right. The singularities were not naked. It's the same with the PhoneWave (name subject to change). You can only send 36 bytes of data safely. Otherwise, you get a Jellyman. Let's consider the problem in reverse. What if we could convert a human to data, then compress that data into just 36 bytes? We could send that person through the ring singularity just like a D-Mail, couldn't we!?
+Itaru: Convert a human to data? That's not even possible, man. And even if it were, there'd be like exabytes of data or something! You want to compress that into 36 bytes? Are you high?
+Rintaro: Hmm... I thought it was a good idea...
+UNSPOKEN: I guess it's not that easy. The barriers to time travel are just too high. I turn to Kurisu, meaning to ask her opinion, and then I realize that her expression has changed dramatically. Her eyes are wide as saucers, and her mouth is hanging open.
+Kurisu: Of course... If it works, then maybe...
+UNSPOKEN: She pauses for a second, and then...
+Kurisu: Maybe we can do it!
+UNSPOKEN: Do what? Time travel? It's hard to believe what Kurisu is saying, even though it was my idea in the first place.
+Rintaro: Are you serious?
+UNSPOKEN: Kurisu grins triumphantly in response.
+Kurisu: The data compression part, at least, is easy. We can just use the black holes created by the LHC, since black holes compress everything they swallow. Compression won't harm data like it would harm a human. As long as we're just sending data, there's nothing to worry about.
+UNSPOKEN: I get it! But wait, can we really pull off such a stunt? And besides...
+Rintaro: How do you plan to convert humans into data?
+Kurisu: You know that my thesis got published, right?
+Rintaro: This is no time to flaunt your accomplishments.
+Kurisu: Have you read it?
+UNSPOKEN: I haven't.
+Itaru: I've got scans if you want to read it.
+UNSPOKEN: Daru opens up his image folder, scrolls past tons of 2D porn, and opens up the scanned image. Sure enough, there's Kurisu's name in big English letters.
+Kurisu: The title of my thesis is... 'Analysis of Memory-Related Nerve Impulses in the Temporal Lobe'
+Rintaro: ...Temporal lobe? Nerve impulses?
+Itaru: What, you didn't know?
+Rintaro: No, wait. This can't be right. This title sounds like, um, neuroscience, not physics.
+Kurisu: I'm a neuroscientist. Got a problem?
+UNSPOKEN: What!? I can't believe it. From the way she talks about particle accelerators and time travel theory, I was sure she had to be a physicist.
+Rintaro: No, forget about that. How is this related to time travel?
+Kurisu: Converting an entire human to data is impossible. But converting a human's memories may be possible!

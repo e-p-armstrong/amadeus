@@ -1,40 +1,24 @@
-UNSPOKEN: A mail! Is it Moeka!? I check the mail with hope in my heart.
-Rintaro: ...Ha, haha.
-UNSPOKEN: My body goes limp from relief. A reply. She sent a reply. Moeka still exists. She didn't disappear. Relief washes away my fear. My eyes fill with tears. Not because I was worried for Moeka, but because I thought I might be responsible for the horror of erasing someone's existence.
-Kurisu: Explain what happened, Okabe.
-UNSPOKEN: Urged by Kurisu, I explain everything that just happened.
-Kurisu: Hmmm. ...Honestly, I'm not surprised she disappeared from the lab.
-Rintaro: What do you mean?
-Kurisu: I don't know the details, but when the past changed, Kiryu-san's actions these past four days changed ever so slightly. As a result, the timeline was reconfigured so that Moeka-san didn't come to the lab today.
-UNSPOKEN: So that's why it looked like she teleported? I'm reminded of the teleporting gelbana, but I guess it's not the same thing. Moeka didn't become a jellyman, after all.
-Itaru: Is that even possible?
-Kurisu: I don't know. If the fact that the D-Mail was sent is undone, then it becomes a paradox of who sent that D-Mail... And there's one other thing that I don't understand.
-Rintaro: What?
-Kurisu: What you call Reading Steiner. By the way, you should quit it with that name. It's stupid.
-Rintaro: Hmph, I didn't ask for your opinion.
-UNSPOKEN: I'm finally able to joke with Kurisu again. Well, maybe she wasn't joking. But that's none of her business.
-Kurisu: By your explanation, you neither sent nor received the D-Mail. Yet how come you're the only one who remembers what happened before the worldline changed? What if it's all in your head?
-Itaru: Like an imaginary girlfriend. I get it.
-Rintaro: No you don't. I'm not a 'gentleman perv' like you, creating imaginary relationships.
-Kurisu: Maybe this Kiryu-san never existed. Or maybe Kiryu-san does exist, but the fact that she sent a D-Mail was something you made--
-Rintaro: Gwaaaah!
-Kurisu: ...eh?
-UNSPOKEN: I fall to my knees and press my hand against my left eye.
-Rintaro: Ugh, ggh... my left eye, Reading Steiner, it aches!
-Mayuri: Okarin, are you okay?
-UNSPOKEN: Mayuri peeks anxiously at my face. But I lightly push her aside.
-Rintaro: No, Mayuri! S-stay away! I don't... want to hurt you!
-Mayuri: But Okarin, you look like you're in pain...
-Itaru: ...He's messing with us, right?
-Kurisu: Y-yeah...
-Rintaro: I-I'm okay... This aching is normal... it'll end soon! As long as I have this magic eye... the Organization will keep coming after me! It's the power to see across time and space... but at the same time, it's a double-edged sword! Because of this all-seeing eye... I have lost my connection to causality. I drift alone in the space between worlds. But even so... I swore to protect this lab! So quiet thy fury, Reading Steiner! Your time will come... but not yet.
-UNSPOKEN: I kneel and press my head against the floor. And then I take a deep breath, and gradually remove my hand from my left eye. Mayuri rubs my back.
-Mayuri: Okarin? Does it hurt?
-Rintaro: No... I'm okay now.
-UNSPOKEN: I stand up. Then I shoot Kurisu a sharp glare.
-Kurisu: W-what? That was just an act, right?
-Rintaro: You are wrong, Christina. Our experiments have already proven... That I... That my Reading Steiner is genuine!
-Kurisu: Fine, I get it. You're a chuunibyou patient.
-Itaru: Eh?
-Mayuri: Hm?
-Kurisu: Ah... Wh-why are you all staring at me? Don't look at me!
+Rintaro: I didn't come to fight. I only came to talk to you.
+Faris: If you're not going to play, then I'm sorry, but I'll have to ask you to leave, nya.
+Rintaro: What's this? A maid, sending a customer away?
+Faris: Faris is the organyaizer of the Faris Cup today. Only participants are allowed inside the shop, nya.
+Rintaro: I only need two minutes. The IBN--
+Faris: Not listening, nyan!
+UNSPOKEN: Faris puts her hands over her ears. Her real ears, not the cat ears. Then she laughs mischievously.
+Faris: If you want to talk to Faris, you have no choice but to join the Faris Cup, nyan.
+Rintaro: ...Now that's just low.
+Faris: So, what'll it be nyan? You can't survive unless you fight with your own paws, nyan!
+UNSPOKEN: Use any method to obtain information. That's my current mission. I have to do it! No matter what lies ahead!
+Rintaro: There's no choice. I accept your challenge. But on one condition.
+UNSPOKEN: I thrust my finger at the tip of Faris' nose.
+Rintaro: If I face you, you'll tell me everything you know!
+Faris: NyaNya? Well, fine by me nya... Well then, Master, this way, nyannyan♪
+UNSPOKEN: She sticks a nametag onto my chest. The number 28 is written on it with round, girly numbers. I cautiously let Faris lead me to the back of the cafe, and finally learn what the customers are doing. Everyone's engrossed in some kind of card game. Now I remember. The other day, Faris said that she was doing a RaiNet AccessBattlers tournament. That's the Faris Cup. If you win, you get to eat Faris's home cooking, or something like that. Tch, looks like Faris tricked me. Save me, she said. Nya, she said. I knew she was not to be trifled with.
+Itaru: Huh? Why are you here? You don't do RaiNet.
+Rintaro: Wha, Daru!? What are you doing here!? What about SERN!?
+Itaru: Let me rest for one day, man. You should treat me better after two consecutive all-nighters.
+Rintaro: SERN's power grows stronger by the day, and here you are without a care in the world.
+Itaru: You're here too.
+Rintaro: I came here for an unrelated matter and got dragged into this nonsense. I'm not interested in RaiNet or Faris's home cooking.
+UNSPOKEN: The second those words leave my lips, I feel like everyone in the store is glaring at me. They want my blood. Come to think of it, the Faris Cup was organized by Faris, so it makes sense that only Faris fans would participate. In other words, I'm the Away Team. Tch, I'm surrounded by enemies. But this is something I must do. This is just one more step on my road to the IBN 5100. Obtain information using any means necessary. With that mission in mind, I sit next to Daru and softly whisper to him.
+Rintaro: Daru, Operation Sigma.

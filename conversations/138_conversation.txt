@@ -1,29 +1,37 @@
-Kurisu: Are you trying to break the machine? You don't have to break it, Okabe. We already decided not to experiment. Remember? Anyway, put the chair down.
-UNSPOKEN: I lower the chair slowly. Not because Kurisu told me to, but because I realized what would happen if I really did break the machine. It caused -- or will cause -- Mayuri's death, but at the same time, it is also my only chance of averting that future. If I lose it, I lose my only hope of saving her. The fear of that outcome stayed my hand.
-Kurisu: You look pale. What's wrong? Are you listening?
-UNSPOKEN: I can't deal with this. Not now.
-Kurisu: W-wait!
-UNSPOKEN: I flee from the lab. I don't have a particular destination in mind. People look at me strangely as I shuffle down the street. I imagine I must look like I crawled up from the grave. Soon, I get fed up with the crowd around the station and escape to the pedestrian overpass. I get about halfway across the bridge and squat down on the concrete. The giant screen on the UPX building is advertising some gothic punk band. The ticker at the bottom displays today's weather forecast along with the date and time. I realize that today is Friday the 13th. Is there no way to get through today without Mayuri dying? It's already 5:30. Two hours until the attack. The lights around Akihabara Station turn on one by one as the sun sets. The moe might be gone from Akiba, but the area around the station is still as posh as ever. I don't belong here. The bridge I'm sitting on has become a date spot for couples. I see them standing here and there, gazing at the cityscape with their arms wound around each other. Somehow, they never seem to tire of the dull, unchanging scenery. What am I doing here? Mayuri's about to die.
-Kurisu: Hey. Don't you think you're a little old to be sitting on the ground in public?
-UNSPOKEN: I lift my head and see Kurisu standing there.
-Kurisu: So this is where you went. I've been looking for you.
-Rintaro: ...Christina.
+Mayuri: Are you okay?
+UNSPOKEN: Mayuri waves her hand in front of my face. After blinking several times, I notice I'm standing stock still, gripping my phone. My phone should be displaying Mail Sent, but it's not. Instead, it's showing the normal standby display. Something isn't right here. I look around. I'm inside the lab. The PhoneWave (name subject to change) isn't on. When I sent the mail, the timer read 115. In other words, it should still be running for about two more minutes. Yet now, the PhoneWave (name subject to change) is silent. I scan the room. Other things feel wrong.
+Itaru: Hmm...
+UNSPOKEN: Just a few seconds ago, Daru was sitting in front of the X68000. But now he's sitting in front of the lounge computer. Did he teleport? At least, I don't remember seeing Daru get up and move to the lounge. Kurisu is sitting cross-legged on the sofa, reading a massive technical book. She should be in the development room too. Moeka is standing at the edge of the development room. Nothing particularly different about her. Mayuri is next to me, looking at me with a confused expression. This is wrong.
+Rintaro: Mayuri, how long have I been standing here?
+Mayuri: Eh? What do you mean?
+Rintaro: Just tell me.
+Mayuri: Hm... maybe 30 seconds?
+Rintaro: 30 seconds? Really?
+Mayuri: Yup. You suddenly ran over to the PhoneWave, then you took out your phone and started going 'haaah haaah!
+Itaru: Say that again, Mayushii.
+UNSPOKEN: Daru calls out from the lounge.
+Mayuri: Huh? You started going haah haah?
+Itaru: The haah haah part!
+Mayuri: Haah haah!
+Itaru: More sexy this time!
+Kurisu: Stop it, perv.
+UNSPOKEN: Kurisu and Daru are exchanging their usual banter. How can these guys be so calm? I just sent a mail that may have changed the past. Why aren't they interested in the result?
+Rintaro: Th-that's right, the mail!
+UNSPOKEN: I quickly check my mail.
+Rintaro: The mail arrived a week ago.
+Mayuri: Hm? What's going on?
+Rintaro: The money! Did I win the LOTO SIX?
+UNSPOKEN: I search my memories, but turn up nothing. No memories of buying a ticket. No memories of winning 3rd place. Nothing.
+Rintaro: Hey, Celeb Sev, did I win 3rd place?
+Kurisu: Don't call me Celeb Sev! And 3rd place of what?
+Rintaro: ...what?
+UNSPOKEN: Again, this feeling of disconnect. I approach Kurisu, who's lounging on the sofa.
+Rintaro: What did you say just now?
+Kurisu: Wh-what?
+Rintaro: What the hell did you say just now!?
+UNSPOKEN: Kurisu glares back at me.
+Kurisu: Got a problem? I asked what, and then you just--
+Rintaro: Not that! You said '3rd place of what', right!? I mean 3rd place of LOTO SIX!
 Kurisu: What?
-Rintaro: What time is it now?
-Kurisu: 5:38. Hey. If you have time to sit around, then you can help me with the shopping.
-UNSPOKEN: Shopping... Oh, right. Preparations for the party. In the original timeline, I went shopping with Kurisu at the UPX supermarket. And then we talked on this bridge, just like now. It feels like so long ago. Back then, I had no idea what was about to happen.
-Kurisu: Well? Are you going to come along or not?
-UNSPOKEN: I sigh deeply. I don't believe that it was wrong to time leap. However...
-Rintaro: Kurisu.
-UNSPOKEN: I keep my eyes lowered.
-Kurisu: ...That's the first time you've said my name properly.
-UNSPOKEN: I feel her eyes on me.
-Rintaro: ...Help me.
-UNSPOKEN: I can't save Mayuri alone. I realize that now. Reliving today again and again, only to taste the same despair each time, has taught me one important lesson. Alone, I am powerless. Alone, I have no hope.
-Rintaro: Help me...
-Kurisu: Tell me what happened. I know you used the Time Leap Machine.
-Rintaro: ...What?
-UNSPOKEN: I look up in surprise. Kurisu doesn't meet my stare. Instead, she leans on the guard rail and gazes down at the plaza with her usual frown.
-Kurisu: You get a phone call, and suddenly you're like a different person. It was obvious.
-Rintaro: I came from three hours in the future.
-Kurisu: What happened?
+UNSPOKEN: Kurisu gives me a puzzled look. It doesn't seem like she's messing with me.
+Rintaro: Daru! I sent myself the winning LOTO SIX numbers just now. Didn't I?

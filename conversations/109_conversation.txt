@@ -1,29 +1,22 @@
-UNSPOKEN: It seems like a strange coincidence that cellphones would be the medium of time travel, but really, could it have been anything else? These days, people wear their phones like a second skin. No other medium could reliably deliver the memories to their intended target. The more I think about it, the more I realize that this was meant to be.
-Rintaro: Heh... heh heh heh... MUHAHAHA!
-UNSPOKEN: I whip out my phone and place it to my ear.
-Rintaro: It's me. Everything is falling into place. The plan can now proceed to the final stage. I'm talking about Operation Verthandi, obviously. Heh. Christina had me fooled. I never knew she was capable of this. It must have been the choice of Steins Gate that sent her here. Don't worry. I have everything under control. Nothing can stop us now. El Psy Kongroo.
-UNSPOKEN: I put away my phone and turn to Kurisu.
-Rintaro: Were you listening? Good. Commence preparations for Operation Verthandi!
-Kurisu: First, explain what that is!
-Rintaro: We're going to build your time leap machine, Christina. And you'd better not say it can't be done! Not after showing me the way!
-Kurisu: Well, this is Akihabara. I should be able to find the parts I need.
-Rintaro: Then it's decided. I'm placing you in charge of this operation. Whatever you need, ask, and it shall be yours. Together, we shall complete the first time leap machine in human history!
-UNSPOKEN: Kurisu nods. Her eyes are shining with a fierce, hungry light. As I thought. She's a scientist to the core! Mayuri and Daru go home, leaving me with Kurisu. She's sitting in the development room chair, endlessly twirling a pen in her fingers.
-Rintaro: What are you doing?
-Kurisu: Thinking about the time leap machine. I know we can make it, but I'm wondering what will happen if we actually use it.
-Rintaro: Ah.
-UNSPOKEN: She hasn't even started working on the machine, and she's already worried about what comes afterwards? That takes confidence, alright. Are all geniuses like this? What will happen when we use it... I doubt we can find an answer to that question. Not without testing it live. Kurisu knows that. What she's really wondering is whether it's worth the risk. That's why I avoid arguing with her.
-Rintaro: You're thinking too hard. Finish the machine, then worry about it.
-Kurisu: You're so pompous.
-UNSPOKEN: Kurisu groans and flops down on the desk. It's strange to see her like this. She's usually so cool and collected. But maybe that's an act, and this is who she really is.
-Kurisu: Hey, Okabe... Can I talk to you about something completely unrelated?
-Rintaro: I'd rather talk about something related.
-Kurisu: You told me before that I could ask you anything. Remember?
-UNSPOKEN: I did? I don't remember that.
-Kurisu: I think... my father hates me.
-UNSPOKEN: She sighs sadly. Ah, so that's what she wants to talk about. A conundrum. This isn't like before, when she was merely an advisor. The time leap project depends on Kurisu to succeed. It is clear, however, that she will be unable to focus as long as these petty concerns distract her. In that case, it falls to me, the great Hououin Kyouma, to solve her problem once and for all! Only then can she devote herself fully to the future of the lab!
-Rintaro: Very well. Speak!
-Kurisu: Heh... you really are pompous.
-Rintaro: I assume it was your father on the phone the other day?
-UNSPOKEN: I am speaking, of course, of when I found Kurisu outside the lab, crying into her phone. The mood was... delicate.
-Kurisu: ...Yeah. I don't remember the last time he had a kind word for me. Even when we were living together, before I went to America, he acted like I wasn't there. We're supposed to be family, aren't we?
+Kurisu: 'Jellyman's Report 7.' 'Subject: Michael Lang, Age: 33, German' 'Z Program 4, Date of Experiment: 2002-10-8 T 13:28' 'Results: Error. Human is dead. Mismatch.'
+UNSPOKEN: The article clipping is written in Japanese. Looks like a pre-war newspaper. It even happened in Japan. I've never heard this story before. It was pre-war, though, so I guess someone born in the 90s like me would have no way of knowing about it. Next page. The picture shows a beach, beautiful but for the jellyfish-like body lying on the sand. It must have washed ashore. 
+Kurisu: 'Jellyman's Report 6.' 'Subject: Mark Hughes, Age: 30, American' 'Z Program 4, Date of Experiment: 2002-8-23 T 12:52' 'Result: Error. Human is Dead. Mismatch.' 'On July 1, 1985, a strange body washed ashore on the coast of Streymoy, Faroe Islands.' 'It appeared to be the body of an adult male, but its flesh was soft like that of a jellyfish. Some of the island's inhabitants believe that it was the body of a merman.' 'The inscription 'SERN' was found near the body's shoulder, but SERN denies any involvement.'
+Itaru: Keep looking?
+Rintaro: I've seen enough.
+UNSPOKEN: There are 14 of these people?
+Kurisu: The sites are spread throughout the world. What can we deduce from this?
+Rintaro: They must have sent them to those places.
+Kurisu: I don't think so. It's too random.
+Itaru: There was something about Kerr black holes and gravity, right? Isn't that the cause?
+Kurisu: It is believed that due to infinite compression by supergravity, the subject could not endure passage through the Kerr black hole's singularity.' That's what it said.
+Itaru: What's a Kerr black hole? Is it different from a regular black hole?
+Kurisu: It's a theoretical black hole with a rotating singularity. Their existence hasn't been proven yet. Not that there's any way to prove one exists.
+UNSPOKEN: Kerr black hole. Where have I heard that term before?
+Rintaro: That's right... John Titor!
+UNSPOKEN: Titor said his time machine used Kerr black holes.
+Rintaro: According to Titor, SERN finished their time machine in 2034. And then Titor himself came from 2036.
+UNSPOKEN: It makes sense for Titor and SERN to be using the same time travel technology. Kurisu closes her eyes in deep thought.
+Kurisu: Creating Kerr black holes? That's insane. If you screw up, it could swallow the Earth... and besides, Kerr black holes are just a theoretical construct.
+Rintaro: If Titor's predictions are a reality, then that means the LHC worst case scenario video on MewTube was right.
+Itaru: I don't know about Titor's predictions, but I've seen the problem video before. It was on the news two or three years ago.
+Kurisu: The gravitational forces inside a black hole are unbelievably powerful. It's certainly possible that passing through one could allow time displacement, but there's no way a human could do that and come out alive.

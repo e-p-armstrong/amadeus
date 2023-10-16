@@ -1,0 +1,32 @@
+UNSPOKEN: According to Mayuri, the refrozen chicken had indeed been gelified when she tried eating it. Kurisu's prediction was right.
+Mayuri: And you can send 36 letters in a D-Mail, but everything past that disappears, right-? So I think maybe you can't send big things, or a lot of small things. Maybe the Curb black hole--
+Kurisu: Uh, it's Kerr black hole.
+Mayuri: The Curb black hole--
+Kurisu: Kerr black hole.
+Mayuri: ...the black hole's hole is too tight.
+Itaru: Mayu-shi... say that one more time. Starting from 'hole'.
+Mayuri: The hole is too tight!
+Itaru: Outrageous!
+Rintaro: Stop making her say stuff like that!
+UNSPOKEN: Mayuri has flowers for brains, so she's easy prey for Daru's perversions. It drives me crazy.
+Kurisu: The hole is tight... huh. That might not be entirely wrong. Maybe we have the same problem SERN has with their time machine. Since they can't fully control the lifter, they can't make the singularities perfectly naked, which limits how much they can send.
+Itaru: Anyway, 6 Japanese or 12 English characters comes out to 12 bytes.
+UNSPOKEN: English characters are half-width, so they only use one byte, but full-width Japanese characters use two.
+Kurisu: Bytes? Not kilobytes?
+Itaru: Oh? So Makise-shi's bad with computers?
+Rintaro: Heh. Is that so, assistant?
+Kurisu: Sh-shut up! You don't see things measured in bytes nowadays, so I was just making sure...
+UNSPOKEN: By the way, 1 kilobyte is 1024 bytes. 1 byte is 8 bits.
+Itaru: Well, email isn't just comprised of text. There's more to it, like the sender and receiver's email addresses, the header, and various other things. So roughly speaking, we can send data in three batches of 12 bytes, then? By the way, I don't know if using a subject changes anything.
+Rintaro: But I'm pretty sure that chicken and bananas have to be larger than 12 bytes.
+UNSPOKEN: How do you measure a banana in bytes anyway?
+Rintaro: Since each grain of salt is tiny, it's possible they could be converted to less than 12 bytes.
+Kurisu: So larger masses get crushed by supergravity?
+Rintaro: Mass might not be the issue here. Data doesn't have mass.
+Kurisu: In any case, since the singularity isn't naked, the object is forced to pass through the event horizon. Inside the event horizon, space and time switch places, causing the subject that arrived at the ring singularity to reach ultra high speed... The data, crushed and destroyed by super gravity, is shot out of the black hole...
+Rintaro: As a jellyman.
+Kurisu: But even a small mass has to pass through supergravity. How does it emerge unscathed?
+Rintaro: If the hole is too tight, then just inject more electrons.
+Kurisu: I don't think it's that simple. I mean, I'm sure SERN's tried that already. And yet they haven't gotten any results after nine years of experiments. It's not as simple as increasing the flow of electrons.
+Rintaro: I see...
+Kurisu: SERN has a lifter, but we don't know what in the PhoneWave is filling the same role, much less how to adjust it.

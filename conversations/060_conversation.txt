@@ -1,0 +1,29 @@
+Mayuri: Ehh? If you want to trade, I'd rather have your quail egg.
+Rintaro: Don't be ridiculous! Next to beef, quail eggs are my favorite.
+Mayuri: But Mayushii likes quail eggs too.
+Rintaro: Settle for my chikuwa.
+Mayuri: Mm... okay. Chikuwa's better than sweet potatoes.
+UNSPOKEN: With that said, I skewer the chikuwa and put it in Mayuri's can. And I get her beef in return. Subject change complete. Mayuri really eats up conversations about food. It's so easy to manipulate her. Muhahaha!
+Itaru: Soon... If I can just get the SQL table, I'll have more than enough passwords... geheheh... you're no match for me...
+UNSPOKEN: Daru has started talking to himself. Looks like things are falling into place. Daru really is a super hacka. I think this is the first time I've seen him serious. Daru bends himself forward, staring holes into the screen. But all I see on the screen is the same string of numbers and letters...
+Itaru: Oho! Comeoncomeoncomeon, mmyes, mmyes, hooah! You can't hide from me, you naughty thing you! How does it feel to be naked? Hyahaaa! Hahaha!
+UNSPOKEN: His eyes are bloodshot, and he's started rambling. Maybe the lack of sleep is getting to him. Daru opens up a new window, types in a 12 character string, and slams the enter key. An error sound rings. He quickly deletes the string and enters in a new one. He keeps repeating that sequence, until finally...
+Itaru: Oh yes! YESSSSSSS! Matching ID and password! Login complete, hell yeah! Taste it! YESYESYES!
+UNSPOKEN: W-what enthusiasm...
+Rintaro: Did you get it!?
+UNSPOKEN: The smug bastard turns around with an expression of immense satisfaction. As if he's gone into la petite mort.
+Itaru: Mission complete.
+Rintaro: Really!?
+Mayuri: Wow, that's amazing! I don't really get it, though.
+UNSPOKEN: After 20 hours of agony, it's finally over. To show Daru my appreciation, I toss him an unopened oden can.
+Itaru: An oden can's the best after a job well done.
+Rintaro: Well done! You really are the world's greatest super hacka!
+Itaru: Hacker.
+Rintaro: H-hacker! I'm glad you're on my side. So, did you find out how they're planning to destroy the world?
+Itaru: I haven't looked yet, man. All I did was get us connected. But it's all downhill from here.
+Rintaro: I'm sorry if you're tired, but please start checking. The keys to this conspiracy have got to be in there.
+Itaru: Yeah, yeah, I'll do it. But let me eat this oden can first.
+UNSPOKEN: After a short meal break, Daru taps on his keyboard more nimbly than before.
+Itaru: The question is who this password belongs to.
+Mayuri: Why is that?
+Itaru: I went into SERN's database and got a data table. From there, I focused on people with simple passwords like 11111111 and ABCDEFGH to get my hands on an ID. It'd be awesome if this turns out to be the server admin's logon, but I don't think we're that lucky.

@@ -1,0 +1,26 @@
+UNSPOKEN: Pager typing is commonly known as two-touch typing or pager input. It's somewhat different from cellphone input. You choose the consonant and then input the vowel. The consonants are A K S T N H M Y R W. The vowels are a, i, u, e, o. Basically, to input Ke... You press 2 to input the consonant K... Then you press 4 for the vowel e.
+Itaru: This is a pain. Let's just send '831831831'. That should do it.
+Mayuri: Why 831?
+Itaru: 8(ya) 3(sa) 1(i) for veggies (yasai), duh. VEGGIES VEGGIES VEGGIES -- we just have to drill this into Luka-shi's mother's brain.
+Rintaro: She'll just pass that message off as a prank.
+Mayuri: Then, how about '29292929'?
+Rintaro: I'm going to regret asking this, but what does that mean?
+Mayuri: Ni(2) ku(9) for meat. MEAT MEAT MEAT MEAT.
+Rintaro: Why do you want her to like meat!?
+Mayuri: That's not it! If you keep repeating 'MEAT', then she'll actually start to hate meat and want to eat vegetables instead, don't you think?
+Itaru: Yeah... no.
+UNSPOKEN: Lukako completes his composition while we speak our nonsense.
+Luka: How about something like this? 'MOM EAT VEGGIES OK'
+Itaru: Isn't that a little too vague?
+Rintaro: And the first 'MOM' should go. That'll just make it harder to believe.
+Luka: Then... 'EAT LOTS OF VEGGIES TO GIVE BIRTH TO A GIRL'.
+Kurisu: That's a little too direct. And it's over the character limit.
+Luka: 'EAT VEGGIES FOR HEALTHY KID'
+Itaru: Wait a sec. According to this conversion chart, it looks like you gotta use two more numbers for voiced consonants. So that sentence is four bytes over.
+Rintaro: Then a little modification. How about 'EAT VEG 4 HEALTHY KID'?
+Kurisu: Isn't that a little too informal? You're talking to Urushibara-san's mother, you know? Would she understand the 'VEG 4' part?
+Rintaro: You have any bright ideas?
+UNSPOKEN: Kurisu shrugs her shoulders and says no more. Then it's settled.
+Mayuri: Come on, let's type it out!
+UNSPOKEN: When sending to a pager, the number-encoded message is handled like a telephone number, so we enter the input into the X68000. The long, random-looking string of numbers is complete.
+Rintaro: Alright, we're good to go.

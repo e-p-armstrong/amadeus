@@ -1,25 +1,32 @@
-UNSPOKEN: 48 hours... I can only go back two days!?
-Rintaro: Why didn't you tell me that before!?
-Kurisu: Before what? I just finished the Time Leap Machine, remember?
-UNSPOKEN: That's true...
-Rintaro: Future you didn't say anything about it either.
-Kurisu: Oh, so that's what you mean. Maybe she just didn't have the chance.
-Rintaro: So how come I can only leap 48 hours?
-Kurisu: I don't know. Even I don't understand everything that's going on inside that thing. But you can do consecutive leaps. That is, as long as the Time Leap Machine exists. For example, if the Time Leap Machine remains functional for ten straight years, you could leap back to this moment ten years from now. Of course, it would take a total of 1825 leaps, so I don't recommend it. Still, it's theoretically possible.
-Rintaro: Then what's the problem?
-Kurisu: Weren't you listening? I said, as long as the Time Leap Machine exists. When was the machine completed?
-Rintaro: ...Ah.
-Kurisu: Exactly. An hour ago. August 13th, 2010. 2:00 PM, or thereabouts. It didn't exist before then. It's impossible to use the machine before 2 PM today.
-Rintaro: So what you're saying is...
-UNSPOKEN: Count 48 hours back.
-Rintaro: I can't go back farther than 2 PM on the 11th!?
-UNSPOKEN: Kurisu nods, her expression grave.
-Kurisu: Most likely.
-Rintaro: Can't you improve it!?
-Kurisu: Eventually, maybe, but certainly not now. I'd need a real laboratory with real equipment. It would be expensive, which means we'd need sponsors. And if we go looking, I'm pretty sure SERN would crush us. I'd say that's proven by the fact that neither you nor I have leapt here from the far future yet.
-UNSPOKEN: So basically...
-Rintaro: We can't do anything!? Even with the Time Leap Machine, we can't stop SERN from killing Mayuri five hours from now!?
-UNSPOKEN: At that moment, I hear a sound from outside the window. What? Is it Moeka!? Did she overhear us!? I dash to the window and look down at the street. It's Suzuha. Her bicycle has fallen over, and she's scurrying to pick it up. Our eyes meet.
-Rintaro: ...Huh?
-UNSPOKEN: Why does she look so pale? Her lips move slightly. It looks like she's whispering something, but I can't make it out from here.
-Rintaro: Hey!
+UNSPOKEN: I can’t do it alone. I know that now.
+Rintaro: "I need your help. I have to save Mayuri! I can’t do it alone, but together, we might have a chance. I want... I need to believe that! Please, lend me your strength."
+UNSPOKEN: Kurisu sighs.
+Kurisu: "You’re such a stubborn fool. What you’ve been through... I’m surprised it hasn’t broken you already."
+UNSPOKEN: Incredibly, she sounds concerned about me. She looks at me for a moment, then turns away as if embarrassed.
+Kurisu: "I’ll help. Mayuri’s my friend, and a fellow lab mem. And besides... I don’t want to see you in such pain."
+Rintaro: "I’m sorry."
+Kurisu: "Don’t apologize. Remember when I told you about my father? You really helped me out back then. Now it’s my turn to return the favor. I want to be your strength. Besides, you still have to come with me to Aomori."
+UNSPOKEN: She smiles a wry but gentle smile, as if I were her mischievous younger brother.
+Kurisu: "I know you’re going to leap no matter what I say. You are a mad scientist, after all, and mad scientists play by their own rules. Hey. Aren’t you supposed to go ’muhahahaha’ or something?"
+Rintaro: "Yeah..."
+Kurisu: "Why do I even try?"
+UNSPOKEN: Kurisu is right. I’ll do anything to save Mayuri.
+Kurisu: "Anyway, I’m not doing this for you, okay? I’m doing it for Mayuri."
+Rintaro: "Yeah, of course."
+Kurisu: "That, and I think you’ll make a good test subject."
+Rintaro: "Now you’re talking like SERN."
+Kurisu: "It’s completely different."
+Rintaro: "How so?"
+Kurisu: "I only experiment on you. Besides, mad scientists experiment on themselves all the time, don’t they?"
+Rintaro: "I guess..."
+UNSPOKEN: I’m no longer afraid to time leap. I’ll do anything to save Mayuri.
+Kurisu: "I-it’s just a joke. Don’t take it so seriously."
+UNSPOKEN: Kurisu stands up and looks at her watch.
+Kurisu: "There’s not much time. I think you should have a clear plan before trying to change the future again."
+Rintaro: "Meaning?"
+Kurisu: "Leap to an even earlier time. Then explain the situation to me again."
+UNSPOKEN: Kurisu’s right. My actions so far have been almost entirely random, and look where that’s gotten me. I need a real plan if I’m going to save Mayuri.
+Kurisu: "Let’s go."
+UNSPOKEN: Kurisu stretches out her hand. I grasp it and pull myself up. Mayuri and Daru are already back when we return to the lab. Suzuha is there too. To get rid of them, Kurisu and I explain that we forgot to do the shopping, so could they please take care of it for us? I have to cough up the money to convince them to go, but it works.
+Kurisu: "I understand why you can’t tell Mayuri, but why can’t you tell Hashida?"
+Rintaro: "I’ll tell him when it’s necessary."

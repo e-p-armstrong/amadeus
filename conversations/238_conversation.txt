@@ -1,33 +1,27 @@
-Kurisu: Oh, whoops. I was supposed to flatter him so he'd feel like going, right? Yes, you're an amazing mad scientist.
-Rintaro: It's too late!
-Kurisu: Anyway, now that we've found the lifter, the time leap machine is 99% complete.
-UNSPOKEN: Kurisu's expression suddenly turns serious, but I can see the hunger in her eyes and the flush of excitement on her cheeks. She knows that we stand on the threshold of a new age in science, and she cannot resist the lure of the unknown. She's a true scientist. No doubt about it.
-Kurisu: It's your dream, isn't it? To invent a time machine.
-UNSPOKEN: Our dream... I've never really thought about it that way. But she's right. My hands are shaking. Not from fear of Mister Braun, but from excitement.
-Rintaro: I will become the undisputed lord of time. With that power, I will shatter the System and Chaos will rule the--
-Kurisu: Okabe.
-UNSPOKEN: Kurisu interrupts my speech.
-Kurisu: I wasn't asking Hououin Kyouma. I was asking Okabe.
-UNSPOKEN: She spears me with her gaze. I meet it head on. After a few moments, I feel my mouth curve into a smile.
-Rintaro: I'll do it. Leave it to me.
-UNSPOKEN: With that, I head downstairs. A cracked skull and an empty wallet are a small price to pay for science. Kurisu and Daru send me off with applause for some reason. Mayuri's the only one who looks worried, but I pat her head in reassurance. When I get downstairs, Suzuha and the chipmunk are sitting side by side on the bench outside.
-Suzuha: 'Sup.
-UNSPOKEN: Nae gives me a quick bow, then hides behind Suzuha.
-Suzuha: That shaking upstairs put the boss in a bad mood. Nae and I are waiting it out.
-UNSPOKEN: Damn. Now I really don't want to go in there.
-Nae: Um... are you okay? Dad hit you pretty hard...
-Rintaro: I'll have you know that my brain is more valuable than the Mona Lisa! Your father may have set humanity back a hundred years by wiping out my brain cells.
-Suzuha: Such a regrettable loss.
-UNSPOKEN: Suzuha clasps her hands in solemn prayer. Uh, I'm not dead. Just my brain cells.
-Nae: I'm sorry... Daddy did something bad...
-Rintaro: Chipmunk... what a gentle heart you have!
-UNSPOKEN: I can't believe she's Mister Braun's daughter.
-Rintaro: I suppose I share some of the blame. Your father and I are even.
-UNSPOKEN: Nae smiles slightly at my words of comfort.
-Rintaro: Now then, Part-Time Warrior. I have a request of you. I need you to distract Mister Braun for about five seconds.
-UNSPOKEN: Suzuha's eyes start to shine.
-Suzuha: You mean seduce him?
-UNSPOKEN: She flexes her bicep for some reason.
-Suzuha: Go on, touch it.
-UNSPOKEN: She insists, so I poke it. It's just as hard as her confidence suggests. ...She's probably stronger than me. But I don't understand what flexing has to do with seduction.
-Rintaro: Nobody said anything about seduction. It doesn't matter how you do it.
+Kurisu: "For the final adjustments, we need to use the PhoneWave."
+UNSPOKEN: I groan. In other words, we have to cause the electrical discharge phenomenon. There’s a risk involved. A risk called Mister Braun. As we know, the discharge phenomenon causes the entire building to shake. Last time, Mister Braun threatened to raise our rent if it happened again. Kurisu and Daru look at me.
+Itaru: "It’s up to you, Okarin."
+Kurisu: "Take care of it."
+Rintaro: "In other words, you’re sending me to die."
+Kurisu: "Your sacrifice will allow us to complete the time leap machine."
+Itaru: "Besides, you’re always the one who talks to the boss for us."
+Rintaro: "Well maybe it’s time for you to put your lives on the line."
+Kurisu: "I can’t. That girl who works there hates me."
+Rintaro: "...Fine. But hear this. I will not die! Like the immortal phoenix, I will return, no matter how many times it takes!"
+UNSPOKEN: With that said, I head down to handle things with Mister Braun.
+Mayuri: "Don’t die. Okay?"
+UNSPOKEN: As I pass through the lounge, Mayuri looks up from her costume to see me off. When I step into the store, Mister Braun, Suzuha, and the chipmunk are watching some comedy show on the massive 42-inch CRT. Watching TV at noon without a customer in sight. Looks like business as usual at the Braun Tube Workshop.
+Suzuha: "’Sup, Okabe Rintaro."
+UNSPOKEN: I raise my hand in response to Suzuha’s greeting. The chipmunk -- Nae -- quickly hides behind her father when she sees me.
+Rintaro: "I see you’re as busy as ever."
+Tennouji: "Okabe! Buy a CRT."
+Rintaro: "No thanks. I’m not some kind of retro TV otaku. I’d rather buy an LCD."
+UNSPOKEN: I look around the store as I answer. ...Huh. I just thought of something. Like SERN’s Large Hadron Collider, the PhoneWave (name subject to change) must have some kind of electron feed to keep the black hole open. SERN calls this feed the ’lifter’. We still haven’t figured out what that is, nor what could be acting as a substitute lifter in our time machine. What if... What if our lifter is somewhere in this shop? Whatever it is must be in close proximity to the PhoneWave (name subject to change) -- it couldn’t work otherwise -- and the Braun Tube Workshop is located directly below the lab. Could our lifter be a CRT?
+Tennouji: "You’ve been having a lotta girls over lately, haven’t ya?"
+Rintaro: "Just the usual members."
+Suzuha: "I was over the other day."
+Tennouji: "Invite me next time, huh? I wanna talk to some young girls for a change."
+Nae: "Daddy, that’s dirty."
+Tennouji: "N-no it isn’t! It’s, uh... marketing! Yeah, I’m looking for new customers!"
+UNSPOKEN: Check out this scary-looking guy trying desperately to explain himself to his daughter. Hilarious.
+Suzuha: "What do you mean, for a change? You talk to me every day."

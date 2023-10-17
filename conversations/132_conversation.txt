@@ -1,40 +1,32 @@
-UNSPOKEN: Moeka just keeps staring at my phone.
-Suzuha: Hey!
-UNSPOKEN: Part-Time Warrior's voice comes from outside the window.
-Suzuha: It's shaking again! And there's a strange light, too! What are you doing up there!?
-UNSPOKEN: I decide to ignore her. Mister Braun is one thing, but she doesn't scare me at all.
-Rintaro: Now then, lab mems.
-UNSPOKEN: I assemble all the lab members, including Moeka, for a meeting.
-Rintaro: The 73rd Round Table Conference will come to order.
-Kurisu: Yesterday was the 66th. Where'd the other six go?
-Rintaro: Only anal retentive bastards care about the minor details. That's why you'll never be more than an assistant, Christina!
-Kurisu: Like I keep saying, I'm neither your assistant nor Christina.
-UNSPOKEN: I ignore Kurisu's complaints and proceed.
-Rintaro: In the first stage of Operation Urd, we tested the limits of D-Mail technology.
-UNSPOKEN: We discovered that we could only send up to 36 English characters.
-Rintaro: Today, we advance to the second stage. Practical applications of D-Mail.
-Mayuri: Practical applications? I'll send one to this morning so I can say 'Good morning, Okarin♪'
-Rintaro: Like hell you will. Write that on the back of a leaflet or something.
-Mayuri: But if it's on the back of a leaflet, you won't get it.
-Rintaro: When I say practical applications, what I mean is...
-UNSPOKEN: I take a short pause to look at all four members. Then I lower my voice.
-Rintaro: Changing the past.
-UNSPOKEN: Shock ripples through the room.
-Kurisu: Now hold on! It's too dangerous! Are you trying to play god!?
-Rintaro: Oh? What's so dangerous about it?
-Kurisu: Let's say you create a time paradox and blow up the world. What do you plan to do then?
-Rintaro: Well, I guess we'd be dead.
-Kurisu: You're going to change the past so recklessly? Are you kidding me? Don't tell me... you're not seriously trying to bring chaos to the world or whatever, are you?
-Itaru: Nah, he's all talk. It's fine to ignore him, Makise-shi.
-Kurisu: R-really?
-Mayuri: Don't worry! Okarin's actually a very nice person. You'll see!
-Rintaro: I don't remember asking for an appraisal, but I'll answer Christina's question. My dream is to plunge the world into chaos. However, it is still far too early to bring that dream to fruition. We can only send 36-byte emails. That's not enough for my purposes. Therefore, I shall set my ambition -- Project Chaotic -- aside for now.
-Moeka: Project... Chaotic?
-Kurisu: Did you just come up with that?
-Itaru: Correct, Makise-shi!
-Kurisu: YES.
-Itaru: Okarin just says the first thing that comes to mind. He's always like that.
-Rintaro: Don't analyze me, Daru! And you, assistant! Stop that fist pumping! You making fun of me!?
-Mayuri: Um, so what are we going to do?
-Itaru: Yeah. How do you want to change the past, anyway?
-Rintaro: First of all, the purpose of this experiment is to verify whether or not we can actually change the past. So it doesn't matter how trivial the change is.
+UNSPOKEN: Moeka nods.
+Itaru: "Alright, program complete."
+UNSPOKEN: Kurisu, lying on the sofa, looks up from the technical manual she was reading. She got here about thirty minutes ago.
+Kurisu: "Then lets resume the experiments."
+Mayuri: "But won’t the manager scold us again?"
+Rintaro: "Heh, don’t worry. Yesterday, I made this promise with Mister Braun. ’I swear there won’t be any more shaking today.’ In other words, the no-shaking promise only applied yesterday, so since today is yesterday’s tomorrow, we can shake it all we want!"
+Kurisu: "That doesn’t settle anything. Why you’re so confident is a mystery to me."
+Rintaro: "In other words, Christina, you want me to erase Mister Braun."
+Kurisu: "No! Besides, I don’t think a wimp like you stands a chance against him."
+Mayuri: "He’s so muscley!"
+UNSPOKEN: Unfortunately, it’s impossible to experiment without shaking the building. I have no choice but to negotiate with Mister Braun somehow. The other four members look at me in anticipation. Are they planning to sacrifice me!?
+Rintaro: "Is this the choice of Steins Gate? But how do I..."
+UNSPOKEN: While trying to think of a way to avoid talking to the manager, I wander over to the window and look outside.
+Rintaro: "Hm?"
+UNSPOKEN: The street below is mostly empty. A girl is polishing her bicycle in front of the building. A much younger girl is squatting next to her, watching her work. They’re alone. I can only see the backs of their heads from here, but I know who they are.
+Rintaro: "Hey you! Part-Time Warrior!"
+UNSPOKEN: When I call her, Suzuha looks left and right while wiping the sweat off her brow before finally looking up here.
+Suzuha: "Sup!"
+UNSPOKEN: The girl beside her also looks up. This cute little girl is Tennouji Nae, Mister Braun’s only daughter. Looks like she came to play with her father today. I’ve always wondered how it’s possible for such a muscular man to spawn such a cute girl. Nae bows her head when we make eye contact. I return the nod, then call out to Suzuha.
+Rintaro: "What are you doing there?"
+Suzuha: "Can’t you tell? I’m polishing my bicycle!"
+Rintaro: "Aren’t you working today?"
+Suzuha: "Of course I am. Why else would I be here?"
+UNSPOKEN: You’re polishing your bicycle even though you’re at work? I mean, I guess the store barely has any customers. To put it bluntly, was there even a need for a part timer?
+Kurisu: "What, is she still tinkering with that bike of hers?"
+UNSPOKEN: I can hear Kurisu’s sour voice from inside the lab.
+Kurisu: "She was there when I came in, glaring at me."
+UNSPOKEN: Looks like they’re still fighting.
+Rintaro: "Hey, Part-Time Warrior! Where’s Mister Braun?"
+Suzuha: "Mister Braun? Who’s that?"
+Rintaro: "The manager of that junk shop you work at."
+Kurisu: "It’s not a junk shop. It’s a CRT specialty shop."

@@ -1,31 +1,33 @@
-Rintaro: Ah, it must have been an illusion. We could be under attack from Illusion Conductor, one of the Organization's feared agents.
-Mayuri: Oh... gotta be careful, then. But you know, I'm sure that Mr. Illusion Kidhugger--
-Rintaro: Conductor. Not Kidhugger.
-Mayuri: I'm sure he's not a bad guy.
-UNSPOKEN: It was nothing. Just meaningless chatter to pass the time.
-Mayuri: I felt so happy there. So happy I could cry. I wanted to stay like that forever. Ah! But that doesn't mean I don't like how things are now, okay?
-UNSPOKEN: Mayuri shakes her head in denial. Finally, she stops looking up at the sky, and bows her head instead.
-Mayuri: You know, I haven't talked to Okarin much lately. Maybe Mayushii's getting a little lonely.
-UNSPOKEN: It's true. I haven't had time to talk to her lately. But that's because I've been fighting to prevent her death. To keep her dreams from coming true. All so that Mayuri will keep smiling. I never again want to see her cry like she did on the day her grandmother died.
-Mayuri: But you know, I don't want to be a burden on Okarin.
-UNSPOKEN: That word again. Burden. I've never thought of her as a burden.
-Mayuri: Mayushii's just one big nuisance, isn't she... Um, Granny?
-UNSPOKEN: Mayuri lifts her face once more.
-Mayuri: ...I can't stay like this forever, can I?
-Rintaro: Of course you can!
-Mayuri: Huh?
-UNSPOKEN: When I finally speak to Mayuri, she turns my way with a surprised expression. Her face is so soft, so innocent. Slowly, her lips curve into a smile.
-Mayuri: It's Okarin♪ Wow, how'd you know I was here?
-Rintaro: I always know where my hostage is.
-Mayuri: Hostage...
-Rintaro: You cannot escape my grasp. Not ever.
-Mayuri: Oh... But don't wear yourself out, okay? Mayushii's a little worried.
-Rintaro: ...Hououin Kyouma is not so weak as to require your concern. When the time comes, I'll tell you everything.
-Mayuri: ...Huh?
-Rintaro: So stay with me until then, like you always have.
-Mayuri: ...Okay.
-UNSPOKEN: Mayuri stands up and turns to the grave once more. As an offering, she leaves a brand new white lily, as well as some dango dumplings.
-Mayuri: Let's head back, Okarin.
-Rintaro: Shouldn't we get some dango for ourselves first?
-UNSPOKEN: Back when we used to visit the cemetery together, it was part of our daily routine to eat dango on the way back.
-Mayuri: Ehehe! Of course♪
+Rintaro: "Daru! Christina!"
+UNSPOKEN: Kurisu jerks awake.
+Rintaro: "It’s time for the final phase of Operation Verthandi!"
+UNSPOKEN: My sonorous declaration earns only blank stares. Why are they so slow?
+Rintaro: "The IBN 5100, Daru!"
+Itaru: "...Yeah?"
+Rintaro: "Listen to me, man! We have an IBN 5100!"
+Itaru: "Of course we do. You’re the one who found it, Okarin."
+Rintaro: "Yes! Yes I did! I found it at Yanabayashi Shrine!"
+Itaru: "...Have you been drinking too much soda?"
+Kurisu: "Let me sleep, for crying out loud."
+UNSPOKEN: Kurisu rubs her eyes and complains. She looks dead tired.
+Kurisu: "I was up all night."
+Rintaro: "A question, Daru. Have you researched how to use the IBN 5100?"
+Itaru: "Huh? Well, yeah, I guess. Can you believe I did it while preparing for ComiMa? I’m like a saint or something. They’d knight me for this in England."
+Rintaro: "Then we shall call you Sir Super Hacka!"
+Itaru: "Hell no."
+Kurisu: "Will you guys shut up? You’re giving me a headache."
+UNSPOKEN: If Daru knows how to use the IBN 5100, then we can hack SERN right now!
+Rintaro: "Hear me, lab mems!"
+UNSPOKEN: Mayuri’s not here, but that’s actually more convenient.
+Rintaro: "Our long struggle has at last reached its climax! Ragnarok is at hand! Now we must deliver the decisive blow. With the power of the IBN 5100, we shall crack SERN’s most secure database and destroy it from the inside! Through the cowardly apparatus known as Echelon, the enemy has acquired precious intelligence on our activities. Now they plot to steal our sacred time machine, upon which rest the hopes and dreams of all mankind! Beneath its scholarly trappings, SERN is a hive of scum and villainy, of men who would sacrifice innocent souls in their quest to rule all space and time. But now we are poised to crush them with the Hammer of Justice! And when we do, they will know once and for all by whose hand the wheel of fate truly turns! When the sun sets upon the battlefield, the foul System that rules the world will crumble! And from the flames, a new age will rise! An age of glorious, unfettered Chaos!"
+Kurisu: "Argh! Shut up!"
+UNSPOKEN: Kurisu gets fed up and rises from the sofa.
+Kurisu: "What are you talking about!?"
+Itaru: "Nobody can know the darkness in Okarin’s heart..."
+Kurisu: "First, get your character straight! What kind of mad scientist talks about the Hammer of Justice?"
+Itaru: "I guess he just got caught up in the heat of the moment. Maybe he regrets it now."
+Rintaro: "Come on, guys! Stop complaining and get ready!"
+Itaru: "Get ready?"
+Rintaro: "To crack SERN! Weren’t you listening?"
+Kurisu: "Uh, I don’t think that’s a good idea."
+Rintaro: "When did you become a goody two shoes? Where’s your ambition!?"

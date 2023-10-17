@@ -1,26 +1,16 @@
-Kurisu: ...eh?
-UNSPOKEN: Kurisu's voice cracks a little.
-Rintaro: Remember what I told you before? When we delete the D-Mail from SERN's database, we'll reach the Beta worldline, where Mayuri doesn't die.
-Kurisu: And where SERN doesn't take over the world, right. Everyone lives. Everyone is free. You made it sound perfect.
-Rintaro: Perfect? It's anything but. I showed you the first D-Mail, didn't I? The one that started it all. On the Beta worldline, the events described in that D-Mail actually happened.
-UNSPOKEN: Kurisu is a genius. I have no doubt that she understands.
-Rintaro: Kurisu. On the Beta worldline... You die on July 28th. And according to the attractor field model, nothing can prevent that from happening. If I want to save Mayuri, I have no choice... but to let you die!
-UNSPOKEN: Kurisu says nothing. What expression is she making now? I reluctantly sneak a look at her face. She's staring out across the cityscape. Her eyes look distant. I see neither fear nor sadness in her face. She seems... accepting. Kurisu is always like this. Always calm, no matter what. It's hard to believe she's younger than me. Her soft chestnut hair blows in the wind. She lifts a hand to hold it down.
-Kurisu: Hey, Okabe. How credible do you find this attractor field model?
-Rintaro: Credible?
-Kurisu: It's all secondhand info from John Titor -- from Amane-san, isn't it? I get that it's the accepted model in 2036. But how exactly did scientists prove the existence of attractor fields?
-Rintaro: Are you trying to say the model may be wrong? But I know for certain that convergence exists. I've experienced it firsthand.
-Kurisu: Even if they're right about convergence... What about the relationship between worldlines?
-Rintaro: The moment I change worldlines, everything is reconstructed. Past, present, and future.
-Kurisu: But that's just from your perspective, Okabe. Once you go to the Beta worldline, the 'me' that your brain perceives will die. In other words, your perspective will have chosen the worldline where I die instead of the one where I don't. However... Why can't the world your brain perceives be different from the world my brain perceives?
-UNSPOKEN: Brains. I forgot her specialty was neuroscience.
-Rintaro: So you're saying worldlines are independent?
-Kurisu: Like trains, maybe.
-Rintaro: Trains?
-Kurisu: Um, let me give you an easy example...
-UNSPOKEN: Kurisu takes out her phone and starts fiddling with it.
-Kurisu: If I want to take the train from Akiba to Yokohama, which route should I use?
-Rintaro: I didn't know you were a railfan.
-Kurisu: It's just an example. Geez. You choose to take the Yamanote Line to Tokyo Station, then transfer to the Tokaido Main Line for the rest of your trip.
-UNSPOKEN: Kurisu keeps talking as she looks at her phone, apparently reading off an itinerary.
-Kurisu: But I take the Yamanote Line to Osaki, then transfer to the Shonan-Shinjuku Line. Another person -- say, Hashida-san -- might decide to take the Keihin Tohoku Line for some reason. And Mayuri might ride the Shinkansen from Tokyo. You and I ride the same train until Tokyo Station. But from there, we ride different lines, while still aiming for the same destination.
+UNSPOKEN: I silently squeeze Moeka’s hand. Moeka doesn’t squeeze back. She no longer has the strength.
+Moeka: "I had... nothing... except FB... The only... place... I belonged... I would... kill... to protect it... You’re right... to hate me... I’m... so...rry..."
+Rintaro: "I forgive you."
+UNSPOKEN: The words come to my lips unbidden. But as soon as I speak them, I understand why. Moeka does not kill Mayuri on this worldline. Even if she could, it would not happen until tomorrow. This Moeka, the one dying in my arms, is innocent. And yet, even now, she says, I’m sorry. How can I not answer her?
+Rintaro: "I forgive you."
+UNSPOKEN: Perhaps the words are meaningless. Forgiving Moeka will not cure Nae’s hate. Neither will Moeka’s death. I don’t even know if I truly mean what I’m saying. But still, I remember what Kurisu said. My goal is to save Mayuri, not avenge her. So here, now...
+Rintaro: "I forgive you."
+UNSPOKEN: The anguish seems to fade from Moeka’s face. Her eyes slowly close. A tear slides down Moeka’s cheek. Her hand slips from my grasp. She is no longer breathing. Biting my lip, I lay Moeka to rest on the floor. I place her purple phone in her hands.
+Kurisu: "...Okabe."
+UNSPOKEN: Kurisu calls to me in a weak voice.
+Kurisu: "I think you should send the D-Mail. Everything’s ready at the lab."
+Rintaro: "Yeah..."
+UNSPOKEN: Moeka and FB are gone, but Mayuri’s fate remains unchanged. The universe still demands her death.
+Rintaro: "Hey, Christina. When I send the D-Mail and change divergence, do you think Moeka’s fate will change?"
+Kurisu: "Based on the attractor field model you spoke of... She’ll be more likely to live if divergence exceeds 1%. ...Sorry. I wish I knew what to say."
+Rintaro: "Don’t worry about it."

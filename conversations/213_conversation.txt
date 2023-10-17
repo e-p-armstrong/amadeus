@@ -1,29 +1,34 @@
-Rintaro: There's only one step...
-UNSPOKEN: Unlike before, the signal doesn't pass through any intermediate servers. The PC we're using -- its registered name is AKIHABARA_PC -- is connected directly to SERN in France.
-Itaru: And the transfer rate is hundreds of times better than usual. Crazy fast! You can't even get these numbers domestically, man.
-Rintaro: Why do we have a direct line? Is this even possible?
-Itaru: It was like this when we found it. I didn't do anything.
-Rintaro: So the building already had a hotline to SERN? This can't be a coincidence. It might just be the choice of Stei--
-Itaru: It doesn't make sense. Why would there be an independent line running from here all the way to SERN?
-UNSPOKEN: Daru's so excited, he interrupted me.
-Itaru: No Japanese or French telecommunication company would set up something like this. Which means...
-Rintaro: SERN did it themselves.
-UNSPOKEN: Daru gulps and nods. Cold sweat oozes from his brow. I feel a chill as well. SERN might be able to see everything we're doing. No. Maybe... Maybe SERN has been expecting us for years. How could that be? The answer is simple. John Titor claims that SERN completed their time machine in 2034. Just two years later, the world is a dystopia under their rule. Maybe the SERN of 2034 considers our opposition in 2010 a threat. Maybe they used their time machine to travel to 2000 and install a fiberoptic cable to track our every move. It's entirely possible. Has the invention of the time machine started an inter-temporal war? If so, what can we do? Our enemy might be stronger than even I can imagine. No, I mustn't lose heart. I need to think positive.
-Itaru: But thanks to this direct line, we can now control the LHC remotely.
-Rintaro: You figured out how!?
-Mayuri: Wow! That's amazing, Daru-kun.
-UNSPOKEN: Mayuri pauses her DVD and comes up beside me.
-Itaru: With a connection this fast, we can control the LHC practically in real-time. I haven't actually tried it yet, though.
-UNSPOKEN: That's right. Even if this is some kind of SERN trap, we might be able to make use of it. They're still vulnerable to our attack.
-Mayuri: The LHC is that 20-kilometer-long tunnel thing, right? Um, what does it do again?
-Rintaro: It accelerates protons and smashes them together.
-Mayuri: Oh yeah. Mini black holes, right?
-Itaru: The official line is that mini black holes might manifest as a byproduct of the particle collision, but that's not the truth.
-Rintaro: According to the top secret documents we found, the LHC was intended to create black holes from the very beginning.
-UNSPOKEN: But we still don't know exactly how they do it. We need to think of a way to--
-Kurisu: Okabe.
-UNSPOKEN: Kurisu suddenly emerges from the development room. She was cooped up in there all morning. Her expression is unusually grave.
-Rintaro: What's wrong?
-Kurisu: I figured it out.
-UNSPOKEN: Figured what out?
-Kurisu: I think I know how the PhoneWave works.
+Rintaro: "You couldn’t find your father, so we held the ’Last Supper’ to make you a test subject. Correct?"
+Suzuha: "Ahaha! Yeah, I remember you saying something like that. Thanks for all your help yesterday."
+Rintaro: "...My memory’s a bit fuzzy. Remind me again how we captured you."
+Suzuha: "Wait, were you really drinking last night?"
+Rintaro: "Just tell me."
+Suzuha: "Well, I was on my way home from the time machine meet when--"
+Rintaro: "Woah, wait a second. Time machine meet!?"
+Suzuha: "Yup."
+UNSPOKEN: That’s the same offline meet that Daru was going to...
+Rintaro: "Was that where your father was supposed to appear?"
+Suzuha: "I said so yesterday, didn’t I?"
+Rintaro: "So you were going home, and then?"
+Suzuha: "You, Hashida Itaru, and Shiina Mayuri appeared out of nowhere. You brought me to the lab, and we partied all night long."
+UNSPOKEN: So my pursuit of Suzuha was a resounding success. I can’t help but smile at how smoothly things went. Suzuha, meanwhile, looks back up at the clear blue sky.
+Suzuha: "Yesterday sure was fun..."
+UNSPOKEN: Her tone is sincere.
+Suzuha: "It would’ve been more fun if not for Makise Kurisu. The apple pie she made was deadly. But Urushibara Luka’s curry was awesome. Your lab seems kinda like... umm... like a clubhouse? It’s nice. Everyone gets along, and you’re always smiling... I’ve never had so much fun in my life."
+UNSPOKEN: Hmm. It sounds like Suzuha had a pretty dark childhood. Maybe she was bullied in school. Could that be related to her father’s disappearance?
+Rintaro: "Part-Time Warrior. As promised, you are now my test subject."
+Suzuha: "But I already told you. I don’t know his email address."
+Rintaro: "Then we’ll have to postpone the experiment until you find out. By the way, the PhoneWave (name subject to change) used in the experiment is our lab’s greatest secret. You must become a lab mem to guarantee your silence."
+Suzuha: "Lab mem?"
+Rintaro: "Short for laboratory member. When you become a lab mem, you become one of us."
+Suzuha: "...Can I really join?"
+Rintaro: "You don’t have a choice in the matter! From this day forth, you are Lab Mem 008!"
+UNSPOKEN: Suzuha lowers her head, no doubt awed by my proclamation. I hear what sounds like a sniffle. Then she looks up, revealing a smile.
+Suzuha: "I guess I don’t have a choice, huh? I’m all yours."
+Rintaro: "...You’re not going to leave?"
+Suzuha: "Nope. Maybe there’s still a chance to find my dad."
+Rintaro: "You are a lab mem now. If there’s anything we can do, you need only ask. By the way, do you have any leads?"
+UNSPOKEN: Suzuha hesitates a little. Then she stands up and turns to me. Her expression is grave.
+Suzuha: "My father calls himself Titor."
+Rintaro: "Wait, Titor? As in that Titor!?"
+Suzuha: "You know about him? He might be using a different codename, though."

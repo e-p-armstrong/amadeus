@@ -1,36 +1,39 @@
-UNSPOKEN: Kurisu slurps her cup noodles indignantly. I bought them at her request. She was raised in America, yet she likes cup noodles? Strange.
-Rintaro: Celebrity bath time at a high class hotel? I want to come too.
-Kurisu: Not a chance.
-Mayuri: Mayushii wants to come too!
-Kurisu: You can come any time, Mayuri-san.
-Mayuri: Really? Thank you♪
-UNSPOKEN: I take my warm food out of the microwave, take a fresh bottle of Dr P out of the fridge, and join in on lunch.
-Mayuri: Hey, Okarin, I've been wondering, but why do you drink soda while you eat? Does it make it taste better?
-Rintaro: I don't really see a problem.
-Itaru: Me neither.
-Kurisu: Same. I didn't give it a second thought.
-Mayuri: Ehh?
-Rintaro: You're acting weird, Mayuri. It's normal to drink soda while eating.
-Itaru: It's normal, duh.
-Kurisu: No objections.
-Mayuri: No way! You guys are the weird ones!
-UNSPOKEN: Well, I'm a pure Docperian, Daru loves cola like a typical fat otaku, and Kurisu lives in America, home of soda. So I admit our opinion is biased. But that doesn't matter right now.
-Rintaro: Now, let's discuss Operation Urd's progress.
-Itaru: Operation Urd?
-Rintaro: Oh, right. Thanks to a certain assistant, I didn't get a chance to present the operation's codename yesterday. Heed me! These D-Mail experiments are all part of Operation Ur--
-Kurisu: The experiments have been fruitful.
-UNSPOKEN: She interrupts me again.
-Kurisu: At the very least, we've learned what we can do with D-Mail.
-UNSPOKEN: Kurisu places her empty noodle cup on the table, then retrieves the whiteboard from the development room. While the rest of us eat, she scribbles on the whiteboard, then puts it up against the wall.
-Kurisu: That about sums it up. Anything to add?
-UNSPOKEN: Nothing especially. She's summarized the vital parts. Mayuri has her mouth half-open in a blank stare. She clearly doesn't understand.
-Rintaro: A D-Mail can be at most 36 English characters or 18 Japanese characters long. That makes experimentation difficult, so we'll want to improve that first.
-UNSPOKEN: Furthermore, each D-Mail is split into 12 character segments. If you send 36 characters, you'll get three 12-character emails. If you try to send more, everything after the 36th character disappears.
-Itaru: But we figured out how to control when it arrives. That's pretty good, right?
-UNSPOKEN: Though we can only set it in one hour increments, we can control how far back D-Mails go by using the microwave's timer.
-Kurisu: Observation isn't enough. We need to find the underlying principle. What I've written here is nothing but verified phenomena.
-Rintaro: The underlying principle... you're right. It's not a complete time machine until we understand how it works. What could be the reason for the character limit?
-UNSPOKEN: Daru and Kurisu remain silent.
-Mayuri: Um...
-UNSPOKEN: Suddenly, Mayuri, who has been staring at the ceiling in confusion until now, raises her hand.
-Mayuri: Chicken and bananas become 'gelchicken' and 'gelbanas', but salt doesn't turn into 'gelsalt', right?
+UNSPOKEN: She notices me and calls out without stopping her exercises.
+Suzuha: "What shenanigans are you up to this early in the morning?"
+UNSPOKEN: Shenanigans? This girl has a thing for unusual words.
+Rintaro: "The kind you wouldn’t believe. We’re building the first time machine in human history."
+Suzuha: "Huh. Cool."
+Rintaro: "Hey, shouldn’t you be more surprised!?"
+Itaru: "Can’t blame her for being skeptical. I didn’t think it was possible either. And isn’t that top secret? I thought you didn’t want anyone to know."
+Rintaro: "Crap! Part-Time Warrior, please keep what I just said a secret."
+Suzuha: "Sure. By the way..."
+UNSPOKEN: Part-Time Warrior glances at the Braun Tube Workshop.
+Suzuha: "The boss is really pissed."
+Rintaro: "Why?"
+Suzuha: "The noise. Whatever you’re doing up there, it’s got the whole building shaking. Dust everywhere. Kinda like an air raid. He was saying stuff like ’What’s that nutcase doing? I’mma raise his damn rent!’ Maybe you should go apologize."
+Itaru: "Oh boy. What if he kicks us out?"
+Rintaro: "Alright, leave it to me. Daru, go tell my assistant to lay off the experiments for now."
+Itaru: "Roger that... I won’t forget you, soldier."
+UNSPOKEN: Daru salutes, then races up to the second floor.
+Suzuha: "...By the way, is Makise Kurisu here too?"
+Rintaro: "Yeah."
+UNSPOKEN: Come to think of it, she did pick a fight with Christina yesterday.
+Rintaro: "Have you met before?"
+Suzuha: "Um... no. Yesterday was first contact."
+Rintaro: "First contact?"
+UNSPOKEN: That’s a strange way of putting it.
+Rintaro: "Oh. Really? Weren’t you a little hostile for a first contact?"
+Suzuha: "She’s... my enemy."
+UNSPOKEN: What? I barely heard her, her voice was so low. I’m about to ask her to repeat herself, but Suzuha is staring at the ground in silence. She obviously doesn’t want to talk about this. Did she call Kurisu her enemy? But that doesn’t make sense.
+Rintaro: "How can she be your enemy? You just met, right?"
+Suzuha: "Yeah."
+Rintaro: "Did she do something to you?"
+Suzuha: "Not to me."
+Rintaro: "What does that mean? She did something to someone else? If you want, I can go talk things over with Christina."
+Suzuha: "It doesn’t really matter."
+Rintaro: "Maybe you’re blaming the wrong person?"
+Suzuha: "Geez! Give it a rest!"
+UNSPOKEN: She hits me with a glare.
+Suzuha: "Anyway! Shouldn’t you apologize to the boss instead of talking to me?"
+UNSPOKEN: Heh. Actually, I’m getting cold feet. But I am Hououin Kyouma, the mad scientist who brings chaos to the world. I can’t falter now. I steel myself and enter the Braun Tube Workshop. Part-Time Warrior follows me inside.
+Rintaro: "I have come!"

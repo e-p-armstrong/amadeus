@@ -1,42 +1,28 @@
-UNSPOKEN: Fortunately, the lab is less than a 15 minute walk from here.
-Luka: It looks pretty heavy...
-Rintaro: Hmph. No matter how heavy it may look, it's still just a computer. I can manage.
-UNSPOKEN: I try lifting up the cardboard box with the IBN 5100 inside.
-Rintaro: Huff! ...Gah, it's heavy!
-UNSPOKEN: It'll take everything I've got to carry this all the way. I put it down for now. Now I know why Lukako's father was red in the face when he carried this thing.
-Luka: A-are you okay?
-Rintaro: Kuh... why now!?
-UNSPOKEN: I grab my right wrist.
-Rintaro: My right hand... is aching!
-Luka: B-but, that means...! Umm, umm, I-I'll perform an exorcism!
-UNSPOKEN: Lukako turns to go get his miko tools, but I grab his hand to stop him.
-Rintaro: Wait... d-don't go... I'm still okay...
-Luka: B-but Kyouma-san, you look like you're in pain! Wh-what should I do...
-Rintaro: It's okay... it'll stop soon... you don't need to worry... But... I have a request. Will you hear me out?
-Luka: Y-yes, if it's something I can do!
-Rintaro: Please help me... carry this box.
-Luka: Eh...
-UNSPOKEN: Lukako's eyes quickly fill with tears.
-Luka: B-but I'm not strong at all...
-Rintaro: We can manage... together. You're the only one I can depend on now.
-Luka: Kyouma-san...
-UNSPOKEN: Lukako gazes straight into my eyes, then looks away apologetically.
-Luka: I don't know if I can do it...
-Rintaro: You can do it. I know you can.
-Luka: ...Okay. But, um, if we can take breaks along the way, I'd be happy...
-UNSPOKEN: That settles it. I grab one side of the cardboard box.
-Rintaro: Alright, Lukako, grab the other side.
-Luka: Um... is your arm... okay now?
-Rintaro: No. We can't let our guard down. This might only be temporary. We need to get this to the lab before I have a relapse.
-UNSPOKEN: Lukako makes a mad dash to the cardboard box.
-Luka: I'll do my best! But I'm not confident...
-Rintaro: Don't worry. I'll support you.
-UNSPOKEN: With that said, we lift up the box on the count of three. It's easier than carrying it alone, but it's still heavy. It sure is going to be hard to carry this for 15 minutes.
-Luka: Ugh! I-it's heavy!
-Rintaro: Brace your legs! Let's keep going. We'll move sideways, okay? Don't move forwards or backwards!
-Luka: Kayyy... Um, sideways, as in left? Right!?
-Rintaro: Right... no, my right, so your left... go left!
-Luka: Okaayyyyy... B-but, my hand, my hand is cramping...
-UNSPOKEN: Tch, he's giving in faster than expected! We haven't even left the shrine!
-Rintaro: Fight, Lukako! And whatever you do, don't drop it! We're screwed if it breaks!
-Luka: Ugh, ugghhh...
+UNSPOKEN: I don’t bother calling back. When I enter the courtyard, I see a beautiful girl -- er, boy -- in miko robes sweeping with a bamboo broom.
+Luka: "Ah, Oka... Kyouma-san, hello."
+Rintaro: "...Lukako, why don’t you have it?"
+Luka: "Huh? Um, are you talking about Demon Sword Samidare?"
+Rintaro: "I thought I told you to carry it at all times!"
+Luka: "I’m sorry, but it gets in the way when I’m cleaning..."
+Rintaro: "What are you going to do if they attack while you’re cleaning? Nobody’s going to come to your rescue, you know."
+Luka: "Th-that’s true... I’ll be more careful from now on."
+Rintaro: "By the way, Lukako. I need to talk to your father. Can you go get him?"
+Luka: "Yes, I can, but, what do you need to talk to him about?"
+Rintaro: "Serious business, critical for the future of mankind."
+Luka: "The future... of mankind!? I-I’ll go get him!"
+UNSPOKEN: Lukako rushes into the shrine office. He’ll believe just about anything I say. Lukako’s father soon appears. Lukako is pretty flustered. He’s practically dragging his father behind him.
+Luka: "Hurry, dad! Hurry!"
+Luka’s Father: "Slow down a little. If you rush me, I’m going to fall."
+Luka: "But the future of mankind is at stake!"
+Luka’s Father: "Oh. Well. That’s certainly serious."
+UNSPOKEN: I’ve met Lukako’s father several times before. He’s a gentle, respectable adult. With the exception of how he raised Lukako. Apparently, the reason Lukako wears miko garb is because his father requested it. Maybe his dad’s a pervert. No, it’s not like I mean to mock the Shinto priesthood or anything like that.
+Luka’s Father: "Ah, Hououin-kun. It’s been a while. Thank you for always taking care of Luka."
+Rintaro: "The honor is mine."
+Luka’s Father: "Did you need me for something?"
+Luka: "Th-that’s right...! The future of mankind...!"
+Luka’s Father: "That sounds serious."
+UNSPOKEN: Luka’s father deflects his son’s panic with a gentle smile. Impressive. He knows how to brush someone off without making them feel bad. Maybe I should take notes. Anyway. I explain to Lukako’s father about how I need an IBN 5100. I ask him if there’s one at the shrine. Of course, I don’t disclose any classified information, like how we plan to hack SERN or how this is all related to time machine research.
+Luka’s Father: "I don’t know if ’donated’ is the right word to use... But an old computer was entrusted to this shrine about nine years ago."
+Rintaro: "Eh..."
+UNSPOKEN: No way. Really?
+Rintaro: "That’s it! That has to be it!"

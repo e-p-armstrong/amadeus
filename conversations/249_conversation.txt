@@ -1,23 +1,25 @@
-Rintaro: Hm?
-UNSPOKEN: Mayuri slowly looks around the lab, smiling all the while.
-Mayuri: It's been really lively here these past few weeks, huh?
-Rintaro: Yeah, I guess it has.
-UNSPOKEN: I established the Future Gadget Laboratory around the time I entered college. It was the first step in my plan to bring chaos to the world. That was around the middle of March this year, which means it's been almost five months. Not half a month after it was established, Mayuri showed up -- I'm still not sure why -- and became a lab mem. For about a month, it was just me and Mayuri. Then, in early May, I finally got Daru to join. All it took was telling him that the lab is just a three minute walk from MayQueen+Nyan².  This location on the outskirts of Akiba has always been quiet. Mayuri isn't the type to object to every little thing like Kurisu, nor the type to make dumb jokes like Daru, so the lab was very peaceful back in those days. It was quite a pleasant place to be. And now the lab mem count has increased to eight. It happened in the blink of an eye, or so it seems. They didn't come today, but Lukako visits occasionally, and Faris is a familiar face at MayQueen+Nyan². Or at least she was before MayQueen disappeared. I remember feeling out of place the first time I came to Akiba, but now, it's like a second home.
-Mayuri: It's fun♪
-UNSPOKEN: Mayuri, too, seems pleased by the increase in lab mems.
-Mayuri: Um, now that there are eight lab mems, Mayushii thinks it's getting a little cramped in here. First, we don't have enough chairs.
-UNSPOKEN: The sofa only has room for two. Then there's Daru's personal desk chair. Those are the only chairs in the lounge. There are some pipe chairs in the development room, but they need to stay there.
-Mayuri: We should buy more. Do you have money, Okarin?
-Rintaro: New chairs will take all my savings.
-UNSPOKEN: Then I'd need to get a part-time job again.
-Mayuri: I guess you can use some of my salary. We need a new microwave too. Otherwise, I can't warm up my Juicy Chicken Number One.
-Rintaro: Yeah, sorry about that.
-UNSPOKEN: Cutting off Mayuri's chicken supply might actually kill her.
-Rintaro: But Mayuri. When we turn over the Time Leap Machine, the reward money will solve all of our problems.
-Mayuri: Will it be enough to pay for chairs and a microwave on top of the higher rent?
-Rintaro: It'll be enough. More than enough.
-Mayuri: Wow! That's great, Okarin♪
-Rintaro: Why are you so happy?
-Mayuri: Just look. We've made so many friends. There's Daru-kun, Chris-chan, Luka-chan, Suzu-san, Moeka-san, Feris-chan, Braun-san, Nae-chan, and more!
-UNSPOKEN: She gazes wistfully into the distance.
-Mayuri: In the spring, when you started this lab, you seemed so lonely. But now you're fine. You don't need me to be your hostage anymore.
+UNSPOKEN: That’s a very easy to understand example. But that’s not the problem. Time flows in a straight line from past to present to future. At least, that’s how most humans see it. This raises several questions.
+Rintaro: "What if there’s an error somewhere, and the data itself gets fractalized? Let’s say I send my memories an hour into the past. My memories would be replaced by fractalized data. In other words, data full of tiny holes. Couldn’t that cause memory loss?"
+Kurisu: "...I suppose."
+Rintaro: "One hour later, we arrive once again at the present. At that time, the me who lost his memories an hour ago and the current me conflict in my brain. Which data set survives?"
+Kurisu: "...Logically, the present should change as soon as you send your memories to the past."
+UNSPOKEN: The conflicting current me disappears, then.
+Rintaro: "So then it’s not a copy-paste at all, is it?"
+Kurisu: "I don’t know. No one’s ever experienced time travel before."
+Rintaro: "When we send a D-Mail, the world is reconstructed based on the change we made to the past."
+UNSPOKEN: I’m the only one who’s aware of this, however.
+Kurisu: "We don’t know what happens when you time leap. If it’s the many-worlds interpretation like Titor said, then the instant you time leap, it creates two possibilities -- one where you shift to another worldline, and one where you travel back in time on the same worldline. Of course, there must also be a worldline where the current you doesn’t disappear. That would likely correspond to the present that we are experiencing right now."
+Mayuri: "???"
+UNSPOKEN: But that’s only if the many-worlds interpretation holds in the first place.
+Rintaro: "I thought you didn’t believe what Titor had to say."
+Kurisu: "I’m talking hypothetically. Titor doesn’t matter right now. If it’s the Copenhagen interpretation, then every possible state propagates through space as a wave function. When a particular state is observed, the remaining states collapse and that state is fixed."
+UNSPOKEN: But precise observation is impossible.
+Rintaro: "The problem is who the observer is in this case."
+Itaru: "Wouldn’t it be a third party? Like me, or Mayu-shi."
+Mayuri: "...?"
+Rintaro: "Not necessarily. It might be me. It might be someone else. It could even be God."
+UNSPOKEN: To begin with, the Copenhagen interpretation and the many-worlds interpretation are both micro-scale theories used to explain quantum interactions. No one knows whether they can be applied to humans, or to the world at large. What about my personal experiences with Reading Steiner? If Reading Steiner is the sort of power I think it is, then the worldline model is correct.
+Rintaro: "In the end, we arrive at the question of ’where is the self?’"
+Kurisu: "This Time Leap Machine only sends memories. That, I guarantee."
+Itaru: "Won’t the present be reconstructed at the moment of transfer? That’s what happens with Okarin’s Reading Steiner, right?"
+Rintaro: "That makes sense where D-Mails are concerned. When we send a D-Mail, we’re obviously interfering in past events. But time leaping is different. All you do is send your memories to the past, which isn’t the same thing as sending a targeted D-Mail. Whether the me who suddenly ’remembers’ one hour into the future will, in fact, change the past is something we can’t know until it happens."

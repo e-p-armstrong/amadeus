@@ -1,29 +1,35 @@
-Kurisu: The many-worlds interpretation... That might have something to do with how Mayuri's means of death keeps changing. But it's supposed to be impossible for parallel worlds to observe each other. Why are you different?
-Rintaro: Because of my esper power, Reading Steiner.
-Kurisu: This is no time for your chuunibyou nonsense.
-Rintaro: ...There's no other explanation.
-Kurisu: You've mentioned that Reading Steiner thing before. Were you actually serious?
-Rintaro: Why would I make up something like that?
-UNSPOKEN: Our D-Mail experiments proved that I can somehow perceive changes in the timeline when they occur. It's an ability only I seem to possess.
-Kurisu: I don't know, but I don't want to rely on something that may not even exist. Anyway, you can't control which possibilities you observe. Even if the many-worlds interpretation holds true, it's unreasonable to expect that you'll ever find a world where Mayuri doesn't die.
-Rintaro: Wait. We're not getting anywhere. Instead of analyzing what I've done, let's think about what we can do.
-Kurisu: Time leaping won't change the result. I just said that.
-Rintaro: Then what do we do!?
-Kurisu: Calm down.
-Rintaro: How can I calm down!? Do you know how many times I've seen Mayuri die!? Covered in blood! Gasping for breath! The light fading from her eyes! Again... and again... and again... And all I could do... was watch!
-UNSPOKEN: I hear my teeth grinding in my skull. Recalling that despair, that feeling of utter powerlessness, makes me want to lash out at everything within reach.
-Kurisu: Getting emotional won't solve anything.
-Rintaro: You're only calm because you weren't there!
-Kurisu: ...True. I don't know what happens five hours from now. To be honest, it doesn't feel real at all. But it's not like I don't believe you. You have to stay strong, Okabe.
-UNSPOKEN: Kurisu pats my arm. Her hand is warm and her touch is gentle. How... American of her.
-Rintaro: ...Sorry.
-UNSPOKEN: She's right. Getting emotional won't solve anything. I need to calm down. Calm down...
-Rintaro: What I don't understand is how the cause can change but the effect can stay the same. It's like causality itself is broken.
-Kurisu: Maybe Kiryu Moeka shooting her isn't the real cause of her death. Maybe it's something larger and less obvious. For example, maybe she dies because we invented a time machine, or because SERN discovered our hacking. If that's the cause, then it doesn't really matter how she dies. Causality remains intact.
-Rintaro: Can that theory explain why Nae pushed her in front of a train?
-Kurisu: Oh, right... hmm... Anyway, the principle of causality is absolute. Deny that, and you deny all of physics. There must be a distinct cause for Mayuri's death.
-Rintaro: So if we figure out what it is, then maybe we can save her.
-Kurisu: Not necessarily.
-Rintaro: What do you mean?
-Kurisu: The problem is when the causal event occurred. If it happened too far in the past... then there's nothing we can do.
-Rintaro: But I can travel to any time I had a cell phone, can't I!?
+Kurisu: "Tell me what happened. I know you used the Time Leap Machine."
+Rintaro: "...What?"
+UNSPOKEN: I look up in surprise. Kurisu doesn’t meet my stare. Instead, she leans on the guard rail and gazes down at the plaza with her usual frown.
+Kurisu: "You get a phone call, and suddenly you’re like a different person. It was obvious."
+Rintaro: "I came from three hours in the future."
+Kurisu: "What happened?"
+Rintaro: "They... killed Mayuri."
+UNSPOKEN: I lower my head, trying to hold back the tears. Then I explain about SERN and Moeka, and about how Kurisu herself activated the Time Leap Machine and made this possible. I tell her about my previous leaps. I explain that the world itself wants Mayuri dead, that I can’t save her no matter how I try. I keep talking for thirty minutes straight. During that time, Kurisu hardly says a word.
+Rintaro: "...It’s all my fault."
+UNSPOKEN: Talking to Kurisu lets me sort out everything I’ve done. Everything I’ve seen.
+Rintaro: "I shouldn’t have told Daru to hack SERN. I shouldn’t have asked you to build a time machine. I shouldn’t have made Moeka a lab mem. Mayuri’s death... is all my fault."
+UNSPOKEN: That’s why I needed to bear the burden myself.  I was resolved to do whatever it took to save Mayuri, never faltering, never giving up. And yet, my resolve has already crumbled.
+Kurisu: "If you know that Mayuri’s going to die, then what are you doing wasting time here?"
+UNSPOKEN: Kurisu’s tone is haughty. Is this how I sound when I’m playing Hououin Kyouma?
+Rintaro: "...I just don’t get it anymore."
+Kurisu: "What don’t you get?"
+Rintaro: "How to save Mayuri."
+Kurisu: "Based on what you said, I guess the chronology protection conjecture is true."
+Rintaro: "No matter what I do, Mayuri dies."
+Kurisu: "And that’s why you keep time leaping... There’s no guarantee that the machine is safe, you know."
+UNSPOKEN: Kurisu lowers her gaze and cups her chin, as she often does when assessing a problem.
+Kurisu: "Even if the machine works perfectly, repeated use may have serious side effects. For example, you may become disconnected from causality itself. You need to understand the risks if you’re going to continue."
+Rintaro: "Disconnected from causality, meaning?"
+Kurisu: "It happens all the time in sci-fi. You’ll become trapped in a closed time loop, never aging, never dying, but doomed to repeat the same day for all eternity. Worst case, you may cease to exist entirely."
+UNSPOKEN: What?
+Kurisu: "Every trace of your existence will vanish. Nobody will remember you, because your life will have never happened. Leaping through time is that dangerous."
+Rintaro: "’Humans are temporal beings.’"
+UNSPOKEN: Kurisu looks surprised.
+Kurisu: "Heidegger. I was thinking of that quote too."
+Rintaro: "I heard it from you first."
+Kurisu: "When?"
+Rintaro: "This isn’t the first time I’ve leaped."
+Kurisu: "Right. Of course."
+UNSPOKEN: Kurisu squats next to me, thinking deeply.
+Kurisu: "If what you said is true, then I want to save Mayuri too. But as the co-creator of the Time Leap Machine, I can’t recommend its continued use. Will you listen to my advice?"

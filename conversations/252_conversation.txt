@@ -1,19 +1,36 @@
-UNSPOKEN: Moeka raises her voice in frustration.
-Moeka: If you continue to resist, I'll have to resort to extreme measures.
-UNSPOKEN: Moeka slowly raises her gun. She points the muzzle at... Mayuri. My whole body instantly goes cold.
-Moeka: Shiina Mayuri is not needed.
-Rintaro: Stop!
-UNSPOKEN: I lunge at Moeka, but the dark-skinned man is faster.
-Rintaro: Gah!
-UNSPOKEN: Something strikes my chin with crushing force. The shock numbs my entire body. Stars explode behind my eyes. I fall to my knees, powerless to stand. Everything goes dark. What happened? Did he hit me with the butt of his rifle?
-Mayuri: Okarin!
-UNSPOKEN: I look up. Mayuri, face streaked with tears, is reaching out to me as if begging for help. Over her shoulder, I see Moeka ready her gun.
-Kurisu: Mayuri! No!
-UNSPOKEN: I try to yell Stop! but my voice catches in my throat. Nothing comes out but a pitiful wheeze. Someone. Anyone. Please. Stop her. Stop Moeka! Moeka's lips move. She's mumbling something.
-Moeka: For SERN... for FB... for SERN... for FB...
-UNSPOKEN: Her mouth opens and closes robotically. My blood curdles.  No! A sharp, dry crack splits the air. Time slows to a crawl. Moeka pulled the trigger. Blood spurts from Mayuri's forehead. It splashes across my face, wet and warm. Her delicate, frail body falls towards me. I catch her. Her body is limp, like a puppet with no strings. Her head and arms dangle lifelessly. The smell of gunpowder fills my nose. And then, the smell of blood.
-Itaru: Wahhhhhhhhhhh!
-UNSPOKEN: Daru clutches his head and falls to his knees, screaming at the top of his lungs. The sound jerks me back to my senses. In my arms, Mayuri takes one short, shallow breath. And then...
-Mayuri: O...kari...
-Rintaro: ...Mayuri?
-Kurisu: No... no!
+UNSPOKEN: The Braun Tube Workshop’s closed. Suzuha made sure the 42-inch CRT was turned off, so there’s no need to fear any malfunction from the Time Leap Machine. A heavy sigh escapes my throat. I realize that I’ve been tense and nervous since the Time Leap Machine was completed. Now I can finally relax. The topic of the Time Leap Machine has become taboo. Even Kurisu doesn’t bring it up during the meeting.
+Rintaro: "Daru, why did you order the exact same pizza as before!?"
+UNSPOKEN: I open the pizza boxes to find the exact same ones he got for Suzuha’s party.
+Itaru: "Because I like it."
+UNSPOKEN: Naturally, I’m not amused.
+Mayuri: "Okarin, Okarin. I called Feris-chan and Luka-chan, but they said they couldn’t come."
+Rintaro: "Oh. Do they have plans?"
+Mayuri: "Feris-chan has a RaiNet tournament."
+Itaru: "Crap, I should’ve gone to cheer! How careless of me!"
+Mayuri: "And Luka-chan seemed embarrassed for some reason."
+Kurisu: "Maybe she thinks you’ll make her wear a costume again."
+Rintaro: "You still haven’t convinced her to cosplay?"
+UNSPOKEN: Then what was the point of completing the costume?
+Mayuri: "She said it was embarrassing. I keep telling her ’Cuteness is Justice’, but she never listens."
+Kurisu: "’Cuteness is Justice’... is that what they say?"
+Mayuri: "You’re cute too, Chris-chan!"
+Kurisu: "Hah? Eh?"
+UNSPOKEN: Kurisu doesn’t know how to react. She blushes, and Mayuri starts teasing her like a drunk old man. There’s no alcohol at this party, of course.
+Mayuri: "Hey, ComiMa’s coming up. Wanna go? I can’t make something new, but I have a costume of Post-Awakening Seira from Blood Tune I made last year. I think the size is just right for Chris-chan too."
+Kurisu: "Me, cosplay?"
+UNSPOKEN: Kurisu looks conflicted. Then she murmurs--
+Kurisu: "I’m sorta interested."
+UNSPOKEN: She sure could have fooled us before, pretending to have no interest in otaku culture.
+Kurisu: "But I refuse to do it in public, though."
+Mayuri: "You don’t have to show anyone, but eventually, you’ll want them to see. The cosplay demon compels you!"
+UNSPOKEN: The... cosplay demon?
+Mayuri: "That reminds me. Chris-chan, you’re always wearing that cute uniform. What school is it from?"
+Kurisu: "Oh, this?"
+UNSPOKEN: Kurisu lifts up her necktie.
+Kurisu: "I attended Ayamein for about two weeks. I modeled this outfit after their uniform."
+Mayuri: "Oh! Their uniform is really cute, but you made it even cuter! You might have really good design sense♪ I’ll bring the costume tomorrow, okay? Will you try it on then?"
+Kurisu: "Sure."
+UNSPOKEN: Looks like Kurisu approves of the Cuteness is Justice philosophy.
+Itaru: "When’s the photo shoot?"
+Kurisu: "Good to know you’re still a pervert, Hashida."
+Itaru: "Come on, it’s Blood Tune’s Seira! She’s got ’panmoro’ going on!"

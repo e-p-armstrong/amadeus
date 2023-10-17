@@ -1,36 +1,30 @@
-UNSPOKEN: Suzuha glares at Kurisu.
-Suzuha: In 2036, you're apotheosized as the mother of the time machine.
-Kurisu: Apotheosized?
-Itaru: In Japanese, please.
-Suzuha: Apotheosized. As in revered, respected.
-UNSPOKEN: She keeps using unusual vocabulary. Or maybe that's normal vocabulary in 2036?
-Kurisu: Respected? Huh!? I-I am!?
-Suzuha: In 2010, you pioneer time leap technology. Afterwards, you contribute to the development of SERN's time machine. That's what I know about Makise Kurisu.
-UNSPOKEN: Is that why she treats Kurisu like an enemy?
-Rintaro: Then I must be the father of the time machine, right?
-Suzuha: Okabe Rintaro is a terrorist in 2036. You're pretty infamous.
-Rintaro: Wha...
-UNSPOKEN: Seriously? I'm a terrorist in the future!?
-Kurisu: I help SERN build their time machine? I don't believe it. SERN experiments on people against their will. They're a disgrace to scientists everywhere. I would never collaborate with them.
-Suzuha: But that's how it is in the future.
-Kurisu: How did the future me explain herself?
-Suzuha: We've never met. By 2036, you're already dead... sorry.
-Kurisu: Well... that's just great. I don't even make it to fifty?
-Suzuha: In my time, there are two kinds of people: those who live extremely long lives, and those who die young, under suspicious circumstances. People who act against SERN are erased.
-Kurisu: T-they erased me?
-UNSPOKEN: Suzuha looks into Kurisu's eyes. For once, she's not glaring at Kurisu.
-Suzuha: ...Maybe you were being used by SERN too. Maybe they took your parents hostage and forced you to work on their time machine.
-Kurisu: No... does that mean Mama's in danger?
-UNSPOKEN: Kurisu's mother is in America. It's not terribly difficult to imagine SERN kidnapping her while Kurisu is away. After all, I watched Moeka kill Mayuri in cold blood.
-Rintaro: Rounders.
-Itaru: What's that?
-Rintaro: SERN's private army. Or something like that.
-UNSPOKEN: Suzuha nods.
-Suzuha: On paper, they're an independent technology research firm. In reality, they do the dirty work for SERN all over the world.
-UNSPOKEN: According to Moeka, they have two chief duties. First, to acquire IBN 5100s, the only computers that can access SERN's secret database. Second, to find promising scientists in the field of time travel and force them to cooperate with SERN, or eliminate them if they will not.
-Suzuha: So they already exist. I thought they might. In my time, they're our number one enemy.
-Itaru: D-dirty work? Does that mean like... kidnappings and assassinations?
-UNSPOKEN: Suzuha looks to me with a question in her eyes. I shake my head.
-Suzuha: In my time, yes. But I don't think they've reached that level in this time yet.
-UNSPOKEN: Daru is visibly relieved.
-Kurisu: Amane-san. You said that most of what you posted as John Titor was true, right?
+Kurisu: "Not necessarily."
+Rintaro: "What do you mean?"
+Kurisu: "The problem is when the causal event occurred. If it happened too far in the past... then there’s nothing we can do."
+Rintaro: "But I can travel to any time I had a cell phone, can’t I!?"
+Kurisu: "No. It’s still theoretical, but I believe that one leap with our machine has a maximum range of 48 hours."
+UNSPOKEN: 48 hours... I can only go back two days!?
+Rintaro: "Why didn’t you tell me that before!?"
+Kurisu: "Before what? I just finished the Time Leap Machine, remember?"
+UNSPOKEN: That’s true...
+Rintaro: "Future you didn’t say anything about it either."
+Kurisu: "Oh, so that’s what you mean. Maybe she just didn’t have the chance."
+Rintaro: "So how come I can only leap 48 hours?"
+Kurisu: "I don’t know. Even I don’t understand everything that’s going on inside that thing. But you can do consecutive leaps. That is, as long as the Time Leap Machine exists. For example, if the Time Leap Machine remains functional for ten straight years, you could leap back to this moment ten years from now. Of course, it would take a total of 1825 leaps, so I don’t recommend it. Still, it’s theoretically possible."
+Rintaro: "Then what’s the problem?"
+Kurisu: "Weren’t you listening? I said, as long as the Time Leap Machine exists. When was the machine completed?"
+Rintaro: "...Ah."
+Kurisu: "Exactly. An hour ago. August 13th, 2010. 2:00 PM, or thereabouts. It didn’t exist before then. It’s impossible to use the machine before 2 PM today."
+Rintaro: "So what you’re saying is..."
+UNSPOKEN: Count 48 hours back.
+Rintaro: "I can’t go back farther than 2 PM on the 11th!?"
+UNSPOKEN: Kurisu nods, her expression grave.
+Kurisu: "Most likely."
+Rintaro: "Can’t you improve it!?"
+Kurisu: "Eventually, maybe, but certainly not now. I’d need a real laboratory with real equipment. It would be expensive, which means we’d need sponsors. And if we go looking, I’m pretty sure SERN would crush us. I’d say that’s proven by the fact that neither you nor I have leapt here from the far future yet."
+UNSPOKEN: So basically...
+Rintaro: "We can’t do anything!? Even with the Time Leap Machine, we can’t stop SERN from killing Mayuri five hours from now!?"
+UNSPOKEN: At that moment, I hear a sound from outside the window. What? Is it Moeka!? Did she overhear us!? I dash to the window and look down at the street. It’s Suzuha. Her bicycle has fallen over, and she’s scurrying to pick it up. Our eyes meet.
+Rintaro: "...Huh?"
+UNSPOKEN: Why does she look so pale? Her lips move slightly. It looks like she’s whispering something, but I can’t make it out from here.
+Rintaro: "Hey!"

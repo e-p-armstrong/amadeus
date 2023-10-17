@@ -1,30 +1,33 @@
-UNSPOKEN: I point to the X68000. There's code on the screen.
-Rintaro: It's in terminal mode now. We can change the factory settings like this, make the microwave do things its manufacturer never intended.
-Kurisu: How was it set when the discharge phenomenon occurred?
-Rintaro: Nothing out of the ordinary. It was at factory settings.
-Kurisu: Hmm. I'll take a banana.
-UNSPOKEN: The bunch of bananas only has three bananas left.
-Rintaro: Those are Mayuri's.
-Kurisu: Oh, so I don't need your permission, then. I'll go buy new bananas tomorrow.
-UNSPOKEN: Kurisu takes one banana from the bunch, squats down, and places it inside the PhoneWave (name subject to change). She begins to type on her phone. She pushes send, and the PhoneWave (name subject to change) begins to turn backwards. After 120 seconds, the chime rings.
-Kurisu: ...Nothing happened.
-UNSPOKEN: The banana's still in the microwave, un-gelified.
-Kurisu: Ow!
-UNSPOKEN: Kurisu yelps as she tries to take out the banana, and quickly draws back her hand. She starts blowing on her fingers.
-Kurisu: It's hot.
-Rintaro: Meaning the microwave functioned normally.
-UNSPOKEN: This proves that the hidden function Mayuri found wasn't a freezing function. But we knew that already. Undaunted, Kurisu throws in a new banana, and once again begins reverse rotation for 120 seconds. But the second banana warms up too. We can't reproduce the gelification phenomenon, much less send mail to the past.
-Rintaro: What does this mean...
-Kurisu: I guess what happened earlier was an irregularity after all.
-Rintaro: I don't know if it's an irregularity or not, but we ought to investigate the cause.
-Kurisu: I agree.
-UNSPOKEN: We agree for once. But Kurisu's motives and my motives are probably the exact opposite. My assistant here wants to disprove my theory that the PhoneWave (name subject to change) is, in fact, a time machine.
-Rintaro: In the previous experiment... After spending 120 seconds in the PhoneWave (name subject to change), the banana teleported back to the bunch gelified. We should consider that it returned to its state 120 seconds before.
-Kurisu: Wrong. If it returned to its state 120 seconds before, it wouldn't be gelified.
-UNSPOKEN: So she wants to say that because it was gelified, it didn't travel back in time.
-Rintaro: The chicken returned to its frozen state without gelifying.
-Kurisu: That logic is dubious. Sure it ended up frozen, but did you examine the possibility that it might have gelified first?
-UNSPOKEN: No... I didn't. I think Mayuri ate the refrozen chicken.
-Rintaro: Salt didn't gelify.
-Kurisu: You mean nothing changed.
-Rintaro: After the discharge phenomenon occurred last time, we spent all night experimenting with cabbage, radishes, rice, konjac, melon bread, Crunchy-kun, and cup noodles. Nothing happened. The same thing with liquids. On that day, our success rate took a 180 degree turn. Before the discharge phenomenon, everything succeeded. After the discharge phenomenon, everything failed.
+Kurisu: "...I’ll wait until then."
+Itaru: "You’ll wait? It’s already getting dark. Why not go home for tonight and come back tomorrow morning?"
+Kurisu: "No thanks. I’ll wait. I want to know as soon as possible, even if it’s just a microsecond sooner."
+Rintaro: "Heh heh heh, that’s the spirit. You’re already fascinated by the conspiracy. You can’t help but want to know what lies at the heart of SERN."
+Kurisu: "If what you guys are saying is true... then this isn’t something to joke about. SERN is the world’s top research institution. If they’re doing secret experiments without publishing their results... They’re making fools of scientists the world over. That’s only if it’s true, though."
+UNSPOKEN: She finishes by emphasizing that point again. Doesn’t look like she believes us.
+Rintaro: "Anyway, Daru. I’ll leave it to you."
+UNSPOKEN: According to Daru’s research, the IBN 5100 weighs 25 kilos. For now, we’ll leave it on the shelf in the development room. We carry the cardboard box to the room, half dragging it. Kurisu follows.
+Kurisu: "Can you show me the PhoneWave?"
+Rintaro: "Indeed I can. Want to experiment?"
+Kurisu: "You haven’t been able to send another email to the past yet, right? Do you know why?"
+UNSPOKEN: I can only shake my head.
+Kurisu: "Let’s run some tests."
+UNSPOKEN: Kurisu looks around the development room.
+Kurisu: "Man. You have a ton of junk."
+Rintaro: "It’s not junk! Since you’re new to the Future Gadget Laboratory, I’ll explain. These are the glorious fruits of our science: the Future Gadgets! Future Gadgets 1-7 are stored here. The PhoneWave, with which you are already familiar, is Gadget Number 8."
+Kurisu: "Future Gadgets, huh..."
+UNSPOKEN: Kurisu casually picks Future Gadget 4: Moad Snake up from the shelf and stares at it.
+Kurisu: "Hey. Isn’t this... a weapon?"
+Rintaro: "Future Gadget No. 4: Moad Snake, designed after a claymore landmine, is an instant humidifier."
+Kurisu: "How confusing."
+Rintaro: "Insert water and turn the power on, and in mere seconds, it generates a thick cloud of steam."
+Kurisu: "So it’s junk. I thought so."
+UNSPOKEN: Kurisu sighs and returns Moad Snake to the shelf.
+Kurisu: "I’m borrowing this."
+UNSPOKEN: Without waiting for a reply, she grabs Daru’s never-worn lab coat from the shelf and puts it on gallantly.
+Rintaro: "Whoa!"
+Kurisu: "It’s just not right without a lab coat."
+UNSPOKEN: Overcome with emotion, I seize Kurisu’s hand and grasp it firmly.
+Kurisu: "Hey!"
+Rintaro: "Assistant! You get it, don’t you!?"
+Kurisu: "G-get what? Let go!"
+Rintaro: "If you’re gonna do science, you need a lab coat! Right!?"

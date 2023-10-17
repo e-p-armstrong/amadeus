@@ -1,27 +1,34 @@
-Kurisu: Okabe...
-Itaru: W-why so serious, man?
-UNSPOKEN: I've got good reason. To them, only half an hour has passed since the Time Leap Machine was built. But to me, many days have passed since this ordeal began.
-Rintaro: Please!
-UNSPOKEN: I bow my head deeply.
-Rintaro: Please, hear me out.
-UNSPOKEN: Or else Mayuri will die, and in 26 years, the world will be ruled by SERN. Suzuha's sacrifice will have been for nothing. Daru claps me on the shoulder, then smiles broadly and thrusts his thumb skyward.
-Itaru: I-it's not like I'm cracking for you or anything, okay!?
-Kurisu: Oh god...
-UNSPOKEN: I burst out in laughter. Sir Super Hacka (tsundere version) is here to save the day. I couldn't have asked for a better right-hand man. As Daru hooks the IBN 5100 to his PC, I explain the situation one more time. Let's hope this is the last.
-Rintaro: This all happened because of the very first D-Mail I sent to Daru. SERN intercepted that D-Mail with Echelon and figured out what it meant, then sent their Rounders after us. They will kill Mayuri, kidnap us, and steal the Time Leap Machine.
-UNSPOKEN: Some years after that, I assume, Daru and I escape and form the Resistance to which Suzuha belonged.
-Rintaro: I tried to save Mayuri, but nothing worked. Every worldline converged on the same result, just as attractor field theory said they would.
-Itaru: You know, if this is all in your head, I think you've got a career as a light novel author ahead of you.
-Rintaro: It's true. All of it. To prevent Mayuri's death...
-UNSPOKEN: And to free Suzuha's future from SERN...
-Rintaro: We need to escape from the Alpha worldline. And I think we can do that by canceling all of our changes to the timeline so far. That should return us to the Beta worldline, the worldline that existed before I sent that first D-Mail. There's just one more step. We need to erase the first D-Mail from SERN's database.
-UNSPOKEN: If what Suzuha said is correct, then erasing that data will take us over 1% divergence and back to the Beta worldline. It was just one short email, barely 36 bytes, but it changed the course of human history. The Butterfly Effect. 
-Kurisu: Fascinating.
-UNSPOKEN: Kurisu mutters as she sips her hot coffee. It looks like she's already recovered from her exhaustion.
-Itaru: You believe him, Makise-shi?
-Kurisu: In theory. I'd like to see objective data, but that's obviously impossible.
-Rintaro: Relax. Your Time Leap Machine worked perfectly.
-Kurisu: O-of course it did.
-UNSPOKEN: She doesn't deny it. That's just like Kurisu.
-Kurisu: Besides, we were already planning to crack SERN's database, weren't we? Fine. Let's see what's in there. If the mail data exists, then it's proof that what you said is true.
-Itaru: So what you're saying is, 'don't think, feel.' Got it.
+Kurisu: "I’m standing by at the lab."
+Rintaro: "Set up the machine. I’m sending another D-Mail."
+Kurisu: "Destination?"
+Rintaro: "...July 31st, 11 AM."
+Kurisu: "11 AM on the 31st..."
+UNSPOKEN: While Kurisu calculates the hours, I type the mail. It says Do NOT go!!  Not @shrine! It’s a trap! I address the mail to the PhoneWave (name subject to change).
+Kurisu: "Okay, all set."
+Rintaro: "Alright, activate it."
+Kurisu: "Activated."
+UNSPOKEN: I press the send button. The mail starts sending. Reading Steiner should activate. This time for sure. I brace myself for the incoming vertigo.
+Kurisu: "...Well?"
+Rintaro: "Nothing. Why won’t it change!?"
+Kurisu: "Another mistake?"
+Rintaro: "No, there’s no way! I know what Moeka’s message said. This D-Mail should have canceled it."
+UNSPOKEN: Why isn’t it working? What the hell’s wrong this time?
+Kurisu: "What did the first D-Mail say?"
+Rintaro: "That the IBN 5100 was at Yanabayashi Shrine. I tried to cancel it by telling her it’s a trap, but it didn’t work. I’ll try to phrase it differently."
+Kurisu: "Wait. We went through this with the LOTO SIX experiment, remember?"
+UNSPOKEN: The LOTO SIX experiment... I sent myself the winning numbers, but the past me didn’t buy the ticket. Instead, he gave the winning numbers to Lukako.
+Kurisu: "The person who reads the D-Mail chooses whether or not to act accordingly. Kiryu learned that the IBN 5100 was at the shrine. Though the cancellation mail came right afterward, I guess she ignored it and went anyway."
+Rintaro: "Maybe she didn’t believe the cancellation mail. Or maybe she was so diligent she decided to check it out even when told not to."
+UNSPOKEN: I glance at Moeka. She’s still hanging her head, but her tears have run dry. I wonder if she’s listening.
+Kurisu: "Damn. Even when told it was too risky to go to the shrine, she went anyway..."
+Rintaro: "We need a more persuasive message. Something that will prevent her from going to the shrine."
+Kurisu: "Like what?"
+UNSPOKEN: That’s the problem. Is it possible to persuade her with just 36 bytes of text? Or should we consider other possibilities?
+Rintaro: "What if I send a D-Mail to myself on July 30th? Could I beat her to the IBN 5100?"
+Kurisu: "Were you even interested in the IBN 5100 then?"
+UNSPOKEN: When did I start caring about the IBN 5100? I can’t remember. Fine. That’s out. So how do I convince Moeka to listen? At that moment, an electric shock runs through my brain. Two initials.
+Rintaro: "...FB."
+Kurisu: "What?"
+Rintaro: "Moeka’s handler. She’s obsessed with FB. If the mail comes from FB, she’ll do whatever it says."
+Kurisu: "Do you have FB’s phone?"
+Rintaro: "No. They haven’t even met. We don’t know where FB is."

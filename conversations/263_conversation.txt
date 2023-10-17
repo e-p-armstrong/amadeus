@@ -1,37 +1,27 @@
-Rintaro: You can't!
-Suzuha: Um... am I a bother?
-Rintaro: ...No.
-Suzuha: It's okay. I understand. I guess I'm still an outsider.
-Rintaro: That's not it!
-Tennouji: What's wrong with you, Okabe? Let my part-timer join your little club. You owe her, remember? It's thanks to her belly that I let ya' off the hook for shaking the building last time.
-Suzuha: My belly? Hey!
-UNSPOKEN: Suzuha has recovered her jacket. She's properly dressed now.
-Tennouji: She's got a fine belly. Tight and well trained.
-Suzuha: I'm standing right here, you dirty old man.
-Rintaro: The party is canceled. I'm sorry, Part-Time Warrior, but please go home today.
-Suzuha: Canceled?
-Rintaro: Yeah. Sorry.
-UNSPOKEN: I attempt a smile, but with little hope of success.
-Tennouji: I don't know what's going on, Okabe, but don't do anything reckless.
-Rintaro: ...Huh?
-UNSPOKEN: It's weird to have him give me advice. I thought he was just a dirty old man who loved CRTs. Maybe he's sharper than I thought. Or maybe he's just telling me to stop shaking the building.
-Rintaro: I... got in a fight with Mayuri. Things are a little complicated right now. That's all.
-UNSPOKEN: That's the best lie I can manage.
-Suzuha: Oh, is there gonna be blood?
-UNSPOKEN: Blood?
-Suzuha: I mean, look over there.
-UNSPOKEN: Suzuha points across the street. I turn to look. To my surprise, there's Mayuri walking up the street with a big bag. When she notices us, she waves her hand with a ditzy smile. Mayuri!
-Suzuha: Huh? Weren't you fighting? She looks really happy to see you.
-UNSPOKEN: I ignore Suzuha and run to Mayuri. The clock on my phone says 6:33.
-Suzuha: Hey! Where are you going!?
-UNSPOKEN: I wasted precious time talking to Suzuha. Now that I've secured Mayuri, we need to get as far away from Akiba as we can!
-Mayuri: What's the rush, Okarin?
-UNSPOKEN: I ignore her question and grab her hand.
-Rintaro: Run! To the station!
-Mayuri: Wawawa... W-w-wait! My bag...
-Rintaro: Forget it! Just run!
-Mayuri: Eh? Why?
-Rintaro: Just run!
-UNSPOKEN: I can't get the image of Mayuri's death out of my mind. I won't let them kill her. I won't. Mayuri gives no further resistance. She follows obediently, quickly matching my pace. I forgot that she's faster on her feet than I am.
-Mayuri: Hey, where are we going?
-Rintaro: Haah, haah, haah, first we'll head for, haah, Tsukuba or Yokohama...
+Mayuri: "Um, guys? Mayushii doesn’t like it when you fight. Let’s all get along, okay?"
+UNSPOKEN: Daru comes over to chat with Suzuha, and gradually peace returns to the lab. Kurisu is in the development room, making a call. Probably to her mother in America. I sit on the sofa and watch TV while sipping Dr P. But I can’t pay attention to what I see on the screen. It doesn’t enter my head. Mayuri sits down next to me. She peels a banana and begins eating it.
+Mayuri: "Hey, Okarin. It’s been really lively here these past few weeks, huh?"
+UNSPOKEN: Stop it. Why are you saying the same things as in that terrible dream? It was a dream. It has to be a dream.
+Mayuri: "It’s fun♪"
+UNSPOKEN: Mayuri smiles happily, not noticing my lack of a reply.
+Mayuri: "Um, now that there are eight lab mems, Mayushii thinks it’s getting a little cramped in here. First, we don’t have enough chairs. We should buy more. Do you have money, Okarin?"
+UNSPOKEN: I shake my head wordlessly. For some reason, I’m afraid to look Mayuri in the face.
+Mayuri: "I guess you can use some of my salary. We need a new microwave too. Otherwise, I can’t warm up any Juicy Chicken Number One. Okarin... are you okay? You don’t look so good."
+Rintaro: "It’s nothing..."
+Mayuri: "Are you feeling sick? Then you need to rest. Want to lie down? You can lie on my lap, okay?"
+Rintaro: "I’m not--"
+UNSPOKEN: Before I can finish, the television interrupts me with an urgent news bulletin. The subtitles read Terrorist bomb threat suspends Yamanote, Sobu, Keihin-Tohoku lines.
+Suzuha: "A bomb threat?"
+Itaru: "Hang on. Those lines all pass through Akiba. How is Mayu-shi gonna get home?"
+Mayuri: "Oh yeah. I should call home."
+Rintaro: "No... it can’t be..."
+UNSPOKEN: It’s the same. Every last thing, the same.
+Suzuha: "Okabe Rintaro. I need to know."
+UNSPOKEN: It was a dream.
+Suzuha: "You’ve completed the Time Leap Machine, right?"
+UNSPOKEN: It had to be a dream. But if it was a dream, then why...
+Suzuha: "Are you listening?"
+Itaru: "Uh, the Time Leap Machine’s done."
+Suzuha: "Okay. I just remembered I’ve got something to do. I’m going out."
+UNSPOKEN: Suzuha leaves the lab without another word.
+Kurisu: "What’s wrong with her?"

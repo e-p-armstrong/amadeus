@@ -1,22 +1,19 @@
-Kurisu: Uh, what are you doing?
-Rintaro: You're talking like an assistant for a change. I thought you might have a fever.
-UNSPOKEN: I drop my hand.
-Kurisu: I'm not grateful to you or anything, okay!?
-UNSPOKEN: Her voice is louder than it should be, and several people glance at us. Kurisu blushes and hangs her head. If Daru were here, he'd probably get all excited and say, A real tsundere, sweet!
-Kurisu: Anyway.
-UNSPOKEN: Kurisu clears her throat and returns to her usual sour expression.
-Kurisu: That 'thank you' was just a formality. Don't get me wrong, okay?
-Rintaro: Of course. I only did what I had to. I am the founder of the Future Gadget Lab, Hououin Kyouma. My first priority is to protect the welfare of my lab mems. So I have no need for your thanks.
-Kurisu: And yet you always talk about plunging the world into chaos.
-Rintaro: You are my allies, and the world is my enemy.
-Kurisu: I'm speechless. You're too self-righteous.
-Rintaro: You say 'speechless,' yet you're speaking?
-Kurisu: Don't argue semantics.
-UNSPOKEN: It's quite mysterious, really... It's only been two weeks since Kurisu and I met. And yet it already feels natural for us to be walking together, exchanging banter like this. Perhaps pooling our efforts to create something new -- dangerous though it may be -- has brought us closer together. I admit that her knowledge and skills are impressive. I'd like her to remain at the lab if at all possible, but she said she's going back to America this month. It's already the 13th, so I wonder when she plans to return. I decide to ask her.
-Kurisu: Oh yeah, I forgot to get a plane ticket. I got too caught up in improving the PhoneWave.
-Rintaro: Going public with the Time Leap Machine will send the world into an uproar. We also plan to expose SERN, remember? You may not be able to go back to America for some time.
-Kurisu: I guess you're right. I should call Mama and let her know.
-UNSPOKEN: Looks like things are going to get busy. Naturally, I want Kurisu to stay with us to the end. A little bit after we return to the lab, Mayuri gets back. 
-Mayuri: Tutturu♪ I'm back!
-UNSPOKEN: Seems Mayuri went to Lukako's. Suzuha shows up a few minutes later, and our development council comes to order. Daru ordered three pizzas. We also line up all the snacks we bought on the table. It's just like the party we had a few days ago to cheer up Suzuha. Mayuri wanted to decorate the room, but since everyone's tired, I dismissed it as unnecessary. Looks like Suzuha managed to retrieve her jacket from Mister Braun.
-Suzuha: Man, that was terrible. I was stuck looking like an exhibitionist all day.
+UNSPOKEN: Whenever the lab is divided on a name, the right to decide belongs to Mayuri.
+Mayuri: "Hmmm... I think Time Leap Machine is fine. Silly Hat PhoneWave-chan is super close though..."
+Itaru: "Somehow I knew she’d say that."
+Kurisu: "Like I said, simple is best. Mayuri gets it."
+Mayuri: "Ehehe!"
+UNSPOKEN: I want to object, but it’s an unwritten rule not to complain once Mayuri’s made a decision.
+Rintaro: "Very well. Time Leap Machine it is. Assistant! Explain for us all how the Time Leap Machine works."
+UNSPOKEN: I know the basics, but I want to hear details. Kurisu nods and stands in front of the whiteboard.
+Kurisu: "In short, this device converts memories to data and sends them to the past. Let’s begin with what we all know. By freak coincidence, the PhoneWave is able to produce ring singularities, much like John Titor’s time machine. Through the ring singularity, we are able to send up to 36 bytes of data to the past. The signal can only be received by phones. While that does limit the range of effect, it also removes an element of uncertainty from the equation. Unlike D-Mails, memory data is sent in the form of a phone call, so we will be using a phone number, not an email address, to set the destination. The ring singularity is made naked and stable by a device known as a lifter. In our case, that’s the 42-inch CRT downstairs."
+UNSPOKEN: She’s explained the basics. Next, she’ll explain the modifications she made to turn the PhoneWave (name subject to change) into a time leap machine.
+Kurisu: "The PhoneWave now has headgear attached. This headgear records the nerve impulses in the temporal lobe of the brain -- specifically, the CA3 region of the hippocampus, where memories are stored. Then, using VR technology, we encode the nerve impulses into electrical signal data."
+Itaru: "It comes out to approximately 3. 24 terabytes."
+UNSPOKEN: 3. 24 terabytes... It’s less than I expected. We’re talking about the entirety of a person’s memories.
+Kurisu: "By the way, we’ll set it up so that the data decodes automatically after a certain amount of time. Anybody well versed in programming can do this. I had Hashida make the code. Anyway, next we send the memory data through the net to the LHC in France."
+UNSPOKEN: This building has a direct line to SERN for some reason, so we can transfer data at insanely high speeds.
+Rintaro: "How long does it take to send 3. 24 terabytes of data?"
+Itaru: "We have 64 direct lines in parallel. So if we send it in 64 parts... It should upload in about 45 seconds."
+UNSPOKEN: That’s... pretty fast.
+Kurisu: "Next, we hijack the LHC, create a mini black hole, and use that black hole’s supergravity to compress the data into 36 bytes."

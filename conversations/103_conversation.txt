@@ -1,43 +1,32 @@
-Kurisu: No need.
-Rintaro: What? Do your parents let you do whatever you want?
-UNSPOKEN: Kurisu turns to me and sighs.
-Kurisu: I haven't seen my father in seven years. My mother is in America. I'm living in a hotel right now. Understand?
-Rintaro: Wha...!
-UNSPOKEN: Living in a hotel? Well, true, renting an apartment for just a month is absurd, but--
-Rintaro: You damn celebrity! If you're American, then you should at least use a motel instead of a hotel, right!?
-Kurisu: I'm not American, and there aren't any motels in the heart of Tokyo.
-Rintaro: What sort of hotel?
-Kurisu: What do you mean? It's a normal hotel in Ochanomizu.
-Rintaro: Ochanomizu? Then you can walk there from here, can't you?
-Kurisu: Sure.
-UNSPOKEN: I see. That's why she's so flexible with her schedule. I finally understand.
-Rintaro: So, tell me about your father.
-Kurisu: Sorry?
-Rintaro: You said you haven't seen him in seven years?
-Kurisu: Why do you care about my father?
-Rintaro: You're the one who mentioned him. Isn't that basically a hidden message saying 'please give me some advice about my father, please'?
-Kurisu: You're crazy.
-Rintaro: You are my assistant! And I can't let my assistant have any worries. So tell me everything that's on your mind!
-UNSPOKEN: Kurisu pouts and says no more. Instead, she glares at the circuit box on the wall.
-Rintaro: What's wrong?
-Kurisu: I have nothing to say to you.
-Rintaro: Oh, I know! Your father was a hero, but then he fell to evil and now he wears a black mask and cape and goes 'heeeee koohhh', right!? And in the future, you two are destined to fight and--
-UNSPOKEN: I think I heard Kurisu's teeth grind.
-Rintaro: ...Y-you're really mad at me, aren't you?
-Kurisu: Don't make fun...
-UNSPOKEN: Kurisu doesn't look me in the eye, but her low voice tells me how mad she is.
-Kurisu: Of people's family issues like that. You're trampling on my heart.
-UNSPOKEN: Could her father situation be a landmine? Maybe I should apologize. I try to think of the words, but before I can say anything--
-Itaru: Hell yeahhhhhhh!
-UNSPOKEN: Daru's war cry echoes through the lab.
-Rintaro: Did you get it!?
-Itaru: Mission complete.
-UNSPOKEN: Daru shows his white teeth in a wide grin as he gives a thumbs up.
-Itaru: I got the server admin's ID and password. Now we can peep as much as we want, hyahoohh!
-Rintaro: And the IBN 5100 database?
-Itaru: That's separate, duh. The server admin's unrelated. I mean, it's a database with normally unreadable code, so there's a limit on who can access it. Doesn't look like even the lab director can access it.
-Rintaro: There are positions higher than that?
-Itaru: There's something called the SERN Executive Council.
-Rintaro: Hmm... So they call it a council, eh?
-Itaru: What about it?
-Rintaro: It's a fitting name for our enemy!
+UNSPOKEN: So she wants to say that because it was gelified, it didn’t travel back in time.
+Rintaro: "The chicken returned to its frozen state without gelifying."
+Kurisu: "That logic is dubious. Sure it ended up frozen, but did you examine the possibility that it might have gelified first?"
+UNSPOKEN: No... I didn’t. I think Mayuri ate the refrozen chicken.
+Rintaro: "Salt didn’t gelify."
+Kurisu: "You mean nothing changed."
+Rintaro: "After the discharge phenomenon occurred last time, we spent all night experimenting with cabbage, radishes, rice, konjac, melon bread, Crunchy-kun, and cup noodles. Nothing happened. The same thing with liquids. On that day, our success rate took a 180 degree turn. Before the discharge phenomenon, everything succeeded. After the discharge phenomenon, everything failed."
+Kurisu: "Is the microwave storing electricity? You said that gelified objects became fractal structured, right? Salt has a simple structure by nature, so maybe that had an effect. But how could electricity be related..."
+Rintaro: "Here, we should think under the assumptions of time travel theory."
+Kurisu: "No. It’s not good to start thinking from the conclusion."
+Rintaro: "We’ve already had several successful experiments. You can’t deny that."
+Kurisu: "I’m not especially concerned whether this thing is a time machine or not. To begin with, it’s physically impossible for this tiny little microwave to produce energy equivalent to the big bang."
+UNSPOKEN: Kurisu frowns deeply.
+Kurisu: "We can’t reproduce the discharge phenomenon, nor the fractalization. There should be a reason why. We haven’t changed our methods. We haven’t changed the settings. We haven’t changed the experimental subjects either. There must be some other variable."
+Rintaro: "Maybe it’s the one who observes it."
+Kurisu: "What do you mean by that?"
+Rintaro: "Quantum theory. The observer is an important element to the experiment."
+Kurisu: "There were four of us here when the discharge phenomenon occurred last time. But before that, it occurred when Hashida-san was alone. Each time fractalization occurred, there were either two or three people observing. You and I each saw both phenomena. In other words, the conditions haven’t changed."
+Rintaro: "In that case..."
+Kurisu: "Hmmm..."
+UNSPOKEN: There must be some other variable. It’s on the tip of my tongue. Then I hear a rumbling sound from Kurisu’s stomach.
+Rintaro: "Hungry?"
+Kurisu: "Sh-shut up! I haven’t eaten anything since lunch."
+UNSPOKEN: Kurisu turns away as she looks at her watch.
+Kurisu: "It’s already 8?"
+Rintaro: "Just eat a banana. But only one of the two we just warmed. They are, after all, the fruit of our experiments. Or you could take something from our stock of cup noodles. Don’t want any? Well, since you have lived in America for so long, I guess you’d prefer fast food instead--"
+Kurisu: "Cup noodles."
+Rintaro: "What?"
+Kurisu: "I’ll have cup noodles."
+Rintaro: "Cup noodles!?"
+Kurisu: "What flavors?"
+Rintaro: "There’s soy sauce flavor and chicken flavor."

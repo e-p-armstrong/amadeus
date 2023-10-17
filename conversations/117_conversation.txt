@@ -1,33 +1,24 @@
-Itaru: Do you really think that's possible?
-Rintaro: There is no think. Only do!
-Kurisu: What, did you read that off a motivational poster? You're like the classic incompetent boss.
-Rintaro: Damn you! You dare insult the insane mad scientist, Hououin Kyouma!?
-Itaru: Well, it's not like Okarin's the boss anyway.
-Rintaro: Indeed. I am the symbol of this lab, not the boss.
-Kurisu: I don't know what you mean by symbol, but how do you plan to turn the PhoneWave into a time machine? Let's have details.
-Rintaro: My plan... alright, there is one thing. We've been thinking that the electrical discharge happens at random, but I have a hypothesis.
-Kurisu: Which is?
-UNSPOKEN: I look at my watch. It's past noon.
-Rintaro: Recall the conditions when it occurred, Christina. We experimented through the night with no results, but there's one variable we overlooked. The simplest, most definitive variable of all. That is, the time of the occurrence.
-Kurisu: ...ah.
-Rintaro: I checked the times of the two previous occurrences. When I accidentally sent the first D-Mail to Daru's phone, it happened between noon and one PM. The second time, when all four of us observed the D-Mail, it was six PM. So if we perform the experiment within that timeframe, we might be able to reproduce the effect.
-Kurisu: Let's try it right now!
-UNSPOKEN: Kurisu bolts into the development room, suddenly bursting with enthusiasm.
-Itaru: Well, I'm glad to see she has her priorities straight.
-Mayuri: Mayushii's banana supply is getting low... gotta buy more.
-UNSPOKEN: Only one banana remains untouched. We got rid of the gelified bananas, and then we ate the rest.
-Kurisu: Sorry, Mayuri-san. I'll go buy you some new bananas later.
-Mayuri: Really? Yay♪ Okarin and Daru-kun eat my bananas, but they never buy new ones...
-UNSPOKEN: I'll be sure to amend that in the future. A bunch of bananas is a small price to pay in order to bring chaos to the world. Kurisu picks the last banana off the stem, leans under the table, and places it inside the microwave.
-Kurisu: First, let's see if it'll become a jellyman. Agh!
-UNSPOKEN: She tries to get up and gloriously bangs her head underneath the table.
-Rintaro: Trying for the clumsy girl appeal?
-Kurisu: It was an accident!
-UNSPOKEN: Kurisu gets up, blushing in embarrassment with tears in her eyes.
-Kurisu: Put the microwave somewhere else! It's dangerous and hard to reach like this.
-Rintaro: It'll punch through the floor if we put it on the table.
-Mayuri: Chris-chan, Chris-chan! Pain, pain, go away♪
-UNSPOKEN: Mayuri pats the back of Kurisu's head, then sweeps her hand through the air.
-Kurisu: Thanks, Mayuri-san.
-UNSPOKEN: Kurisu pulls herself together, types on her phone, and activates the PhoneWave (name subject to change). The banana inside the microwave slowly begins to spin backwards as the timer counts down.
-Kurisu: Ah!
+Rintaro: "Christina! I ordered you to investigate SERN! What have you learned?"
+Kurisu: "I don’t remember being ordered, but whatever. There are two problems SERN faces with time travel. First is the electron injection device, also known as a ’lifter’. Unless they get it to function properly, they can’t make the Kerr black hole singularites naked. If you send a test subject through the singularity in its current state, the supergravity compresses them to the micro level. Naturally, there’s no way to survive. The second problem is that they can’t specify a physical destination. They can’t choose where they end up after traveling to the past. That’s why I’d say the 14 found jellymen were the lucky ones. Over a hundred human experiments have been performed since 2001. The remaining 80 or so people ended up somewhere they can’t be found."
+Mayuri: "Why can’t they be found?"
+Itaru: "Didn’t you know, Mayu-shi? The world is constantly moving. Its rotational speed is 1500 kph, and its orbital speed is 114, 000 kph--"
+UNSPOKEN: Daru’s tone is authoritative, but he’s just relaying what he heard from Kurisu last night.
+Kurisu: "SERN has been looking for solutions, but it’s not going well."
+UNSPOKEN: So even SERN is having difficulties?
+Rintaro: "Now then. Have you learned anything that could help us complete the PhoneWave (name subject to change)?"
+Kurisu: "Hmm..."
+UNSPOKEN: Kurisu stares at the ceiling in thought.
+Kurisu: "Well, I suppose you could call the LHC the world’s largest microwave oven."
+Rintaro: "Of course! In other words, the PhoneWave (name subject to change) is a miniature LHC!"
+Kurisu: "You might be on to something there."
+UNSPOKEN: I was sure she’d deny it. In fact, I thought she’d yell at me. But instead, she agreed with me. Throws me off a little.
+Kurisu: "However, there are too many things we don’t know about the PhoneWave. Why do the same phenomena that occur in SERN’s time machine also occur in that tiny little microwave? Unlike the LHC, this thing wasn’t made for time travel."
+Mayuri: "It was made to warm Mayushii’s chicken!"
+Kurisu: "W-well, yeah."
+Rintaro: "Since the jellyman phenomenon occurs with the PhoneWave (name subject to change), Mayuri’s bananas must be reaching the Kerr black hole’s ring singularity."
+Mayuri: "It makes a black hole? Here? It won’t suck us in, will it?"
+UNSPOKEN: If it sucked us in, we’d become jellymen too.
+Kurisu: "But we still haven’t figured out the electric discharge phenomenon, or the conditions required to cause it."
+Itaru: "During our experiments earlier, we were only able to send emails to the past during the discharge."
+Rintaro: "Although it hasn’t happened again, that discharge phenomenon could very well signify the injection of charge -- that is, electrons. And only when it occurs does the path to the singularity open."
+Kurisu: "We don’t know the cause of the discharge phenomenon."

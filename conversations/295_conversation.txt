@@ -1,37 +1,26 @@
-Rintaro: What's this kidnapping stuff about?
-Mayuri: It was my idea. I'm sure it'll make everyone want to help!
-UNSPOKEN: Mayuri grins triumphantly.
-Mayuri: It's a good strategy, dontcha think? Umm, the operation name is 'Mayushii's Awesome Leaflet Plan'.
-Suzuha: Um... isn't this going a little too far?
-UNSPOKEN: Yeah, what happens if the police hear about--
-Policeman: You three.
-Rintaro: !?
-UNSPOKEN: My heart freezes as if sprayed with liquid nitrogen. I slowly turn around... A stern-faced policeman is standing there with crossed arms. Speak of the devil!
-Policeman: What are these leaflets about? Let's talk at the station.
-Mayuri: Ehh?
-UNSPOKEN: I consider making a run for it, but that will just make things worse. I grab Suzuha's arm before she can do anything rash. Better just to bite the bullet and go along. After about an hour of interrogation, they release us without charges. Kurisu greets the three of us when we return to the lab dead tired.
-Kurisu: Hey, Okabe, remember the lifter? I don't suppose you've figured out what it is... no, of course you haven't.
-UNSPOKEN: Oh, right. We hadn't discovered the lifter at this point in time.
-Rintaro: I already know. It's the 42-inch CRT downstairs.
-Kurisu: R-really? What's your proof?
-Rintaro: I've been here before, remember?
-Kurisu: ...Oh, right. The CRT... I see...
-UNSPOKEN: Kurisu heads back into the development room, nodding to herself.
-Mayuri: I'm sorry, guys. I made things worse...
-UNSPOKEN: I give Mayuri some chicken to cheer her up. There's not much time left. What else can we do before the time limit?
-Kurisu: Hello.
-Rintaro: Assistant? It's me.
-Kurisu: Oh, I think you got the wrong number.
-Rintaro: What are you saying? It's me, Hououin Kyouma.
-Kurisu: My name isn't Assistant. And your name isn't Hououin Kyouma.
-Rintaro: Would you prefer to be called 'KuriGohan and Kamehameha'?
-Kurisu: Bwah!?
-UNSPOKEN: I hear rattling from the other side of the phone.
-Kurisu: How do you know about that!?
-Rintaro: Before I time leaped, you made a tearful confession. You said, 'I'm an @channeler, a Nicojunkie, and a camwhore who posts tits, but will you still accept me as your assistant?' And I, of course, replied... 'You may be an @channeler, a Nicojunkie, and a camwhore who posts tits, but you're still a member of this lab. And that makes you my assistant, now and forever. So wipe your tears, for there is still much--'
-Kurisu: I'm gonna post your personal info all over VIP if you don't shut your mouth right this second!
-Rintaro: ...How are things there?
-Kurisu: Fine. You called at the right time. We need to talk.
-UNSPOKEN: Just like that, we're back to normal conversation.
-Rintaro: I'll be right there.
-Kurisu: OK. I'll be waiting.
+Rintaro: "Akiba is full of niche stores where you can find strange and cool accessories."
+UNSPOKEN: It’s hard to sneak into Radi-Kan in the daytime. There isn’t a crowd out front like before, but pedestrian traffic remains constant. It takes us about 30 minutes to find a way in. Kurisu is back at the lab, working on the Time Leap Machine. It needs to be complete by 2 PM on the 13th. If she’s late, it could affect my ability to time leap, which would lower my chances of saving Mayuri. Speaking of Mayuri, she wandered off somewhere in search of Suzuha’s father.
+Rintaro: "How does it look?"
+UNSPOKEN: I call to Daru, who’s examining the flooded satellite -- I mean, time machine -- while Suzuha and I keep a lookout. Daru crawls out of the machine. He’s covered in sweat, and his breathing is heavy. We quickly help pull his huge body out. The time machine is completely visible from the street. If someone were to see us up here, they might report us to the police. It’s been two weeks since the satellite appeared, but Akiba still has tourists who come just to see it. We need to take care not to be noticed.
+Itaru: "It’s so freaking hot in there. It’s worse than a sauna. Spend too much time in there and I’ll turn into Daru jerky. By the way, it’s not gonna fall or anything... right?"
+UNSPOKEN: The time machine is balanced precariously on the ledge, but the police have hooked up support wires, so Daru probably has nothing to worry about.
+Suzuha: "Can it be fixed?"
+Itaru: "Well, I still don’t know for sure. But there is one thing I noticed just now. It’s built kind of like the PhoneWave."
+Rintaro: "That means there’s a chance, right!?"
+Itaru: "I said I’m not sure. I need to poke around some more."
+Rintaro: "Daru. Super Hacka. Everything depends on your skills now. You are the super hacka who will save the world. In 2036, people will worship you instead of Kurisu, the mother of the time machine."
+Itaru: "It’s hacker! How many times do I have to tell you!?"
+Rintaro: "Anyway, you have two days. Do whatever it takes, Daru."
+UNSPOKEN: I place my hand on Daru’s shoulder and look straight into his eyes.
+Rintaro: "You’re our only hope."
+Itaru: "No promises, man. And why two days?"
+Rintaro: "Well..."
+UNSPOKEN: Because that’s when Mayuri will die. But I can’t say that.
+Suzuha: "In two days, the weather conditions will be perfect for creating the ring singularity. If we miss that window, we won’t have another chance until next year."
+UNSPOKEN: Nice excuse, Suzuha!
+Rintaro: "P-precisely!"
+Itaru: "Fix it in two days? That’s just nuts."
+Rintaro: "But if you do, you’ll earn the right to a date with Faris."
+Itaru: "...!?"
+Rintaro: "Can you fix it?"
+Itaru: "No problem!"

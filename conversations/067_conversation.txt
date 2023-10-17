@@ -1,40 +1,26 @@
-Rintaro: Just what does this crumbly old Braun Tube Workshop need to get 'ready'?
-Suzuha: Nothing, really. Geez. I just mindlessly sweep in front of the shop. If I clean inside, the boss gets angry. 'Everything's where it needs to be,' he says.
-UNSPOKEN: So he's paying her to not clean? Something's wrong with that guy.
-Rintaro: So hear me out, then.
-Suzuha: But I'm so tired.
-UNSPOKEN: In other words, she doesn't feel like talking. I glare at her.
-Rintaro: You would be... unwise to anger me.
-Suzuha: Does it have to be right now?
-UNSPOKEN: My glare is not very effective. She doesn't falter at all. But I still maintain my stern expression and nod.
-Suzuha: Then go ahead.
-UNSPOKEN: Suzuha shrugs her shoulders as she locks her bicycle. Then she turns to me.
-Suzuha: But keep it short, okay?
-Rintaro: Where is the IBN 5100?
-Suzuha: No intel yet.
-Rintaro: What?
-Suzuha: I don't know.
-UNSPOKEN: Oh.
-Rintaro: But by the way you talked yesterday, it sure sounded like you knew.
-Suzuha: No, I know someone who knows.
-Rintaro: Then take me to them. I won't take no for an answer. Refuse, and I'll show you a living hell.
-Suzuha: I can't.
-UNSPOKEN: Come on! I even said I'd show you a living hell!
-Suzuha: I can't introduce you even if I wanted to.
-Rintaro: What do you mean? Don't tell me they're an imaginary--
-Suzuha: They've been dead for years.
-Rintaro: I'm sorry.
-Suzuha: Nah, it's okay. Anyway, there's nothing I can tell you. Honestly, I'm hoping you can tell me something.
-UNSPOKEN: Suzuha pats me on the shoulders. Funny. You'd think I'm the one who's supposed to cheer her up. Just then, Mr. Braun opens the door and makes his appearance.
-Tennouji: Hey, part-timer! It's only your third day and you're late!?
-Suzuha: Sorry, boss! The streets were a little crowded this morning.
-Tennouji: If you're not gonna take this seriously, I can always give you the boot, hear? As for you, Okabe, don't you lay a finger on my part-timer.
-Rintaro: Aren't you the lecherous one here, Mister Braun?
-Tennouji: Why you. Just try saying something like that in front of Nae. I'll murder ya. Gotta keep my honor as a father. Besides, I ain't got no use for a skinny kid like her.
-Suzuha: What was that!? Take that back, boss!
-UNSPOKEN: Suzuha's actually mad now.
-Tennouji: What, you mad?
-Suzuha: I'm not a kid! I'm a warrior!
-Tennouji: Hah? What're you talking about?
-UNSPOKEN: Suzuha's burning passion has the manager shocked. I, on the other hand, am impressed. On impulse, I take Suzuha's hand and grasp it firmly.
-Rintaro: I like the look in your eyes, you Part-Time Warrior. They shine with the radiance of the beast unseen in modern men. Never forget those eyes of yours, and you shall surely change class from Part-Time Warrior... to True Warrior.
+UNSPOKEN: Crap, I guess I am being too loud. That kind of ruins the whole secret feeling. And the window’s open, too. If Suzuha is down below, I’m sure she can hear everything. So I turn it down a notch.
+Rintaro: "Understand? The world has no need for two mad scientists. Before they can get ahead of us, we must outwit them!"
+Itaru: "Who are they?"
+Rintaro: "You know... them."
+Mayuri: "Um, Mayushii doesn’t get it at all..."
+Rintaro: "Basically, we must obtain the phantom retro PC... the IBN 5100, said to be located somewhere in Akiba."
+UNSPOKEN: I make a magnificent declaration, but Daru just rubs his eyes, and Mayuri returns to her needlework. Dammit, is there anything you guys react to!? We’ve uncovered a massive conspiracy here! How come you aren’t excited!?
+Itaru: "I’ll pass on the search. I’m seriously tired. Besides, I want to keep combing SERN’s server."
+Rintaro: "That’s true... Well, you’re the only one who can do that, Daru, so I’ll leave it to you. So, the IBN 5100 investigation squad shall consist of Mayuri and me--"
+Mayuri: "I can’t..."
+UNSPOKEN: Mayuri makes an apologetic face.
+Mayuri: "I have to make costumes, and I have work, too."
+UNSPOKEN: So basically, you two are telling me this: I’m the only one with free time.
+Rintaro: "Fine. I’ll manage alone somehow. It’s useless to try and stop me. Understood?"
+Mayuri: "Are you going to do something bad again?"
+Itaru: "Nah, he’s all talk."
+UNSPOKEN: I leave my useless comrades behind and stride gallantly out of the lab. I step out onto the street. Immediately, a bicycle skids to a stop in front of me.
+Suzuha: "Hiya, Okabe Rintaro."
+UNSPOKEN: Suzuha gets off her bicycle and gives me a strange greeting. I want to ask her, Are you an American or something? but I’m distracted by her shiny bicycle. It’s the same bicycle that was in front of the Braun Tube Workshop yesterday. I guess it belongs to her. I wonder how much that set her back. I mean, it does look pretty expensive.
+Rintaro: "Pretty nice technique there."
+Suzuha: "Bicycles are fun, aren’t they? I’d never ridden one before coming here."
+Rintaro: "You’d never ridden a bicycle!?"
+Suzuha: "Nope. I had ridden motorcycles before, though."
+UNSPOKEN: Isn’t that backwards? Weird girl. And what’s with that flashy braking back there? I think it’d be pretty dangerous if she did that all through the town. Beginners get cocky and get into accidents. You see that pattern all the time. If you’re going to go full speed, at least wear a helmet.
+Rintaro: "Going to work now?"
+Suzuha: "Yup."

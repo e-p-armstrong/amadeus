@@ -1,28 +1,30 @@
-UNSPOKEN: Crap, I guess I am being too loud. That kind of ruins the whole secret feeling. And the window's open, too. If Suzuha is down below, I'm sure she can hear everything. So I turn it down a notch.
-Rintaro: Understand? The world has no need for two mad scientists. Before they can get ahead of us, we must outwit them!
-Itaru: Who are they?
-Rintaro: You know... them.
-Mayuri: Um, Mayushii doesn't get it at all...
-Rintaro: Basically, we must obtain the phantom retro PC... the IBN 5100, said to be located somewhere in Akiba.
-UNSPOKEN: I make a magnificent declaration, but Daru just rubs his eyes, and Mayuri returns to her needlework. Dammit, is there anything you guys react to!? We've uncovered a massive conspiracy here! How come you aren't excited!?
-Itaru: I'll pass on the search. I'm seriously tired. Besides, I want to keep combing SERN's server.
-Rintaro: That's true... Well, you're the only one who can do that, Daru, so I'll leave it to you. So, the IBN 5100 investigation squad shall consist of Mayuri and me--
-Mayuri: I can't...
-UNSPOKEN: Mayuri makes an apologetic face.
-Mayuri: I have to make costumes, and I have work, too.
-UNSPOKEN: So basically, you two are telling me this: I'm the only one with free time.
-Rintaro: Fine. I'll manage alone somehow. It's useless to try and stop me. Understood?
-Mayuri: Are you going to do something bad again?
-Itaru: Nah, he's all talk.
-UNSPOKEN: I leave my useless comrades behind and stride gallantly out of the lab. I step out onto the street. Immediately, a bicycle skids to a stop in front of me.
-Suzuha: Hiya, Okabe Rintaro.
-UNSPOKEN: Suzuha gets off her bicycle and gives me a strange greeting. I want to ask her, Are you an American or something? but I'm distracted by her shiny bicycle. It's the same bicycle that was in front of the Braun Tube Workshop yesterday. I guess it belongs to her. I wonder how much that set her back. I mean, it does look pretty expensive.
-Rintaro: Pretty nice technique there.
-Suzuha: Bicycles are fun, aren't they? I'd never ridden one before coming here.
-Rintaro: You'd never ridden a bicycle!?
-Suzuha: Nope. I had ridden motorcycles before, though.
-UNSPOKEN: Isn't that backwards? Weird girl. And what's with that flashy braking back there? I think it'd be pretty dangerous if she did that all through the town. Beginners get cocky and get into accidents. You see that pattern all the time. If you're going to go full speed, at least wear a helmet.
-Rintaro: Going to work now?
-Suzuha: Yup.
-UNSPOKEN: The Braun Tube Workshop's shutters are open, but the shop itself never opens until around 11 or 12. I don't know exactly when. It seems to change with Mr. Braun's mood.
-Rintaro: That's perfect. There's something we need to talk about.
+UNSPOKEN: We wait for Titor’s reply. Though it’s only been a few minutes, it feels like an eternity to me.
+Rintaro: "It’s here!"
+UNSPOKEN: I quickly open the mail. And its contents are enough to raise goosebumps on my entire body.
+Rintaro: "Heh, heh heh heh... Just as I suspected."
+Itaru: "Huh?"
+Rintaro: "I was right, Daru. I know where that data comes from."
+Itaru: "An IBN 5100!"
+UNSPOKEN: That retro PC has a certain special function. In fact, for more than 25 years after it went to market in 1975, nobody knew of it save a few IBN engineers. That function was first brought to light by the John Titor who appeared in 2000. A while after Titor posted about it, an actual IBN engineer admitted to the hidden function’s existence. Which reminds me, I talked to Suzuha about this only yesterday.
+Suzuha: "It can also decipher IBN’s proprietary programming language, which was written before APL and BASIC became widespread. Isn’t that surprising? Now it’s a dead programming language only decipherable with an IBN 5100."
+UNSPOKEN: What an incredible coincidence. A prime example of synchronicity at work. It’s almost like an almighty will is pulling the strings.
+Rintaro: "Heh heh heh. No... NO, I SAY! This discovery of ours was inevitable from the start! For this is the choice of Steins Gate!!"
+Itaru: "Wait, so SERN has an IBN 5100 database? Those machines aren’t compatible with any modern software. Why would they do something like that?"
+Rintaro: "Answer me this. What is the best way to secure a machine against external cracking?"
+Itaru: "Well, make it standalone, of course."
+UNSPOKEN: Daru quickly catches onto the intent of my question.
+Itaru: "If only IBN 5100s can read it, then I guess that’s kind of standalone..."
+Rintaro: "Which means that SERN’s keeping their most important secrets hidden there!"
+Itaru: "How do you know about that hidden function anyway?"
+Rintaro: "It is recorded in my brain’s extensive Index Librorum Prohibitorum."
+UNSPOKEN: Titor said it himself ten years ago. But Daru wouldn’t believe me even if I told him the truth.
+Itaru: "Very original."
+UNSPOKEN: I ignore Daru’s retort.
+Rintaro: "Mayuri! We have important matters to discuss. Assemble!"
+Mayuri: "Hm? I can hear you fine from here."
+UNSPOKEN: Mayuri’s sewing. She doesn’t get off the sofa.
+Rintaro: "It doesn’t matter whether you can hear or not! This meeting concerns the fate of the Future Gadget Laboratory -- nay, the fate of mankind! So I want it to feel more secretive, like we’re scheming or something!"
+UNSPOKEN: It’s important that we stare closely at the monitor and exchange dramatic lines. The atmosphere right now is too... light. It’s all Mayuri’s fault.
+Mayuri: "Mayushii won’t participate in your evil schemes."
+UNSPOKEN: Well, I can’t have everything my way.
+Rintaro: "Listen, you two! Henceforth, the Future Gadget Laboratory shall begin emergency top secret operations! This shall be the first stage in our war against the dark powers that manipulate the world from the shadows! Our enemy is SERN, a scientific institute engaged in the most evil research imaginable!"

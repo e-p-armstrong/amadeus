@@ -1,25 +1,15 @@
-UNSPOKEN: When I point out the scientific truth, the man with a bald spot and his lackeys get pissed. This doesn't look good. I don't have time to get into a fight. I decide to stage a tactical retreat. Afterwards, I go to the assembly hall and ask the staff about Faris. No luck. When I try calling Daru again, he says Maybe she went home already? in a bummed-out voice. I return to Faris's apartment building and ring the intercom again. The butler responds once more.
-Butler: May I ask who's calling?
-Rintaro: It's Okabe. Has Fari... has Rumiho-san returned?
-Butler: ...Just a moment.
-UNSPOKEN: It sounds like she's home. The intercom goes silent for a while. And then, the door's automatic lock opens, allowing me inside the elevator hall.
-Butler: Please come up, sir. The young mistress will see you.
-UNSPOKEN: I give him my thanks and hurry into the elevator. The butler guides me into the bedroom, where Faris is sitting on the sofa, hugging her knees. She doesn't look up, even when I approach.
-Rintaro: Faris! Finally. There's something I need to ask you.
-Faris: Hmmya...
-UNSPOKEN: She looks exhausted, like all the life has been drained out of her. I've never seen Faris like this.
-Rintaro: What happened? You look down.
-Faris: This can't be happening, nya. Why did Faris have to lose, nyan? If only those guys hadn't used underhanded tricks on me, nya... They ganged up on Faris... I even promised Papa I'd win... he's probably disappointed in me, nya... I'm too ashamed to show my face, nya...
-UNSPOKEN: What is she saying? No, wait. I think I get it. I recall what happened after Faris's final match in the RaiNet championship. That leather-clad asshole called her the former champ. I guess that means she lost. And that's why she's depressed. I feel bad for Faris, but I don't have time to deal with this.
-Rintaro: Listen, Faris!
-UNSPOKEN: Faris blinks her eyes repeatedly when I grab her by the shoulders. But her eyes are glazed and empty of light.
-Rintaro: A couple of days ago, you used the time machine we invented to send a D-Mail. Do you remember that?
-Faris: Hanya?
-UNSPOKEN: I knew it was useless, but I had to ask. Faris doesn't remember. In fact, from her perspective, it never happened. How do I explain?
-Rintaro: Let's say, for example, that there used to be tons of stores for anime otaku here in Akiba. And let's say you used a time machine, and changed that Akiba into the electric town it is today. How would you do it?
-UNSPOKEN: I know it's a really cryptic question. But I can't think of a better way.
-Faris: Time... machine...
-UNSPOKEN: Faris murmurs with a blank expression on her face.
-Faris: Time machine...
-UNSPOKEN: She repeats the same phrase. Faris's eyes gradually regain their brightness. And then, all at once...
-Faris: Kyouma...
+Rintaro: "I don’t follow."
+Kurisu: "Are you a couple or what? I’ve been meaning to ask."
+Rintaro: "Do we look like a couple?"
+Kurisu: "Huh!? Uh... well... umm..."
+UNSPOKEN: Just what sort of delusions does this girl have?
+Mayuri: "You know, Okarin and Mayushii have been friends since we were little♪ Mwawoohii’s weeally hwawy nawo."
+Rintaro: "Don’t talk with your mouth full."
+Kurisu: "So... you’re not a couple. Oh. Well, of course! No one would willingly date Okabe, after all."
+Rintaro: "Pff. You disappoint me, Christina!"
+Kurisu: "Hah? What are you talking about?"
+Rintaro: "You have finally revealed your true nature. I saw how your eyes lit up at the first hint of romance! You’re nothing but a filthy mainstream girl! I bet you like to eat chocolate with your girlfriends and giggle about the latest celebrity love affair! Absurd! This lab has no need of the puppies and flowers in your head!"
+UNSPOKEN: It feels strange to be spewing this chuunibyou nonsense again, after what I’ve been through. Gh, is my innocence lost forever?
+Kurisu: "What the hell are you on about, you self-proclaimed mad scientist chuunibyou nutcase?"
+UNSPOKEN: It’s been a long time since I argued with Kurisu like this too. The thought brings a sudden pang of loneliness. After failing to save Mayuri, I sought help from this genius girl. Even though her words were at times harsh, she supported and encouraged me to the end. But now, all of that has vanished along with the time we spent with Suzuha. Thank you for your help, Kurisu. I silently give her my sincere gratitude. I finish typing on the X68000’s keyboard and sigh, then turn to the divergence meter sitting on the shelf. The display reads 0. 409431%. What does that mean?
+Suzuha: "The universe is like this piece of yarn. Countless possible worldlines exist side by side, branching out to infinity. When the meter reads over 1%, you’ve made it to the Beta worldline. If you escape the Alpha attractor field and reach the Beta worldline... then the result will change. Reach 1% divergence... and you’ll save Shiina Mayuri."

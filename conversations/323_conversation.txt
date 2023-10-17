@@ -1,16 +1,19 @@
-UNSPOKEN: This assistant of mine has no confidence in me at all.
-Kurisu: You can't just blindly follow this hypothesis either. You may have a safety net, but if you get careless and leave yourself without a way out... Then you'll never get another chance to save Mayuri.
-UNSPOKEN: I know that. I'd ask for Suzuha's opinion too, if she were here, but on this worldline, she traveled to 1975 on the night of August 9th. There's no way I can speak to her now.
-Kurisu: Why did the IBN 5100 disappear? Which of the D-Mails caused its disappearance? Figure that out, and you're well on your way to finding the solution.
-Rintaro: What I don't understand is how we delayed the timing of Mayuri's death exactly 24 hours.
-Kurisu: True, that is interesting. Maybe it's related to the change in divergence. It could be the Butterfly Effect. If that's the case, any trivial change could produce a significantly deviant result. Anyway, it's important to act with discretion. Don't do anything careless. Your death, Okabe, is the worst thing that could possibly happen. You're probably the only person who can remember previous worldlines. If you die, then consider Mayuri dead for good. ...Don't die. Okay?
-Rintaro: ...You're not worried about me, are you?
-Kurisu: W-what!? Don't be ridiculous! Why should I care!? I'm not worried about you, okay? Don't get the wrong idea. I just don't want to lose a valuable test subject, that's all. Yeah! That brain of yours has accumulated memories spanning worldlines and time leaps. It's a precious sample that can rewrite the history of neuroscience! I want to map your brain and find out just what's going on in there. In other words, your time leaping helps me, too! After all, the Time Leap Machine is the fruit of my research, so to speak, and I--
-Rintaro: Calm down.
-UNSPOKEN: Kurisu turns away with a sour expression. This assistant of mine can be difficult sometimes. Anyway. I consider her hypothesis. In order to return to the worldline where I found the IBN 5100 at Yanabayashi Shrine, we need to cancel all the D-Mails we sent so far. The theory is sound, and I've got nothing else to go on. I check the clock. It's 6:42 PM. Only one hour until Moeka's raid. I decide to time leap once more, to the afternoon of the 13th, just before the Time Leap Machine is completed.
-Rintaro: Christina. I'm going to give this plan of yours a shot.
-Kurisu: Oh. G-great.
-UNSPOKEN: I take Kurisu's hand and grasp it firmly.
-Kurisu: Ah...
-Rintaro: You've been a great help. Sorry for the trouble.
-Kurisu: D-don't apologize, dummy. It's confusing... And besides, I don't even remember helping you before! How are you going to take responsibility for this!?
+Mayuri: "Yeah."
+Rintaro: "Sorry about that."
+UNSPOKEN: I apologize, but keep looking at her. Instead of starting a new game, Mayuri looks at me with concern.
+Mayuri: "There’s something different about you today, Okarin."
+Rintaro: "R-really?"
+Mayuri: "Yeah. What’s wrong?"
+UNSPOKEN: I remind myself that Mayuri is more perceptive than she seems. She proved that when she figured out that Daru was Suzuha’s father. I don’t want to worry her too much. I want Mayuri to smile her usual ditzy smile without a care in the world. After all, it’s over now. She’s safe.
+Rintaro: "Heh. Nothing’s wrong! And I wasn’t looking at you just now. I was devising new ways to bring chaos to the world. Muhahaha!"
+Mayuri: "Really? You seem kind of tired."
+Rintaro: "A mad scientist is never tired. The mighty gray cells of my 170-IQ brain are always performing calculations, day and night!"
+Mayuri: "Oh... but you should still take a break every now and then. Please, Okarin. For me?"
+UNSPOKEN: Having said that, Mayuri returns to her game. I feel cold stares all around me, but I don’t care at all. Mayuri is here with me, doing everyday Mayuri things. Ordinary things. Everything is going back to normal. Yesterday was my first time home in a while, so I slept like a log in my comfortable bed. It could be because of my mental exhaustion, but that was my best night’s sleep in a while. Before heading up to the lab, I stop and stare at the Braun Tube Workshop. The familiar mountain bike is gone. Suzuha liked it so much, she insisted on bringing it with her to 1975. The workshop door opens and out comes Mister Braun, rubbing his eyes sleepily.
+Tennouji: "Okabe! You’ve got free time. How about a job? As a special offer, I’ll hire you for one CRT a month."
+UNSPOKEN: One CRT a month? So for one month’s work, I get an old television? Hell no.
+Rintaro: "When did Suzuha quit, again?"
+Tennouji: "Suzuha? Who the hell’s that?"
+UNSPOKEN: What!? Was her existence erased completely? But that’s impossible.
+Tennouji: "I ain’t got time to remember the name of some lazy part-timer who quit after just ten days."
+Rintaro: "Damn you and your misleading words..."

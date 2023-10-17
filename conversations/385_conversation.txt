@@ -1,21 +1,39 @@
-UNSPOKEN: Gee, thanks. At least she's not beating around the bush. Suddenly, she lowers her voice.
-Kurisu: You might think I'm a monster for saying this... not that I care what you think, but... Kill her if you have to.
-Rintaro: You're a monster. But you're not a hypocrite, and that's what I love about you, Christina.
-Kurisu: L-love!? Uh...
-UNSPOKEN: What's the matter with her now?
-Rintaro: I mean it. I wish my conviction were as strong as yours.
-Kurisu: ...Well, thanks.
-Rintaro: But that's not all, right? There's a reason you're willing to suggest murder as an option. How did you reach that conclusion?
-Kurisu: Good, you're still thinking. I can't be certain whether your story is true, and I don't quite understand this attractor field hypothesis. But based on what you told me... If this Kiryu woman commits suicide four days from now, then that means her death flag is already active. In other words, this worldline has approved her death. On previous worldlines where that wasn't the case, you probably couldn't have killed her even if you tried. Something would have happened to prevent it. Or possibly, killing her would have caused a dramatic shift in worldline divergence. But on this specific worldline, her death is already certain. As you've experienced with Mayuri's death, the result is what matters, not the process. I believe the same applies to Kiryu. It doesn't matter how she dies.
-UNSPOKEN: In other words, I can kill her instead of letting her commit suicide?
-Rintaro: She's already going to die, so that makes it okay. That the kind of argument a murderer would make.
-Kurisu: Don't be a hypocrite. We're not talking about right and wrong here, Okabe.
-UNSPOKEN: She's unforgiving as always, but it actually feels nice to speak frankly like this.
-Rintaro: But what about the law? Even if fate forgives me, society won't.
-Kurisu: As long as you have the Time Leap Machine, you can undo anything, even murder. The result will be that you gained the necessary information without killing anybody.
-Rintaro: I understand.
-Kurisu: ...Phew. Just remember one thing. You're responsible for what you do. ...I guess that's quite a thing for me to say, huh? After telling you to kill her.
-Rintaro: It's fine. Your advice was truly becoming of a mad scientist.
-Kurisu: Get it done, Okabe. Bye.
-UNSPOKEN: She hangs up without another word. Strangely, I find Kurisu's harsh tone encouraging.
-Rintaro: Who does she think she is, a general?
+Luka: "Thank you. I think I got a little stronger."
+Rintaro: "No need for humility. Today, you mastered one of the Seishin Zanma style’s secrets, Type Thirty-Two Cherry Bomb. But don’t get cocky, for you are still weak."
+Luka: "Yes sir. I want to learn even more from you."
+UNSPOKEN: The breeze feels nice after the sweat we worked up. We savor our comfortable fatigue as we drink the barley tea Lukako’s mother brought for us.
+Luka: "I feel like it’s been a long time since you last taught me, Kyouma-san."
+Rintaro: "For the past few days, my mind has been under the dread influence of the foul grimoire known as The Manual. But I’ve fully recovered. Do not worry."
+Luka: "...Thank goodness. You’re back to your old self."
+UNSPOKEN: Lukako answers happily. And then her expression turns serious, as if she’s made up her mind about something.
+Luka: "Um... Yesterday, you asked me if I had any memories from when I was a guy."
+Rintaro: "Oh, yeah..."
+UNSPOKEN: Lukako looks away. I see her hands fidgeting in her lap. Finally, with trembling lips, she speaks.
+Luka: "I... do remember."
+UNSPOKEN: No surprise. I expected she’d remember after what I experienced with Faris.
+Luka: "I remember, or actually... umm, how should I say it... It’s a very... transient feeling."
+Rintaro: "Transient..."
+Luka: "I can’t clearly remember it, but at the bottom of my sea of memories, well... in my head, umm..."
+UNSPOKEN: Then Lukako starts pawing at the air above and to the right of her head.
+Luka: "It feels like it’s around here somewhere..."
+UNSPOKEN: I don’t really get it.
+Rintaro: "Anyway, you remember?"
+UNSPOKEN: Lukako nods.
+Luka: "I’m sorry I lied yesterday..."
+Rintaro: "Muhahaha! Don’t worry about it. You should be proud to have fooled the great Hououin Kyouma!"
+Luka: "So because I remembered, I knew Mom’s pager number without having to ask."
+UNSPOKEN: She takes out a piece of paper, upon which is written the number.
+Luka: "I was going to give you this no matter how things turned out today. And... one more thing."
+UNSPOKEN: One more thing?
+Luka: "I don’t know if it’s related to my memories, but... It’s about that old computer."
+Rintaro: "...!?"
+UNSPOKEN: Now that, I didn’t expect.
+Rintaro: "The IBN 5100!?"
+Luka: "Yes... I think so..."
+UNSPOKEN: True, Lukako did seem like she knew something about the IBN 5100. Plus, Luka’s dad confirmed that it was here at the shrine. And then one day, it suddenly disappeared. Does Lukako know where it is now?
+Rintaro: "If that’s true, Lukako, then you might not have to turn back into a guy."
+UNSPOKEN: But Lukako faintly shakes her head.
+Luka: "I don’t think it’s that easy..."
+Rintaro: "But why not?"
+UNSPOKEN: Lukako grips my hand.
+Luka: "Please come with me. I’ll show you."

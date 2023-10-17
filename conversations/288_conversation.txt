@@ -1,26 +1,24 @@
-Rintaro: Cut the chatter!
-UNSPOKEN: Mayuri's life hangs in the balance. There's no time for this nonsense! Kurisu sets up the Time Leap Machine while Suzuha goes to turn on the 42-inch CRT. Well before Mayuri returns, I leap. When I come to, I'm standing with my phone in hand. While I wait for the ringing in my ears to subside, I check the date and time on my phone screen. August 11th, 2:21 PM. Alright. Now I have two more days. As a matter of fact, I leapt twice. First to 2 PM on the 13th, when the machine was completed. From there, I leapt an additional 48 hours to 2 PM on the 11th. It was my first consecutive leap, but it seems to have gone well. I immediately head downstairs to see Suzuha. I'm relieved to see that her hand isn't burned. When I explain the situation, Suzuha races to Radi-Kan to confirm my story.  After she realizes that I'm telling the truth, I take her back to the lab and have her repeat the explanation she gave us before I time leaped. We come to the conclusion that all we can do right now is try our best to repair Suzuha's time machine.
-Itaru: Let's go take a look!
-UNSPOKEN: Daru is unusually enthusiastic. I guess Suzuha's talk of attractor fields and divergence and correcting history's mistakes got his blood pumping.
-Mayuri: H-hold on, everyone!
-UNSPOKEN: Mayuri stops us as we're about to leave the lab.
-Mayuri: Um, guys? Aren't we forgetting something?
-Itaru: Like what?
-Mayuri: What about Suzu-san's dad?
-UNSPOKEN: Oh, right. I thought Suzuha was lying about that. But when I turn to her, she looks away.
-Suzuha: ...That doesn't matter now, does it?
-Mayuri: It does too! I mean, it'll take time to fix the time machine, won't it? We should help Suzu-san find her dad in the meantime! Right?
-Rintaro: But...
-UNSPOKEN: When I show reluctance, Mayuri's puffs out her cheeks.
-Mayuri: Don't be like that, Okarin! You have to keep your promise.
-UNSPOKEN: What promise?
-Mayuri: We promised, remember? We said we'd all look for Suzu-san's dad.
-UNSPOKEN: That's right... We convinced her to stay by promising to help look for her father.
-Rintaro: Yeah... I remember.
-Mayuri: I know Suzu-san has a mission and stuff, but I think she also came because she really wanted to meet her dad. Mayushii wants to make that happen!
-UNSPOKEN: If Mayuri feels that strongly about it, there's no way I can refuse.
-Suzuha: Shiina Mayuri... you're such a nice girl...
-UNSPOKEN: Suzuha sniffles.
-Suzuha: ...You're right. I thought I could find him if I came to this town. I know that he was in Akihabara in 2010.
-Rintaro: So your father's real!?
-Suzuha: Of course he is! At this age, he's probably still young and cool.
+Suzuha: "Right."
+Kurisu: "Does that mean you know how the universe works? You claimed that the Everett-Wheeler model -- the many-worlds interpretation -- is correct."
+Suzuha: "That was a lie. Camouflage so that SERN wouldn’t target me. If I mix one lie into the truth, then the bad apple spoils the barrel."
+Kurisu: "So you don’t know."
+Suzuha: "I do. By 2036, scientists have successfully modeled the structure of the universe. And it’s not the many-worlds interpretation."
+Kurisu: "Really? Tell me!"
+Rintaro: "Attractor Fields..."
+Suzuha: "Right. I told you by mail, didn’t I?"
+Kurisu: "What sort of model is that?"
+Suzuha: "The universe is made up of worldlines and attractor fields."
+UNSPOKEN: Suzuha walks over to Mayuri’s sewing table and picks up a ball of red yarn. She holds one end of the yarn and drops the ball to the floor, then holds about a meter of yarn in front of her face.
+Suzuha: "The universe is like this piece of yarn. Countless possible worldlines exist side by side, branching out to infinity. From a distance, it looks like a single string, but when you look closer, the string is actually made up of individual threads woven together. At the end, those threads converge on a single point. The paths are different, but the destination is the same."
+Kurisu: "Isn’t that determinism?"
+Suzuha: "Close. This model is a little looser. You could say it cherry-picks from the many-worlds interpretation and the Copenhagen interpretation."
+Rintaro: "If the branches all lead to the same place, does that mean there’s only one world in the end?"
+Suzuha: "Exactly. The bundle of worldlines that share a point of convergence is called an attractor field. There are also many attractor fields. This string is Attractor Field Alpha. The threads are Alpha worldlines."
+UNSPOKEN: Suzuha then cuts meter lengths of blue, yellow, and white yarn.
+Suzuha: "Blue is Beta, yellow is Gamma, and white is Delta. Each is made up of countless Beta worldlines, Gamma worldlines, or Delta worldlines."
+UNSPOKEN: She twists the different colored strings together, then stretches them out as one fat, multicolored string.
+Suzuha: "Attractor fields are superpositioned like this. In each attractor field, the worldlines converge on a different result. They don’t interact. Each attractor field is independent of the others. Of course, they all diverged from a common point somewhere in the past, and they will all converge again at some point in the future, but that takes many hundreds of years. You can think of the attractor fields as very long worldlines."
+Itaru: "Can you compare it to an eroge? Teach me, oh erotic one."
+Kurisu: "T-there’s no erotic one here!"
+Rintaro: "No, he’s right. It is like an eroge. Each heroine’s route is an attractor field, and the small choices within are the individual worldlines. But at the end, they all enter the true route for the grand ending."
+Itaru: "The only difference is the length of the common parts. By the way, I’d choose the little sister’s attractor field."

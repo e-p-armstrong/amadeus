@@ -1,22 +1,28 @@
-Kurisu: I tried self-analysis. Maybe I'm mistaking dreams for reality, projecting my hopes and fantasies... I don't know. But there's one thing I do know. You have to save Mayuri.
-Rintaro: ...Aren't you afraid?
-UNSPOKEN: To save Mayuri, I must undo the current worldline. If I do that, Kurisu will die.
-Kurisu: You know, it kinda feels like we're trapped in an ancient ruin.
-UNSPOKEN: Kurisu suddenly changes the subject. She looks around the dark, empty stairwell.
-Kurisu: Like the world ended... And we're the only two people left. I've been thinking. Say you go to the Beta worldline, and everyone else goes with you. What if I can't go with you? What if I'm the only one left behind? Would the entire world become like this place? It's just a theory... but I can't help but wonder.
-Rintaro: I...
-UNSPOKEN: I need to say it.
-Rintaro: I'll save you. Not just Mayuri, but--
-Kurisu: Don't make promises you can't keep!
-UNSPOKEN: Kurisu cuts me off sharply, then buries her face in her knees.
-Kurisu: You asked me if I wasn't afraid. ...Of course I'm afraid. Maybe I'll disappear. Maybe I'll be left behind all alone. Or maybe only you will disappear and everything else will stay the same. The world will continue, and nobody will even know that you existed. I'll go back to America as if nothing ever happened. Maybe... maybe... maybe! I feel hopeless, just thinking about all the possibilities. But even so!
-UNSPOKEN: Kurisu raises her head and spears me with her glare.
-Kurisu: Do you think I would tell you to let Mayuri die!?
-Rintaro: Kurisu...
-Kurisu: Jesus, it's cold!
-UNSPOKEN: Kurisu grabs her own arms. In the darkness, I see her shoulders shaking.
-Kurisu: It's because of these wet clothes! This sucks. Anyway, enough of this nonsense. It's nothing but conjecture. Baseless. Worthless. I want to cut open my skull and excise the part of my brain that comes up with these delusions.
-UNSPOKEN: Now she's talking to herself in an angry tone. Kurisu has always been calm when faced with the unknown. I admired her for that. I thought she was facing this calmly too. But I was wrong. Behind her cool facade, she was struggling to cope with the knowledge that her very existence was in jeopardy. She was fighting that fear all alone, and now it has finally come to the surface. Of course she's afraid. However brilliant she may be, she's still just an 18-year-old girl. Kurisu abruptly stands up. I realize that I no longer hear the sound of rain pounding on the roof.
-Kurisu: Listen, Okabe. You can't save both of us. Correct? No matter how you struggle, it's one or the other.
-Rintaro: But...
-Kurisu: No buts. My answer won't change. Save Mayuri.
+UNSPOKEN: I thought I was alone, but it seems that I was wrong. I turn around to see Kurisu standing in the open door. I avert my eyes. I can’t look her in the face, not now.
+Kurisu: "What are you doing here?"
+Rintaro: "...Nothing. How did you know I was here?"
+Kurisu: "You said you wanted to be alone. I ran the numbers and concluded that I had the greatest probability of finding you here."
+Rintaro: "Then leave me alone. You don’t have to look for me. I’m not a lost little boy."
+Kurisu: "H-hey! Is that how you treat someone who’s worried about you? N-not that I’m worried about you or anything!"
+UNSPOKEN: Right after she gets herself flustered, Kurisu sighs and puts on a serious expression.
+Kurisu: "I was going to leave you alone at first. But you’ve been acting weird the last couple days. I mean, you’re always weird, but more than usual. You look like a kid forced to eat crappy oatmeal. What happened?"
+Rintaro: "Nothing..."
+Kurisu: "Then why did you cancel the cracking of SERN?"
+Rintaro: "You’re the one who said we shouldn’t."
+Kurisu: "Oh, so you’re afraid of triggering arrest flags. I get it."
+Rintaro: "You should praise me for obeying the law for a change."
+Kurisu: "That’s not like you at all. What happened to your ego? What happened to the insane mad scientist, Hououin Kyo--"
+Rintaro: "To hell with my ego!"
+Kurisu: "...!"
+Rintaro: "This time, it’s not that simple."
+UNSPOKEN: I have forced my ego on others before. Suzuha, Faris, Lukako... I sacrificed their dreams for the sake of my goal. I justified it by telling myself that it was necessary to save Mayuri. I weighed their suffering against the alternative and made my self-righteous choice. But this time, the alternatives are impossible to compare.
+Rintaro: "I have to choose which friend to let die. It would be so much easier if I knew what was right."
+Kurisu: "...Which friend to let die? What are you talking about?"
+Rintaro: "I’m just a student, Christina. You know? The insane mad scientist Hououin Kyouma? That’s just a fantasy. A character I made up. I bet you had no idea."
+Kurisu: "Uh... I may have figured that out when we first met."
+Rintaro: "When we first met..."
+UNSPOKEN: What if I hadn’t found Kurisu’s body back then? Let’s try imagining that situation. If I hadn’t seen Kurisu dead, I wouldn’t have interrogated her before the seminar at ATF. Without hearing me call her a zombie, she wouldn’t have taken an interest in me. She wouldn’t have come to the lab. Ultimately, we would never have built the Time Leap Machine, leaving me without the means to save Mayuri. And of course, Kurisu would not have become our friend. We would not be as close as we are right now.
+Kurisu: "Tell me, Okabe. What do you mean?"
+UNSPOKEN: I can’t meet her questioning gaze.
+Rintaro: "...Do I have to tell you?"
+Kurisu: "You’ve never hesitated to ask me for help before. Don’t hold back now."

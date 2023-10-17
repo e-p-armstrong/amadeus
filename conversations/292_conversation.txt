@@ -1,15 +1,33 @@
-Rintaro: Oh... So, why are you showing me this?
-Suzuha: When the meter reads over 1%, you've made it to the Beta worldline.
-Rintaro: 1%...
-Suzuha: Right. Reach 1% divergence... and you'll save Shiina Mayuri.
-UNSPOKEN: I stare at the glowing red numbers. They don't budge. Just another 0. 6%... it seems so easy. But there are six digits after the decimal point, and no tens place. What does that mean? Something tells me it won't be as easy as it looks.
-Suzuha: You can have it. No point in me carrying it around. I hope you'll find a use for it.
-UNSPOKEN: Based on recommendations from the BBS thread, I spend the morning visiting stores in Akiba. My destinations run the gamut from otaku stores packed with anime goods to souvenir shops full of Olympic memorabilia. I even visit a few that specialize in locally-manufactured goods. But although I hit just about every kind of store that could be considered niche, I am unable to find anything that resembles Suzuha's pin. Maybe I should go all the way to Ikebukuro or Nakano. I start heading back to the lab, but just then, a street vendor catches my eye. The storekeeper is a foreigner covered in tattoos. The table next to him is covered with accessories and other fashion items. This is the first time I've seen such a stylish street stand in Akiba. Most vendors just sell random junk. It's not like I have anything to lose, so I walk over and check out the selection. Among the various accessories, I see a number of metal pins. What a coincidence. Could he have a pin like Suzuha's? I don't see the OSHM***A 7010 logo on any of the displayed accessories, but I'd better ask just to be sure. Umm... he's a foreigner... so maybe I should use English? Our eyes meet. His are as bright and blue as the sky. I quickly look away. Damn! He must think I'm a coward. Better get this over with.
-Rintaro: HEY, MASTER. I AM MAD SCIENTIST. SO COOOOL. SONUVABITCH!
-Master: Can I help you?
-UNSPOKEN: He smiles a wide, toothy smile -- nice teeth -- and answers in Japanese. I was hoping for more of a reaction...
-Rintaro: Um, I have a question, if you don't mind.
-UNSPOKEN: I take the photocopy of Suzuha's pin out of my pocket.
-Rintaro: Does this look familiar?
-UNSPOKEN: The man stares at it for a while, then shrugs and shakes his head in the exaggerated manner typical of westerners.
-Rintaro: I want to know where it came from. Can you help me find out?
+UNSPOKEN: I thought we had a glimmer of hope...
+Itaru: "I think we should try to fix it."
+Mayuri: "Yeah! It’s a time machine, so we have plenty of time, right?"
+UNSPOKEN: Kurisu, Suzuha, and I say nothing. We know. In less than two hours, Mayuri will die. It’s already 5:30. There’s barely enough time to sneak into Radi-Kan, let alone fix Suzuha’s time machine. Maybe I should leap now to 2 PM on the 11th. Then we’ll have two full days to fix the machine.
+Rintaro: "You’re all hungry, aren’t you? You should be."
+Itaru: "What’s this all of a sudden?"
+Mayuri: "Mayushii’s hungry!"
+UNSPOKEN: As expected from a glutton. I take a 10, 000 yen bill out of my wallet.
+Rintaro: "Mayuri, Daru. I leave the shopping to you. We can come up with a plan while we eat."
+Mayuri: "Wow, Okarin! What are we going to do with all this money?"
+Rintaro: "Buy food. Lots of food. Use it all!"
+Itaru: "You just calmly hand over a 10, 000 yen bill... wow, Okarin, you make it look easy! That’s why we love you! That’s why we admire you!"
+UNSPOKEN: Mayuri and Daru leave in high spirits. I knew the 10, 000 yen bill would work.
+Rintaro: "Christina. Titor."
+Suzuha: "Titor? Is that me?"
+Rintaro: "Who else?"
+Suzuha: "Why are you calling me that now?"
+Rintaro: "Because you’re the one behind Titor’s mask."
+Suzuha: "Well, yeah, but..."
+Kurisu: "Just give up. Okabe rarely calls anyone by their name."
+Suzuha: "Oh yeah. He always calls me ’Part-Time Warrior’ for some reason."
+Rintaro: "Listen, you two. I’m going to leap to 2 PM on the 11th. After Titor explains herself again, we’ll start repairs on the time machine. Our goal is to have it working by this time today."
+Kurisu: "Is that the best plan?"
+Rintaro: "It’s better than trying to fix it when we only have two hours left. If it doesn’t work, I’ll just keep repeating the same two days."
+Suzuha: "...I’m sorry."
+Rintaro: "Titor. We’re counting on you to get us an IBN 5100. Never forget. I’m not doing this for you, and I’m not doing it for the future. My mission is to save Mayuri. Call me self-righteous if you want. However... I’m doing this my way."
+UNSPOKEN: Kurisu and Suzuha give an encouraging nod in agreement.
+Rintaro: "Good. Then let’s begin."
+Kurisu: "You’re not going to name the operation?"
+UNSPOKEN: Who cares about that? This isn’t a game. Mayuri’s life hangs in the balance.
+Kurisu: "You couldn’t find a good Norse mythology-themed name?"
+Suzuha: "Why Norse mythology?"
+Kurisu: "I don’t think there’s a deep meaning behind it. Chuunibyou patients just love Germanic names for some reason."

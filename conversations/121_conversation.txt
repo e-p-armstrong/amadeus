@@ -1,18 +1,30 @@
-Suzuha: Yeah.
-Rintaro: Did she do something to you?
-Suzuha: Not to me.
-Rintaro: What does that mean? She did something to someone else? If you want, I can go talk things over with Christina.
-Suzuha: It doesn't really matter.
-Rintaro: Maybe you're blaming the wrong person?
-Suzuha: Geez! Give it a rest!
-UNSPOKEN: She hits me with a glare.
-Suzuha: Anyway! Shouldn't you apologize to the boss instead of talking to me?
-UNSPOKEN: Heh. Actually, I'm getting cold feet. But I am Hououin Kyouma, the mad scientist who brings chaos to the world. I can't falter now. I steel myself and enter the Braun Tube Workshop. Part-Time Warrior follows me inside.
-Rintaro: I have come!
-UNSPOKEN: Mister Braun is sitting at the counter inside, slurping delivery ramen. Even when I enter, he doesn't look away from the huge 42-inch CRT. It's showing some news show's report on some celebrity divorce. Part-Time Warrior doesn't say anything. She's just going to stand there and watch him rip me a new one.
-Tennouji: Hey, Okabe. The hell are you doing up there?
-UNSPOKEN: Straight to the punch. He doesn't take his eyes off the TV, nor does he stop slurping his ramen. Yet despite his sedentary posture, he exudes extraordinary pressure. But now is not the time to falter.
-Rintaro: We're currently conducting experiments that will change the course of human history. The discoveries we make today will shape the world for centur--
-Tennouji: I don't care what games you guys play. I'm the owner of this building. Got it? And the building's really worn out. You keep shaking it like that, you could bring the whole damn thing down on our heads.
-UNSPOKEN: Better keep quiet about the dent in the floor.
-Rintaro: Heh heh heh... Veeery interesting, Mister Braun. Don't tell me you forged this building's earthquake safety certificate?
+Mayuri: "Hmm? Lemme see... Okabe is an airhe...?"
+Rintaro: "Wait! You there, assistant! What are you typing?"
+Kurisu: "You’ll see. Ready? I’m sending it."
+UNSPOKEN: Daru has already set the microwave’s timer through the X68000. There’s nothing inside, but the microwave still operates. The countdown starts from 120. This is where the timing counts. We know that we have to open the microwave door during operation, but we still don’t know when to send the mail. For now, we’ll do them simultaneously. Kurisu readies her finger on her phone’s send button. I grasp the microwave’s door handle. Mayuri seeks cover.
+Itaru: "Starting the countdown!"
+UNSPOKEN: The microwave timer soon indicates 70.
+Itaru: "3, 2, 1... zero."
+UNSPOKEN: Kurisu presses send. And at nearly the same instant, I open the microwave door.
+Kurisu: "Kya!"
+Rintaro: "MUHAHAHAHA! It’s working! It’s working, you guys!"
+UNSPOKEN: Lightning crackles in the air. The cushion underneath the PhoneWave (name subject to change) collapses under the weight. The floor starts creaking. It’s exactly like the discharge phenomenon that occurred before! The discharge lasts for about ten seconds. After it subsides, we stare at the PhoneWave (name subject to change) with bated breath. Luckily, it didn’t break through the floor.
+Kurisu: "...Did it arrive?"
+UNSPOKEN: I disconnect my phone from the PhoneWave (name subject to change) and check my mail. Kurisu stands beside me and peers at the screen. There’s an email there. Two of them, even, and they’re written in English. The timestamps are from five days ago.
+Kurisu: "Pfft..."
+UNSPOKEN: Kurisu starts laughing when she sees the mail, even though she’s the one who wrote it. The OKABE in the first one is obviously my name. But what does AIRHEAD in the second one mean? My English is shaky. Is she saying my head can fly or something? Whatever. I may not know what it means, but I do know this. My assistant is making fun of me. But that doesn’t matter right now.
+Rintaro: "Christina. Did you send two mails?"
+Kurisu: "Eh? No. I only sent one."
+Mayuri: "Mayushii saw it too. She really only sent one."
+Rintaro: "But I received two."
+Kurisu: "You’re right... I even sent it in one sentence, but it got divided."
+Rintaro: "By the way, what does this word mean?"
+Kurisu: "Why don’t you look it up?"
+UNSPOKEN: I guess she doesn’t want to answer.
+Itaru: "That reminds me. The D-Mail from before was cut up mid-sentence too."
+Rintaro: "Was it?"
+Itaru: "Yeah. Look at your history. I’m pretty sure I sent ’Okarin’s a perv’."
+Rintaro: "You’re right. This one got split too."
+Kurisu: "I wonder what’s causing it."
+Rintaro: "Maybe it’s related to the jellymen."
+Mayuri: "Um, Mayushii wants to know why it arrived five days ago."

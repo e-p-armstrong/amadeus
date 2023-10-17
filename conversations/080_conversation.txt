@@ -1,29 +1,23 @@
-UNSPOKEN: Mayuri returns from her break with a drink in hand and whispers to me.
-Mayuri: Mayushii's bad at RaiNet, so I'm really jealous.
-Rintaro: What would you do if you were good at it?
-Mayuri: Don't you know? RaiNet AccessBattlers isn't just popular in Akiba. It's a global blend!
-UNSPOKEN: Blend? So... it's coffee?
-Rintaro: I think you mean trend.
-Mayuri: Yeah, that. So if you get good at it, you're sure to be every kid's hero!
-Rintaro: Hero, huh... That doesn't sound bad.
-Mayuri: Besides, Upa is so cute♪
-UNSPOKEN: Upa, as everyone knows, is RaiNet's mascot character. These days he's more popular than that electric yellow rat.
-Rintaro: Wait. There's something strange about your argument. How does RaiNet skill relate to Upa's cuteness?
-UNSPOKEN: I guess they're related in Mayuri's mind. She must be after those limited Upa plushes they give out to participants in official tournaments. You'll never become the strongest with such impure intentions, Mayuri.
-Mayuri: Feris-chan's too busy to go to tournaments, but I think she's definitely a world-class player.
-UNSPOKEN: If that's the case, these faceless rabble participating in the Faris Cup are unworthy opponents. Just as expected, round 2 ends the same as round 1. Nobody's even close to Faris's level.
-Faris: NyanNyan. Sorry, nya, but Faris never pulls punches in RaiNet. I want someone who can go paw-to-paw with me, nyan.
-Itaru: Gwohh! Feris-tan is too strong! We can't win. It was hopeless from the get-go!
-UNSPOKEN: A thick mood of defeat has already spread across the challengers. Some of them are even on their knees in shame.
-Rintaro: Hmph! You're all pathetic.
-UNSPOKEN: I stride to the front of the crowd. I nonchalantly meet Faris's questioning gaze.
-Rintaro: But we've been saving the best for last. Daru! Allow me to show you... how a true man fights.
-Itaru: Don't tell me you've got a plan?
-Rintaro: Hmph. Indeed I do. Let's just call this Operation 'Sweet Side'.
-UNSPOKEN: A loud 'ohh!' echoes from all around me. Those cruelly defeated by Faris entrust their hopes unto me... unto us all, the eight Round 3 participants. I can feel their pain. It gives me strength. At first, we were enemies. But now, our hearts are joined against the indomitable might of Faris.
-Faris: So Kyouma thinks he's up to par, nya?
-Rintaro: The tears of the fallen twenty... shall not be in vain. Do you remember our promise, Faris? Once this match is over, you'll tell me everything you know.
-Itaru: Amazing! That crazy bastard actually means to win!
-Mayuri: Go for it, Okarin♪
-UNSPOKEN: The crowd goes wild. They place their hopes on me. I slowly step up to the table.
-Rintaro: Five minutes. That's all it will take to decide the match.
+Rintaro: "Wha, Daru!? What are you doing here!? What about SERN!?"
+Itaru: "Let me rest for one day, man. You should treat me better after two consecutive all-nighters."
+Rintaro: "SERN’s power grows stronger by the day, and here you are without a care in the world."
+Itaru: "You’re here too."
+Rintaro: "I came here for an unrelated matter and got dragged into this nonsense. I’m not interested in RaiNet or Faris’s home cooking."
+UNSPOKEN: The second those words leave my lips, I feel like everyone in the store is glaring at me. They want my blood. Come to think of it, the Faris Cup was organized by Faris, so it makes sense that only Faris fans would participate. In other words, I’m the Away Team. Tch, I’m surrounded by enemies. But this is something I must do. This is just one more step on my road to the IBN 5100. Obtain information using any means necessary. With that mission in mind, I sit next to Daru and softly whisper to him.
+Rintaro: "Daru, Operation Sigma."
+Itaru: "What’s that?"
+Rintaro: "I’m saying we should cooperate. We’ll be the strongest if we team up, right?"
+Itaru: "More like you’re gonna drag me down. You’re a noob at this game, Okarin."
+Rintaro: "But you’re my right-hand man. As long as we’re together, we have nothing to fear."
+UNSPOKEN: Daru flashes his white teeth in a grin.
+Itaru: "But I refuse. I’m in this thing to win."
+Rintaro: "And you call yourself my friend!?"
+Itaru: "In this tournament, we’re enemies."
+Rintaro: "You traitor! Why do you think I sent you into this cafe as a spy?"
+Itaru: "But you didn’t send me. I’m Faris-tan’s biggest fan. I check her blog every day and--"
+UNSPOKEN: Suddenly the cafe’s lights dim. A song starts playing. A somewhat solemn melody, with sexy and powerful female vocals. I’ve heard this song a lot recently. Pretty sure it’s the theme song to RaiNet Kakeru.
+Faris: "Hi everyone♪ Thanks for waiting, nyan! The afternoon Faris Cup is about to begin nya!"
+UNSPOKEN: Faris appears in a spotlight. The previously peaceful audience instantly explodes in excitement. Everyone stands up and shouts in unison with their fists raised skyward.
+Faris: "Thank you, nya!"
+UNSPOKEN: Faris responds to the shouts of joy with a wave of her hand, then clears her throat.
+Faris: "The rules are simple. Faris will face off against each one of you nya. Faris will even go paw-to-paw with ten people at once, nyan. If you beat Faris, you’ll get her home cooking as a reward, nya. Now then, everyone! Enjoy the contest!"

@@ -1,16 +1,23 @@
-UNSPOKEN: I silently squeeze Moeka's hand. Moeka doesn't squeeze back. She no longer has the strength.
-Moeka: I had... nothing... except FB... The only... place... I belonged... I would... kill... to protect it... You're right... to hate me... I'm... so...rry...
-Rintaro: I forgive you.
-UNSPOKEN: The words come to my lips unbidden. But as soon as I speak them, I understand why. Moeka does not kill Mayuri on this worldline. Even if she could, it would not happen until tomorrow. This Moeka, the one dying in my arms, is innocent. And yet, even now, she says, I'm sorry. How can I not answer her?
-Rintaro: I forgive you.
-UNSPOKEN: Perhaps the words are meaningless. Forgiving Moeka will not cure Nae's hate. Neither will Moeka's death. I don't even know if I truly mean what I'm saying. But still, I remember what Kurisu said. My goal is to save Mayuri, not avenge her. So here, now...
-Rintaro: I forgive you.
-UNSPOKEN: The anguish seems to fade from Moeka's face. Her eyes slowly close. A tear slides down Moeka's cheek. Her hand slips from my grasp. She is no longer breathing. Biting my lip, I lay Moeka to rest on the floor. I place her purple phone in her hands.
-Kurisu: ...Okabe.
-UNSPOKEN: Kurisu calls to me in a weak voice.
-Kurisu: I think you should send the D-Mail. Everything's ready at the lab.
-Rintaro: Yeah...
-UNSPOKEN: Moeka and FB are gone, but Mayuri's fate remains unchanged. The universe still demands her death.
-Rintaro: Hey, Christina. When I send the D-Mail and change divergence, do you think Moeka's fate will change?
-Kurisu: Based on the attractor field model you spoke of... She'll be more likely to live if divergence exceeds 1%. ...Sorry. I wish I knew what to say.
-Rintaro: Don't worry about it.
+Rintaro: "You’ve seen too many Hollywood movies."
+Kurisu: "You’re up against an agent of SERN. Play nice and you could end up dead. Don’t hesitate. Remember you’re doing this to save Mayuri. I know you’re pretty weak and scrawny, but you should be able to handle her in her current state."
+UNSPOKEN: Gee, thanks. At least she’s not beating around the bush. Suddenly, she lowers her voice.
+Kurisu: "You might think I’m a monster for saying this... not that I care what you think, but... Kill her if you have to."
+Rintaro: "You’re a monster. But you’re not a hypocrite, and that’s what I love about you, Christina."
+Kurisu: "L-love!? Uh..."
+UNSPOKEN: What’s the matter with her now?
+Rintaro: "I mean it. I wish my conviction were as strong as yours."
+Kurisu: "...Well, thanks."
+Rintaro: "But that’s not all, right? There’s a reason you’re willing to suggest murder as an option. How did you reach that conclusion?"
+Kurisu: "Good, you’re still thinking. I can’t be certain whether your story is true, and I don’t quite understand this attractor field hypothesis. But based on what you told me... If this Kiryu woman commits suicide four days from now, then that means her death flag is already active. In other words, this worldline has approved her death. On previous worldlines where that wasn’t the case, you probably couldn’t have killed her even if you tried. Something would have happened to prevent it. Or possibly, killing her would have caused a dramatic shift in worldline divergence. But on this specific worldline, her death is already certain. As you’ve experienced with Mayuri’s death, the result is what matters, not the process. I believe the same applies to Kiryu. It doesn’t matter how she dies."
+UNSPOKEN: In other words, I can kill her instead of letting her commit suicide?
+Rintaro: "She’s already going to die, so that makes it okay. That the kind of argument a murderer would make."
+Kurisu: "Don’t be a hypocrite. We’re not talking about right and wrong here, Okabe."
+UNSPOKEN: She’s unforgiving as always, but it actually feels nice to speak frankly like this.
+Rintaro: "But what about the law? Even if fate forgives me, society won’t."
+Kurisu: "As long as you have the Time Leap Machine, you can undo anything, even murder. The result will be that you gained the necessary information without killing anybody."
+Rintaro: "I understand."
+Kurisu: "...Phew. Just remember one thing. You’re responsible for what you do. ...I guess that’s quite a thing for me to say, huh? After telling you to kill her."
+Rintaro: "It’s fine. Your advice was truly becoming of a mad scientist."
+Kurisu: "Get it done, Okabe. Bye."
+UNSPOKEN: She hangs up without another word. Strangely, I find Kurisu’s harsh tone encouraging.
+Rintaro: "Who does she think she is, a general?"

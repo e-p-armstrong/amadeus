@@ -1,43 +1,37 @@
-Rintaro: It was just a joke. Let it die.
-Suzuha: Kurigohan and Kamehameha... so you're the one who kept picking fights with me on the internet. Makes sense.
-Kurisu: I thought you wanted an open discussion.
-Suzuha: Sure. You were kind of annoying, though.
-Kurisu: Hehehe...
-Suzuha: Ahaha!
-UNSPOKEN: Are these two still fighting?
-Rintaro: By the way, it may shock you to learn that I am the poster known as Hououin Kyou--
-Kurisu & Suzuha: I know.
-UNSPOKEN: Gh, the same reaction again! Why do they only agree when it's at my expense!? I clear my throat and change the subject.
-Rintaro: So, what did you want to talk about? The Time Leap Machine?
-Kurisu: I think you probably forgot, so I wanted to make sure just in case. Have you been looking for the lifter? You haven't, have you?
-UNSPOKEN: Oh, right. We hadn't discovered what it was at this point in time.
-Rintaro: I already know. It's the 42-inch CRT downstairs.
-Kurisu: R-really? What's your proof?
-Rintaro: I've been here before, remember?
-Kurisu: I see...
-Rintaro: ...Sorry for sticking you with this job.
-Kurisu: What? Don't apologize. It's creepy.
-Rintaro: I know you're not a fan of time travel research. But here you are building a time machine. I was just worried that maybe you were feeling conflicted.
-Kurisu: How rude.
-UNSPOKEN: Kurisu's scowls.
-Kurisu: I'm sure I've said this before, but I've always accepted time travel as a theory. I just don't trust people who claim it can be done despite how unrealistic it is.
-UNSPOKEN: She sighs, then looks me over from head to toe.
-Kurisu: Besides, I can hardly deny it with evidence staring me in the face. Though I still don't like the idea of being called the mother of the time machine.
-UNSPOKEN: Suzuha shrugs at this.
-Kurisu: Anyway. If you're apologizing, that must mean you helped out the first time.
-Rintaro: The first time?
-Kurisu: Before you started time leaping. You helped me build the machine, didn't you?
-Rintaro: Yeah. Daru and I helped.
-Kurisu: Then don't worry about it. I wouldn't want you to have to do it all over again. And right now, it's more important to repair Amane-san's time machine and search for her father.
-Suzuha: ...Sorry.
-Kurisu: Don't you apologize now. It's weird. Welp, back to work. I should be able to get a lot done now that I know about the lifter.
-UNSPOKEN: Kurisu waves and vanishes into the development room. I'd better not disturb her. The time limit is approaching. What else can I do?
-Itaru: Hoihoi.
-Rintaro: It's me. Report.
-Itaru: You know, it's distracting as hell when you talk like that.
-Rintaro: Enough about you. Report the status of the repairs.
-Itaru: I'm turning into a prune here! Hey, at least give me some reaction. Anyway, I think I figured out what it needs.
-Rintaro: Really!?
-Itaru: Pretty much.
-Rintaro: Should I bring reinforcements?
-Itaru: Mm, yeah, I guess. Bring Amane-shi with you if you can. Alone in the heat of the vacant Radi-Kan rooftop, the two of us can forget our shame and take off our clothes. Haah haah...
+UNSPOKEN: Kurisu emerges from the development room to greet us. She’s alone.
+Kurisu: "From the looks on your faces, I guess you didn’t find anything."
+Rintaro: "Where’s Daru?"
+Kurisu: "He hasn’t come back yet. It’s already dark, so maybe he went straight home?"
+UNSPOKEN: It’s too dark to work at Radi-Kan now. We can’t use lights, because that would be too conspicuous to the people below.  Mayuri isn’t around. Is she making any progress in the search for Suzuha’s father?
+Suzuha: "I feel bad. There’s no time for this..."
+Rintaro: "It’s not for you. We’re doing it to save Mayuri."
+Suzuha: "...Yeah."
+UNSPOKEN: I start up Daru’s computer and search the net for communities of people who collect unique pins. I’ll investigate tomorrow based on the information I find. There’s a pin collecting group on a site called FrePara, where everyone shows off their collections. I post there, asking for information. I’m sleeping on the couch when a loud alarm rings in my ears.
+Rintaro: "Is it SERN!?"
+UNSPOKEN: I jump up and see Kurisu and Suzuha. Kurisu is holding her phone. That’s the source of the sound.
+Kurisu: "Good morning."
+UNSPOKEN: Her sour expression says it’s not good at all. I wish she’d put herself in my shoes and see what it’s like to be woken up suddenly like that. I check the time on my phone. It’s just before 7 AM.
+Rintaro: "...You came to wake me up? Thanks."
+Kurisu: "I didn’t do it for you."
+Suzuha: "I asked her to wake you up, Okabe Rintaro. There’s something I want to show you."
+UNSPOKEN: I realize that there’s a strange object sitting on the table in front of me.
+Rintaro: "...What’s this?"
+Suzuha: "A divergence meter. The numbers indicate the divergence value of the current worldline."
+UNSPOKEN: The meter displays 0. 337187%.
+Suzuha: "Divergence is measured from my original worldline, which corresponds to zero."
+Rintaro: "You made this?"
+Suzuha: "No. I brought it with me from 2036."
+Rintaro: "These are Nixie tubes, right? Whoever made this has taste. I’d happily dub it Future Gadget No. 9."
+Kurisu: "How exactly does it work? It shouldn’t be possible to measure changes like that."
+UNSPOKEN: Suzuha shrugs.
+Suzuha: "I don’t know either."
+Rintaro: "You don’t know!?"
+Suzuha: "Can you guess who made it?"
+UNSPOKEN: How should I know?
+Suzuha: "You did, Okabe Rintaro."
+Rintaro: "Huh?"
+Suzuha: "You made it, umm... 11 years from now. It apparently works the same way your special power does."
+Rintaro: "Huh..."
+Kurisu: "So this meter lets other people check worldline divergence?"
+Suzuha: "I wish. I’m pretty sure only Okabe Rintaro would notice if the number changed."
+Kurisu: "What? Then there’s no point. Make something useful for once, Okabe."

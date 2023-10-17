@@ -1,27 +1,34 @@
-Mayuri: It became a gelbana...
-Rintaro: Heh heh heh... muhahaha... MUHAHAHAHA! Just as I suspected, the critical variable was time!
-UNSPOKEN: I was a little anxious about the result, but it all worked out. I outwitted the impertinent genius girl. Now my position as symbol of the lab is secure!
-Kurisu: W-way to go, Okabe. It was so simple, I didn't notice it.
-UNSPOKEN: Kurisu says with a slightly sulky expression.
-Rintaro: Your praise does you credit, Christina, but I know you're frustrated you didn't think of it first. Muhahahaha!
-Kurisu: Anyway, let's see if we can send another D-Mail.
-UNSPOKEN: Kurisu ignores my proud laughter and excitedly starts typing out a mail.
-Rintaro: Guh... I feel like my authority has been on the decline since that girl showed up.
-Itaru: It's cool, man. You never had any to begin with.
-Kurisu: Help me, you two! Okabe, I'm sending an email to your phone.
-UNSPOKEN: When did I become her assistant? I grind my teeth in frustration, but I do as I'm told and insert my phone into the PhoneWave (name subject to change)'s slot.
-Mayuri: What are you gonna send, Chris-chan?
-UNSPOKEN: Mayuri presses up against Kurisu and sneaks a peek at Kurisu's phone.
-Kurisu: It doesn't matter what it says. What matters is whether we can send it or not.
-Mayuri: Hmm? Lemme see... Okabe is an airhe...?
-Rintaro: Wait! You there, assistant! What are you typing?
-Kurisu: You'll see. Ready? I'm sending it.
-UNSPOKEN: Daru has already set the microwave's timer through the X68000. There's nothing inside, but the microwave still operates. The countdown starts from 120. This is where the timing counts. We know that we have to open the microwave door during operation, but we still don't know when to send the mail. For now, we'll do them simultaneously. Kurisu readies her finger on her phone's send button. I grasp the microwave's door handle. Mayuri seeks cover.
-Itaru: Starting the countdown!
-UNSPOKEN: The microwave timer soon indicates 70.
-Itaru: 3, 2, 1... zero.
-UNSPOKEN: Kurisu presses send. And at nearly the same instant, I open the microwave door.
-Kurisu: Kya!
-Rintaro: MUHAHAHAHA! It's working! It's working, you guys!
-UNSPOKEN: Lightning crackles in the air. The cushion underneath the PhoneWave (name subject to change) collapses under the weight. The floor starts creaking. It's exactly like the discharge phenomenon that occurred before! The discharge lasts for about ten seconds. After it subsides, we stare at the PhoneWave (name subject to change) with bated breath. Luckily, it didn't break through the floor.
-Kurisu: ...Did it arrive?
+Kurisu: "In the first place, the emails we’re sending to the past are digital data, not physical objects. That’s a definite difference from SERN’s time machine."
+Rintaro: "No, we’re doing the same thing. Who’s to say that digital data can’t go through a singularity? I think it would be easier than sending something human-sized."
+Kurisu: "Well... I suppose that’s true."
+Mayuri: "You know, the way you guys talk about email... It makes me think of folding a letter into a paper airplane and making it go zoom, you know?"
+Rintaro: "It’s more like a beam of light. Like optical digital data. By the way, it’s a pain to keep saying ’email sent to the past’. Let’s give it a proper name."
+Kurisu: "I’ve got a bad feeling about this."
+Rintaro: "What’s that supposed to mean? You dare mock Hououin Kyouma!?"
+Kurisu: "You just want to give it some oddball name, don’t you?"
+Rintaro: "Hmph! How rude. Heed me! I shall name the phenomenon of ’email sent to the past’ as follows. The name shall be... Nostalgia Drive!"
+Kurisu: "Confusing. Rejected."
+Rintaro: "Why you! Who gave you the authority to reject my ideas!? You’re just an assistant!"
+Kurisu: "Then why don’t we take a vote? All in favor of Nostalgia Drive."
+UNSPOKEN: My hand shoots into the air. But nobody follows suit.
+Rintaro: "Have you forsaken me, Daru!? Mayuri!?"
+Mayuri: "Chris-chan’s right. It’s too hard for Mayushii to remember."
+Itaru: "It’s way too chuuni, man."
+UNSPOKEN: Traitors!
+Rintaro: "Fine! Then let’s hear alternatives! Don’t tell me you rejected my idea without having any bright ideas of your own!?"
+Kurisu: "I think it needs to be something easy to understand. It’s an email that regresses through time, so how about Retromail?"
+Mayuri: "What does ’retro’ mean?"
+UNSPOKEN: Mayuri is busy eating strawberry jelly. How can she eat that stuff after hearing about jellymen?
+Rintaro: "Sounds like you have your answer, Christina. You said it should be easy to understand, but it wasn’t easy to understand at all, was it!?"
+Kurisu: "B-but that’s because Mayuri-san is... Uh, n-never mind..."
+Rintaro: "Were you about to say ’because Mayuri’s dumb’?"
+Kurisu: "N-no!"
+Mayuri: "Eh? Chris-chan, do you think Mayushii’s dumb?"
+Kurisu: "I don’t! I promise I don’t! Okay?"
+UNSPOKEN: Somehow, Kurisu manages to glare at me even while soothing Mayuri.
+Itaru: "I vote ’The Mail Who Leapt through Time’."
+Rintaro: "That’s too stiff. It’s hard to say."
+Itaru: "It’s better than your ’Nostalagisticexpialidocious’ nonsense! And mine makes a movie title referen--"
+Rintaro: "That’s not cool. It needs to be cool."
+Itaru: "You’re rejecting it for that?"
+Mayuri: "Tutturu♪ Mayushii has an idea! How about ’Back to the Mail’? I took a movie title, and changed a word to mail!"

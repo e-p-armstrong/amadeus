@@ -1,31 +1,18 @@
-Itaru: You don't have to put it like that. Remember, there are good lies and bad lies: bad lies hurt people, good lies save them!
-Rintaro: What eroge did you get that from?
-Itaru: CLADDAN... and it's not an eroge, it's a visual novel that teaches you the meaning of life, so shut up! So... should I call off Operation Fake Titor?
-Rintaro: Do you really think that will make Suzuha happy?
-UNSPOKEN: Daru's expression suddenly turns sad.
-Itaru: Amane-shi told me not to tell anyone, but... I guess I'd better tell you.
-UNSPOKEN: He's got a big mouth, as usual. Still, he seems dead serious, so I'd better hear him out.
-Itaru: I heard this from Amane-shi when we were discussing the repairs. Her time machine... can only leap to the past.
-Rintaro: ...What?
-UNSPOKEN: At first, I don't understand what he means.
-Rintaro: Nonsense. Titor's time machine could travel both ways.
-Itaru: Did you actually see it?
-Rintaro: Well, no...
-Itaru: Besides, when you say Titor, you mean the one who appeared in 2000, don't you? I don't know anything about that Titor.
-UNSPOKEN: That's right. The Titor I know and Suzuha aren't necessarily the same person. Although their time machines are similar, there are significant differences. For example, one looks like a Chevy, and the other looks like a satellite.
-Rintaro: So... wait.
-Itaru: Once she leaves, she can't come back.
-Rintaro: You're saying that if she goes to 1975, she can't return to 2010?
-Itaru: Not without living 35 years in real time.
-UNSPOKEN: Is he serious?
-Rintaro: Does that mean Suzuha's time machine can never return to 2036?
-Itaru: Didn't I just say that?
-Rintaro: Then it's defective!
-Itaru: Right. She said the time machine was incomplete.
-UNSPOKEN: Incomplete? Incomplete!?
-Itaru: According to Amane-shi, her old man built it in secret by reverse-engineering SERN technology. But SERN killed him before he could complete it. Amane-shi insists that it's fine as long as she can leap to the past, but...
-Rintaro: Are you sure about this?
-Itaru: She said so herself. I don't think she was lying. So if she doesn't meet her old man before the time machine is repaired... She might never get another chance.
-UNSPOKEN: So that's why he was trying to make a copy of that pin. As evidence that Suzuha's father was here.
-Rintaro: But making a fake version of her father's pin isn't going to solve anything. A lie is a lie.
-Itaru: But if we don't get caught...
+Suzuha: "...I said we never met, remember?"
+Rintaro: "Never?"
+Suzuha: "Never. You were... killed by SERN. In 2025."
+UNSPOKEN: I was killed... by the same people who killed Mayuri. They had no reservations about murdering an innocent girl. I doubt they would hesitate to kill a terrorist.
+Suzuha: "Maybe I should have told you sooner. Understand? If you don’t change the future, you’re going to die in 15 years. Shiina Mayuri will die. You will die. Makise Kurisu will be a slave to SERN. It ends badly for every lab mem."
+Rintaro: "What about Daru?"
+Suzuha: "Umm, I don’t remember hearing about him. I have heard legends of a ’wizard-class hacker,’ though. Though I don’t understand what ’wizard-class’ means in the first place."
+UNSPOKEN: Wizard-class. I coined that term. I can imagine Daru slowly insinuating himself into every corner of the internet, until he becomes a godlike virtual presence that not even SERN can comprehend.
+Suzuha: "Anyway, I don’t want that to happen to you guys. That’s one more reason I need to find an IBN 5100 and change the future. Until I came to this time, you guys were just stories, history. But now... you’re my friends. I want to save you."
+Rintaro: "...Appreciated. You are a lab mem, now and forevermore."
+Suzuha: "Ahaha! Thanks."
+UNSPOKEN: I already told Kurisu that I was confident in her ability to complete the machine on time. But it occurs to me that I forgot to tell her about the 42-inch CRT. There, that should do it. I send a reply and decide to keep searching for the pin with Suzuha just a bit longer. Time is quickly running out. Is there anything more that we can do? It’s early evening, but the roof of Radi-Kan is still hotter than hell. When I provide Daru with the refreshing gift of Dr P, a frown appears on his sweaty face.
+Itaru: "You’re supposed to give me an ice cold zero calorie cola. Common sense, man..."
+UNSPOKEN: I forgot he’s a cola guy. No sense letting it go to waste. I drink the Dr P myself. Daru and Suzuha start discussing the time machine. Mayuri and I watch from a short distance away.
+Mayuri: "Hey, Okarin. Isn’t it amazing that the satellite was a time machine?"
+Rintaro: "Yeah, I guess so."
+UNSPOKEN: I thought that Titor’s time machine was a car -- a 1970s Chevy. It never even occurred to me to suspect the satellite. I should know better than to take anything for granted. In retrospect, the satellite was suspicious from the start. Not only had it appeared out of nowhere, but Titor only starting posting afterwards.  I’m disappointed in myself for not realizing the connection.
+Mayuri: "I’m glad Suzu-san wasn’t hurt in the crash."

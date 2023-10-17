@@ -1,21 +1,19 @@
-UNSPOKEN: I barge into the room. The hour of Moeka's death passes with no sign of Nae. The worldline has changed. Moeka's right in front of me, but she sends me mail. It feels like forever since we last conversed like this.
-Rintaro: What do you mean? FB told you to stop...
-Moeka: ...!
-UNSPOKEN: So FB's still alive. I feel relief, but also fear. I mustn't forget that he is my enemy. For now, however, I'm more interested in what Moeka just said. FB canceled her mission to retrieve the IBN 5100?
-Tennouji: Doing your duty sets you up for disposal. So we're more like cattle than dogs.
-UNSPOKEN: I recall his last words. Perhaps he canceled her mission so that they wouldn't be eliminated. If that's the truth, then maybe he really was trying to save Moeka.
-Nae: Live in fear and regret, Okabe Rintaro. Until we meet again in fifteen years.
-UNSPOKEN: I wonder what happened to Nae. I can't get that childish, yet hate-filled voice out of my head. On that worldline, I turned an innocent girl into a murderer. I bite my lip hard, hard enough to draw blood. I won't fear you, Nae. Nor will I repent. That worldline has already been undone. But... how will things turn out on this new worldline? No, there's no point thinking about it. If the plan worked, the IBN 5100 should already be back in my possession. And if that's the case... Then there's no need to stay on this worldline, either. On the way back to the lab, I stop by the Braun Tube Workshop and peek in through the window. The 42-inch CRT is powered on, and Tennouji -- FB -- is lounging in front of it, reading the sports pages. FB is still alive. His daughter, Nae, has no reason to hate anyone now. I climb the stairs to the lab. There's nobody there but Kurisu.
-Rintaro: Have you been to Kiryu Moeka's apartment?
-Kurisu: ...Huh?
-UNSPOKEN: Kurisu pauses her @channel browsing session to look at me in confusion.
-Kurisu: Moeka-san's apartment? Never.
-Rintaro: Oh, okay.
-Kurisu: Why do you ask?
-Rintaro: It doesn't matter. Just wondering.
-UNSPOKEN: I cut across the lounge and head straight for the development room. In the middle of that room sits the Time Leap Machine. After a glance at the Time Leap Machine, I scan the shelves.
-Rintaro: It's here!
-UNSPOKEN: A large, familiar cardboard box. I was right. Inside the box is the IBN 5100, the legendary retro PC stolen from me by a twist of fate. At last, it has returned! The long battle is finally over. I did it. We can save Mayuri!
-Rintaro: Daru! Daru! Where's my super hacka!?
-UNSPOKEN: I can't contain my excitement. My heart is beating like a jackhammer.
-Kurisu: Uh, he's not here. He went to ComiMa, remember?
+Rintaro: "No way..."
+UNSPOKEN: She lied to me! Moeka’s D-Mail wasn’t about her phone! That explains how it affected the IBN 5100. It also explains why my cancellation D-Mails aren’t working.
+Rintaro: "That sneaky little...!"
+UNSPOKEN: The door violently shakes behind my back. It’s much stronger than before. She must be ramming something hard and heavy against the door. I quickly move away from the door. The door shakes again. I can see the frame starting to warp.
+Rintaro: "She’s crazy!"
+UNSPOKEN: I suppose I should be thankful she doesn’t have a gun, but honestly, this is terrifying enough. It chills my blood to think of what her face must look like now. I’ve never been the target of such single-minded obsession before. But unfortunately, I can’t run away. I need to face Moeka again and wring the information out of her. Both Faris and Lukako remembered their D-Mails. With prodding, Moeka will remember too. I need that information. Crap... I don’t want to go in there. My teeth are chattering. This is pathetic. I thought I’d won when I snatched her phone! But now my advantage is gone.
+Kurisu: "Okabe! Okabe!? Answer me!"
+Rintaro: "...Christina."
+Kurisu: "What’s that pounding? Are you okay?"
+Rintaro: "Moeka’s D-Mail wasn’t about a model exchange."
+Kurisu: "What do you mean!?"
+Rintaro: "She must have changed the text right before we sent it. That’s why the cancellation mails aren’t working."
+Kurisu: "Did you check her history? It might still be there."
+Rintaro: "Her arrival history..."
+UNSPOKEN: Of course! Even if it’s not in her sent history, it should still be in the arrival history. I glare at the purple phone in my hand. It’s a good thing Moeka didn’t change phones. Now I know exactly where the D-Mail went.
+Rintaro: "I should have thought of that. Checking now!"
+UNSPOKEN: For a second there, I thought it would be easy. I should have known better. Moeka is not a casual phone user. Her mailbox has literally hundreds of entries over the last week, almost all from FB. Some of my mails are sprinkled in. I don’t have time to search through each of these mails, even just the subject lines. Not to mention the pounding on the door is freaking me out.
+Rintaro: "...Christina, I seem to be in a spot of trouble. If I fail, I’m leaving the rest to you."
+Kurisu: "Don’t be ridiculous! If you’re in trouble, then get out of--"

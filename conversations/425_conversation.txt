@@ -1,27 +1,15 @@
-Rintaro: You're... from a different future?
-Suzuha: A different future?
-Rintaro: What's going on in 2036? What about SERN's dystopia?
-Suzuha: SERN? What's that?
-UNSPOKEN: Suzuha frowns. She doesn't know about SERN? That settles it. She's definitely not the Suzuha I know.
-Rintaro: You said something about World War Three?
-Suzuha: Right. In my time, humanity has been reduced to less than a billion people.
-Itaru: Less than a billion? But the population now is like 6. 7 billion. Are you saying 5. 7 billion people died!?
-Suzuha: That's what happens when you use nuclear weapons. It was just like the Cold War. Only this time, they were fighting over time travel technology. It started with a race between the EU and Russia. Then the Americans got involved, and things really went to hell. They were all desperate to stop anyone else from being first to build a time machine. Whoever controls time controls the world, right?
-UNSPOKEN: Time travel again... It has the power to grant your dreams, and at the same time, destroy everything you love. I know that better than anyone.
-Suzuha: By 2036, the war's over, but it left the Earth in ruins. We won't survive for long, not as things are.
-UNSPOKEN: It's unbelievable. In the future of the Alpha worldline, SERN used their time machine to fashion a dystopia where no one could oppose their rule. Suzuha traveled to the past to change that. She showed me how to escape that convergence. The result is this, the Beta worldline. Here, SERN fails to complete its time machine. But instead, 5. 7 billion people die in the fires of nuclear war.
-Rintaro: This can't be happening...
-UNSPOKEN: My legs fold beneath me. I sink to my knees. 
-Mayuri: Are you okay?
-UNSPOKEN: Mayuri kneels beside me and gently rubs my back. But I'm too stunned to respond to her kindness. I glare at Suzuha. Though I know it's absurd, part of me blames her.
-Rintaro: Why is this happening!? You lied to me! You said a peaceful future was waiting for us on the Beta worldline!
-UNSPOKEN: We saved Mayuri. We changed the future. And now, after everything we did, Suzuha appears before me once again to say that it wasn't enough!?
-Suzuha: We're at a point of great divergence, when--
-Rintaro: I know that already!
-Suzuha: Then you understand! 5. 7 billion people are going to die, and the survivors will be left with no future! No hope! I came here to prevent that. And to do that, I need your help, Uncle Okari--
-Rintaro: I refuse!
-Suzuha: --!
-UNSPOKEN: I reject her plea outright. Suzuha looks hurt, betrayed, like an abandoned puppy. How dare she look at me that way? I borrow Mayuri's shoulder and struggle back to my feet.
-Rintaro: I came here from the Alpha worldline. I had to sacrifice the girl I loved to make it this far!
-UNSPOKEN: I can't go back. Not to the worldline where Mayuri dies.
-Rintaro: I don't care if 5. 7 billion people die! I won't let her... I won't let Kurisu's sacrifice be in vain!
+UNSPOKEN: I turn around in surprise, and there I see Kurisu standing in the doorway. I thought she never wanted to see me again. Why is she here?
+Rintaro: "Why..."
+UNSPOKEN: Kurisu ignores my question and fixes me with her usual glare.
+Kurisu: "Time leaping is just running away."
+UNSPOKEN: You don’t have to tell me. I already know. I know all too well. In the end, all I’m doing is running away. Running from responsibility. Running from the decision. If I had known I would have to make this choice, then I would have refused Suzuha when she entrusted me with her mission.
+Rintaro: "I’ve hurt people... lots of people... just to save Mayuri. And yet, I don’t even feel guilty anymore. I feel like I’m losing my humanity."
+Kurisu: "Then why are you hesitating now?"
+Rintaro: "...Maybe because my insurance, the Time Leap Machine, isn’t effective. Or maybe I just haven’t mastered it yet. Maybe I haven’t tapped into its full potential."
+Kurisu: "Running only makes it hurt more."
+UNSPOKEN: She suddenly looks away. Then she leans against the wall and smiles bitterly.
+Kurisu: "I should know."
+UNSPOKEN: Is Kurisu running too? From what?
+Kurisu: "Look at yourself, Okabe. You look like you’ve aged a decade. Your heart can’t take it anymore. You don’t need to beat yourself up like this. Just accept the truth. Like I said, you can’t stay here. Go to the Beta worldline. Go to the world where Mayuri doesn’t die. Not just for your sake, but for mine as well."
+UNSPOKEN: She’s right. I have no other options left. No more D-Mails. No more time leaps. There’s no perfect world where both Kurisu and Mayuri live. Maybe there are things I have yet to try, but I’m certain that all of them will end in vain. As long as I stay on this worldline, Mayuri will die. And if I go to the Beta worldline, Kurisu will die. We’ll never be able to talk like this again. It’s only been twenty days since we met, and yet... Memories of Kurisu flash before my eyes.
+Kurisu: "Thank you. I know you’re hurting for me."

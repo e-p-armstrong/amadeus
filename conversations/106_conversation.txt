@@ -1,28 +1,24 @@
-Kurisu: Umm... 'Stage 1: Construction and implementation of the Large Hadron Collider.' 'Over the past half century, beginning with the Proton Synchrotron completed in 1959, particle accelerator technology has reached the point where standardized results may be obtained.' 'Stage 2: Implementation and testing of lifter technology.' 'The formation of more than two artificial localized singularities, as well as the formation of Kerr black holes, will become possible when this stage is complete.' 'In order to hide the program's true goal, it is necessary to intentionally leak misinformation regarding the formation of black holes.' 'Stage 3: Animal experimentation.' 'Stage 4...
-UNSPOKEN: Kurisu stops talking. She takes a deep breath, then finally mutters angrily.
-Kurisu: ...Human experimentation.
-Itaru: ...For real?
-UNSPOKEN: A chill runs up my spine. I admit it. Some part of me still saw this as a game. I was elated to discover that an institution as respected as SERN was actually doing time travel research. After all, we ourselves had succeeded -- whether by chance or design -- in producing our own time travel phenomenon. I thought that maybe we could beat SERN to the first functional time machine design. And wouldn't that be something? But now... Just like I said to Kurisu, the world is full of lies. Morals are meaningless. Was it really okay for us to get involved in this?
-Itaru: H-hey, Okarin. Remember when we hacked in before? I'm pretty sure that email we read said this... Result: Error. Human is dead, mismatch. For details, see the Jellyman's Report...
-UNSPOKEN: Someone... died?
-Itaru: Could that have something to do with... human experimentation?
-UNSPOKEN: My throat goes dry. Cold sweat seeps through my brow. And it's not because of the heat. Kurisu and Daru are waiting for me to speak. Are they entrusting the decision to me? True, but can I live with myself if I ignore this conspiracy?
-Rintaro: Daru... look up the Jellyman's Report.
-Itaru: Really?
-Rintaro: Really. But first, Christina.
-Kurisu: Eh?
-Rintaro: You should leave.
-Kurisu: Why are you suddenly--
-Rintaro: The Jellyman's Report... it just gives me a bad feeling. Once we see it, we can no longer return to our normal lives. You're a genius. You're already published, for crying out loud. There's no need to throw away your promising future.
-Kurisu: Are you worried about me?
-Rintaro: Of course I am. You are my assistant, after all.
-Kurisu: ...I keep telling you, I'm not your assistant. Thanks for your concern. But I'm not leaving. We need to expose this truth to the world.
-Rintaro: No! It's too dangerous.
-Kurisu: You chickening out?
-Rintaro: We're powerless against this conspiracy. One wrong move, and they'll have us erased.
-Kurisu: But still--
-Rintaro: This isn't a game! I'm not joking here.
-Kurisu: ...Fine. I won't tell anyone.
-UNSPOKEN: Though her expression shows she still doesn't agree, she finally submits.
-Kurisu: But I'm not leaving. It'll keep me awake at night.
-Rintaro: You won't regret this?
+UNSPOKEN: So maybe that’s why the IBN 5100 was central to SERN’s operations. The years match, after all. It can’t be something as stupidly simple as that. There has to be a worldwide conspiracy involved. Maybe IBN hid their proprietary programming language in the IBN 5100 for the sole purpose of its use in SERN’s Z Program. IBN and SERN are co-conspirators. And both of them are being manipulated from the shadows by an even larger organization. Yeah, that’s way more interesting.
+Itaru: "Ugh, a JPEG? Come on! I can’t copypaste this."
+UNSPOKEN: Daru mutters some complaint.
+Kurisu: "Hmmm, the text isn’t in French..."
+UNSPOKEN: What’s on-screen right now looks like English.
+Itaru: "Actually, there’s French, Dutch, and German versions too. The content looks the same, though."
+Kurisu: "...’SERN’s purpose heading into the 21st Century shall be to establish control over space and time, thereby to enable the destruction of extant history and the creation of an everlasting Utopia, ruled by the Committee, that encompasses the entirety of past and future events.’"
+UNSPOKEN: Kurisu suddenly starts speaking at a stilted clip.
+Itaru: "Oh, right! Makise-shi can do English!"
+Rintaro: "Way to go, assistant! Your study abroad in America was all for the sake of today, wasn’t it!?"
+Kurisu: "Of course not. Stop assigning people roles in your fantasy world."
+UNSPOKEN: Daru relinquishes his chair, allowing Kurisu to sit in front of the computer.
+Kurisu: "’In order to maintain this project’s secrecy, and to allow its name to remain relevant in changing circumstances, we designate it the Z Program.’ ’Z, like the Greek Omega or the Cyrillic Ya.’ ’It is forbidden to assign any meaning to this name or to seek in it significance beyond the project itself. Negative returns are predicted should this edict be violated.’ ’The Z Program is a top secret project spanning international borders. Like electromagnetic wave research, it has been approved for top priority funding by the Committee of 300.’ ’Henceforth, all other research performed by SERN shall function to keep the Z Program’s existence secret.’"
+UNSPOKEN: I guess Kurisu’s reading the preface to a document. It’s getting rather dull.
+Rintaro: "Is there anything specific about what exactly the Z Program is?"
+UNSPOKEN: Daru types on the keyboard from the side, bringing up another window.
+Kurisu: "Hmm... ah... here. This... can’t be!"
+UNSPOKEN: Kurisu bends forward and stares wide-eyed at the words on the screen.
+Rintaro: "What is it?"
+Kurisu: "’The purpose of the Z Program is to perform time-space displacement experiments by means of high-energy proton-proton collisions.’"
+UNSPOKEN: Time-space displacement experiments.
+Rintaro: "Time travel!"
+UNSPOKEN: I have to struggle to keep from shouting. I quickly run over to the window and close it. It might make it hotter inside, but it would be worse if people outside overheard us.
+Kurisu: "No way... it was true? You’re telling me they’ve been deceiving the world for nearly 40 years?"

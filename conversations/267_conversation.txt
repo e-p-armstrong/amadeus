@@ -1,27 +1,23 @@
-Mayuri: Okarin♪
-UNSPOKEN: Mayuri waves her hand happily. Lukako bows her head.
-Mayuri: Are you here to back me up?
-Rintaro: Back you up?
-Mayuri: To help convince Luka-chan to wear my costume!
-Luka: Mayuri-chan, I really can't. It's too embarrassing...
-Mayuri: Hey, Okarin. Can you think of some way to persuade Luka-chan? Mayushii can't reach the ending for the Luka-chan route.
-Luka: I keep telling her I can't... but Mayuri-chan just won't give up.
-UNSPOKEN: Tears well up in my eyes. I grit my teeth and resist the urge to cry. To see them talking, so happy and carefree... I thought that this peace would last forever. And yet...
-Rintaro: I'm sorry, you two. Save the cosplay talk for later.
-UNSPOKEN: I grab Mayuri's hand.
-Rintaro: Drop your bags, Mayuri. Leave them with Lukako.
-Mayuri: Huh? What's going on?
-Rintaro: We're leaving town.
-Mayuri: Leaving town? We're going on a trip?
-Luka: A... trip?
-UNSPOKEN: Lukako's face turns red.
-Luka: Just the two of you?
-Rintaro: That's right.
-UNSPOKEN: I'll let Lukako misunderstand whatever she wants. I take off running, half dragging Mayuri along. We get out to Manseibashi Bridge. Now I need to figure out where we go from here. It's half past 4. We should still have about three hours before the trains stop. If we wanted to, we could even leave from Akiba station. But that seems like a bad idea. Moeka and her men might already be there. We should board from another station. If the plan is to head for Yokohama, the fastest way is to take the bullet train from Tokyo Station. To get to Tokyo Station without passing through Akihabara Station means boarding at Kanda or Awajicho. We could walk to Tokyo Station in an hour, but I don't want to waste that much time.
-Mayuri: Where are we going, Okarin? What's the rush?
-Rintaro: SERN's after us.
-Mayuri: Huh? What does that mean?
-Rintaro: I'll explain later. First we need to get out of Akiba.
-Mayuri: O-okay...
-UNSPOKEN: I decide on Awajicho Station and start running. If we can make it to Yasukuni-dori, the station's right there. But I freeze when I see a group of six men walking just ahead. Are they Moeka's men? I don't know, but we can't take the chance. I pull Mayuri into a nearby alley. How many men does SERN have? When did these patrols start? Are they watching stations besides Akihabara? I have no way of knowing. To make matters worse, SERN's assassins are indistinguishable from ordinary shoppers at a glance. You can tell they're different when you get close, but by then it's too late. They could be anyone. Japanese, foreigners, anyone. Damn! What should we do? Should we take the shortest route and risk being seen? Or should we stick to the back streets and stay out of sight?
-Mayuri: Okarin... Mayushii's kinda scared...
+Itaru: "How should I know?"
+UNSPOKEN: Damn. It’s easy to forget, since she’s usually here, but Mayuri and I rarely spend time together outside of the lab. MayQueen and the shrine. That’s about it. I have no idea where else she might go. MayQueen doesn’t even exist on this worldline.
+Itaru: "Ah, now that you mention it."
+Rintaro: "Do you know something!?"
+Itaru: "I think she said that her phone was about to run out of power. She had to turn it off."
+UNSPOKEN: Yet another setback. Not only am I unable to contact her, she might not even notice my phone calls.
+Itaru: "Hey, what’s going on?"
+Rintaro: "...Why are you still here, Daru? I thought I told you to leave!"
+UNSPOKEN: I sit on the sofa. I feel the weight of stress on my shoulders and in my bones.
+Itaru: "I’m not leaving without a good reason. Tell me what’s going on, man."
+Rintaro: "...They’re going to kill Mayuri."
+Itaru: "What?"
+Rintaro: "SERN’s after us. In two hours, their men will break in and kill Mayuri. Get out while you still can!"
+Itaru: "What? For real?"
+Rintaro: "Can you get in touch with Kurisu? Pass the message onto her."
+Itaru: "In two hours? How do you know that?"
+UNSPOKEN: Daru pauses for a moment. He looks towards the development room, where the Time Leap Machine is sitting.
+Itaru: "No way. You used it?"
+UNSPOKEN: I nod gravely. I kick Daru out of the lab and send him home. He promised to call Kurisu for me and tell her to stay at her hotel, but a few minutes later, she calls me directly and demands an explanation. It takes some effort, but I manage to convince her to do as I say. Now I just need to wait for Mayuri to get back. I thought about looking for her, but it’s too risky. We could miss each other like we did at the shrine. Better to wait here in front of the building. While waiting, I try to convince myself that everything will be okay. Mayuri returns to the lab at 6:30. That leaves about an hour before Moeka’s attack. In an hour, we could ride the bullet train from Tokyo Station to Shizuoka. Is that the best plan? Maybe we should get off at Yokohama and lay low in a hotel for a while. I can think about what comes next after Mayuri’s safe. The Time Leap Machine doesn’t matter. Moeka can have it. My top priority is to prevent Mayuri’s death. Sweat accumulates on my forehead and rolls down my face. Hurry back, Mayuri.
+Suzuha: "Huh?"
+UNSPOKEN: Startled, I turn towards the voice. Suzuha and Mister Braun have emerged from the Braun Tube Workshop. I see them lock the door. Guess they’re closing up shop. That’s right, I forgot about Suzuha.
+Suzuha: "What are you doing here, Okabe Rintaro?"
+Rintaro: "Nothing..."

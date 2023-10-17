@@ -1,23 +1,31 @@
-Luka: I'm sorry, but it gets in the way when I'm cleaning...
-Rintaro: What are you going to do if they attack while you're cleaning? Nobody's going to come to your rescue, you know.
-Luka: Th-that's true... I'll be more careful from now on.
-Rintaro: By the way, Lukako. I need to talk to your father. Can you go get him?
-Luka: Yes, I can, but, what do you need to talk to him about?
-Rintaro: Serious business, critical for the future of mankind.
-Luka: The future... of mankind!? I-I'll go get him!
-UNSPOKEN: Lukako rushes into the shrine office. He'll believe just about anything I say. Lukako's father soon appears. Lukako is pretty flustered. He's practically dragging his father behind him.
-Luka: Hurry, dad! Hurry!
-Luka’s Father: Slow down a little. If you rush me, I'm going to fall.
-Luka: But the future of mankind is at stake!
-Luka’s Father: Oh. Well. That's certainly serious.
-UNSPOKEN: I've met Lukako's father several times before. He's a gentle, respectable adult. With the exception of how he raised Lukako. Apparently, the reason Lukako wears miko garb is because his father requested it. Maybe his dad's a pervert. No, it's not like I mean to mock the Shinto priesthood or anything like that.
-Luka’s Father: Ah, Hououin-kun. It's been a while. Thank you for always taking care of Luka.
-Rintaro: The honor is mine.
-Luka’s Father: Did you need me for something?
-Luka: Th-that's right...! The future of mankind...!
-Luka’s Father: That sounds serious.
-UNSPOKEN: Luka's father deflects his son's panic with a gentle smile. Impressive. He knows how to brush someone off without making them feel bad. Maybe I should take notes. Anyway. I explain to Lukako's father about how I need an IBN 5100. I ask him if there's one at the shrine. Of course, I don't disclose any classified information, like how we plan to hack SERN or how this is all related to time machine research.
-Luka’s Father: I don't know if 'donated' is the right word to use... But an old computer was entrusted to this shrine about nine years ago.
-Rintaro: Eh...
-UNSPOKEN: No way. Really?
-Rintaro: That's it! That has to be it!
+UNSPOKEN: Kurisu picked a fight with me the first time we met too. But that was a hallucination, so I don’t say anything. I get Daru and Mayuri to come down and help us, and the four of us carry the IBN 5100 upstairs.
+Rintaro: "Good work, everyone. With this, we can fight."
+Kurisu: "Who are you fighting?"
+Rintaro: "SERN, and the system that rules the world."
+Kurisu: "If that’s what makes you happy..."
+Rintaro: "Happy? I do not desire happiness. Have you forgotten? I am an insane mad scientist! What I desire is chaos. The time machine exists to bring chaos to the world. MUHAHAHAHA!"
+Kurisu: "Never mind happiness. You’re like a junkie hypersecreting beta endorphins."
+Mayuri: "Okarin? I don’t want you doing bad things, remember?"
+Itaru: "But wow! I can’t believe you found one. You make the impossible look easy! That’s why we love you! That’s why we ad--"
+Kurisu: "I certainly don’t admire him."
+Itaru: "...Eh?"
+Rintaro: "Eh?"
+Kurisu: "Eh...?"
+UNSPOKEN: For a moment, there is complete silence.
+Mayuri: "It’s all thanks to Mayushii!"
+UNSPOKEN: Mayuri, oblivious as always, puffs out her chest with pride. But I don’t miss Kurisu’s relieved sigh. She keeps dropping manga quotes. Does this mean what I think it means?
+Mayuri: "Without Mayushii’s info, Okarin would still be lost on the streets of Akiba."
+Rintaro: "Mayuri’s right. She did well this time."
+Mayuri: "Ehehe! Anyway, it’s time for Mayushii to go home. What about you, Chris-chan? Wanna go together?"
+Kurisu: "Thanks. But I’m going to stay here a little longer."
+UNSPOKEN: Looks like Kurisu’s interested in the IBN 5100 and SERN after all. That reminds me. I haven’t filled her in yet.
+Mayuri: "Okay. But you should go home before it gets too late. See you tomorrow! Tutturu♪"
+UNSPOKEN: Mayuri waves her hand as she leaves.
+Rintaro: "Now then, Daru. When do you think we can use the IBN 5100 to hack SERN?"
+Itaru: "Hmm... well..."
+UNSPOKEN: Daru talks as he plugs the IBN 5100’s power adapter into the wall. He turns the machine on, and the power supply begins to make a turbulent noise.
+Itaru: "Wow, it actually turned on. First I need to learn how to use this thing. It looks like hooking it up is gonna be a pain. It might take a while. I can’t play with this thing and search for the server admin’s ID at the same time."
+Rintaro: "Alright. Prioritize the ID search. If possible, I’d like you to get the IBN 5100 ready to use this month, though."
+Itaru: "There’s still 30 days left this month. It’s not gonna take that long."
+UNSPOKEN: That’s my super hacka.
+Rintaro: "...?"

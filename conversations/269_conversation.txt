@@ -1,14 +1,19 @@
-Mayuri: Um, Okarin? Mayushii has a lot of questions, but she'll wait for now. But once it's over, I want you to tell me everything, okay?
-Rintaro: Yeah, I promise.
-UNSPOKEN: Mayuri smiles happily at that answer. That's right. While we wait for the train, I should ask Mayuri about her whereabouts today. If -- if -- I have to leap again, I'll need all the information I can get.
-Rintaro: Where did you go after you saw Lukako?
-Mayuri: I got an email from Fubuki-chan. A thread came loose on her costume. I went to fix it.
-Rintaro: Where does Fubuki-chan live?
-Mayuri: Um, we met at the Starbecks at UPX.
-UNSPOKEN: So that's where she was. Just then, an announcement plays over the PA system. The subway is resuming normal operations. About 20 minutes have passed since we arrived. I didn't expect to be stuck here that long, but it's okay. Right now, Moeka should be in Akihabara, heading to the lab. Everything is going to be alright. While waiting for the train, I examine the route map on the station's noticeboard. We can transfer to an overland train at Yoyogi-Uehara. It'll take a while, but that will take us all the way to Odawara. Another announcement. Our train is arriving. I can hear the rumbling and see the lights at the end of the tunnel. Mayuri and I are standing just behind the white line. I reach for her hand, meaning to make a dash for the train when the doors open, but I guess there's no hurry now. I let my hand fall to my side, empty. The roar comes closer.
-Mayuri: About the party tonight...
-UNSPOKEN: Mayuri is saying something. I can't quite hear her over the train.
-Mayuri: It got canceled, but we should definitely--
-Nae: Mayuri♪
-UNSPOKEN: Suddenly, Mayuri disappears.
-Rintaro: Huh?
+Rintaro: "No... stopping... until... we’re on... the train..."
+UNSPOKEN: I do my best to keep up the pace.
+Mayuri: "But Okarin, you’re covered in sweat. You shouldn’t push yourself. You’re not good at exercise."
+UNSPOKEN: When we reach the station, I realize that something is wrong. The station is packed. Seriously packed. You don’t see this many people even at rush hour. The crowd is milling around the entrance. For some reason, it looks like no one is going in. What’s going on here? A protest? Some kind of street performance? I don’t have time for this! Just then, an announcement plays over the PA.
+Premise Announcer: "Your attention please. The Yamanote, Keihin-Tohoku, and Sobu Lines are currently suspended. We sincerely apologize for the inconvenience, and kindly ask for your cooperation."
+UNSPOKEN: Finally, I realize my mistake. That’s right. Before the attack, the trains were stopped by a bomb threat! No wonder there are so many people standing around. In my haste to flee the city, I completely forgot! How could I have been so stupid!?
+Mayuri: "I wonder what happened..."
+UNSPOKEN: All of the train lines are stopped. We can’t escape Akiba! What about other means of public transportation -- the subway or the bus? Should we go to another station? I turn around and head back the way we came, keeping a firm grip on Mayuri’s hand. But before we get more than a few steps, a man steps out of the crowd and blocks our way. I realize that we’re surrounded.
+SERN Agent: "Okabe Rintaro?"
+UNSPOKEN: A low voice. A face I’ve never seen. He’s not one of the five who broke into the lab.
+Mayuri: "Okarin, do you know these people?"
+UNSPOKEN: Mayuri grips my arm tightly as she looks anxiously at the men.
+SERN Agent: "Come with us."
+Rintaro: "Who are you?"
+UNSPOKEN: Instead of answering, the man makes a grab for my arm. I jerk away and try to escape, but the men move to block us again.
+SERN Agent: "If you resist, we’ll kill you."
+Rintaro: "SERN!"
+UNSPOKEN: They’re with Moeka!? She must have planned for this in advance. A chill runs up my spine. We made a terrible mistake when we hacked into SERN. I realize that now, though it’s far too late.
+Rintaro: "Are you going to kill us with all these witnesses around?"

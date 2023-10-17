@@ -1,43 +1,13 @@
-UNSPOKEN: I open the pizza boxes to find the exact same ones he got for Suzuha's party.
-Itaru: Because I like it.
-UNSPOKEN: Naturally, I'm not amused.
-Mayuri: Okarin, Okarin. I called Feris-chan and Luka-chan, but they said they couldn't come.
-Rintaro: Oh. Do they have plans?
-Mayuri: Feris-chan has a RaiNet tournament.
-Itaru: Crap, I should've gone to cheer! How careless of me!
-Mayuri: And Luka-chan seemed embarrassed for some reason.
-Kurisu: Maybe she thinks you'll make her wear a costume again.
-Rintaro: You still haven't convinced her to cosplay?
-UNSPOKEN: Then what was the point of completing the costume?
-Mayuri: She said it was embarrassing. I keep telling her 'Cuteness is Justice', but she never listens.
-Kurisu: 'Cuteness is Justice'... is that what they say?
-Mayuri: You're cute too, Chris-chan!
-Kurisu: Hah? Eh?
-UNSPOKEN: Kurisu doesn't know how to react. She blushes, and Mayuri starts teasing her like a drunk old man. There's no alcohol at this party, of course.
-Mayuri: Hey, ComiMa's coming up. Wanna go? I can't make something new, but I have a costume of Post-Awakening Seira from Blood Tune I made last year. I think the size is just right for Chris-chan too.
-Kurisu: Me, cosplay?
-UNSPOKEN: Kurisu looks conflicted. Then she murmurs--
-Kurisu: I'm sorta interested.
-UNSPOKEN: She sure could have fooled us before, pretending to have no interest in otaku culture.
-Kurisu: But I refuse to do it in public, though.
-Mayuri: You don't have to show anyone, but eventually, you'll want them to see. The cosplay demon compels you!
-UNSPOKEN: The... cosplay demon?
-Mayuri: That reminds me. Chris-chan, you're always wearing that cute uniform. What school is it from?
-Kurisu: Oh, this?
-UNSPOKEN: Kurisu lifts up her necktie.
-Kurisu: I attended Ayamein for about two weeks. I modeled this outfit after their uniform.
-Mayuri: Oh! Their uniform is really cute, but you made it even cuter! You might have really good design sense♪ I'll bring the costume tomorrow, okay? Will you try it on then?
-Kurisu: Sure.
-UNSPOKEN: Looks like Kurisu approves of the Cuteness is Justice philosophy.
-Itaru: When's the photo shoot?
-Kurisu: Good to know you're still a pervert, Hashida.
-Itaru: Come on, it's Blood Tune's Seira! She's got 'panmoro' going on!
-Kurisu: Panmoro?
-Itaru: It means her panties are completely exposed!
-Kurisu: N-no way...
-Mayuri: It's okay♪ You might not know this, but last year, there was a really popular saying. 'They're not panties, so it's not embarrassing!'
-Kurisu: It's plenty embarrassing, trust me!
-Mayuri: Wear it, okay? It's a promise!
-Suzuha: Maybe you shouldn't bother.
-UNSPOKEN: Suzuha speaks, her tone sharp. She's scowling at Kurisu again. Suddenly, the atmosphere in the room changes.
-Suzuha: You're asking for trouble by trusting Makise Kurisu.
+Itaru: "It’s practically instantaneous. 23 milliseconds or thereabouts. We’re using a black hole, after all."
+Kurisu: "By the way, the compression only holds in the immediate vicinity of the black hole. Once the data leaves that area, it will begin to decompress on its own. This, too, takes 23 milliseconds."
+Itaru: "It has to make it back to the X68000 and into the PhoneWave within that window. It’s only 36 bytes. Shouldn’t be a problem."
+Rintaro: "Continue, Christina."
+Kurisu: "While the data is being compressed, we use the PhoneWave to generate a Kerr ring singularity. When the electron discharge phenomenon occurs, we take the 36-byte data, patch it in... And send it to the past. This part is just like a D-Mail. The data travels to the specified time, where it arrives at the recipient’s phone. By now, 23 milliseconds should have passed, so the data will be fully decompressed. Next, the decoding program runs, converting the data back into nerve impulse signals. These signals are discharged from the phone’s earpiece at approximately 0. 02 amperes, a pretty weak charge. If the recipient has the phone to his ear, they should go straight into his brain."
+Rintaro: "Assuming he answers his phone."
+Kurisu: "If he doesn’t, the transfer fails. Fortunately, we lose nothing but that copy of the memory data."
+Rintaro: "Why a phone call instead of an email?"
+Kurisu: "Because we need the recipient to put the phone to his ear. Otherwise the signals won’t reach his temporal lobe."
+UNSPOKEN: She indicates the side of her head.
+Kurisu: "In this area you have the frontal lobe and temporal lobe of the brain. As I explained before, the hippocampus, where memories are stored, is inside the temporal lobe. The phone sends out electrical impulses that pass through the temporal lobe and into the hippocampus, overwriting the recipient’s memories. At the same time, the phone sends impulses that stimulate the frontal lobe as well. This is important. Remember that the frontal lobe is responsible for sending retrieval signals to the temporal lobe. This is how you remember things. By stimulating the frontal lobe, we force it to send retrieval signals keyed to the new memory data. Thus, the recipient recalls all of those memories as if they were his own. Which, of course, they are, or will be in the future. This happens in less than a second. Now the recipient has the same memories as the sender. The time leap is complete. If the data came from one week in the future, the recipient will ’remember’ that week as if he experienced it firsthand. We need to be aware that consciousness and personality aren’t transferred. Both of those depend on the recipient."
+Itaru: "Explain it with boobs."
+Kurisu: "B-boobs!?"

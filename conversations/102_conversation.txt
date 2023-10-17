@@ -1,27 +1,28 @@
-Rintaro: Here, we should think under the assumptions of time travel theory.
-Kurisu: No. It's not good to start thinking from the conclusion.
-Rintaro: We've already had several successful experiments. You can't deny that.
-Kurisu: I'm not especially concerned whether this thing is a time machine or not. To begin with, it's physically impossible for this tiny little microwave to produce energy equivalent to the big bang.
-UNSPOKEN: Kurisu frowns deeply.
-Kurisu: We can't reproduce the discharge phenomenon, nor the fractalization. There should be a reason why. We haven't changed our methods. We haven't changed the settings. We haven't changed the experimental subjects either. There must be some other variable.
-Rintaro: Maybe it's the one who observes it.
-Kurisu: What do you mean by that?
-Rintaro: Quantum theory. The observer is an important element to the experiment.
-Kurisu: There were four of us here when the discharge phenomenon occurred last time. But before that, it occurred when Hashida-san was alone. Each time fractalization occurred, there were either two or three people observing. You and I each saw both phenomena. In other words, the conditions haven't changed.
-Rintaro: In that case...
-Kurisu: Hmmm...
-UNSPOKEN: There must be some other variable. It's on the tip of my tongue. Then I hear a rumbling sound from Kurisu's stomach.
-Rintaro: Hungry?
-Kurisu: Sh-shut up! I haven't eaten anything since lunch.
-UNSPOKEN: Kurisu turns away as she looks at her watch.
-Kurisu: It's already 8?
-Rintaro: Just eat a banana. But only one of the two we just warmed. They are, after all, the fruit of our experiments. Or you could take something from our stock of cup noodles. Don't want any? Well, since you have lived in America for so long, I guess you'd prefer fast food instead--
-Kurisu: Cup noodles.
-Rintaro: What?
-Kurisu: I'll have cup noodles.
-Rintaro: Cup noodles!?
-Kurisu: What flavors?
-Rintaro: There's soy sauce flavor and chicken flavor.
-Kurisu: Chicken.
-UNSPOKEN: She seems in the mood to eat.
-Kurisu: Also... do you have a fork?
+Kurisu: "I don’t know if that’s supposed to be a compliment, but it’s coming off as an insult. Now let go!"
+UNSPOKEN: She shakes off my hand and turns her back to me.
+Rintaro: "I’m giving you that lab coat to commemorate your joining the lab. Don’t worry. It’s never been worn. Or maybe this fateful encounter between you and that lab coat was decided by destiny long ago. Daru not wearing it was just another inevitability. This is the choice of Steins--"
+Kurisu: "Shut up so we can start the experiment."
+UNSPOKEN: Kurisu thrusts both hands into her lab coat’s pockets, then bends down to look at the time machine now placed underneath the table. The previous experiment broke the table and even left a hole in the floor. There’s a danger that will happen again if we successfully reproduce the discharge phenomenon, so unfortunately, we’ll have to leave it on the floor for now.
+Kurisu: "...So you haven’t tampered with the microwave at all?"
+UNSPOKEN: I point to the X68000. There’s code on the screen.
+Rintaro: "It’s in terminal mode now. We can change the factory settings like this, make the microwave do things its manufacturer never intended."
+Kurisu: "How was it set when the discharge phenomenon occurred?"
+Rintaro: "Nothing out of the ordinary. It was at factory settings."
+Kurisu: "Hmm. I’ll take a banana."
+UNSPOKEN: The bunch of bananas only has three bananas left.
+Rintaro: "Those are Mayuri’s."
+Kurisu: "Oh, so I don’t need your permission, then. I’ll go buy new bananas tomorrow."
+UNSPOKEN: Kurisu takes one banana from the bunch, squats down, and places it inside the PhoneWave (name subject to change). She begins to type on her phone. She pushes send, and the PhoneWave (name subject to change) begins to turn backwards. After 120 seconds, the chime rings.
+Kurisu: "...Nothing happened."
+UNSPOKEN: The banana’s still in the microwave, un-gelified.
+Kurisu: "Ow!"
+UNSPOKEN: Kurisu yelps as she tries to take out the banana, and quickly draws back her hand. She starts blowing on her fingers.
+Kurisu: "It’s hot."
+Rintaro: "Meaning the microwave functioned normally."
+UNSPOKEN: This proves that the hidden function Mayuri found wasn’t a freezing function. But we knew that already. Undaunted, Kurisu throws in a new banana, and once again begins reverse rotation for 120 seconds. But the second banana warms up too. We can’t reproduce the gelification phenomenon, much less send mail to the past.
+Rintaro: "What does this mean..."
+Kurisu: "I guess what happened earlier was an irregularity after all."
+Rintaro: "I don’t know if it’s an irregularity or not, but we ought to investigate the cause."
+Kurisu: "I agree."
+UNSPOKEN: We agree for once. But Kurisu’s motives and my motives are probably the exact opposite. My assistant here wants to disprove my theory that the PhoneWave (name subject to change) is, in fact, a time machine.
+Rintaro: "In the previous experiment... After spending 120 seconds in the PhoneWave (name subject to change), the banana teleported back to the bunch gelified. We should consider that it returned to its state 120 seconds before."

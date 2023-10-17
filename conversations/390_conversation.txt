@@ -1,37 +1,16 @@
-Kurisu: I'm standing by at the lab.
-Rintaro: Set up the machine. I'm sending another D-Mail.
-Kurisu: Destination?
-Rintaro: ...July 31st, 11 AM.
-Kurisu: 11 AM on the 31st...
-UNSPOKEN: While Kurisu calculates the hours, I type the mail. It says Do NOT go!!  Not @shrine! It's a trap! I address the mail to the PhoneWave (name subject to change).
-Kurisu: Okay, all set.
-Rintaro: Alright, activate it.
-Kurisu: Activated.
-UNSPOKEN: I press the send button. The mail starts sending. Reading Steiner should activate. This time for sure. I brace myself for the incoming vertigo.
-Kurisu: ...Well?
-Rintaro: Nothing. Why won't it change!?
-Kurisu: Another mistake?
-Rintaro: No, there's no way! I know what Moeka's message said. This D-Mail should have canceled it.
-UNSPOKEN: Why isn't it working? What the hell's wrong this time?
-Kurisu: What did the first D-Mail say?
-Rintaro: That the IBN 5100 was at Yanabayashi Shrine. I tried to cancel it by telling her it's a trap, but it didn't work. I'll try to phrase it differently.
-Kurisu: Wait. We went through this with the LOTO SIX experiment, remember?
-UNSPOKEN: The LOTO SIX experiment... I sent myself the winning numbers, but the past me didn't buy the ticket. Instead, he gave the winning numbers to Lukako.
-Kurisu: The person who reads the D-Mail chooses whether or not to act accordingly. Kiryu learned that the IBN 5100 was at the shrine. Though the cancellation mail came right afterward, I guess she ignored it and went anyway.
-Rintaro: Maybe she didn't believe the cancellation mail. Or maybe she was so diligent she decided to check it out even when told not to.
-UNSPOKEN: I glance at Moeka. She's still hanging her head, but her tears have run dry. I wonder if she's listening.
-Kurisu: Damn. Even when told it was too risky to go to the shrine, she went anyway...
-Rintaro: We need a more persuasive message. Something that will prevent her from going to the shrine.
-Kurisu: Like what?
-UNSPOKEN: That's the problem. Is it possible to persuade her with just 36 bytes of text? Or should we consider other possibilities?
-Rintaro: What if I send a D-Mail to myself on July 30th? Could I beat her to the IBN 5100?
-Kurisu: Were you even interested in the IBN 5100 then?
-UNSPOKEN: When did I start caring about the IBN 5100? I can't remember. Fine. That's out. So how do I convince Moeka to listen? At that moment, an electric shock runs through my brain. Two initials.
-Rintaro: ...FB.
-Kurisu: What?
-Rintaro: Moeka's handler. She's obsessed with FB. If the mail comes from FB, she'll do whatever it says.
-Kurisu: Do you have FB's phone?
-Rintaro: No. They haven't even met. We don't know where FB is.
-Kurisu: Then there's nothing we can do.
-Rintaro: ...Give me a little time.
-Kurisu: Gonna make me wait again? Well, I've been pulling all-nighters recently, so whatever. Just don't do anything stupid, okay?
+UNSPOKEN: I ask Lukako to fetch his father for me, so I can ask him whether or not the IBN 5100 was in the storehouse.
+Luka’s Father: "An old computer... yes, I do remember. I’ll go check. Please wait a moment."
+UNSPOKEN: He heads into the storeroom out back, just like on the previous worldline. But on the previous worldline, the IBN 5100 was no longer in the storehouse, since girl Lukako had secretly moved it. How will it turn out this time? Luka’s dad returns after about 10 minutes. His expression is grave. That’s all the answer I need. Nothing has changed.
+Luka’s Father: "It’s gone. I couldn’t find it anywhere."
+UNSPOKEN: I quickly glance at Lukako’s face. Blank. He doesn’t seem to know anything. Lukako is innocent. I’m sure of it.
+Luka’s Father: "The lock to the storehouse was broken. Someone may have stolen it."
+Rintaro: "Stolen it?"
+UNSPOKEN: It didn’t disappear? A thief took it?
+Luka’s Father: "There’s evidence someone dragged something heavy away. That wasn’t there at the end-of-the-year cleaning, and the lock wasn’t broken when I checked last month. I never expected a thief would break in."
+Luka: "Then shouldn’t we report it to the police?"
+UNSPOKEN: While they discuss what to do, I sigh and consider the situation.
+Rintaro: "This isn’t going to work."
+UNSPOKEN: The IBN 5100 is still out of reach. There are two D-Mails left to cancel. Something tells me that if I cancel just one more, I can get back the IBN 5100. But which one?
+Luka: "Um, Okabe-san. I don’t really understand, but please don’t be sad. J-just go ’It matters not!’ like you always do."
+UNSPOKEN: I chuckle. Lukako’s so adorable when he’s trying to cheer me up. But he’s a guy.
+Rintaro: "You’re using that phrase wrong, you know."

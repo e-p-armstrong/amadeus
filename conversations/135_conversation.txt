@@ -1,37 +1,28 @@
-UNSPOKEN: Kurisu frowns, but she doesn't raise any more complaints. As I thought. She, too, wants to know if we can change the past. She's a scientist through and through. And if I'm not mistaken, she has a bit of mad in her too! Muhahaha! I take out my phone and put it to my ear.
-Rintaro: It's me. We're beginning stage two of Operation Urd. Yeah, no problem. I, Hououin Kyouma, shall take all responsibility. Heh, don't worry. Nothing will come back to you. Correct. This is my choice, and the choice of Steins Gate. Ragnarok is near. El Psy Kongroo.
-UNSPOKEN: I put my phone away and look at my lab mems.
-Rintaro: Now, begin the operation!
-UNSPOKEN: Nobody moves a muscle. They just look at each other.
-Itaru: Uh, what do you want us to do?
-Rintaro: Are you incapable of doing anything without my instructions?
-Mayuri: First, we need to buy a lottery ticket.
-Kurisu: No, first we need a winning number.
-Rintaro: Exactly, Celeb Seventeen! Now you're talking.
-Kurisu: Don't call me Celeb Seventeen.
-Itaru: First, we have to decide which lottery to go for. Think we should go for Dream Summer Jumbo?
-Mayuri: I saw a TV commercial for that the other day!
-Rintaro: Did they announce the winners?
-Itaru: Should be next week or the week after.
-Rintaro: Then there's no point! We can only send D-Mails to the past!
-Itaru: Oh, right. We could wait until the Summer Jumbo drawing date.
-Rintaro: You've got your priorities backwards. Don't get fixated on Summer Jumbo. Let's look at the last lottery that announced its winners.
-Itaru: Hmmm, I'll google it.
-UNSPOKEN: Daru starts searching on his computer. Meanwhile, Kurisu is thinking hard.
-Kurisu: If someone sent me the winning numbers from the future, would I believe it?
-Mayuri: Um, Mayushii doesn't even know how to buy a lottery ticket...
-Kurisu: That's okay. I don't think teenage girls buy lottery tickets.
-Rintaro: Have you ever bought one, Moeka?
-UNSPOKEN: When I call out to Moeka, standing alone in the corner of the room, her shoulders twitch. Then she shakes her head a little bit.
-Mayuri: How about you, Okarin?
-Rintaro: ...I tried the LOTO SIX once.
-UNSPOKEN: I didn't even get a penny.
-Itaru: Hey, LOTO SIX might work. I'm pretty sure they announce winning numbers every week.
-UNSPOKEN: A quick search reveals that LOTO SIX announces winning numbers every Thursday. They've also posted last week's 1st through 7th place numbers on their homepage.
-Mayuri: Are you going to send this winning number in a D-Mail?
-Rintaro: Exactly. Though of course, we have to mention it's for LOTO SIX.
-Itaru: Hmm, last week's 1st prize was... woah, 200 million!
-UNSPOKEN: What!? 200 million!? I think my heart skipped a beat there.
-Rintaro: W-wait! 1st prize is too much!
-Itaru: Why?
-Kurisu: That is an awful lot of money... hahaha...
+Rintaro: "First of all, the purpose of this experiment is to verify whether or not we can actually change the past. So it doesn’t matter how trivial the change is."
+Kurisu: "Have you heard of the Butterfly Effect?"
+Rintaro: "Of course."
+Itaru: "Yeah, it’s like that saying. ’When the wind blows, the bucket maker gains.’"
+Kurisu: "Eh? No, it’s kinda like that, but kinda not..."
+Rintaro: "A butterfly flaps its wings in Beijing and a storm happens in New York, right?"
+Kurisu: "Yeah, that. Part of Chaos Theory. Basically, any change, no matter how small, could have a significant effect on the future. How do you plan to take responsibility for that?"
+Rintaro: "Titor said that the many-worlds interpretation holds true."
+Kurisu: "And that makes it okay to change the past? You’re going to believe that self-proclaimed time traveler’s delusions?"
+Rintaro: "Can you prove they’re delusions?"
+Kurisu: "I’m asking what you’re going to do if they are. How are you going to deal with the consequences?"
+UNSPOKEN: Kurisu and I glare at each other. For some reason, I always end up getting emotional whenever I argue with this impertinent assistant of mine. Such weakness is unbefitting of an insane mad scientist. I need to calm down.
+Rintaro: "Christina, you said this before, did you not? When hypotheses pile up, and theories are verified, they become reality. That’s how modern physics comes to understand the truth of the universe. You’re contradicting yourself."
+Kurisu: "No, I’m not. We don’t even have a hypothesis for how the PhoneWave works. We’re just fumbling around in the dark here. There are still too many risks to try changing the past. We should wait until we know more."
+UNSPOKEN: Oh? So she’s not unconditionally opposed?
+Rintaro: "You’re actually itching to try it out, aren’t you?"
+Kurisu: "W-well..."
+UNSPOKEN: Kurisu quickly looks away.
+Rintaro: "Besides, didn’t you want to prove that the PhoneWave (name subject to change) isn’t a time machine? If it’s not a time machine, then it can’t change the past. You could prove yourself right, so why are you against it?"
+Kurisu: "Oh shut up..."
+Rintaro: "And if you’re going to talk about time paradoxes, then what about SERN? They’ve already sent more than 100 people to the past. Surely a few paradoxes have happened by now."
+Kurisu: "So you want to stoop to the same level as the guys that did those inhumane experiments?"
+Rintaro: "We’re not doing human testing or anything, so relax."
+Mayuri: "Um..."
+UNSPOKEN: Suddenly, Mayuri raises her hand. She was staring blankly at us this whole time, so I’m a bit surprised.
+Mayuri: "Um, Okarin? Mayushii doesn’t really get it, but what are you going to change?"
+UNSPOKEN: Finally, some constructive conversation.
+Rintaro: "My goal for this operation is simple. We, my friends... Are going to win the lottery!"

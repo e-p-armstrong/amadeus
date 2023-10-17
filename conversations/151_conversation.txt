@@ -1,35 +1,31 @@
-Kurisu: Of course I remember. What are you... Oh, I see. According to your hypothesis, you and I shouldn't remember sending the D-Mail.
-Rintaro: Daru, did you beat Faris in the Faris Cup?
-Itaru: ...I dunno.
-Rintaro: You said the winner gets Faris's home cooking, right? Did you eat it? What happened?
-Itaru: I don't know... This sucks.
-UNSPOKEN: I check Daru's send history. As expected, the D-Mail he just sent isn't there. I do, however, find the D-Mail in his inbox. He received it two days ago, just like we wanted. This is the same thing that happened when I sent my D-Mail.
-Kurisu: ...Maybe the past hasn't changed?
-Itaru: I'll try calling Mayu-shi.
-UNSPOKEN: He's the one who changed the past, yet he doesn't remember what happened after the change? That's odd.
-Itaru: Mayu-shi? You're still at work, right? Is Faris-tan there? ...She is!? Um, can you ask her if I beat her in the Faris Cup? Did I get to eat her home cooking? ...Who lost? I did? Oh... Barely took five seconds? Oh... okay...
-UNSPOKEN: Daru's shoulders droop as he hangs up the phone.
-Kurisu: I guess that means the past hasn't changed.
-Itaru: Why!? It changed for Okarin, right!?
-Kurisu: Maybe your foolproof plan wasn't so foolproof. Like, maybe it only gave you a slight advantage.
-UNSPOKEN: I had the same thought. Faris is supposedly a world-class player. Daru's time travel cheat may not have been enough.
-Kurisu: Since Faris-san defeated you anyway, the past didn't change.
-Itaru: Yeah, but I mean, the game would've played out differently.
-Rintaro: That might not be enough to cause worldline divergence.
-Kurisu: Like Okabe said, you need to make a change that's easier to observe. Or else there's no point to this experiment. Um, n-not that I approve of this experiment or anything.
-Itaru: No, it's not over yet. I can still fight!
-UNSPOKEN: Daru starts typing another mail.
-Itaru: One more time. I'll try sending my past self some more advice. This time, something that'll ensure my victory.
-Kurisu: You really want to win that badly?
-Rintaro: More like he wants to eat Faris's home cooking that badly.
-Itaru: That's my Final Answer.
-UNSPOKEN: Daru writes another D-Mail. I don't bother checking what it says. I won't understand anyway. We activate the PhoneWave (name subject to change) and send the mail through, just like before.
-Rintaro: Oh...?
-UNSPOKEN: Nothing happens. No discharge. Usually, it happens ten to twenty seconds after pushing the start button. The timer counts down to zero without incident.
-Kurisu: ...Out of time?
-Rintaro: Looks like it.
-Itaru: But my advice was perfect...
-Rintaro: There's nothing we can do about it. We'll postpone the experiment till tomorrow.
-UNSPOKEN: I check the clock. It's just past 7PM. Looks like that's the cutoff.
-Kurisu: After I left yesterday, I was thinking. How exactly does the PhoneWave make time travel possible?
-Rintaro: It works like the LHC. Didn't you say the LHC was like a giant microwave?
+UNSPOKEN: I still don’t believe in the many-worlds interpretation or Titor’s attractor field theory. Actually, I’m starting to doubt them more and more. If we want to know how the world works, we’ll have to figure it out ourselves. And to do that, we need to experiment. One thing I’m sure of is that the mass disappearance in Akiba is related to D-Mails somehow, as is the strange disconnect between my memories and everyone else’s. According to Titor, I have a supernatural power -- the one I call Reading Steiner. My doubts about Titor’s veracity aside, I do need to determine if I am indeed the only person who keeps his memories when the past changes.
+Rintaro: "Change the past to your liking. As long as it’s something easy to observe."
+UNSPOKEN: Preparations for the PhoneWave (name subject to change) are complete. Daru’s eyes wander to the ceiling in thought. Next to him, Kurisu shrugs her shoulders and starts gathering her things.
+Kurisu: "I’m going back to my hotel. Show me your report on today’s experiment tomorrow."
+Rintaro: "Hold it!"
+UNSPOKEN: When I grab her by the shoulder, Kurisu nearly topples over.
+Kurisu: "Hey! What’s your problem!?"
+Rintaro: "Who’s writing that report?"
+Kurisu: "You, of course. This is your operation. And if we could get a report from the subject too, that would be even better."
+UNSPOKEN: Kurisu glances at Daru.
+Rintaro: "...Are you not interested in changing the past? What happened to your eagerness to experiment?"
+Kurisu: "Did you forget what I said this afternoon? I’m against it."
+Rintaro: "But you were so enthusiastic when we began the experiments. You went along without a single complaint."
+Kurisu: "In your dreams, maybe."
+UNSPOKEN: I twist my lips into a grin.
+Rintaro: "You’re not being objective, Christi... Celeb Sev."
+Kurisu: "If you’re going to correct yourself, at least get it right."
+Rintaro: "We’ve already performed one experiment. I changed the past."
+Itaru: "Hey! No fair!"
+Rintaro: "Ah, but you were in on it too. But when the past changed, you forgot that it had ever happened."
+Itaru: "Are you talking about this afternoon? I mean, when you suddenly started asking about the LOTO SIX."
+Rintaro: "Exactly."
+UNSPOKEN: I explain what happened earlier this afternoon.
+Itaru: "...You’re not joking, are you?"
+Rintaro: "I’m serious."
+Itaru: "...Seriously?"
+UNSPOKEN: One good look at my face, and Daru seems to understand I’m not joking. Kurisu, on the other hand, has a sour look. But she’s always like that. Why did everyone else lose their memories? Actually, did everyone else lose their memories? In order to find out, I need them to perform the same experiment.
+Itaru: "Okay! There’s one thing about the past I definitely want to change."
+UNSPOKEN: Daru is quick to adapt, as always. We’ve known each other for a long time. He trusts me implicitly. ...Or maybe he’s just being faithful to his desires.
+Rintaro: "What? Are you going to tell yourself to go on a diet?"
+Itaru: "I wouldn’t diet even if future me told me to."

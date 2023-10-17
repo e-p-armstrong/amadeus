@@ -1,52 +1,30 @@
-Kurisu: Huh? Over there, isn't that...
-UNSPOKEN: I follow Kurisu's finger to see Daru emerge from Yodobashi Camera.
-Rintaro: Found you, Daru!
-Itaru: Huh? Ah--
-UNSPOKEN: I grab his collar to stop him from escaping.
-Rintaro: Why didn't you respond to my summons?
-Itaru: Like I said, I've got something to do.
-Rintaro: Which is?
-Itaru: An offline meet...
-Rintaro: Inexcusable.
-Itaru: Wait, just listen a sec--
-Rintaro: Your offline meet, or a party with food handmade by our very own lab girls. Choose one.
-Itaru: Handmade... by girls? O-one question. Will Faris-tan be there?
-UNSPOKEN: Before Kurisu can answer that, I whisper to Daru.
-Rintaro: Naturally. Faris is a lab mem too. Heh heh heh.
-Itaru: Dammit! Why do they have to be on the same day!? Can't it wait until tomorrow?
-Rintaro: What will it be? The time to choose is now.
-Itaru: I want to eat Faris-tan's home cooking...
-Rintaro: If you give up the offline meet, then that settles it.
-Itaru: I give up. I give up the offline meeeet!
-UNSPOKEN: Daru surrenders all too quickly. When we return to the lab, Mayuri and Lukako are already starting preparations.
-Mayuri: Huh? Daru-kun's here too?
-Itaru: What about Faris-tan? Where is she?
-Kurisu: You've been tricked.
-Mayuri: Feris-chan said she couldn't come.
-Itaru: Wait, seriously!? Okarin! What's going on here!? This isn't funny, man!
-Rintaro: Don't worry. I'll make sure she comes to the next one.
-Itaru: You've gotta be kidding me! I was looking forward to that time machine meet...
-Kurisu: Time machine meet? What's that?
-Itaru: It's an offline meet for this sci-fi BBS I post on. Some famous writers are going to be there. I won't forgive you, Okarin. Ever.
-Rintaro: What? Why didn't you say so? I would've gone too!
-UNSPOKEN: Suddenly, I smell something strange.
-Rintaro: ...Does anyone else smell that?
-Kurisu: Smell what?
-Rintaro: Did we blow a fuse somewhere?
-Luka: S-sorry...
-UNSPOKEN: Lukako's apologizing for something.
-Luka: That's probably the smell of... Mayuri's cooking...
-UNSPOKEN: ...What? This is the smell of food!?
-Kurisu: I'll help too.
-Luka: Okay, then warm these eggs please.
-Kurisu: Hm. Should I use the PhoneWave?
-Luka: N-no! If you put raw eggs in a microwave, they'll explode!
-Kurisu: We took the door off. It should be fine, right?
-Mayuri: Chop, chop, choppity chop, chop, chop, choppity...
-Luka: M-Mayuri-chan! Don't hold your knife like that!
-UNSPOKEN: What the hell is going on here? Daru and I exchange glances.
-Rintaro: Maybe we should help too. Or at least kick them out of the kitchen?
-Itaru: Won't it end up the same either way?
-Rintaro: I'm getting dizzy. This isn't the future I was hoping for.
-Itaru: You're telling me. I'll never forget this, Okarin. Never.
-Rintaro: I'm sorry. Truly. But please, Daru, stay with me to the end.
+UNSPOKEN: She’s less energetic than usual.
+Suzuha: "Why are you so wobbly?"
+Rintaro: "It’s... a new exercise."
+Suzuha: "Huh. Never heard of it."
+UNSPOKEN: Suzuha answers listlessly as she sits down on the bench. When she aimlessly gazes skyward, I follow suit. Huge clouds are slowly swallowing the blue. A helicopter flies overhead. I can hear its propellers slicing the air.
+Suzuha: "Perfect weather for cycling."
+Rintaro: "Really?"
+UNSPOKEN: But it’s so damn hot. How can you exercise on a day like this? I’d rather drink hot coffee in a well air-conditioned room while browsing the net. Now that’s a luxurious way to spend summer break. If only the lab had air conditioning.
+Suzuha: "Hey, up for a little cycling?"
+UNSPOKEN: Seriously? She has to be joking.
+Rintaro: "Your bike only has one seat."
+Suzuha: "One of us can sit on the back."
+Rintaro: "Don’t you have work to do?"
+UNSPOKEN: Suzuha pops into the store. She’s back in less than a minute.
+Suzuha: "I got permission. It’s not like we’ll have customers anyway."
+UNSPOKEN: I try to think of an excuse to refuse, but nothing comes.
+Rintaro: "Huff... huff... I am a mad scientist... not a mad... cyclist... Huff... huff... so why... am I... doing the pedaling?"
+Suzuha: "Long ago, Aristotle said, ’time is just the measure of motion.’ So put those pedals in motion."
+UNSPOKEN: That doesn’t make sense... I’m exhausted. We barely made it to the station. I’d die if I went another block. This was a terrible idea. I should have known better. I get off the bicycle and sit against the station wall. Suzuha sets the bike against the wall and crouches next to me. Sitting on the ground is undignified for a man of my stature, but no matter. I just need a few moments to catch my breath. I watch the crowds of people move past. Nearly all of them are men. Here and there, I see people carrying large boxes, most likely PC parts or appliances. There isn’t an anime poster in sight. When Akiba changed, so did the people who visited it. This atmosphere... It’s kind of... retro. It’s the Akiba I’ve only seen in pictures. Akiba at the end of the 20th century. The Electric Town in its purest form. It has risen from the ashes of the past. And the only one who knows it... is me.
+Suzuha: "You know..."
+UNSPOKEN: Suzuha murmurs.
+Suzuha: "It’s only been ten days since I arrived in Tokyo."
+UNSPOKEN: Huh. I didn’t know that.
+Rintaro: "Vacation? No... that can’t be right."
+Suzuha: "I’m hunting for my father."
+UNSPOKEN: That’s a strange way to put it.
+Rintaro: "Did he run away?"
+UNSPOKEN: I meant it as a joke, but Suzuha looks so serious. I hope I didn’t screw up again.
+Suzuha: "I haven’t seen him in years. But I know he’s in this town."
+Rintaro: "Oh... but then why are you working downstairs?"

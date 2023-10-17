@@ -1,28 +1,18 @@
-UNSPOKEN: I put away my phone, then turn to find Daru giving me an exasperated look.
-Itaru: Just who the hell are you fighting with?
-Rintaro: Daru, I know what we must do.
-Itaru: Whuzzat?
-Rintaro: Don't you 'whuzzat' me! You're supposed to grin like you know exactly what I'm talking about! What kind of super hacka are you!?
-UNSPOKEN: I wanted him to say something like Well, why the hell not. So, what's in it for me? And then we'd continue like this, grinning slyly the whole time: Or something like that. Yup, a real cool conversation. But the real-world Daru just purses his lips.
-Itaru: You always give such half-baked explanations. Try to sound intelligible before you try to sound intelligent.
-UNSPOKEN: Work with me here!
-Rintaro: You are a super hacka.
-Itaru: Stop saying hacka. At least say hacker.
-Rintaro: See where I'm going with this?
-Itaru: No, not at all.
-Rintaro: Hack into SERN.
-UNSPOKEN: Daru stares at me in disbelief.
-Itaru: ...Is that some kind of joke?
-Rintaro: I know you can do it, Daru. Expose their dastardly deeds and find any hints you can about the time machine.
-Itaru: Dastardly deeds? You're just imagining that stuff, Okarin.
-Rintaro: We stand at a crossroads. Will the PhoneWave (name subject to change) become a functional time machine, or will it die as garbage in lab storage?
-Itaru: You serious?
-Rintaro: I'm always serious!
-UNSPOKEN: I look Daru straight in the eye as I answer. Looks like that made him understand my position. Daru sweeps the garbage off his desk and sits up straight.
-Itaru: I'm not responsible for the consequences, got it?
-UNSPOKEN: Suddenly, Daru is bursting with energy. It's like his earlier lethargy was a lie.
-Rintaro: Deal. Get started.
-Itaru: Let's do this!
-Rintaro: For your payment, I'll deposit a week's supply of potato chips into your Swiss bank account.
-UNSPOKEN: Daru doesn't respond. He's already deep in concentration.
-Rintaro: Anyway, I'm gonna sleep. It's all yours.
+Rintaro: "It doesn’t matter if we trust him or not! Now we have something in common -- a time machine. We should investigate SERN! We’ve got nothing to lose!"
+UNSPOKEN: Vigor returns to my body. Curiosity truly is the greatest delicacy for a mad scientist like me! Anyway, the PhoneWave (name subject to change) experiment has hit a dead end for now, so it shouldn’t matter if I make a little detour for this.
+Rintaro: "Tell me everything you know about SERN."
+Itaru: "Sure thing. My SERN folder is smoking hot!"
+UNSPOKEN: Daru strikes his keys with renewed passion. He goes to the My Pictures folder and opens a folder literally called SERN.
+Itaru: "SERN is the world’s largest particle physics research institution. It’s popularly called the ’European Laboratory for Particle Physics’, or the ’European Organization for Nuclear Research’. It’s close to the border of Switzerland and France, on the outskirts of Geneva. It’s famous as the birthplace of HTML, HTTP, and the World Wide Web."
+Rintaro: "The World Wide Web? You mean the internet?"
+Itaru: "Bingo. That thing at the beginning of most URLs."
+UNSPOKEN: SERN invented that? All I know about SERN is what I read Titor’s book. I never knew they were that amazing.
+Itaru: "Most people aren’t aware, but there’s a Japanese research team working at SERN too."
+Rintaro: "What sort of research does SERN do?"
+Itaru: "Particle physics, mostly. SERN can do experiments no one else can, because they have the biggest particle accelerators in the world. The Low Energy Antiproton Ring, the Proton Synchrotron Booster, the Large Electron-Positron Collider. And the big boss is the largest accelerator in the world, the LHC... Large Hadron Collider-tan."
+UNSPOKEN: ...-tan? Otaku possess the ability to anthropomorphize (in moe form) just about anything in the world simply by sticking tan on the end of its name. Daru’s powers encompass even particle accelerators. Daru doesn’t seem to notice my shock. He just brings up the next image.
+Itaru: "The LHC is a 27km-long circular tunnel built underneath SERN’s headquarters. Its purpose is to smash protons together in the hope of creating unknown elementary particle reactions. They started experimenting last year. Before they started, there were rumors that the experiments might create mini black holes. Oh no! Those mini black holes will swallow the earth! The universe is in danger! etc."
+UNSPOKEN: Mini black holes... I’m pretty sure Titor said his time machine used mini black holes. Are the things he said about SERN true?
+Rintaro: "What’s the possibility of that actually happening?"
+Itaru: "100% that it... won’t. SERN officially denies it. Let’s say a mini black hole was formed. The amount of energy would be so tiny that it would disappear instantly upon formation. It would be impossible for it to swallow the world."
+Rintaro: "But where there’s smoke, there’s fire."

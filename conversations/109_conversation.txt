@@ -1,22 +1,19 @@
-Kurisu: 'Jellyman's Report 7.' 'Subject: Michael Lang, Age: 33, German' 'Z Program 4, Date of Experiment: 2002-10-8 T 13:28' 'Results: Error. Human is dead. Mismatch.'
-UNSPOKEN: The article clipping is written in Japanese. Looks like a pre-war newspaper. It even happened in Japan. I've never heard this story before. It was pre-war, though, so I guess someone born in the 90s like me would have no way of knowing about it. Next page. The picture shows a beach, beautiful but for the jellyfish-like body lying on the sand. It must have washed ashore. 
-Kurisu: 'Jellyman's Report 6.' 'Subject: Mark Hughes, Age: 30, American' 'Z Program 4, Date of Experiment: 2002-8-23 T 12:52' 'Result: Error. Human is Dead. Mismatch.' 'On July 1, 1985, a strange body washed ashore on the coast of Streymoy, Faroe Islands.' 'It appeared to be the body of an adult male, but its flesh was soft like that of a jellyfish. Some of the island's inhabitants believe that it was the body of a merman.' 'The inscription 'SERN' was found near the body's shoulder, but SERN denies any involvement.'
-Itaru: Keep looking?
-Rintaro: I've seen enough.
-UNSPOKEN: There are 14 of these people?
-Kurisu: The sites are spread throughout the world. What can we deduce from this?
-Rintaro: They must have sent them to those places.
-Kurisu: I don't think so. It's too random.
-Itaru: There was something about Kerr black holes and gravity, right? Isn't that the cause?
-Kurisu: It is believed that due to infinite compression by supergravity, the subject could not endure passage through the Kerr black hole's singularity.' That's what it said.
-Itaru: What's a Kerr black hole? Is it different from a regular black hole?
-Kurisu: It's a theoretical black hole with a rotating singularity. Their existence hasn't been proven yet. Not that there's any way to prove one exists.
-UNSPOKEN: Kerr black hole. Where have I heard that term before?
-Rintaro: That's right... John Titor!
-UNSPOKEN: Titor said his time machine used Kerr black holes.
-Rintaro: According to Titor, SERN finished their time machine in 2034. And then Titor himself came from 2036.
-UNSPOKEN: It makes sense for Titor and SERN to be using the same time travel technology. Kurisu closes her eyes in deep thought.
-Kurisu: Creating Kerr black holes? That's insane. If you screw up, it could swallow the Earth... and besides, Kerr black holes are just a theoretical construct.
-Rintaro: If Titor's predictions are a reality, then that means the LHC worst case scenario video on MewTube was right.
-Itaru: I don't know about Titor's predictions, but I've seen the problem video before. It was on the news two or three years ago.
-Kurisu: The gravitational forces inside a black hole are unbelievably powerful. It's certainly possible that passing through one could allow time displacement, but there's no way a human could do that and come out alive.
+Rintaro: "Henceforth, this shall be known as Operation Laegjarn’s Chest!"
+Kurisu: "Why Norse mythology?"
+Itaru: "Is that Norse mythology? Because it’s cool, I guess."
+Kurisu: "Anyway, what is it with men and military terms..."
+Rintaro: "Daru, begin the operation!"
+UNSPOKEN: He soon finds the Jellyman’s Report. It required a second password authentication, which Daru broke through easily.
+Itaru: "Ready? I’m opening it."
+UNSPOKEN: Daru looks at me and Kurisu. I wet my parched lips and nod. The air in the lab suddenly seems thicker. Unable to escape through the closed window, it surrounds us with an oppressive heat. Daru wipes the sweat off his forehead with a handkerchief, then timidly presses the enter key. The file opens. At first glance, it looks like a resume. There’s a photograph on the top right. The top left has name, age, height, weight, and other information. In the center is a long string of English text. Underneath that, there’s something attached, like a scan of a newspaper clipping with a black and white photo. And then I know. I know exactly what the Jellyman in Jellyman’s Report means.
+Kurisu: "’Jellyman’s Report 10’ ’Subject: James McCarthy, Age: 31, American’ ’Z Program Stage 4, Date of Experiment: 2005-01-28 T13:05’"
+UNSPOKEN: Kurisu bends over Daru’s shoulder, reading the contents out loud.
+Kurisu: "’Results: Error. Human is dead. Mismatch.’"
+Itaru: "That again..."
+Kurisu: "’It is believed that due to infinite compression by supergravity, the subject could not endure passage through the singularity inside the Kerr black hole.’ ’April 3, 1921. New York City. An unidentified man was discovered dead in an alley off Union Square. The right half of his body was embedded in a nearby wall.’"
+UNSPOKEN: It sounds like Kurisu is reading the newspaper article at the end.
+Kurisu: "’The man’s body... ...was completely gelified.’"
+UNSPOKEN: The ticking of the clock is like a hammer inside my head. It’s past 2 AM. The window is closed, and the lab is silent but for the humming of the computer. We stare at the gruesome image displayed on the monitor, speechless. I was right. We’re in too deep. I half expect guys in black suits and sunglasses to kick down the door and drag us off to a secret military prison. Better make sure the door’s locked.
+Itaru: "What’s going on here?"
+UNSPOKEN: Daru breaks the silence with a disbelieving whisper.
+Itaru: "They... gelified someone?"

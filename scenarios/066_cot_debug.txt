@@ -1,0 +1,21 @@
+Before writing the scenario, it's crucial to brainstorm and think through all the information provided.
+
+1. The scene takes place in the Future Gadget Laboratory, where Okabe, Itaru (Daru), and Mayuri are present. 
+
+2. Okabe is the leader, Itaru is the super hacker of the team, and Mayuri is a close friend of Okabe and a member of the lab.
+
+3. Okabe is excited, intrigued, and driven by the discovery they've made. Itaru is curious and analytical, trying to process the information and understand the implications. Mayuri is detached from the situation, focusing on her sewing.
+
+4. The significant event leading up to the scene is the discovery of the hidden function of the retro PC, IBN 5100, which can read a dead programming language. This knowledge was obtained from John Titor, a supposed time traveler, and Suzuha, a lab member. 
+
+5. Okabe's goal is to use this discovery to challenge SERN, a scientific institute they believe is involved in illicit activities. Itaru is there to understand the implications of this discovery. Mayuri is seemingly indifferent to the situation.
+
+6. The overall mood is intense, with a mix of excitement and intrigue.
+
+7. The scene is continuous, focusing mainly on the interaction between Okabe and Itaru, with Mayuri providing a lighter touch to the situation.
+
+Special terms: IBN 5100, SERN.
+
+Scenario: 
+
+In the confines of the Future Gadget Laboratory, a trio of friends are engrossed in an intense discussion. Okabe, the self-proclaimed leader and mad scientist, is in deep conversation with Itaru, the group's expert hacker, while Mayuri, a close friend, is engrossed in her sewing, seemingly indifferent to the tension in the room. The group has recently discovered a hidden function in a vintage computer, the IBN 5100, which can decipher an obsolete programming language, a piece of information revealed to them by a supposed time traveler. This discovery has sparked a flame in Okabe, who is eager to use this knowledge to challenge SERN, a scientific institute they believe is conducting illicit research. Itaru, on the other hand, is attempting to understand the implications of this revelation, while Mayuri remains detached. The overall mood is intense and suspenseful, with the lab filled with a sense of intrigue and anticipation.

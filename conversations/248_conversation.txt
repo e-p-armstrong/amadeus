@@ -1,33 +1,29 @@
-Suzuha: Perhaps. But I know your true nature.
-Kurisu: Wow, you can see into my heart? That's groundbreaking technology. I'd love to hear how it works.
-Suzuha: It's not science. It's... a prediction.
-Kurisu: So you're just making it up.
-Suzuha: I know.
-UNSPOKEN: Uh-oh, we've got a situation here.
-Mayuri: Okarin.
-UNSPOKEN: Mayuri clings to me with teary eyes.
-Mayuri: Stop them from fighting.
-Rintaro: Heh... this looks like a job for the one and only Hououin Kyouma.
-UNSPOKEN: I insert myself between the two girls.
-Rintaro: Break it up, you two! I, Hououin Kyouma, shall decide this dispute!
-UNSPOKEN: They both glare at me. Although I'm afraid for my life, I harden my resolve. The mission must succeed. First, I focus on Kurisu.
-Rintaro: Assistant! I didn't raise you this way.
-Kurisu: You didn't raise me at all.
-Rintaro: If you want to become a true mad scientist, you must learn to keep your emotions in check even as you cackle your way to victory!
-Kurisu: Nobody asked you. And I'm already a scientist.
-UNSPOKEN: Next, I switch focus to Suzuha.
-Rintaro: Warrior! Your enemy is SERN, remember? You must conserve your strength for Ragnarok.
-Suzuha: I warned you before, Okabe Rintaro. Makise Kurisu is a threat.
-Rintaro: Wha--
-UNSPOKEN: You're going to mention that here? Now?
-Kurisu: Oh? What's this about, Okabe?
-UNSPOKEN: Their eyes are like laser beams boring into my skull. I want nothing more than to flee for my life. But Mayuri's watching me anxiously. I need to defuse the situation.
-Rintaro: MUHAHAHA! Looks like neither of you is willing to back down. So be it! Fight to your hearts' content! Fight until there is no more fight to be had! Then, share a manly handshake by the river and let friendship blossom! But in the future, when it comes time for you to venture out into the real world, I hope you remember one thing... Nobody likes a mood-killer!
-Kurisu & Suzuha: Shut up!
-UNSPOKEN: Getting yelled at by both of them at the same time sends shivers down my spine. It's coming. I quickly seize my right arm.
-Rintaro: Gah! Why now, of all times!? Calm down, right arm of mine!
-UNSPOKEN: I turn around and head back to Mayuri.
-Rintaro: I'm sorry, Mayuri. At his rate, I'll end up hurting those two. I have no choice... the rest is up to you...
-Mayuri: Geez...
-UNSPOKEN: Mayuri puffs her cheeks out and goes over to the two girls.
-Mayuri: Um, guys? Mayushii doesn't like it when you fight. Let's all get along, okay?
+Itaru: "I was a boring little bastard who did nothing but study, what of it?"
+Rintaro: "Basically, that little bastard would suddenly have all your perverted memories, but his personality wouldn’t change. It’s not like you’ll become that famous anime detective with ’the looks of a child and the brains of an adult’."
+Itaru: "What? That sucks."
+UNSPOKEN: This isn’t like the time-leaping you see in sci-fi novels. We aren’t yet capable of transferring personality and consciousness.
+Kurisu: "Ahem. Um, since you need a phone to receive the signal, you can only send memories to the times you had one. We also need to make sure that the sender and recipient are the same person. If someone besides your past self -- your parents, or a friend, for instance -- answers the phone, then the nerve impulse signals will be projected into their brain instead. If that happens, your memories could overwrite theirs, which could obviously cause serious damage to their psyche."
+UNSPOKEN: Kurisu ends her explanation and takes a short breath. The lab falls into silence. I exchange glances with Kurisu and Daru. I look at Mayuri, but her expression is blank. I guess it was too complicated for her.
+Rintaro: "So."
+UNSPOKEN: I clear my throat. It’s time for the million dollar question.
+Rintaro: "What do we do with it?"
+Itaru: "Do with what?"
+Rintaro: "The Time Leap Machine, of course. What do we do with it?"
+UNSPOKEN: For once, my assistant has nothing to say. I already know that she fears we’ve created a monster. Honestly, I feel the same way. After a few moments, Kurisu finally speaks.
+Kurisu: "It’s too much for us to handle, that’s for sure. The safest thing would be to hand it over to the government for professional research."
+UNSPOKEN: I can tell that she’s not pleased to have reached this conclusion. She obviously would prefer to experiment with this technology. After all, it’s humanity’s first time machine. We’ve finally taken our first steps towards godhood. I’m sure that the nations of the world would pay billions for just one look at our machine. The possibilities that it represents are limitless.
+Itaru: "It just doesn’t feel real."
+Mayuri: "Mayushii doesn’t get it..."
+Itaru: "That’s ’cause you didn’t work on it, Mayu-shi."
+Mayuri: "Oh, right. Ehehe!"
+Kurisu: "What about you, Okabe? And I mean you, not Hououin Kyouma."
+UNSPOKEN: I agree with Kurisu that the Time Leap Machine is dangerous. On the other hand...
+Rintaro: "I want to experiment."
+UNSPOKEN: I state my honest feelings. Kurisu gasps.
+Rintaro: "But there are still questions we need to answer."
+UNSPOKEN: This is unknown territory -- not just for us, but for all of humanity.
+Rintaro: "...Who will time leap?"
+UNSPOKEN: I look to each of the lab mems in turn. Daru quickly looks away. Mayuri’s expression is blank. Kurisu... stares right back at me.
+Kurisu: "...It’s hard to choose."
+Itaru: "I’ll pass."
+Mayuri: "...?"

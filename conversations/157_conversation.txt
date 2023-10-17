@@ -1,29 +1,31 @@
-UNSPOKEN: Is that supposed to be encouragement? Mayuri sounds concerned for some reason.
-Itaru: So, whatcha gonna send? Okarin wants us to change the past in an easy-to-measure way, but that's setting the bar way too high.
-Rintaro: Nonsense. You're all just aiming too low.
-Moeka: I... have an idea.
-UNSPOKEN: Moeka murmurs.
-Rintaro: Oh? This could be good. Give us the details.
-UNSPOKEN: Moeka then invokes her power once more. Ultra-fast typing. The power known as Shining Finger.
-Rintaro: Excellent, Shining Finger! You're a model lab mem!
-UNSPOKEN: This should make it easy to tell whether the past has changed. Looks like the three useless members have no objections to Moeka's superior idea. We look at Moeka's phone. It's purple and gaudy. There's no strap, and it's not like the deco phones popular among mainstream women nowadays.
-Itaru: Oh, that's the GG01 that just came out last month.
-Mayuri: Gee Gee Zero One?
-Itaru: The latest model. Pretty sure the screen is detachable, so you can swap out attachments for it. It's in short supply right now, so you need to be placed on a waitlist. Nice job getting one.
-UNSPOKEN: It's the most popular model, but she wants her old one back? I guess hardcore phone users have other concerns besides fashion.
-Rintaro: So, Finger.
-Mayuri: Um, why do you call Moeka-san 'Finger'?
-Rintaro: That's the name of her esper power. Kiryu Moeka, I dub thee Shining Finger! Use this name with pride.
-UNSPOKEN: Moeka shakes her head expressionlessly.
-Rintaro: What? You don't like it? But it's such a cool name. What's the problem!?
-Mayuri: Moeka-san is Moeka-san. Her fingers don't shine or anything...
-Itaru: Don't feed the trolls, Mayu-shi.
-Rintaro: I'm not trolling, just naming her power.
-Kurisu: Cut the chatter and get started.
-UNSPOKEN: Gh, dammit. You're just an assistant. Don't boss us around!
-Itaru: What if the manager says something?
-Rintaro: Muhahaha! Don't be afraid of Mister Braun! If he storms in yelling, I'll kick him to the curb!
-Itaru: Seriously? Okarin, you're so cool! That's why we love you!
-Kurisu: He's just talk.
-UNSPOKEN: I'll be the adult and ignore Kurisu's insult. Moeka has already written her 36-byte mail. When I look at Moeka to see if she's ready, she nods faintly. We set the timer to 100 seconds. The D-Mail should arrive at Moeka's phone four days ago -- July 31st.
-Rintaro: PhoneWave (name subject to change), activate!
+Mayuri: "If you give up, it’s game over!"
+UNSPOKEN: Unfortunately, Daru’s second D-Mail fails to change the past. I get the feeling RaiNet matches are difficult to cheat your way out of like this. Not to mention we’re limited to 36 bytes of text. Looks like we have to give up on Daru. He’s gone to drown his sorrows in the internet. Alright, so who do we experiment on? From the look on Kurisu’s face, I don’t think she’s willing to change her policy. That leaves only one candidate.
+Rintaro: "Mayuri, it’s time for you to change the past."
+Mayuri: "Eh? Me? Are you sure? But, um... what should I change?"
+UNSPOKEN: Mayuri looks stumped as she slurps her canned ramen.
+Mayuri: "Oh, I know! I’ll make Luka-kun wear one of my costumes!"
+Rintaro: "How?"
+Mayuri: "By sending Luka-kun a mail! Ehehe!"
+UNSPOKEN: I don’t think a simple request is going to change the past...
+Rintaro: "Can’t you think of anything easier to change and observe?"
+Mayuri: "Hmm..."
+UNSPOKEN: She slurps more ramen.
+Rintaro: "...Let’s use that canned ramen."
+UNSPOKEN: Looks like I’m the only one with ideas.
+Rintaro: "You’ll send a D-Mail to yourself one hour ago. Type ’I wanna eat canned oden’ or something like that."
+Kurisu: "I don’t think that’s enough to convince her to--"
+Mayuri: "Oh, that might work!"
+Kurisu: "Eh...?"
+Mayuri: "When I went to the vending machine today, I spent ten minutes wondering if I should get canned oden or canned ramen. It was really hard!"
+Rintaro: "So a little push should be enough to make you choose canned oden! Alright, let’s go with that!"
+Mayuri: "Okay! But before we change the past, I gotta finish this ramen first."
+UNSPOKEN: Mayuri starts shoveling the ramen into her mouth.
+Kurisu: "What happens if you don’t finish it?"
+Mayuri: "It’ll go to waste♪"
+Kurisu: "Oh... of course. Ahaha..."
+UNSPOKEN: Kurisu clearly doesn’t know what to say. Mayuri really is a ditz. I’m used to it by now, of course. I get the PhoneWave (name subject to change) prepped for D-Mail. The content of Mayuri’s mail is simple enough. I just hope it actually works. We wait for Mayuri to finish eating her canned ramen, then activate the PhoneWave (name subject to change). To send it one hour back, we input 1#. In other words, we set the microwave for only one second. I wonder if the discharge phenomenon will occur in such a short span of time. That’s something else we’ll learn from this experiment.
+Rintaro: "PhoneWave (name subject to change), activate!"
+Mayuri: "Aw... I haven’t sent it yet..."
+UNSPOKEN: There wasn’t enough time to blink.
+Kurisu: "So one second isn’t enough for the discharge to occur. That’s what I expected, but it’s good to have proof."
+Itaru: "What if you try warming it up beforehand?"

@@ -1,29 +1,24 @@
-UNSPOKEN: The building starts shaking again as soon as I finish speaking. Flakes of concrete start falling from the ceiling. The 42-inch CRT's image goes to static. Dammit, Daru! What are you doing!? I thought I told you to stop the experiments!
-Tennouji: Okabe!
-UNSPOKEN: He's glaring at me.
-Tennouji: The ceiling is falling, you dumbass! Some got into my ramen! What are you gonna do about it, huh!? No more shaking! Or I'll raise your rent by 10, 000!
-UNSPOKEN: What!? If you raise it 10, 000 yen, we're ruined!
-Rintaro: Leave it to me, Mister Braun! On my honor, I swear there won't be any more shaking today!
-UNSPOKEN: With that, I race out of the Braun Tube Workshop.
-Rintaro: Christina! Stop the experiments at once!
-UNSPOKEN: When I burst into the lab, I find the three of them in the middle of lunch. Mayuri has Juicy Chicken Number One. Daru has a convenience store boxed lunch. Kurisu's eating cup noodles with a fork.
-Mayuri: Sorry, Okarin. Mayushii tried to warm up some chicken. I accidentally put it through reverse rotation, and then it started sparking.
-Rintaro: ...I see.
-Kurisu: I sent you an email. Didn't you get it?
-UNSPOKEN: Your sarcasm is not appreciated, Christina. You know as well as I do that my phone is still attached to the PhoneWave (name subject to change)! I disconnect my phone from the PhoneWave (name subject to change) while grinding my teeth. One more please?
-Rintaro: Stop screwing around! I'm the one who has to deal with Mister Braun!
-Kurisu: But I gave you five days advance notice.
-UNSPOKEN: Well, yeah, the timestamp's from five days ago, but...
-Itaru: Was he mad?
-Rintaro: Yeah... I could feel his Killing Aura.
-UNSPOKEN: Daru turns pale, but the two girls don't seem to care. They know not the wrath of Mister Braun. Ignorance is bliss.
-Rintaro: Anyway, no more experiments today.
-Kurisu: Well, at least we got some good data.
-UNSPOKEN: Then Kurisu hides her mouth with her hand as she yawns.
-Kurisu: I'm dead tired, and my hair's dried out. I want to take a shower and go sleep.
-UNSPOKEN: I sigh and take a boxed lunch out of the convenience store bag. It's cold, so I toss it into the PhoneWave (name subject to change) and set the timer normally.
-Mayuri: If you want a shower, there's one here. It doesn't have a bath, though. Okarin always uses it.
-Kurisu: It's probably filthy...
-Rintaro: I'd be lying if I called it clean. This entire building is in shambles.
-Kurisu: Anyway, I refuse to use the same shower as Okabe.
-Rintaro: I understand. Nobody will blame you if you don't use it. Of course, since the three of us stayed up all night, we're all pretty smelly. Heh heh heh.
+Rintaro: "Yeah. It did."
+Itaru: "Is there some kind of rule for when it arrives?"
+Mayuri: "Let’s try sending more!"
+UNSPOKEN: Mayuri’s right. Now that we’ve figured out how to send D-Mails, we should keep experimenting and collect as much data as we can.
+Rintaro: "Alright, lab mems! Battle stations!"
+Kurisu: "He’s at it again..."
+Rintaro: "Our mission: to send as many D-Mails as possible! Daru, man the X68000. Your job is to observe, adjust, and gather information on the PhoneWave (name subject to change). Assistant, keep those mails coming! Try various patterns of text. Japanese, English, full-width, half-width, emoticons. The actual messages don’t matter."
+UNSPOKEN: I’m sure Shining Finger would be better for the job, but since she’s not a lab mem, I’ll leave it to Kurisu.
+Mayuri: "What about Mayushii?"
+Rintaro: "Your mission is to go shopping. Just buy some bananas for now. I, Hououin Kyouma, shall fund you!"
+Mayuri: "Wow! You’re so generous♪"
+Kurisu: "So I guess your job is opening the microwave."
+Itaru: "Whoa! You saved the easiest job for yourself?"
+Rintaro: "Heh. No, my assistant’s judgment is sound. The key to a successful D-Mail is most likely the correct timing of opening the microwave door!"
+Kurisu: "Uh, I was just kidding."
+Rintaro: "MUHAHAHAHA! Leave this task to Hououin Kyouma! I shall open this door with precision, boldness, and delicacy, as if it were the flesh of a beautiful woman!"
+Mayuri: "Okarin, that’s naughty!"
+Rintaro: "Furthermore, the current operation is top secret. You must not leak it to anyone. Got it?"
+UNSPOKEN: Mayuri nods. The others are ignoring me.
+Rintaro: "Now I shall give this operation a name! It shall be known as Op--"
+Kurisu: "Don’t need one. Let’s start."
+Rintaro: "Wha... but..."
+UNSPOKEN: You ruined my climactic scene! Damn you, assistant! This is an outrage! Afterwards, the D-Mail experiment -- its name is Operation Urd, though I lost my chance to announce it -- continues for two hours. During that time, every D-Mail goes back in time without a hitch. Now it’s time to take a break. We’re all hungry, and except for Mayuri, we’ve been up since last night.
+Kurisu: "Go ahead and rest. I’m gonna have a go at it a little longer."

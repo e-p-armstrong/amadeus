@@ -1,24 +1,29 @@
-UNSPOKEN: Kurisu glances at Moeka again. Moeka is completely expressionless. She's lightly kicking the dirt in boredom. She hasn't used her phone once since we began the search for FB.
-Kurisu: Isn't she our enemy?
-Rintaro: She is an enemy, but we're cooperating in order to uncover the truth.
-Kurisu: Isn't she the one who... killed Mayuri?
-Rintaro: ...Yes.
-UNSPOKEN: However, Moeka's just a pawn, and one that no longer poses a threat. To save Mayuri, I need to capture the king. Well, the king's cellphone.
-Kurisu: Whatever. So where are you going now? Take me with you.
-Rintaro: Have you gone mad, assistant mine?
-Kurisu: I'm perfectly sane, and I'm not your assistant.
-Rintaro: It could be dangerous.
-Kurisu: Eh...
-UNSPOKEN: Kurisu falters for a moment, but quickly tightens her expression.
-Kurisu: Do I die today?
-UNSPOKEN: I've experienced the future, so I know who dies today.
-Rintaro: No. You don't die.
-Kurisu: Then there's no problem. This worldline has essentially guaranteed my survival.
-UNSPOKEN: Right. Kurisu doesn't die today. Neither does Mayuri. The only person who dies today is... Kiryu Moeka. This afternoon, she kills herself. I've already told Moeka her fate. But in spite of that, Moeka doesn't seem upset -- at least on the surface. She's expressionless as always. The only difference is that she's not checking her phone as often. But Moeka's not a strong woman. Beneath that expressionless mask, is she struggling against the fear of death? I decide to confront Tennouji directly. I have Kurisu stand guard outside the house while Moeka and I go inside. Not that we're planning to break in. We ring the doorbell like honest citizens. Tennouji soon opens the door and invites us into the living room. The divergence meter is sitting in its usual spot. I glance at the numbers. 0. 523307%. There's still a long way to go before I reach one percent. How much more of this can I take?
-Tennouji: Make yerselves at home.
-UNSPOKEN: It's just after dawn, much too early for guests, but Tennouji welcomes us with a smile. He even starts preparing some instant coffee.
-Rintaro: You're an early riser, Mister Braun.
-Tennouji: Yeah. Gotta see my little girl off to school. I know it's summer break, but habits die hard.
-Rintaro: Is your daughter still asleep?
-Tennouji: Hey. You thinking of trying something while she's sleeping? Touch her and I'll break your head, got it?
-Rintaro: Don't worry.
+UNSPOKEN: Mayuri waits in the lab as I take Kurisu outside.
+Rintaro: "So, Christina."
+Kurisu: "I’m not going to ComiMa."
+Rintaro: "You said ’again’ just now. We’ve talked like this before, just the two of us?"
+Kurisu: "Losing your memory now? Does our little mad scientist have an acetylcholine deficiency?"
+Rintaro: "I’m being serious."
+Kurisu: "You’re acting weird today. What’s going on?"
+Rintaro: "Please. I need to know."
+Kurisu: "I mean, yeah. This is like the fifth time you’ve brought me outside to talk about the Time Leap Machine."
+Rintaro: "Have we talked about my time leaping?"
+UNSPOKEN: For an instant, Kurisu opens her eyes wide in surprise. But then, she gives me an angry glare.
+Kurisu: "You’re time leaping?"
+UNSPOKEN: I nod.
+Rintaro: "More than a dozen times already."
+Kurisu: "That many!? What the hell are you doing!?"
+UNSPOKEN: Hmm... Looks like she doesn’t know anything about Lukako or my shifting between worldlines. But that’s only natural. So far, I’ve changed worldlines a total of three times. Let’s call the first worldline where Mayuri died Alpha 1. The worldline where Faris and I fought the Viral Attackers is Alpha 2. The worldline where I dated girl Lukako is Alpha 3. And now I’m on Alpha 4. From my perspective, Alpha 1, Alpha 2, and Alpha 3 were undone by my D-Mails. But for Kurisu and everyone else on Alpha 4, those worldlines were nothing but separate, intangible possibilities to begin with. I guess I have to explain everything again. I sigh heavily, then begin.
+Kurisu: "...I think I get it."
+UNSPOKEN: After I’m done, Kurisu sighs and lightly pats my arm.
+Kurisu: "Don’t wear yourself out."
+Rintaro: "It’s a disgrace to be comforted by my assistant."
+Kurisu: "Why are you always like that!? I’m even trying to be nice. You’re really full of yourself, you know?"
+Rintaro: "I don’t need your sympathy. Everything that happened is my fault. I’m just getting what I deserve. ...Come to think of it, every time I explain this to you, I always end up hating myself in the end."
+Kurisu: "Okabe..."
+Rintaro: "Don’t worry about me. Worry about Mayuri. Mayuri will probably die tomorrow. I don’t know how it will happen."
+UNSPOKEN: If Mayuri stays away from the lab, she can probably avoid running into Moeka and her men. It doesn’t matter, though. She’ll die all the same. All Alpha worldlines converge on her death. Escaping the attractor field is the only way to save her.
+Rintaro: "Sorry about this, but I want you to be there when she dies tomorrow night."
+Kurisu: "That’s why you want me to go to ComiMa?"
+Rintaro: "There’s nothing we can do to prevent her death. Just stay close and tell me when it happens. Once I know, I’ll make the time leap."
+Kurisu: "I can’t believe there’s nothing we can do. It just doesn’t feel real. But it’s the truth, isn’t it? I can see it in your eyes. ...Are you okay?"

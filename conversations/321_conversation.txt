@@ -1,30 +1,13 @@
-UNSPOKEN: I have to use it!
-Rintaro: !!
-UNSPOKEN: I swallow my fear and activate Moad Snake. White smoke instantly fills the room, rendering it impossible to see. The Rounders won't be able to aim through this. I have to time leap while it lasts! I grab Mayuri's hand and fumble through the smoke towards the development room.
-Moeka: Shoot them!
-UNSPOKEN: I hear the sound of guns firing wildly behind me.
-Mayuri: Augh!
-UNSPOKEN: Suddenly, Mayuri's arm gets heavy. I trip forward and land on my face.
-Rintaro: Mayu--
-UNSPOKEN: Our hands were separated in the fall. I grope around and soon find her slender hand.
-Mayuri: O...kari...
-UNSPOKEN: Mayuri's feeble whisper reaches my ears. Was she hit!? The Rounder's blind shot hit Mayuri!?
-Mayuri: It... hurts...
-UNSPOKEN: Mayuri's voice quickly fades away. Strength drains from her fingers.
-Rintaro: Mayuri! Come on! Get up!
-UNSPOKEN: But Mayuri doesn't answer. ...I'm sorry, Mayuri. Once again, I've failed to save you. I thought I'd succeeded, but I was wrong. I hear my teeth grinding in my head.
-Kurisu: Stop! Stop!
-Itaru: Don't shoot meeeee!
-UNSPOKEN: I hear Kurisu and Daru screaming as the gunfire continues.
-Rintaro: Guh!
-UNSPOKEN: A sharp pain flares at the top of my head. I press down with my hand. It comes away soaked with blood.
-Rintaro: Ah, aahhh...
-UNSPOKEN: It hurts it hurts it hurts! It feels like someone took a saw to my skull. My ears are ringing. I stumble. I can't stand up straight. I need to get to the Time Leap Machine! I squeeze Mayuri's limp hand one last time, then crawl to the development room, fumble for the headgear, and put it on. I point the remote at the hole and press the power button. The TV turns on downstairs. I can hear people laughing on the screen.
-Attacker A: Target A, Target C secured.
-Kurisu: Run, Okabe! Run!
-UNSPOKEN: Shit! I clench my fists in frustration. The Time Leap Machine is already activated. The discharge phenomenon is starting. The floor begins to shake. Once again... I leap to the past.
-Rintaro: Ah!
-UNSPOKEN: The world collapses, then reforms. Once again, I feel that odd numbness behind my eyes. The pain at the top of my head is gone. I wipe the sweat off my brow and look around. I can't see Moad Snake's vapor any more. The air is clear. Kurisu is reading a western book like usual. Mayuri is playing a handheld game while eating a banana. Daru isn't here. I recall he said he was going out somewhere.
-Rintaro: Mayu--
-UNSPOKEN: I quickly swallow my words.
-Mayuri: Okarin? You want a banana too?
+UNSPOKEN: I ignore her and bite down hard on my lip. As the taste of blood fills my mouth, I press the button. The world shatters into geometric shapes that expand and contract like rubber toys. Light gathers between my eyes. Stars explode behind my eyelids. Gradually, color returns to the world.
+Rintaro: "Ah!"
+UNSPOKEN: I wait for the vertigo to pass. Cold sweat oozes from my temples. Pressing my fists against them, I slowly force the air out of my lungs. Has the worldline changed? I head to the lounge in order to check the divergence meter.
+Rintaro: "It’s gone..."
+UNSPOKEN: I checked the meter a few minutes ago, just before the worldline changed. Now it’s nowhere to be found. I quickly realize what has happened. Suzuha gave me the meter after we stopped her from leaving. My D-Mail undid those events. Of course the meter isn’t here. A surge of regret seizes my heart. I clench my teeth and endure it as best I can. If nobody else remembers, then I alone will keep these memories of Suzuha alive. I look around the room. Mayuri and Kurisu are on the sofa, dozing on each other’s shoulders. Daru, oblivious to the vulnerable high school girls behind him, is playing an eroge on his computer. I take a deep breath and turn on the TV. I flip to a news channel. The worldline should have changed. I erased the time we spent with Suzuha. That should have allowed her to leap to 1975 without losing her memories, and the IBN 5100 should be in our hands now. We can use it to hack into SERN and erase the data they intercepted from us. Without that information, Moeka’s men won’t attack the lab. Mayuri won’t have to die. That’s how it should be. That’s how it has to be. Otherwise, why did I sacrifice Suzuha’s dream? The quickest way to confirm the change would be to check for any delays at Akihabara Station.
+Rintaro: "Daru, is the Yamanote Line stopped?"
+Itaru: "Huh? Uh... I don’t think so?"
+Rintaro: "Check online."
+Itaru: "Wait, I’m at the best part."
+Rintaro: "Please."
+UNSPOKEN: Daru sighs and calls up train information.
+Itaru: "Hmm, doesn’t look stopped."
+Rintaro: "Thanks."

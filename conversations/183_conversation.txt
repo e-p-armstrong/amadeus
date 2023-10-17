@@ -1,38 +1,30 @@
-Kurisu: There was one more. The first mail Okabe accidentally sent that said I was dead.
-Rintaro: But from my perspective, we sent several more.
-Mayuri: You mean how you sent the winning LOTO SIX numbers? And how Luka-chan bought a ticket with those numbers, but didn't win?
-Kurisu: But nobody aside from Okabe remembers him sending it.
-Rintaro: But I showed you guys afterwards. It was still in my phone's arrival history.
-Itaru: We were so close.
-Mayuri: Is that all?
-Rintaro: No. There's more. Moeka and Lukako each sent a D-Mail.
-Kurisu: Oh, right. That's what you claim, but Hashida, Mayuri-san, and I don't remember either of those.
-Mayuri: Owww... Mayushii's getting a headache...
-Rintaro: I already told you guys. I'm the only one who keeps his memories after the world changes.
-Kurisu: So according to your perspective, when did the IBN 5100 disappear? Did it just happen? When's the last time you remember seeing it in the lab?
-Rintaro: Well...
-UNSPOKEN: I put my index finger to my forehead and search my memories. IBN 5100... IBN 5100...
-Rintaro: I'm sure... it was August 3rd. I remember it being in the lab on August 3rd.
-Kurisu: Are you certain?
-Rintaro: I... think so.
-UNSPOKEN: So many things have happened. My memories are a jumble. Let's go over the events which led to me obtaining the IBN 5100. I heard that Faris was a retro PC maniac who knew about the IBN 5100. I learned that nine years ago, she donated her IBN 5100 to Yanabayashi Shrine. I asked Lukako's dad for help, and he leant me the IBN 5100 just like that. Mission complete. At the very least, Faris and Lukako should remember what happened. I should give them a call. First up is Lukako.
-Luka: Hello, Okabe-san. Um... p-please forget what you saw the other day...
-Rintaro: I saw something?
-Luka: My... cosplay...
-UNSPOKEN: Oh, that? That was just Lukako getting embarrassed for no reason.
-Rintaro: More importantly, I have questions about the IBN 5100.
-Luka: The... eyebeam... five?
-Rintaro: IBN 5100. About nine years ago, someone dedicated a retro PC to Yanabayashi Shrine. That's the one. Know anything?
-Luka: Y-yes.
-UNSPOKEN: He remembers! Lukako really remembers!
-Rintaro: Just a while ago, I came to the shrine looking for it, didn't I!? And then I asked your old man and he let me borrow it. Right!?
-Luka: Eh...? I don't...
-Rintaro: ...Right?
-Luka: I don't remember anything like that...
-UNSPOKEN: What? Is this another effect of changing the past?
-Rintaro: The IBN 5100 was at the shrine though, right? Is it there now?
-Luka: Um... I don't know the details...
-Rintaro: Where are you now? Is your old man there?
-Luka: ...No.
-Rintaro: ...Damn. Okay. Sorry for calling you so suddenly.
-Luka: N-no problem. I'm sorry that I couldn't help..
+Rintaro: "The round table doesn’t matter now. More importantly, the purpose of today’s meeting... Is to explore methods of true physical time travel, not just D-Mail, with the objective of sending someone to the past like SERN has."
+Kurisu: "Don’t be ridiculous."
+UNSPOKEN: That was fast. And she’s glaring at me even harder than she was during the whole underwear thing.
+Kurisu: "SERN has the best equipment in the world, and even after nine years, they still haven’t succeeded. We can’t possibly hope to accomplish something like that."
+Mayuri: "You’ll become a GelOkarin! Ehehe!"
+Itaru: "Kinda sounds like Gero Froggy. Why did those things get popular, anyway?"
+Kurisu: "This isn’t a laughing matter..."
+Rintaro: "Isn’t it too early to give up? Haven’t we already succeeded with D-Mail, a first in human history?"
+Itaru: "But we’re not the first. Didn’t SERN do it before us?"
+Rintaro: "Humanity’s first time-traveling email. For we who have achieved that miracle, nothing is impossible!"
+Kurisu: "Such baseless confidence. Anyway, wasn’t it just a coincidence that we discovered D-Mail? We still haven’t figured out what’s functioning as the lifter."
+Rintaro: "We just need to figure that out, don’t we?"
+Kurisu: "It’s futile. How do you solve a problem that even SERN can’t figure out? If you can’t set the destination, then you don’t know where you’ll leap to."
+Itaru: "I’ll pass on leaping into deep space, thanks."
+UNSPOKEN: That is a problem. If you can’t control where you’ll end up, your time machine is worthless.
+Rintaro: "Wait a second. We don’t set the destination when we send a D-Mail, yet it still arrives where it’s supposed to. How do you explain that?"
+Kurisu: "Now that you mention it..."
+Itaru: "You set the mail address, right? Isn’t that enough?"
+Kurisu: "Is it? I don’t think a phone signal can be received from millions of kilometers away."
+Mayuri: "I bet you’d get a busy signal or something!"
+UNSPOKEN: I stare at my phone.
+Rintaro: "Maybe our cellphones are acting like black holes and white holes."
+Kurisu: "You shouldn’t speculate like that. You have zero basis."
+Rintaro: "Is it possible that we form a wormhole?"
+Kurisu: "No wormholes have ever been confirmed to exist."
+UNSPOKEN: I groan. Kurisu and Daru fall silent. The problem has them stumped too. Mayuri’s the only one smiling. She probably doesn’t understand and is just smiling because she feels like it.
+Rintaro: "In any case, the cold, hard truth is that D-Mails arrive precisely when and where we want them to. We’re ahead of SERN in that regard. Now, can we apply D-Mail technology to physical time travel?"
+Itaru: "But with D-Mails, you can only send 36 bytes of data. No way you can send a whole person with that kind of limit."
+UNSPOKEN: It’s the same problem that SERN is having, and the reason their subjects turn into jellymen.
+Kurisu: "If you want to become GelOkarin, I’m not stopping you."

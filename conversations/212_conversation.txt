@@ -1,20 +1,26 @@
-UNSPOKEN: Daru is sitting at his computer, like always.
-Itaru: I read on @channel that some collectors will pay millions of yen to buy one. IBN 5100s are serious business, man.
-Rintaro: If they have that high a premium...
-UNSPOKEN: Then people must know their secret. They're all after the data in SERN's mainframe!
-Itaru: I don't get it. How come they're so expensive? I mean, I guess they were pretty expensive to begin with. Looks like one cost about $20, 000 back in the day.
-UNSPOKEN: $20, 000... that is expensive.
-Itaru: Anyway, I can't believe it's so hard to find one. Sure it was a nice machine for its time, but only for its time. You'd have to be crazy to want one now. Maybe it's one guy buying them all up.
-UNSPOKEN: The harder something is to obtain, the stronger the desire for it becomes. That's how people are. And that's exactly how I feel now. In the depths of SERN, completely isolated from the outside, lies a database coded with an IBN 5100. What secrets are sleeping there? Could it contain the data from SERN's time machine research? Could there be proof that the Committee of 300 exists? The desire to know grows stronger by the day. It's not just about plunging the world into chaos anymore. We need the power to oppose SERN's evil ambitions. And then there's that threatening email to consider. Daru is confident that SERN won't find us, but I can't afford to take that for granted. After all, we're up against the brightest minds in the world, the scientists who invented the world wide web. And they're backed by a secret organization more powerful than any nation. We're way out of our league here. They'd have no trouble at all crushing our puny lab if they desired. That's why we need a trump card to hold against them. But without an IBN 5100, we can't move forward. I'm getting restless.
-Itaru: Woah, what's this?
-UNSPOKEN: Daru suddenly lurches forward to stare at his monitor.
-Rintaro: What's wrong?
-Itaru: But... there's no way that's right!
-Rintaro: What are you talking about? Explain.
-Itaru: Well, I'm pulling data off the server, looking for a way to gain root access... And these files are downloading crazy fast. I mean, we're talking light speed here. It's hard to believe, but for some reason, this area has a direct fiber optic line to SERN. Several lines, even.
-Rintaro: Direct? What do you mean?
-Itaru: I mean there's literally a fiber optic cable running from underneath this building to SERN's headquarters in France.
-Rintaro: Is that strange?
-Itaru: Uh, yeah?
-UNSPOKEN: Daru calls up the National Assembly of France's website. Then he brings up the command prompt and hammers out some commands.
-Itaru: Have a look. This is the route we used to visit the National Assembly of France's site. It starts from our IP address. From there, it passes through various relays in Japan, jumps to France, then bounces around there for a while before finally reaching the National Assembly's site. It takes 16 steps total to get there. The average transfer rate is about 300 milliseconds. That's normal for an overseas connection. In other words, there's a route we have to take to get to France from Japan. Everyone takes the same route. Other countries are the same. Even browsing domestically takes about 10 steps. Now let's try SERN.
+UNSPOKEN: A gloomy silence falls. I can see the sadness on everyone’s face.
+Rintaro: "Heh... heh heh heh..."
+UNSPOKEN: I begin to laugh.
+Rintaro: "MUHAHAHAHA!"
+Luka: "O-Okabe-san? What’s wrong? Are you okay?"
+Kurisu: "His brain is probably oxygen-starved from too much running."
+Itaru: "Okarin... chill."
+Rintaro: "Heh, look at you all! Why the long faces, friends!? Have you forgotten? We have just the thing for moments like these!"
+UNSPOKEN: I thrust my finger at the curtain to the development room.
+Kurisu: "You’re going to send a D-Mail?"
+Itaru: "But the discharge phenomenon won’t occur this late, will it?"
+Rintaro: "Then we’ll send it tomorrow."
+UNSPOKEN: D-Mails leap through time. It matters not when we send it, but when it is received.
+Mayuri: "Who are you sending it to?"
+Rintaro: "To myself this afternoon. The message..."
+UNSPOKEN: I smile triumphantly.
+Rintaro: "Don’t listen to Christina. Pursue Suzuha!’"
+UNSPOKEN: If I do that, there’s no way I can fail. And then, we can have Suzuha as a test subject! I suddenly hear the sound of rain. I look outside the window and see that rain has started to fall. As Daru predicted, the discharge phenomenon does not occur. It looks like we’ll have to wait until tomorrow. The rain grows stronger over time, eventually becoming a thunderstorm. The next day, there isn’t a cloud in the sky. It’s hard to believe it rained all night. I keep checking the Braun Tube Workshop through the window, but the morning passes without any sign of Suzuha. She’s probably long gone from Akiba by now. Heh heh heh... she doesn’t know who she’s dealing with. She is but a pawn in my game, destined to fight for me at Ragnarok. At the stroke of noon, I activate the PhoneWave (name subject to change). The destination is my phone, yesterday around 4 PM. The discharge phenomenon occurs as normal. The floor shakes violently. Squinting against the glare, I send the mail. My brain shakes violently. My vision flickers. As the vertigo passes, I can hear my heartbeat and feel the warm blood coursing through my body. I blink slowly. That was the sensation of Reading Steiner activating. And so I know. Suzuha is ours. I hurry down the stairs. I step outside and look to the front of the building. What belongs there has returned. A mountain bike polished to a shining finish. And on the bench next to it, looking up into the summer sky, is... Amane Suzuha.
+Rintaro: "...Good morning, Part-Time Warrior."
+UNSPOKEN: I try to remain calm as I call out to her.
+Suzuha: "Sup."
+UNSPOKEN: She greets me in her usual listless fashion.
+Rintaro: "Slacking off?"
+Suzuha: "It’s not like anyone’s gonna come. And besides, I was up all night partying. I’m really tired."
+Rintaro: "You were partying? With who?"
+Suzuha: "Were you drinking, Okabe Rintaro? Big no-no. You’re only eighteen."

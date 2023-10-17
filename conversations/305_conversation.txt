@@ -1,24 +1,18 @@
-UNSPOKEN: I shake my head.
-Suzuha: Anyway, people don't fight. Ever. About anything. All forms of conflict, war included, have vanished -- poof -- without a trace. Instead, everyone has dead eyes, like fish. No one has ambition. Nobody dreams. They just trudge through their lives without a single complaint. Oh sure, people smile. But they never get angry or sad. There's no individuality. Everyone's a robot. You got really mad at me before, remember? I was really surprised. But at the same time... I was really happy.
+Mayuri: "Okeydokey♪"
+UNSPOKEN: Mayuri beams happily, then runs over to the time machine. She’s acting like this is a field trip... Behind her, the sun glows dark and orange on the horizon. It’s quite a view from up here. After a few minutes watching the sunset in silence, I realize that Suzuha is standing beside me. She must have come over as Mayuri left. Our shadows are long and murky.
+Suzuha: "Hashida Itaru’s amazing. He said if things go well, he could have the time machine fixed by tomorrow."
+Rintaro: "He’s a man who gets things done."
+Suzuha: "And he looks so unhealthy and slow."
+Rintaro: "Don’t judge a book by its cover."
+Suzuha: "Yeah. I have a better impression of him now. Umm... hey. There’s something I want to say, and I feel like I’ll never get another chance."
+Rintaro: "Why so melodramatic?"
+Suzuha: "I’m really grateful to you. All of you. When I came to this time, I didn’t know anyone. I was all alone in a world completely different from my own. This era is so peaceful. That’s a wonderful thing... but it scared me. All I knew was the fight against SERN. But now I have friends... real friends, who I can share my secrets with. All these people who lived before I was born are working so hard for my sake. It’s a strange feeling... but a happy one, too. I wanted you to know that."
+UNSPOKEN: Suzuha’s tone is wistful. Why? I try to speak, but she continues before I can.
+Suzuha: "Living with you guys in this time... it’s been really fun. When I met you, you were all so strange and unique and over the top... I was kind of shocked at first, actually. But before I knew it, I started to enjoy spending time with you. 2036 is peaceful too. People don’t even fight anymore. Did you know that?"
+Rintaro: "How could I? I’m not even alive in 2036, right?"
+Suzuha: "Oh... right. Sorry. Anyway, people don’t fight. Ever. About anything. All forms of conflict, war included, have vanished -- poof -- without a trace. Instead, everyone has dead eyes, like fish. No one has ambition. Nobody dreams. They just trudge through their lives without a single complaint. Oh sure, people smile. But they never get angry or sad. There’s no individuality. Everyone’s a robot. You got really mad at me before, remember? I was really surprised. But at the same time... I was really happy."
+Rintaro: "You’re a strange girl."
+Suzuha: "Ahaha. I guess so."
 UNSPOKEN: Suzuha looks at the time machine. Daru and Mayuri are standing next to it, talking cheerfully about something or another.
-Suzuha: You're all so bright and full of life. I envy you. Shiina Mayuri, Hashida Itaru... even Makise Kurisu. And of course, you. I want to be more like you. It's thanks to all of you that I'm still going strong. Being a lab mem, even for just a little while... was great.
-UNSPOKEN: She smiles then -- a soft, sad smile that tears at my heart. This time, I know what that smile means.
-Suzuha: Being with you guys, even for just a little while... was great.
-UNSPOKEN: Suzuha obviously knew from the beginning that if she traveled to 1975, she could never return.
-Suzuha: Change the future, Okabe Rintaro. Make it a world like this one, where people can be free.
-UNSPOKEN: The first time I heard her speak these words, I thought she was sentimental because she couldn't return to her original 2036. I was wrong. Forget about 2036. She can't even return here, to 2010. Not without living 35 years. She'll be 54 when 2010 comes around. The present us and the present Suzuha can never meet again. Suzuha chose this mission. To change the future. To save Mayuri. Unless Suzuha travels to 1975, Mayuri will die. But then, what about Suzuha herself? When she leaves for 1975, she'll have to sacrifice everything she has here. How does she feel about that?
-Rintaro: Do you...
-Suzuha: Hm?
-Rintaro: Do you regret spending time with us?
-Suzuha: ...What do you mean?
-Rintaro: Do you regret making new friends here? New memories? Do you wish you had kept your distance? You've already abandoned one life. Now you have to abandon another. In a sense... it's like you're killing yourself.
-Suzuha: ...Did Hashida Itaru tell you?
-UNSPOKEN: Suzuha frowns.
-Rintaro: He's worried about you.
-Suzuha: Geez. I told him not to tell anybody.
-Rintaro: Well? How do you feel about going to 1975?
-Suzuha: ...It doesn't matter how I feel.
-UNSPOKEN: Suzuha's expression suddenly hardens.
-Suzuha: I have to go. It's the path I chose, and it's what my dad wanted.
-Rintaro: What if we ask you to stay?
-Suzuha: I'll go anyway. One of those guys on @channel asked what right I have to change the future and decide the fate of the human race. He had a point. But still... I don't want the future to turn out like that. I want the people in my time to be free like you. Free to laugh and play, fight and argue, get sad and cry. If I change the future, then no one will die. Not you, not Shiina Mayuri, and not my dad. Maybe I don't have the right... but I'm going anyway.
+Suzuha: "You’re all so bright and full of life. I envy you. Shiina Mayuri, Hashida Itaru... even Makise Kurisu. And of course, you."
+Rintaro: "...Don’t be ridiculous."

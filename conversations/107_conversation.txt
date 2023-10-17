@@ -1,23 +1,23 @@
-UNSPOKEN: She declares firmly. I don't know if it's her competitive spirit, or if it's her bravery, or if she's just ignorant to the ways of the world. But it doesn't look like I can persuade her to back down.
-Rintaro: What about you, Daru? Prepared?
-Itaru: Well, I am a super hacker.
-UNSPOKEN: He's comfortable even in this situation.
-Itaru: And with my skills, they'll never know we were there.
-UNSPOKEN: That settles it. It's good that Mayuri's not here. I can't get her involved. I look Daru and Kurisu in the eye.
-Rintaro: Alright... let's begin.
-UNSPOKEN: Kurisu gives the seat to Daru.
-Rintaro: Henceforth, this shall be known as Operation Laegjarn's Chest!
-Kurisu: Why Norse mythology?
-Itaru: Is that Norse mythology? Because it's cool, I guess.
-Kurisu: Anyway, what is it with men and military terms...
-Rintaro: Daru, begin the operation!
-UNSPOKEN: He soon finds the Jellyman's Report. It required a second password authentication, which Daru broke through easily.
-Itaru: Ready? I'm opening it.
-UNSPOKEN: Daru looks at me and Kurisu. I wet my parched lips and nod. The air in the lab suddenly seems thicker. Unable to escape through the closed window, it surrounds us with an oppressive heat. Daru wipes the sweat off his forehead with a handkerchief, then timidly presses the enter key. The file opens. At first glance, it looks like a resume. There's a photograph on the top right. The top left has name, age, height, weight, and other information. In the center is a long string of English text. Underneath that, there's something attached, like a scan of a newspaper clipping with a black and white photo. And then I know. I know exactly what the Jellyman in Jellyman's Report means.
-Kurisu: 'Jellyman's Report 10' 'Subject: James McCarthy, Age: 31, American' 'Z Program Stage 4, Date of Experiment: 2005-01-28 T13:05'
-UNSPOKEN: Kurisu bends over Daru's shoulder, reading the contents out loud.
-Kurisu: 'Results: Error. Human is dead. Mismatch.'
-Itaru: That again...
-Kurisu: 'It is believed that due to infinite compression by supergravity, the subject could not endure passage through the singularity inside the Kerr black hole.' 'April 3, 1921. New York City. An unidentified man was discovered dead in an alley off Union Square. The right half of his body was embedded in a nearby wall.'
-UNSPOKEN: It sounds like Kurisu is reading the newspaper article at the end.
-Kurisu: 'The man's body... ...was completely gelified.'
+Kurisu: "What Organization, you chuunibyou nutjob? At least try to be serious some of the time."
+Rintaro: "Hmph, don’t be ridiculous. My words are always grounded in truth."
+Itaru: "Anyway, shouldn’t it be ’the Committee’ instead of ’the Organization’? That’s what it says here."
+Kurisu: "The Committee of 300? I don’t think they mean SERN’s Executive Council. What are they talking about?"
+Rintaro: "The world is full of lies. It’s not as beautiful as you think."
+Itaru: "Listen, Okarin..."
+Rintaro: "I am listening. The Committee of 300 is the dark power that controls every secret society, every government, every multinational corporation."
+Kurisu: "You’re making things up again."
+Rintaro: "It’s the truth. Google it if you don’t believe me. Until now, the human race, for all its accomplishments, has never been able to overcome the barrier called time. The technology of time travel, which can break through that barrier, will change the course of human history. Literally. As it was when we split the atom, this forbidden fruit has the potential to grant us godlike power. Not a man exists who can resist its temptation. And naturally, all those with power will use any means at their disposal to obtain it. Human morality is naught but a joke to those who would stand with the gods. Understand, Christina?"
+Kurisu: "...Wow. That was quite a speech. Since you seem to know so much about it, does that mean you’re aiming for godhood too?"
+Rintaro: "What Hououin Kyouma desires is the destruction of all who would call themselves gods, the collapse of their hateful System, and a glorious new age of Chaos. Muhahaha!"
+Kurisu: "I’m not asking Hououin. I’m asking Okabe."
+Rintaro: "I... I am Hououin!"
+Kurisu: "In other words, you don’t have your own reason."
+UNSPOKEN: Damn you, assistant. How dare you attack my very identity?
+Itaru: "Forget about him, Makise-shi. Please keep reading."
+Rintaro: "Daru! What do you mean forget about me?"
+Itaru: "I’m tired of listening to conspiracy theories. I’m more interested in the Z Program than in your delusions."
+UNSPOKEN: I told you, they’re not delusions, and they’re not theories... But Daru does have a point. Our top priority now is to expose the dark side of the international research organization known as SERN.
+Rintaro: "Continue, assistant."
+Kurisu: "At least show respect when you’re asking a favor..."
+UNSPOKEN: Though huffing out complaints, Kurisu obediently goes back to translating.
+Kurisu: "Umm... ’Stage 1: Construction and implementation of the Large Hadron Collider.’ ’Over the past half century, beginning with the Proton Synchrotron completed in 1959, particle accelerator technology has reached the point where standardized results may be obtained.’ ’Stage 2: Implementation and testing of lifter technology.’ ’The formation of more than two artificial localized singularities, as well as the formation of Kerr black holes, will become possible when this stage is complete.’ ’In order to hide the program’s true goal, it is necessary to intentionally leak misinformation regarding the formation of black holes.’ ’Stage 3: Animal experimentation.’ ’Stage 4..."

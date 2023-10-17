@@ -1,19 +1,43 @@
-Rintaro: No... stopping... until... we're on... the train...
-UNSPOKEN: I do my best to keep up the pace.
-Mayuri: But Okarin, you're covered in sweat. You shouldn't push yourself. You're not good at exercise.
-UNSPOKEN: When we reach the station, I realize that something is wrong. The station is packed. Seriously packed. You don't see this many people even at rush hour. The crowd is milling around the entrance. For some reason, it looks like no one is going in. What's going on here? A protest? Some kind of street performance? I don't have time for this! Just then, an announcement plays over the PA.
-Premise Announcer: Your attention please. The Yamanote, Keihin-Tohoku, and Sobu Lines are currently suspended. We sincerely apologize for the inconvenience, and kindly ask for your cooperation.
-UNSPOKEN: Finally, I realize my mistake. That's right. Before the attack, the trains were stopped by a bomb threat! No wonder there are so many people standing around. In my haste to flee the city, I completely forgot! How could I have been so stupid!?
-Mayuri: I wonder what happened...
-UNSPOKEN: All of the train lines are stopped. We can't escape Akiba! What about other means of public transportation -- the subway or the bus? Should we go to another station? I turn around and head back the way we came, keeping a firm grip on Mayuri's hand. But before we get more than a few steps, a man steps out of the crowd and blocks our way. I realize that we're surrounded.
-SERN Agent: Okabe Rintaro?
-UNSPOKEN: A low voice. A face I've never seen. He's not one of the five who broke into the lab.
-Mayuri: Okarin, do you know these people?
-UNSPOKEN: Mayuri grips my arm tightly as she looks anxiously at the men.
-SERN Agent: Come with us.
-Rintaro: Who are you?
-UNSPOKEN: Instead of answering, the man makes a grab for my arm. I jerk away and try to escape, but the men move to block us again.
-SERN Agent: If you resist, we'll kill you.
-Rintaro: SERN!
-UNSPOKEN: They're with Moeka!? She must have planned for this in advance. A chill runs up my spine. We made a terrible mistake when we hacked into SERN. I realize that now, though it's far too late.
-Rintaro: Are you going to kill us with all these witnesses around?
+UNSPOKEN: Daru clutches his head and falls to his knees, screaming at the top of his lungs. In my arms, Mayuri takes one long, ragged breath. And then...
+Mayuri: "O...kari..."
+Kurisu: "No... no!"
+UNSPOKEN: She’s dead. Mayuri’s dead. Again. Her face is covered in blood. Her blood stains my hands. It’s warm.
+Moeka: "You three come with us. Now. No more warnings. Resist, and we will kill you too."
+UNSPOKEN: I hear a voice. But I can’t comprehend what it’s saying. It’s the same. I knew it would be. I let Mayuri die again. Because I didn’t believe my own memories of the future. I lay Mayuri down on the floor. I’m sorry, Mayuri. I’m so sorry... I stand up. Rage takes hold of me once again. I’m helpless to resist. I take one menacing step towards Moeka.
+Kurisu: "Okabe!"
+UNSPOKEN: Kurisu grabs my hand before I can take another.
+Kurisu: "You can’t!"
+Rintaro: "Let me go!"
+Kurisu: "You can’t! They’ll kill you!"
+UNSPOKEN: Moeka’s gun is aimed at my head. Her finger is already on the trigger.
+Rintaro: "You gonna kill me too!?"
+Moeka: "If you resist."
+Kurisu: "Please, Okabe, do what she says. Okay? Otherwise, they’ll kill you too."
+Rintaro: "Gh...!"
+UNSPOKEN: I grit my teeth and suppress my anger. Just then, something small and round strikes Moeka’s gun hand.
+Moeka: "...!?"
+UNSPOKEN: She drops her gun. At her feet lies a small stone.
+Suzuha: "Get down!"
+Attacker B: "Gweh!!"
+UNSPOKEN: The next events transpire exactly as I remember. Suzuha appears in the doorway, knocking down the first man before anyone can react. She then proceeds to dispatch the remaining men with a series of swift, precise maneuvers.
+Attacker A: "Who the hell!?"
+UNSPOKEN: The dark-skinned man, the last one standing, takes aim at Suzuha with his assault rifle. But before he can fire, Suzuha snatches a stunned attacker’s gun and shoots him.
+Attacker A: "Gwah!!"
+UNSPOKEN: Blood spurts from the man’s hand. Without stopping, Suzuha delivers a soaring roundhouse kick to the man’s jaw.
+Moeka: "Enough."
+Suzuha: "!!"
+UNSPOKEN: Moeka and Suzuha point their guns at each other. A standoff. Neither moves. Silence returns to the room.
+Moeka: "...Who are you?"
+Suzuha: "42."
+UNSPOKEN: She glances at me.
+Suzuha: "TV."
+UNSPOKEN: This time, I already know what she means.
+Suzuha: "Turned on."
+UNSPOKEN: I make a break for the development room.
+Moeka: "Don’t move!"
+Suzuha: "That’s my line!"
+UNSPOKEN: Kurisu is right behind me. I grab the headgear and jam it on my head without a moment’s hesitation.
+Kurisu: "Okabe, I--"
+Rintaro: "I’m going back!"
+Kurisu: "But what if it fails!?"
+Rintaro: "Get the machine started!"

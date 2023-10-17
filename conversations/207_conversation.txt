@@ -1,30 +1,33 @@
-UNSPOKEN: I give chase, ignoring the stares of passers-by. ...She's gone. Dammit! Where did she... Hold on a second. Why am I chasing her? Do I have some kind of urge to chase things that run away? That's stupid. I'm not a dog! Shouldn't I just leave her be? It's not like we're that close, right?
-Suzuha: ...You're a nice guy. You know that? I think talking to you really did help.
-UNSPOKEN: But Suzuha is all alone in this town. What if I was the only one she could talk to about her father? I know she's hurting. She needs my help. Shouldn't I do everything in my power?
-Rintaro: ...!?
-UNSPOKEN: Just now, I think I saw someone who looked like Suzuha. But the run from the station has left me exhausted. I drop to my knees, gasping for breath. My sides ache. I can't take another step. Even after searching the entire area around the station, I couldn't find Suzuha. I guess this, too, is the choice of Steins Gate. As I rest, I look up at the night sky. The satellite remains buried in Radi-Kan's wall. I wipe the sweat off my brow and head back to the lab.
-Mayuri: Okarin! Did you find Suzu-san?
-UNSPOKEN: Everyone's still there when I return.
-Rintaro: It's late. Go home, everyone.
-Luka: But...
-Kurisu: Tell us what happened.
-Itaru: Yeah. Keep us in the loop, man.
-Rintaro: Suzuha ran away from me. I guess she couldn't find her father.
-Mayuri: Oh...
-UNSPOKEN: A gloomy silence falls. I can see the sadness on everyone's face.
-Rintaro: Heh... heh heh heh...
-UNSPOKEN: I begin to laugh.
-Rintaro: MUHAHAHAHA!
-Luka: O-Okabe-san? What's wrong? Are you okay?
-Kurisu: His brain is probably oxygen-starved from too much running.
-Itaru: Okarin... chill.
-Rintaro: Heh, look at you all! Why the long faces, friends!? Have you forgotten? We have just the thing for moments like these!
-UNSPOKEN: I thrust my finger at the curtain to the development room.
-Kurisu: You're going to send a D-Mail?
-Itaru: But the discharge phenomenon won't occur this late, will it?
-Rintaro: Then we'll send it tomorrow.
-UNSPOKEN: D-Mails leap through time. It matters not when we send it, but when it is received.
-Mayuri: Who are you sending it to?
-Rintaro: To myself this afternoon. The message...
-UNSPOKEN: I smile triumphantly.
-Rintaro: Don't listen to Christina. Pursue Suzuha!'
+Suzuha: "Anyway, you can send mail to the past? That’s amazing! The first time machine ever!"
+Rintaro: "Hmph, of course it’s amazing. I am Hououin Kyouma!"
+Suzuha: "Any plans to upgrade it?"
+Rintaro: "Upgrade it?"
+Suzuha: "You know, like sending people to the past or something."
+Rintaro: "We’re working on it."
+UNSPOKEN: No good ideas yet, though.
+Suzuha: "Then let me give you one word of advice. You should leave Makise Kurisu out of it."
+Rintaro: "What do you have against her, anyway?"
+Suzuha: "Welp. Better get back to the workshop. I only got a 30-minute break. I’ll get in trouble if I don’t get back soon."
+UNSPOKEN: I stop Suzuha as she gets on the bike.
+Rintaro: "Come to the lab tomorrow, whether you meet your father or not."
+Suzuha: "Why?"
+Rintaro: "So I can use your grief to power my time machine. Heh heh heh!"
+Suzuha: "Ahaha! You really are a mad scientist. So eeeevil! If I meet my father, I’ll stop by. Then we can do a gun salute!"
+UNSPOKEN: She laughs happily. Then she starts pedaling...
+Rintaro: "Hey, wait! Let me on! Hey!"
+UNSPOKEN: Suzuha doesn’t wait, leaving me with no choice but to run back to the lab.
+Rintaro: "I shall now brief you on Operation Eldhrimnir."
+UNSPOKEN: The only lab mems here today are Mayuri, Kurisu, and Lukako. I couldn’t get ahold of Faris or Moeka. They must be busy. Daru, meanwhile, gave me some crap about having things to do. I was prepared for Lukako to refuse my invitation, but since she’s here, I guess she’s forgiven me -- for now, at least.
+Rintaro: "I want you guys to get ready for a party."
+UNSPOKEN: I’ve already explained to the lab mems what Suzuha told me yesterday.
+Kurisu: "And what are you going to do?"
+Rintaro: "Me? I’m going to follow that Part-Time Warrior and report back as the situation changes."
+Kurisu: "Don’t you dare. Let her be alone with her father."
+Rintaro: "Heh heh heh. You shouldn’t be so quick to reject my plans, Christina. You don’t understand the intricacies of the human psyche. Now that you’ve rejected my plan, there’s no way I’m not going through with it! You have underestimated my pride!"
+Kurisu: "Get over yourself."
+Rintaro: "Besides, Christina, you and she are enemies, are you not? You protect her from me while plotting her demise? That makes you a hypocrite!"
+Kurisu: "You just don’t have standards, that’s all."
+Mayuri: "She’s right. I don’t think you should bother her, Okarin."
+UNSPOKEN: Even during the strategy meeting, Mayuri keeps working on her costume. Lukako hasn’t agreed to wear it yet, but Mayuri’s enthusiasm remains strong.
+Mayuri: "No matter what happens, we need to give her a waaaarm welcome. I’ll do anything to help make this party super special."
+Luka: "Um, actually, I haven’t met this Suzuha-san..."

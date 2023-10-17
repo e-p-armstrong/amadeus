@@ -1,14 +1,39 @@
-Rintaro: Hide!
-UNSPOKEN: I pull Mayuri into the entrance of a nearby building. Several young men pass by. They're not particularly fit, and each of them is carrying a bag full of computer parts. I don't think they're the enemy. But I can't be sure. The only way to be safe is to treat every group of men as a potential threat. At this rate, it'll be night before we escape Akiba. Maybe we should just go for it and hope to get lucky. I look up the closest station with my phone. Ochanomizu and Suehirocho are about equidistant from our current position. Suehirocho takes us near the lab, but Ochanomizu is on the same line as Akihabara. It might be affected by the bomb threat. An impasse.
-Rintaro: Mayuri, stay right here. Don't move until I get back.
-Mayuri: Where are you going?
-Rintaro: To the station to make sure it's safe.
-UNSPOKEN: And while I'm at it, scout the streets between here and there. We'll need to use the shortest route.
-Mayuri: Mayushii doesn't want to be left alone...
-Rintaro: I'll be right back. If I'm not back in 30 minutes, call someone. Kurisu or Suzuha. Have them get you out of Akiba.
-Mayuri: Don't say that! Come back, okay? If you don't, Mayushii won't know what to do...
-Rintaro: Okay. I'll come back. I promise.
-UNSPOKEN: I leave Mayuri behind and run to Ochanomizu Station. Wary of surrounding eyes, I scout the streets and decide that the back alleys of Kanda Myojin will give us the best chance of avoiding detection. Once we make it to the station, we'll just have to pray. I race back to the spot I left Mayuri.
-Rintaro: Mayuri!
-UNSPOKEN: She's not there. For an instant, I think I got the place mixed up, so I check the entrance of the next building. But Mayuri isn't there either. She's gone.
-Rintaro: I told her not to move!
+Rintaro: "How did you know we’re having a party?"
+Suzuha: "Shiina Mayuri. She came by earlier today to invite me over. Hope you’ve got room for one more, ’cuz I’m--"
+Rintaro: "You can’t!"
+Suzuha: "Um... am I a bother?"
+Rintaro: "...No."
+Suzuha: "It’s okay. I understand. I guess I’m still an outsider."
+Rintaro: "That’s not it!"
+Tennouji: "What’s wrong with you, Okabe? Let my part-timer join your little club. You owe her, remember? It’s thanks to her belly that I let ya’ off the hook for shaking the building last time."
+Suzuha: "My belly? Hey!"
+UNSPOKEN: Suzuha has recovered her jacket. She’s properly dressed now.
+Tennouji: "She’s got a fine belly. Tight and well trained."
+Suzuha: "I’m standing right here, you dirty old man."
+Rintaro: "The party is canceled. I’m sorry, Part-Time Warrior, but please go home today."
+Suzuha: "Canceled?"
+Rintaro: "Yeah. Sorry."
+UNSPOKEN: I attempt a smile, but with little hope of success.
+Tennouji: "I don’t know what’s going on, Okabe, but don’t do anything reckless."
+Rintaro: "...Huh?"
+UNSPOKEN: It’s weird to have him give me advice. I thought he was just a dirty old man who loved CRTs. Maybe he’s sharper than I thought. Or maybe he’s just telling me to stop shaking the building.
+Rintaro: "I... got in a fight with Mayuri. Things are a little complicated right now. That’s all."
+UNSPOKEN: That’s the best lie I can manage.
+Suzuha: "Oh, is there gonna be blood?"
+UNSPOKEN: Blood?
+Suzuha: "I mean, look over there."
+UNSPOKEN: Suzuha points across the street. I turn to look. To my surprise, there’s Mayuri walking up the street with a big bag. When she notices us, she waves her hand with a ditzy smile. Mayuri!
+Suzuha: "Huh? Weren’t you fighting? She looks really happy to see you."
+UNSPOKEN: I ignore Suzuha and run to Mayuri. The clock on my phone says 6:33.
+Suzuha: "Hey! Where are you going!?"
+UNSPOKEN: I wasted precious time talking to Suzuha. Now that I’ve secured Mayuri, we need to get as far away from Akiba as we can!
+Mayuri: "What’s the rush, Okarin?"
+UNSPOKEN: I ignore her question and grab her hand.
+Rintaro: "Run! To the station!"
+Mayuri: "Wawawa... W-w-wait! My bag..."
+Rintaro: "Forget it! Just run!"
+Mayuri: "Eh? Why?"
+Rintaro: "Just run!"
+UNSPOKEN: I can’t get the image of Mayuri’s death out of my mind. I won’t let them kill her. I won’t. Mayuri gives no further resistance. She follows obediently, quickly matching my pace. I forgot that she’s faster on her feet than I am.
+Mayuri: "Hey, where are we going?"
+Rintaro: "Haah, haah, haah, first we’ll head for, haah, Tsukuba or Yokohama..."

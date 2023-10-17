@@ -1,34 +1,33 @@
-UNSPOKEN: Daru shakes his head.
-Rintaro: Well, I guess let's call it a day.
-Itaru: By the way, what we just saw was SERN's biggest server, but I also found a strange database on the network.
-Rintaro: Strange how?
-Itaru: It was buggy.
-Rintaro: Buggy?
-Itaru: I mean, it was full of some kind of code... But the code was gibberish. Utterly impossible to decode, thank you very much.
-Rintaro: Could it be encrypted?
-Itaru: Not by any algorithm I've ever seen. It wouldn't even work as a program. It just bothers me. Why would they have a database that nobody could ever use?
-Rintaro: That is strange.
-Itaru: I'll see what I can find out.
-UNSPOKEN: Daru tries every trick in the book to crack that mystery database. But after about an hour, the pistons he has for fingers begin speeding up. Eventually, he just slams the keyboard out of frustration.
-Itaru: Agh! I don't get it! I don't get it at all! You call this a program, dumbass!? Go to hell!
-UNSPOKEN: Oh great, he snapped...
-Mayuri: I think you should stop...
-UNSPOKEN: Mayuri puts down her sewing tools and turns to Daru with a worried look on her face.
-Itaru: My head is spinning... I can't take it any more... fweh, fweheh...
-UNSPOKEN: This is bad. Daru's breaking down. Maybe I'm pushing him too far. He's been up two days straight. He's probably at his limit.
-Rintaro: Good work. Go rest, Daru.
-Itaru: Yeah... I'll do that. Anyway, even if it isn't a bug, but an actual program, only the guys who made it could understand it. I've never seen anything like it...
-UNSPOKEN: A program unlike anything he's seen... hmm. At that moment, music bursts from my pocket. I've got mail.
-Rintaro: ...!
-UNSPOKEN: It's from John Titor. Did he reply to the email I sent him earlier? I gulp. A flash runs through my head like an electric shock. There's quite a bit of text, but what catches my eye are the first several lines.
-Rintaro: Heh heh heh... of course. Everything is falling into place.
-Mayuri: Whatcha talking about?
-UNSPOKEN: Mayuri looks at me curiously, but I don't have time to answer her. I'm frantically assembling the pieces in my mind.
-Rintaro: John Titor... SERN... the time machine...
-UNSPOKEN: These things are all connected. And now, I have another piece of the puzzle. I shiver at my own brilliance.
-Rintaro: Daru, I think I know how we can read that program.
-Itaru: Seriously? How?
-UNSPOKEN: I aim my phone's camera at the screen displaying the supposedly bugged data and take a picture. I attach it to a message -- Does this code look familiar? -- and send it to Titor. A mysterious database inside SERN. A program unlike anything Super Hacka Daru has ever seen. Its true form is...
-Rintaro: If my hunch is correct, John Titor should know!
-Itaru: What? There's no way!
-Rintaro: Say what you like. We'll know soon enough.
+Itaru: "Hmmm, let’s try looking for a document... ah, found one."
+UNSPOKEN: Daru opens a PDF attachment.
+Itaru: "Oho! Looks like this is top secret stuff from France, England, and Holland."
+Rintaro: "...Government secrets?"
+Itaru: "SERN’s not even a government organization, so why? Wait, should we be looking at this stuff? We might be in a little deep here."
+Rintaro: "I don’t care. Get me details."
+Itaru: "Hold on. If we get caught, we’re not getting off with an apology."
+Rintaro: "Are you so incompetent as to let yourself be traced?"
+Itaru: "...I took the necessary precautions."
+Rintaro: "Then I fail to see the problem."
+Itaru: "Well, thanks."
+UNSPOKEN: Daru makes a slightly awkward face as he takes the file about the Z Program and feeds it into the translation software.
+Itaru: "Hmm... ’May 14th, 137th Z Program Experiment Report’... ’Because we have already succeeded at creating mini black holes, the report is omitted. First--’"
+Rintaro: "Stop! Stooopp!"
+UNSPOKEN: All of a sudden, Titor’s prediction became a reality!
+Rintaro: "So SERN did use the LHC to generate mini black holes!"
+Itaru: "But they announced that their experiments still haven’t succeeded, so why..."
+UNSPOKEN: This is what Titor was referring to when he posted don’t believe what they say.
+Itaru: "But the goal of the experiment wasn’t even to generate mini black holes. It was to create new elementary particle reactions..."
+UNSPOKEN: Daru doesn’t take his wide eyes off the monitor.
+Rintaro: "But in reality, they’re already generating those mini black holes."
+Itaru: "Sure does seem like it."
+Rintaro: "What does it say next?"
+Itaru: "Umm... ’Results: Error. Human is dead, mismatch. For details, consult Jellyman’s Report No. 14.’ ’We propose that further experiments be halted until the lifter is perfected and all local field conformity points are online.’"
+Rintaro: "Wh-what does that mean?"
+Itaru: "’Human is dead’ means somebody died, right?"
+Rintaro: "Wha..."
+UNSPOKEN: Somebody died? Seriously? I groan. This isn’t a joke anymore. Something very serious is going on here. Maybe we are in too deep. Hmph. And what if we are? I’m not afraid. I’m not! After all, I am the insane mad scientist, Hououin Kyouma! We can’t stop now. I can’t control my curiosity. Besides, now that I have proof of their evil deeds, ignoring it would just leave a bad taste in my mouth. My throat’s gone dry. I swallow my saliva. In an attempt to keep whatever composure I can, I scold myself for being so faint of heart.
+Rintaro: "What is this Jellyman’s Report?"
+UNSPOKEN: Daru starts typing once I ask my question, but he soon clicks his tongue.
+Itaru: "I can’t find it in Jack’s email. We’ll need an account with more privileges."
+Rintaro: "Then we’ll save that for next time. Search for something related to time machines."
+Itaru: "You know we’re not going to find anything, right?"

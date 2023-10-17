@@ -1,24 +1,24 @@
-Rintaro: Dammit, Mayuri. Why won't you pick up?
-UNSPOKEN: Looks like I'll have to go back to the assembly hall. But things will get messy if I bump heads with Makise Kurisu again.
-Rintaro: Wait, don't tell me! Did that femme fatale kidnap Mayuri!? Damn you! Is that how the Organization operates!?
-UNSPOKEN: Leaving without Mayuri isn't an option. Call me overprotective, but she's like a little sister to me, and there's a very real danger that she might wander off somewhere the moment I let her out of my sight. Mayuri has always been like that. I never know if she'll be there when I turn to look. ...In a sense, that's why I became Hououin Kyouma.
-Rintaro: I have to go back for her.
-UNSPOKEN: The thought of climbing back up to the 8th floor is depressing, but I have no choice. When I get back to the assembly hall, Doctor Nakabachi's conference has just finished. Nobody is on stage, and the phony inventor has already left. The 20 or so members of the audience are starting to pack up. I soon find Mayuri. She's in the corner, looking lost. Well, at least she wasn't kidnapped. Even better, I don't see Makise Kurisu anywhere.
-Rintaro: Heh, looks like I scared her off. So be it. I'll let her go this time.
+Rintaro: "Dammit, Mayuri. Why won’t you pick up?"
+UNSPOKEN: Looks like I’ll have to go back to the assembly hall. But things will get messy if I bump heads with Makise Kurisu again.
+Rintaro: "Wait, don’t tell me! Did that femme fatale kidnap Mayuri!? Damn you! Is that how the Organization operates!?"
+UNSPOKEN: Leaving without Mayuri isn’t an option. Call me overprotective, but she’s like a little sister to me, and there’s a very real danger that she might wander off somewhere the moment I let her out of my sight. Mayuri has always been like that. I never know if she’ll be there when I turn to look. ...In a sense, that’s why I became Hououin Kyouma.
+Rintaro: "I have to go back for her."
+UNSPOKEN: The thought of climbing back up to the 8th floor is depressing, but I have no choice. When I get back to the assembly hall, Doctor Nakabachi’s conference has just finished. Nobody is on stage, and the phony inventor has already left. The 20 or so members of the audience are starting to pack up. I soon find Mayuri. She’s in the corner, looking lost. Well, at least she wasn’t kidnapped. Even better, I don’t see Makise Kurisu anywhere.
+Rintaro: "Heh, looks like I scared her off. So be it. I’ll let her go this time."
 UNSPOKEN: Still, I keep my eyes peeled as I run up to Mayuri.
-Rintaro: Mayuri! Why didn't you pick up? We're leaving.
-Mayuri: Okarin! My Metal Upa ran away.
+Rintaro: "Mayuri! Why didn’t you pick up? We’re leaving."
+Mayuri: "Okarin! My Metal Upa ran away."
 UNSPOKEN: She turns to me with a forlorn expression.
-Rintaro: Ran away? What, it's alive? That's a little hard to believe.
-Mayuri: I think I dropped it...
+Rintaro: "Ran away? What, it’s alive? That’s a little hard to believe."
+Mayuri: "I think I dropped it..."
 UNSPOKEN: I see, so she was looking for it. Not like it really matters.
-Rintaro: Forget about it. You can always get another one.
-Mayuri: No way. Metal Upas sell upwards of 10, 000 yen online, you know?
-Rintaro: Wait... what?
+Rintaro: "Forget about it. You can always get another one."
+Mayuri: "No way. Metal Upas sell upwards of 10, 000 yen online, you know?"
+Rintaro: "Wait... what?"
 UNSPOKEN: That toy was worth that much!?
-Rintaro: Think, Mayuri! Where did you drop it!?
-Mayuri: I don't know! That's why I'm looking. And even if we find it, you can't sell it, okay?
-Rintaro: Muhahaha! That 10, 000 yen will fund my research!
-Mayuri: I said you can't sell it! It even has Mayushii's name on it.
+Rintaro: "Think, Mayuri! Where did you drop it!?"
+Mayuri: "I don’t know! That’s why I’m looking. And even if we find it, you can’t sell it, okay?"
+Rintaro: "Muhahaha! That 10, 000 yen will fund my research!"
+Mayuri: "I said you can’t sell it! It even has Mayushii’s name on it."
 UNSPOKEN: Thus begins our search for the Metal Upa.
-Mayuri: Tutturu♪ Upa, Upa, come out, come out, wherever you are!
+Mayuri: "Tutturu♪ Upa, Upa, come out, come out, wherever you are!"

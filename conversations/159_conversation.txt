@@ -1,14 +1,29 @@
-Rintaro: Y-yeah... I'm fine.
-UNSPOKEN: In fact, I'm anything but fine. I'm fighting desperately to deny the possibility that I might have erased Moeka from existence.
-Rintaro: ...Assistant, how much do you remember about the experiment we just did?
-Kurisu: I don't remember doing any experiments today. You sent a D-Mail just now, didn't you?
-Rintaro: ...Yeah. But things are different from yesterday. I didn't send the D-Mail. Kiryu Moeka did.
-UNSPOKEN: And then she vanished into thin air. Which reminds me. When I sent the LOTO SIX mail yesterday, Daru teleported from the development room to the lounge. Moeka might not have disappeared. She probably just teleported somewhere. I hope that's it. In an attempt to calm myself down, I check my phone's history for the mails Moeka and I exchanged. That's strange. The mails she sent me are there, up until the one I received on July 31st at 12:43. But after that... The dozens of mails I remember receiving from her are gone. The D-Mail she sent to cancel the phone model exchange was set to arrive on July 31st. Did a time paradox erase Moeka from existence the instant she received the D-Mail? I shiver when I realize that I can't find any problems with that hypothesis. No way. It can't be. I mean, all her D-Mail said was don't change phone models. That's harmless, right? But then, what caused Moeka to disappear from this room like that? Why does it look like Moeka vanished four days ago?
-Rintaro: Christina. Let's say a D-Mail caused a time paradox. What would happen?
-Kurisu: ...I don't know. No one has experienced a time paradox, after all.
-Rintaro: But before, didn't you say something like the world would disappear?
-Kurisu: All I said was that that was one theory. Maybe nothing happens, and like in a certain movie, history gets amended to accommodate the paradox. According to Dr. Hawking's chronology protection conjecture, it's impossible to do anything that might cause a time paradox in the first place.
-UNSPOKEN: So all we have are theories...
-Mayuri: Um, Mayushii doesn't really understand... But we're all fine now, right? I don't think that paradox thing happened. Mayushii doesn't know who Moeka-san is, but I'm sure she's okay too♪
-Itaru: That's Mayu-shi for you. A cute dumb girl.
-Mayuri: Ehh? Mayushii's not dumb!
+UNSPOKEN: It’s decided. I type a reply to Moeka’s mail. After sending it off, I hurry back to the lab. When I get back to the lab, Moeka is squatting at the bottom of the staircase. Since she’s not sitting on the bench, I guess that crouching while holding her knees is this particular woman’s favorite position. She’s staring at her phone like usual. Once she notices me approaching, she slowly stands up. But she doesn’t look at me.
+Moeka: "...Thank you."
+Rintaro: "For what? I don’t think you’re selfish. In fact, I’m grateful for your offer."
+UNSPOKEN: Once we enter the lab, I get all the lab mems to stop what they’re doing, and then tell them about Moeka’s situation.
+Mayuri: "I think it’s a good idea! Moeka-san is a lab mem too!"
+UNSPOKEN: Daru and Kurisu don’t object either.
+Itaru: "So, what sorta mail does Kiryu-shi plan to send?"
+Rintaro: "My request is that its contents be simple and easy to measure, so that we can confirm whether or not the past changes."
+UNSPOKEN: A new mail. Why does she have to explain every little thing with a mail? No, more importantly...
+Rintaro: "A secret? What do you mean?"
+Kurisu: "What’s going on?"
+Rintaro: "No, that’s not the problem."
+UNSPOKEN: Kurisu peeks at my phone from beside me.
+Kurisu: "Hmmm, I see. I understand how you feel, but since this is an experiment, data collection should take priority."
+Rintaro: "Oh? We agree for once, assistant."
+Kurisu: "I-I’m not agreeing with you, exactly. If we don’t collect data, then we’ll never figure out how the PhoneWave works."
+Mayuri: "But girls have lots of secrets, you know? You shouldn’t ask her to tell her secrets, Okarin. That’s perverted!"
+Itaru: "Whoa! Is that where we’re going with this!?"
+Rintaro: "Calm down, Daru!"
+UNSPOKEN: I turn to Mayuri and Moeka, who appear to have formed some kind of mainstream girl alliance.
+Rintaro: "We’re not asking you to send something private."
+UNSPOKEN: Kurisu nods firmly at my words. Looks like she doesn’t intend to join the mainstream girl alliance.
+Kurisu: "Even if you want to send something private, you shouldn’t for now. We still don’t know how this thing handles paradoxes, so we need to be extremely careful."
+Moeka: "...Nothing private?"
+Kurisu: "Nothing you want to keep secret, at least. Even if you mean well, the mail’s content might have a serious effect on the timeline. You should show your mail to a third party and have them check if the content is problematic or not."
+Rintaro: "Indeed. My assistant said everything I wanted to say. I will add only that the experiment must go on!"
+Kurisu: "...I wasn’t speaking for you. Don’t misunderstand."
+UNSPOKEN: Cheeky little...
+Kurisu: "Experiments prioritize data over privacy in the first place. If you’re going to be a test subject, you need to be prepared for that."

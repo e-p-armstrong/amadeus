@@ -1,14 +1,23 @@
-Mayuri: No. For Mayushii.
-UNSPOKEN: I don't get what she means.
-Mayuri: Maybe that's why Chris-chan doesn't want to change the past.
-UNSPOKEN: She nods to herself with a bright smile.
-Mayuri: Oh! I just thought of something. Can you time leap into the future?
-Rintaro: Maybe, but there wouldn't be a point.
-UNSPOKEN: Kurisu and I reached that conclusion yesterday. The memories you send overwrite the memories at your destination. If you sent your memories one week into the future, then the future you would lose one week of memories.
-Rintaro: The whole point of our time leap machine is to affect past events. We don't need to worry about the future. Besides, you're less likely to reach the future than you are the past. And that's because the future is inherently unpredictable. For example, do you think you'll have the same phone number for all eternity?
-Mayuri: How should I know? Ehehe.
-Rintaro: Exactly my point. And remember, pagers became obsolete with the advent of cellphones. Similarly, our phones may be replaced by some other device in the future.
-UNSPOKEN: In order for the time leap to succeed, the target you must have a phone whose number you know. As long as that condition is met, there should never be a problem with setting the destination. The real problem is what inside the PhoneWave (name subject to change) is acting as the lifter. Until we figure that out, we can't reproduce the discharge phenomenon at will. The PhoneWave (name subject to change) will remain incomplete. On the other hand, if we can figure it out, we'll have an endless source of electrons that, unlike SERN's, needs no tuning. I'm exhilarated. The PhoneWave (name subject to change) is evolving by the day. Our invention of the time leap machine will put us light years ahead of SERN. Time travel will finally become a reality. I can't wait to try it out. My soul yearns for the taste of chaos. I barely manage to keep from bursting out in mad laughter. Come to think of it, more than one week has passed since we sent the first D-Mail, and although there was that strange threatening email, there remains no sign of men in black coming to haul us away. According to Daru, SERN hasn't discovered our hacking, either. The next problem is what will happen when we use the Time Leap Machine. In order to compress a human's entire wealth of memory into the requisite thirty-six bytes, we have to borrow the LHC's black hole. I can't believe that SERN won't notice an unauthorized activation of the LHC. How do we keep them from finding us? We need a plan.
-Mayuri: Oh... I guess I can't go back to grade school, can I? I didn't have a phone back then.
-UNSPOKEN: Mayuri's still talking about the time leap.
-Rintaro: You want to go back to your elementary school days? Heh heh heh, I know exactly how you feel. If you repeat elementary school with the knowledge you have now, you'll get top grades and have an easy time bending children to your will.
+Kurisu: "Heh... you really are pompous."
+Rintaro: "I assume it was your father on the phone the other day?"
+UNSPOKEN: I am speaking, of course, of when I found Kurisu outside the lab, crying into her phone. The mood was... delicate.
+Kurisu: "...Yeah. I don’t remember the last time he had a kind word for me. Even when we were living together, before I went to America, he acted like I wasn’t there. We’re supposed to be family, aren’t we?"
+Rintaro: "And you? How did you treat your father?"
+Kurisu: "I was daddy’s little girl growing up. You practically had to drag me away from him."
+UNSPOKEN: She smiles, but in her smile I see a hint of self-mockery.
+Kurisu: "My father’s a physicist. Even as a child, I loved to hear him talk about science. I couldn’t understand a word of it, but I always begged him to explain. I wanted to understand his work, so I started studying physics. I must have been five."
+UNSPOKEN: Damn. I guess that’s what makes her a genius. Or perhaps the yearning for her father’s love was what gave birth to her genius.
+Kurisu: "Thanks to that, I always got perfect grades in math. I ignored all the other subjects, though, so my grades were a little skewed. I even read my father’s papers. I was a little girl trying to comprehend theoretical physics, but I gave it everything I had. I needed to understand. By sixth grade, I had learned enough that I could discuss my father’s theories with him. I was so happy that I could talk to my father on his level, you know? We used to argue all night long. And then I started winning those arguments. All of them."
+Rintaro: "Yeah. I can definitely see how that would make him hate you."
+UNSPOKEN: A tragedy fitting for a girl genius. What kind of scientist loses to a grade-school girl anyway? Seriously.
+Kurisu: "You really think that’s why?"
+Rintaro: "I’m absolutely certain that’s why."
+Kurisu: "I guess he did have a lot of pride. Anyway, one day, he suddenly stopped talking to me altogether. Then he started fighting with my mom, and finally he stopped coming home. I really loved my dad, so it was a big shock. I felt it was my fault things turned out that way. I couldn’t go to school, I was so depressed. And then Mom recommended I study abroad."
+UNSPOKEN: So that’s why she went to America.
+Rintaro: "You were just too talented for your own good. So, how do you feel about your father now?"
+Kurisu: "I don’t know..."
+UNSPOKEN: Kurisu looks down.
+Rintaro: "He’s in Japan, right? Have you seen him at all?"
+Kurisu: "No... he doesn’t want to see me. That’s what we were talking about on the phone. I asked if we could meet, but he told me to stay away from him."
+UNSPOKEN: Her father has quite the inferiority complex. No wonder she was crying. Even for someone as strong-willed as Kurisu, it must hurt to hear that from her father.
+Kurisu: "Even if we did meet, I wouldn’t know what to say... I tried to talk to him before I left, you know? I tried so hard, but he just ignored me. It hurts. Whenever I think about going to see him, I remember those times. I worry he’ll ignore me again, and then I can’t do anything. Sniff..."

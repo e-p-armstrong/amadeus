@@ -1,39 +1,38 @@
-UNSPOKEN: It feels like I wasted 120 seconds on nothing. Daru opens the PhoneWave (name subject to change)'s door and peeks inside.
-Itaru: What? What!?
+Itaru: "Edison said that? ’Be inspired!’...?"
+Rintaro: "Yes. ’Be inspired!’ he said."
+UNSPOKEN: I don’t know if that was exactly what he said, but I’m sure it was something along those lines. At least, that’s what the wiki said.
+Rintaro: "Therefore, as a genius mad scientist, I am always insp--"
+UNSPOKEN: The PhoneWave (name subject to change) rings.
+Rintaro: "This is just going to gelify the banana like usual, isn’t it? We need a new experiment."
+UNSPOKEN: It feels like I wasted 120 seconds on nothing. Daru opens the PhoneWave (name subject to change)’s door and peeks inside.
+Itaru: "What? What!?"
 UNSPOKEN: He rubs his eyes, blinks several times, then resumes staring into the microwave.
-Rintaro: What are you doing?
-Itaru: Well... uh... it's... ...gone.
-Rintaro: Gone? What's gone?
-Itaru: The banana.
+Rintaro: "What are you doing?"
+Itaru: "Well... uh... it’s... ...gone."
+Rintaro: "Gone? What’s gone?"
+Itaru: "The banana."
 UNSPOKEN: What is he talking about? I push Daru aside and look into the PhoneWave (name subject to change).
-Rintaro: ...It's gone.
-UNSPOKEN: There's nothing inside. The banana has vanished without a trace. After a short pause to collect myself, I whip out my phone and speak into the silence.
-Rintaro: It's me. Slight problem. We may have awakened something... terrible.
-Itaru: Wh-what do you mean something terrible!?
-UNSPOKEN: I ignore Daru's panicked cry. I'm surprised too. My heart's pounding. But I try to appear calm.
-Rintaro: I'm invoking Emergency Order 666. Activate the Coldheart Protocol! What!? What do you mean we need congressional approval!? There's no time, you fool! Tokyo will be blasted to atoms!
+Rintaro: "...It’s gone."
+UNSPOKEN: There’s nothing inside. The banana has vanished without a trace. After a short pause to collect myself, I whip out my phone and speak into the silence.
+Rintaro: "It’s me. Slight problem. We may have awakened something... terrible."
+Itaru: "Wh-what do you mean something terrible!?"
+UNSPOKEN: I ignore Daru’s panicked cry. I’m surprised too. My heart’s pounding. But I try to appear calm.
+Rintaro: "I’m invoking Emergency Order 666. Activate the Coldheart Protocol! What!? What do you mean we need congressional approval!? There’s no time, you fool! Tokyo will be blasted to atoms!"
 UNSPOKEN: I put my phone away after yelling.
-Itaru: Y-you should be an actor.
-Rintaro: S-shut up, you Faris stalker! Where'd you hide the banana?
-Itaru: Who's a stalker!?
-Rintaro: The banana. Where is it? Are you planning on become a street magician or something?
-Itaru: You're the one who hid it, aren't you?
+Itaru: "Y-you should be an actor."
+Rintaro: "S-shut up, you Faris stalker! Where’d you hide the banana?"
+Itaru: "Who’s a stalker!?"
+Rintaro: "The banana. Where is it? Are you planning on become a street magician or something?"
+Itaru: "You’re the one who hid it, aren’t you?"
 UNSPOKEN: Uncomfortable silence. I realize my throat is dry.
-Rintaro: Where the hell did it go!?
-Itaru: How should I know!?
-Rintaro: Where did you go? Banaana! BANAAANA!
+Rintaro: "Where the hell did it go!?"
+Itaru: "How should I know!?"
+Rintaro: "Where did you go? Banaana! BANAAANA!"
 UNSPOKEN: I take the turntable out of the microwave, scour every nook and cranny, but find neither peel nor stem of the banana.
-Rintaro: W-wait... I think I get it now! It's not an electromagnetic weapon, it's a teleportation device!
-Itaru: Wh-what!? Wait, that's absurd.
-Rintaro: How else could it have vanished? The microwave was closed!
-Itaru: Um, maybe we should just calm down.
-Rintaro: Y-yeah. You're right...
-UNSPOKEN: We each take a deep breath. Oh, I know. I'll eat one of the remaining bananas. That will calm me down. I reach for the bunch of bananas.
-Rintaro: What... the...!?
-UNSPOKEN: Impossible. Impossible! Not three minutes ago, Daru plucked a banana from the bunch and put it inside the PhoneWave (name subject to change). But now, there's no sign that a banana was ever plucked. Instead, a single gelified banana has appeared among the regular bananas.
-Itaru: Oh shit! What the hell's going on?
-UNSPOKEN: Daru notices it too. He reaches out to touch it, but I quickly stop him.
-Rintaro: Wait! How many bananas are in the lab right now!?
-Itaru: J-just these, I think...
-Rintaro: Is this gelbana attached to the same stem as the banana you just picked?
-Itaru: I dunno, man... I wasn't paying attention. It doesn't look like it was ever plucked...
+Rintaro: "W-wait... I think I get it now! It’s not an electromagnetic weapon, it’s a teleportation device!"
+Itaru: "Wh-what!? Wait, that’s absurd."
+Rintaro: "How else could it have vanished? The microwave was closed!"
+Itaru: "Um, maybe we should just calm down."
+Rintaro: "Y-yeah. You’re right..."
+UNSPOKEN: We each take a deep breath. Oh, I know. I’ll eat one of the remaining bananas. That will calm me down. I reach for the bunch of bananas.
+Rintaro: "What... the...!?"

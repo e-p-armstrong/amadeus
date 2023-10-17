@@ -1,41 +1,33 @@
-Rintaro: We don't know what acts as the lifter... But we do know that it has successfully created a path wide enough to send approximately 36 bytes of data through the ring singularity.
-Mayuri: I don't get it...
-UNSPOKEN: Mayuri, finished with her chicken, looks at us in confusion.
-Rintaro: Think of it like an RPG. The ring singularity, the entrance to the event horizon, is the gate to the Demon Lord's castle.
-Kurisu: D-demon Lord...?
-Mayuri: So the soldiers who went home as slimes are jellymen?
-Rintaro: But there's an exception.
-Itaru: Combining soldiers? That's just silly.
-Rintaro: It's to illustrate that the object can't be too big.
-Mayuri: I get it! That's really easy to understand.
-Kurisu: It is?
-Itaru: It's a dumb metaphor, but I guess it works? At least as an explanation for why things get gelified.
-Rintaro: Heh. It's all thanks to Mayuri's hint.
-Mayuri: Mayushii was helpful?
-Rintaro: Yeah. Great insight, Mayuri.
-Mayuri: Ehehe! Yay!
-Kurisu: But it's still a hypothesis. It hasn't been proven.
-Itaru: How would you prove it? With human experiments like SERN?
-Kurisu: If Okabe and Hashida-san volunteer as test subjects, I'll happily experiment on you.
-Itaru: Human experimentation sounds kinda dirty. If you know what I mean. But I refuse. I'd rather play the doctor than the subject.
-Rintaro: Same here. No, not in the way he's implying.
-Kurisu: Idiots.
-UNSPOKEN: Kurisu gives us a cold stare and shrugs her shoulders in exasperation.
-Kurisu: As I keep saying, the real problem is what the PhoneWave uses as a lifter.
-Rintaro: That and one other thing. How come the discharge phenomenon and gelification only happen during a certain timeframe?
-Itaru: We may not understand everything, but we've perfected the art of D-Mailing. Isn't that our Final Answer?
-Mayuri: Sending mail to the past is amazing, isn't it?
-Itaru: Though I guess it's not a real time machine unless we can send people to the past.
-Kurisu: Even SERN has failed to send humans through. If you believe what Titor says, it won't be another, what, 24 years before there's a true time machine?
-UNSPOKEN: I answer Kurisu's sarcastic question with a nod.
-Rintaro: Physical time travel is impossible for us at the moment. We lack the funds and facilities available to SERN. And yet we have realized a form of time travel. We've sent data to the past.
-Kurisu: We should investigate the PhoneWave further. We need to understand what's going on.
-Itaru: I have some fun ideas for how to use D-Mail.
-Rintaro: I know how you feel, but we can't today. If we shake the building again, Mister Braun is sure to blow a gasket.
-UNSPOKEN: He'll raise the rent or kick us out of the lab.
-Rintaro: We can start experimenting again tomorrow. But this, I will declare now.
-UNSPOKEN: I step onto the couch and look at each lab mem in turn.
-Mayuri: You have to take off your shoes. It's dirty!
-Rintaro: Today -- uhh, what day is it?
-Itaru: August 2nd.
-Rintaro: August 2nd, 2010 is a date which will live in infamy! For on this day, we, the Future Gadget Laboratory, have developed-- The first successful time machine in the history of mankind!
+Kurisu: "That’s why I’m going back to my hotel once I finish eating."
+UNSPOKEN: Kurisu slurps her cup noodles indignantly. I bought them at her request. She was raised in America, yet she likes cup noodles? Strange.
+Rintaro: "Celebrity bath time at a high class hotel? I want to come too."
+Kurisu: "Not a chance."
+Mayuri: "Mayushii wants to come too!"
+Kurisu: "You can come any time, Mayuri-san."
+Mayuri: "Really? Thank you♪"
+UNSPOKEN: I take my warm food out of the microwave, take a fresh bottle of Dr P out of the fridge, and join in on lunch.
+Mayuri: "Hey, Okarin, I’ve been wondering, but why do you drink soda while you eat? Does it make it taste better?"
+Rintaro: "I don’t really see a problem."
+Itaru: "Me neither."
+Kurisu: "Same. I didn’t give it a second thought."
+Mayuri: "Ehh?"
+Rintaro: "You’re acting weird, Mayuri. It’s normal to drink soda while eating."
+Itaru: "It’s normal, duh."
+Kurisu: "No objections."
+Mayuri: "No way! You guys are the weird ones!"
+UNSPOKEN: Well, I’m a pure Docperian, Daru loves cola like a typical fat otaku, and Kurisu lives in America, home of soda. So I admit our opinion is biased. But that doesn’t matter right now.
+Rintaro: "Now, let’s discuss Operation Urd’s progress."
+Itaru: "Operation Urd?"
+Rintaro: "Oh, right. Thanks to a certain assistant, I didn’t get a chance to present the operation’s codename yesterday. Heed me! These D-Mail experiments are all part of Operation Ur--"
+Kurisu: "The experiments have been fruitful."
+UNSPOKEN: She interrupts me again.
+Kurisu: "At the very least, we’ve learned what we can do with D-Mail."
+UNSPOKEN: Kurisu places her empty noodle cup on the table, then retrieves the whiteboard from the development room. While the rest of us eat, she scribbles on the whiteboard, then puts it up against the wall.
+Kurisu: "That about sums it up. Anything to add?"
+UNSPOKEN: Nothing especially. She’s summarized the vital parts. Mayuri has her mouth half-open in a blank stare. She clearly doesn’t understand.
+Rintaro: "A D-Mail can be at most 36 English characters or 18 Japanese characters long. That makes experimentation difficult, so we’ll want to improve that first."
+UNSPOKEN: Furthermore, each D-Mail is split into 12 character segments. If you send 36 characters, you’ll get three 12-character emails. If you try to send more, everything after the 36th character disappears.
+Itaru: "But we figured out how to control when it arrives. That’s pretty good, right?"
+UNSPOKEN: Though we can only set it in one hour increments, we can control how far back D-Mails go by using the microwave’s timer.
+Kurisu: "Observation isn’t enough. We need to find the underlying principle. What I’ve written here is nothing but verified phenomena."
+Rintaro: "The underlying principle... you’re right. It’s not a complete time machine until we understand how it works. What could be the reason for the character limit?"

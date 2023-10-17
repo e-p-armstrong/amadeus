@@ -1,20 +1,28 @@
-Mayuri: Tutturu♪ Moeka-san. What are you doing here?
-UNSPOKEN: Moeka doesn't look up. She mutters something that I can't make out.
-Rintaro: Hey, are you listening? If you have a problem, the insane mad scientist, Hououin Kyouma, will gladly assist! But be warned. By the time I'm through, Akiba will be an ocean of blood... heh heh heh.
-UNSPOKEN: Moeka suddenly jerks upright as if poked with an electric prod. She lifts her head and stares at me with wide eyes, then jumps to her feet and walks right up to me. This is the first time I've seen Moeka express such emotion.
-Rintaro: What is it? What's wrong?
-UNSPOKEN: She doesn't speak. That hasn't changed. Instead, she looks down and starts typing on her phone. Guess I should be ready for a mail.
-Rintaro: What do you mean, what happened? We don't fully understand it yet. We're in the middle of upgrading it.
-Mayuri: It's amazing! This time, we might even be able to time leap.
-Rintaro: Don't write anything about it. Otherwise we'll have to expel you from the lab.
-UNSPOKEN: Moeka shakes her head violently. Guess she won't write an article.
-Rintaro: Our hacking of SERN has uncovered a new possibility for the PhoneWave (name subject to change). It's a form of time travel made possible by borrowing SERN's equipment. This discovery will begin a new age of human civilization. No longer will men be slaves to time. Any future you desire can be yours! And history will record that we, the Future Gadget Laboratory, changed the world forever!
-Mayuri: Um, Okarin, that was really confusing. You lost Mayushii.
-UNSPOKEN: How can you not be moved by my speech? I'm talking about becoming legends here. Moeka bites her lip and types out a mail in irritation. Then she grabs my arm and digs in her fingernails. It hurts.
-Rintaro: U-unhand me!
-UNSPOKEN: But Moeka does not listen.
-Rintaro: The time leap is a way to send your memories to the past! We found a way to make that possible. Soon we will complete the machine and become the undisputed lords of time!
-Mayuri: Um, Okarin came up with the idea and Chris-chan told us how to do it. Daru-kun's helping, and Mayushii and Okarin are shopping♪
-UNSPOKEN: Moeka suddenly releases me. Her eyes are blank, unfocused. She squats down on the spot, just as we found her. She seems entirely drained of energy and will.
-Mayuri: Are you okay, Moeka-san? Do you feel sick?
-Rintaro: I can't be sure. There are still several problems remaining. If they don't give us too much trouble, I guess we'll have it done in a week. On the other hand, we can't do anything until they're solved. Everything is the choice of Steins Gate. I have faith there exists a path to success. And once the door is opened, the chaos for which I have so longed shall at last descend upon the Earth. Trumpets will sound from the highest heaven, and the final battle, Ragnarok, will begin!
+UNSPOKEN: Confusing how? Why is she yelling at me anyway? Shouldn’t she be thanking me instead?
+Kurisu: "Um, Okabe? That offer... I can take you up on it, right?"
+Rintaro: "Of course."
+Kurisu: "Then, once we’re done upgrading the PhoneWave... I want you to come with me."
+Rintaro: "As you wish. Where is your father, anyway?"
+Kurisu: "Aomori."
+Rintaro: "Aomori!?"
+Kurisu: "That’s where he lives now."
+UNSPOKEN: That’s way up at the north end of the island, like seven hundred kilometers or something. I wasn’t expecting to have to go that far.
+Kurisu: "What? You’re not going to back out, are you? You already promised. I’m taking you whether you like it or not, okay!?"
+Rintaro: "...A-Aomori it is!"
+UNSPOKEN: If promising to go to Aomori will let Kurisu concentrate on the time leap machine, it’s a small price to pay. A small price indeed. Kurisu and Daru go home, leaving me with Mayuri. I thought she was hard at work on her costume, but when I look, I find her staring at the wall. Her hands have stopped moving.
+Rintaro: "Mayuri? You’re not going home?"
+UNSPOKEN: She usually doesn’t stay this late. Her parents might be worried.
+Mayuri: "Um, I was thinking about what Okarin and Chris-chan were talking about earlier. I was trying to figure out what the things you said meant, but it was all so complicated. I didn’t get any of it. Ehehe... The only thing I get is that something amazing is gonna happen!"
+Rintaro: "Indeed. The world is about to change, and we shall be the ones to lead humanity into the future."
+Mayuri: "You’re shining, Okarin."
+Rintaro: "Shining? What does that mean?"
+Mayuri: "You’re shining. Chris-chan too. Like two bright stars in the sky."
+Rintaro: "That must be my aura of madness you’re sensing. Muhahaha!"
+Mayuri: "You know, it’s been ten days since Chris-chan joined us. Can I tell you how I’ve been feeling? Since Chris-chan became a lab mem, it feels like things have really started to happen, like we’re a real lab now, you know?"
+Rintaro: "Heh. I must admit, her knowledge has been a great asset. Of course, the girl genius would never have joined us if not for the cunning of Hououin Kyouma!"
+Mayuri: "That’s why you’re shining so bright now, Okarin. Chris-chan is really a big help to you, I know... But I can’t do anything to help..."
+UNSPOKEN: Mayuri looks depressed.
+Mayuri: "I wish I were smart too... then maybe I could help."
+Rintaro: "Mayuri..."
+UNSPOKEN: She’s never expressed such sentiments before. Is she jealous of Kurisu’s talents? Is there competition brewing in the lab? I sigh and walk to the window. I can’t see many stars in the sky.
+Rintaro: "Mayuri. Aren’t you going to look at the stars?"

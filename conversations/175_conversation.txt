@@ -1,23 +1,26 @@
-Rintaro: So what you're saying is that the present is subjective to the observer.
-Faris: If we go with that assumption, then the past and the future also depend on the observer, nyan. If Faris were to use a time machine to travel back one week, then Kyouma and Daru-nyan's present would become Faris's future, nya.
-Itaru: I guess that makes sense...
-Faris: So how does the leaf model reflect that difference, nya?
-UNSPOKEN: Neither Daru nor I has an answer to that. Perhaps nobody has an answer. Just like the 'collapse of causality' thing that Kurisu mentioned. Does that mean that time machines and time travel are impossible after all? But SERN's gelified test subjects physically traveled as far back as 1921...
-Faris: Anyway, if everything depends on the observer, then clocks are meaningless, nyan. Fun times fly, and hard times drag, nya. In other words, the flow of time changes depending on your point of view, nyan.
-Itaru: Speaking of which, as you grow older, it feels like time starts to flow faster, doesn't it?
-Rintaro: Janet's law...
-Faris: Faris thinks about this stuff sometimes, nya. I think time might not be something as simple as a river, nyan.
-Itaru: Yeah, the more you think about it, the more complicated it gets.
-UNSPOKEN: The strict definition of time, similar to the question of Where is the self?, is one of humanity's eternal questions. Countless renowned scholars have left this question unanswered. There's no way amateurs like us can answer it. But there's one thing I can do.
-Rintaro: Heh. Heh heh heh. Muhahaha!
-Faris: Nyanya?
-Rintaro: Fret not. Though physics and philosophy may deny us, our machine has made time travel possible! Am I correct, Daru!?
-Itaru: Yeah. Yeah! That's right!
-Faris: Nyaa... looks like you guys have kicked reason to the curb, nya. But Faris wants to use the time machine too, nya. Can I, please?
-Itaru: Sure! I'll let you use it as much as you want, Faris-tan.
-Faris: Really nya? Then it's a promise, nya!
-Rintaro: Daru, don't decide things on your own!
-UNSPOKEN: Faris springs up with joy and hugs Daru's rotund body. That's all it takes to make Daru look like he's died and gone to heaven. After killing some more time at MayQueen, I leave Daru and head back to the lab. When I arrive, I find Kurisu sitting on the bench in front of the Braun Tube Workshop, talking on her phone. 
-Kurisu: What? You called me all the way to Japan, and now you-- ...I knew it. You never wanted to see me, did you? ...sniff.
-UNSPOKEN: The street is dark and her hair is covering her eyes, so I can't make out her expression. But from the sound of her voice, I can tell that she's crying.
-Kurisu: Why did you ask me to come here, then? Can you at least tell me tha--
+Mayuri: "Why 831?"
+Itaru: "8(ya) 3(sa) 1(i) for veggies (yasai), duh. VEGGIES VEGGIES VEGGIES -- we just have to drill this into Luka-shi’s mother’s brain."
+Rintaro: "She’ll just pass that message off as a prank."
+Mayuri: "Then, how about ’29292929’?"
+Rintaro: "I’m going to regret asking this, but what does that mean?"
+Mayuri: "Ni(2) ku(9) for meat. MEAT MEAT MEAT MEAT."
+Rintaro: "Why do you want her to like meat!?"
+Mayuri: "That’s not it! If you keep repeating ’MEAT’, then she’ll actually start to hate meat and want to eat vegetables instead, don’t you think?"
+Itaru: "Yeah... no."
+UNSPOKEN: Lukako completes his composition while we speak our nonsense.
+Luka: "How about something like this? ’MOM EAT VEGGIES OK’"
+Itaru: "Isn’t that a little too vague?"
+Rintaro: "And the first ’MOM’ should go. That’ll just make it harder to believe."
+Luka: "Then... ’EAT LOTS OF VEGGIES TO GIVE BIRTH TO A GIRL’."
+Kurisu: "That’s a little too direct. And it’s over the character limit."
+Luka: "’EAT VEGGIES FOR HEALTHY KID’"
+Itaru: "Wait a sec. According to this conversion chart, it looks like you gotta use two more numbers for voiced consonants. So that sentence is four bytes over."
+Rintaro: "Then a little modification. How about ’EAT VEG 4 HEALTHY KID’?"
+Kurisu: "Isn’t that a little too informal? You’re talking to Urushibara-san’s mother, you know? Would she understand the ’VEG 4’ part?"
+Rintaro: "You have any bright ideas?"
+UNSPOKEN: Kurisu shrugs her shoulders and says no more. Then it’s settled.
+Mayuri: "Come on, let’s type it out!"
+UNSPOKEN: When sending to a pager, the number-encoded message is handled like a telephone number, so we enter the input into the X68000. The long, random-looking string of numbers is complete.
+Rintaro: "Alright, we’re good to go."
+UNSPOKEN: Now we just activate the PhoneWave (name subject to change) and have Lukako call. The microwave timer is set to 154152 seconds. It should arrive around January 1, 1993. The margin of error is around 1-3 days, I guess. Leap year calculation’s a pain, so I ignored it. Lukako’s slender finger starts to tremble on top of the enter button.
+Rintaro: "Ready? I’m starting it up."

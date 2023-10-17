@@ -1,43 +1,51 @@
 Planning:
-- Okabe: He is a self-proclaimed mad scientist, often flamboyant and dramatic in his actions and speech. His *actions* should reflect this theatrical nature — grand gestures, exaggerated expressions, and dramatic monologues. His *thoughts* however, are often more grounded and observant, revealing his keen intellect. He's also paranoid about the "Organization", a mysterious entity he believes is out to get him. 
-- Mayuri: She's innocent, cheerful, and somewhat airheaded, often misunderstanding Okabe's dramatic statements. Her *actions* should be simple, gentle, and often confused or amused. Her speech is often cheerful and playful. 
 
-Anchor lines: 
-1. Okabe's line "I have since become Hououin Kyouma, the insane mad scientist hunted by secret organizations the world over. Muhahaha!" — This line serves to highlight Okabe's eccentric persona and his delusions of being a mad scientist. It's grandiose and dramatic, and should be enhanced with equally theatrical actions.
-2. Mayuri's line "And besides, it doesn't even sound like Okabe Rintaro. You're weird, ehehe!" — This line is a perfect representation of Mayuri's cheerful and innocent personality, and her acceptance of Okabe's eccentricities. It should be accompanied by actions that display her cheerful and playful nature.
+Character Archetypes/Personalities:
+
+- Okabe: Okabe is a self-proclaimed mad scientist who often takes on a dramatic, over-the-top persona. He's quirky, eccentric, and has a strong sense of duty. He often refers to himself as "Hououin Kyouma", a name he believes is his true identity. His *actions* and *thoughts* will be exaggerated and colorful, reflecting his flamboyant personality.
+
+- Mayuri: Mayuri is Okabe's childhood friend, who is sweet, innocent, and somewhat naive. She's always cheerful and often doesn't understand Okabe's complex theories and conspiracies. Her *actions* and *thoughts* will be simple, innocent, and lighthearted, matching her easy-going personality.
+
+Anchors and thematic direction:
+
+1. Okabe: "How many times do I have to tell you? Don’t call me Okarin." - This line will be an anchor, emphasizing Okabe's frustration with Mayuri's insistence on using his old nickname. It's a moment of tension between the two characters that reveals Okabe's desire to be recognized for his new persona.
+   
+2. Okabe: "Could this be the Organization working its twisted influence?" - This is another anchor, revealing Okabe's paranoia and the depth of his belief in the existence of a mysterious, powerful organization. It's a glimpse into his fears and his conviction in his role as a rebel scientist.
 
 Roleplay:
 
-Okabe: *I run a hand through my hair, frustration seeping into my features.* "How many times do I have to tell you? Don't call me Okarin."
+Okabe: *I grimace, the nickname grating on my nerves like nails on a chalkboard.* "How many times do I have to tell you, Mayuri? Don’t call me Okarin."
 
-Mayuri: *I tilt my head to the side, a look of innocent confusion on my face.* "Huh? But I've always called you that."
+Mayuri: *Her eyebrows furrow in confusion, her eyes looking into mine with pure innocence.* "Huh? But I’ve always called you that."
 
-Okabe: *I throw my arms out wide, a grand gesture to accompany my grand proclamation.* "That was then! I have since become Hououin Kyouma, the insane mad scientist hunted by secret organizations the world over. Muhahaha!" *I end my declaration with a maniacal laugh, echoing in the empty hall.*
+Okabe: *I puff out my chest, lifting my chin high as a sense of grandeur takes over me.* "That was then! I have since become Hououin Kyouma, the insane mad scientist hunted by secret organizations the world over. Muhahaha!"
 
-Mayuri: *I giggle, finding Okabe's theatrics amusing.* "But that's too hard to remember."
+Mayuri: *She tilts her head, her eyes squinting as she tries to comprehend my words.* "But that’s too hard to remember."
 
-Okabe: *I cross my arms, a smirk playing on my lips as I contemplate my next words.* "In any case, Hououin Kyouma is my true name."
+Okabe: *I shake my head, a wry smile forming on my lips.* "In any case, Mayuri, Hououin Kyouma is my true name."
 
-Mayuri: *I giggle again, shaking my head at Okabe's antics.* "And besides, it doesn't even sound like Okabe Rintaro. You're weird, ehehe!" 
+Mayuri: *She giggles, her laughter ringing in the air like the tinkling of bells.* "And besides, it doesn’t even sound like Okabe Rintaro. You’re weird, ehehe!"
 
-Okabe: *I huff, feigning offense at her laughter.* "Cease your foolish laughter! Okabe Rintaro may be my real name, but I have rejected it, for it is stupid. And so I also hate the derivative Okarin. Come on, it sounds like that elf boy's blue pipe thing."
+Okabe: *I let out a sigh, the sound echoing my exasperation.* "Cease your foolish laughter! Okabe Rintaro may be my real name, but I have rejected it, for it is stupid. And so I also hate the derivative Okarin. Come on, it sounds like that elf boy’s blue pipe thing."
 
-Mayuri: *I blink, still smiling, and tilt my head.* "So, Okarin, can I ask you something?"
+Mayuri: *Her eyes light up with curiosity, a question dancing on her lips.* "So, Okarin, can I ask you something?"
 
-Okabe: *I sigh, shaking my head at her persistent use of the nickname.* "In one ear and out the other. She's been calling me that for five years now, so maybe it's time to give up."
+Okabe: *I rub my temples, feeling a headache coming on.* "In one ear and out the other. She’s been calling me that for five years now, so maybe it’s time to give up."
 
-Mayuri: *I tilt my head, a look of genuine curiosity in my eyes.* "What are we doing here?"
+Mayuri: *She cocks her head to the side, her lips parting in a question.* "What are we doing here?"
 
-Okabe: *I raise an eyebrow, surprised at her question.* "Wait. You followed me here without knowing why?"
+Okabe: *I blink at her, a mixture of disbelief and amusement crossing my face.* "Wait. You followed me here without knowing why?"
 
-Mayuri: *I nod, not a trace of embarrassment on my face.* "Yup."
+Mayuri: *She nods, her smile never leaving her face.* "Yup."
 
-Okabe: *I glance around the hall, taking in the lack of reporters.* "We're here for Doctor Nakabachi's press conference."
+Okabe: *I rub my chin thoughtfully, my gaze drifting across the hall.* "We’re here for Doctor Nakabachi’s press conference. We’re standing in the assembly hall on the 8th floor of Radi-Kan. It is here that the conference will be held."
 
-Mayuri: *I look around, my eyebrows furrowing slightly in confusion.* "Press conference? But where are the reporters?"
+Mayuri: *She looks around, her eyes wide with wonder.* "Press conference? But where are the reporters?"
 
-Okabe: *I smirk, a dark chuckle escaping my lips.* "Could this be the Organization working its twisted influence?"
+Okabe: *I scan the room, my heart sinking at the absence of any reputable media.* "Could this be the Organization working its twisted influence?" *I twist my lips into a sneer, a sense of dread creeping up my spine.*
 
-Mayuri: *I tilt my head, not understanding his dramatic statement.* "You wrapped something? Is it his birthday too? Ehehe!"
+Okabe: *I shake my head, my gaze hardened with resolve.* "I’d prefer not to get wrapped up in his mess. Nevertheless, I’m interested in what he has to say. That’s why I’m here, blowing an afternoon of my precious summer holiday."
 
-Okabe: *I sigh, shaking my head at her innocent misunderstanding.* "Keep your guard up, Mayuri. I suspect this won't be a normal conference--"
+Mayuri: *She ponders my words, her head cocked to the side.* "You wrapped something? Is it his birthday too? Ehehe!"
+
+Okabe: *I let out a sigh, her innocence sometimes too much to handle.* "Keep your guard up, Mayuri. I suspect this won’t be a normal confer--"

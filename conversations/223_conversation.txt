@@ -1,18 +1,19 @@
-Rintaro: Without you, the lab would be a much less friendly place. You see how Kurisu and I argue. We can be pretty stubborn, and sometimes we don't know when to stop. But when it starts to get out of hand, Mayuri, you're always there with some ditzy, irrelevant comment to break the tension.
-Mayuri: Um... are you praising me?
-Rintaro: Of course I am. Don't worry about a thing. Just know that you, too, are part of my plan. Muhahaha!
-Mayuri: Okay. Thanks, Okarin♪
-UNSPOKEN: Mayuri smiles in relief. And then her stomach rumbles.
-Mayuri: I'm starving! I'll warm up some canned oden. You want some too?
-Rintaro: Yeah. Heat it up.
-Mayuri: Coming right up!
-UNSPOKEN: Soon, we are chowing down on piping hot oden. The next day, Mayuri and I go shopping at Radi-Kan. We have a list, written by Kurisu, of parts for the time leap machine. Naturally, I'm paying for everything out of my own pocket. Kurisu and Daru have already started work on the upgrade. Apparently, the conversion of memories into digital data requires software developed at Kurisu's lab in America. She can download that software from their dedicated server. But that's not the only thing we need. There's also some kind of brain-scanning headgear that we're going to have to make ourselves. Incidentally, I have to pay extra-close attention to make sure Mayuri doesn't wander off while we're shopping. If she sees some random store that interests her, she'll literally stop and stare at it for hours. I keep walking, of course, and only later realize that she's not behind me.  Then I have to run from store to store looking for her. This must be how parents of small children feel. Anyway, this is nothing new. Mayuri has always been like this.
-Rintaro: I'm begging you, stick with me. If you get lost in this labyrinth of technology, you'll never escape. Not with your sense of direction.
-Mayuri: Okey-dokey! I'll be careful. Um, by the way. How is time leaping different from time travel?
-UNSPOKEN: Did she really hear what I just said about not wandering off? Besides, Kurisu already explained the difference yesterday.
-Rintaro: Time travel means your whole body travels through time. The time leap will only send your memories to the past. It's simple.
-UNSPOKEN: Just memories. No personality or consciousness included, although Kurisu did mention that there was no way to be sure what might happen to your consciousness.
-Mayuri: Oh... Does that mean you can do things with time leaps that you can't do with D-Mails?
-Rintaro: D-Mails can only send instructions to the past. The past may change, or it may not. The results are unpredictable, and depend on the recipient. And when the past does change, the worldline is reconfigured. Everyone loses their old memories.
-UNSPOKEN: I am the exception, thanks to Reading Steiner.
-Rintaro: With a time leap, on the other hand, you can give your past self not just instructions, but all of the memories you have right now... or at least, that's the idea.
+Rintaro: "What does that mean? How is it different from what you see in sci-fi novels?"
+Kurisu: "Time leaping in sci-fi usually sends everything -- consciousness, personality, and memory. But in real life, there’s probably too much data, and besides, we only analyzed memories. Think of consciousness, personality, and memory as separate things. Memories are like the video data stored on your computer. And consciousness and personality are like the OS."
+Itaru: "But videos can take up way more space than the OS."
+Kurisu: "It’s just an example. For starters, it’s still not clear where personality and consciousness are located, or how they are constructed. So we can’t convert them into data. Or at least, I can’t."
+Rintaro: "So we can only send memories. Where does that leave us?"
+Kurisu: "Your memories aren’t the only thing that define you. Even if you send your memories to the past, it will be the receiving you’s consciousness and personality that process them."
+Itaru: "So in Mindorz terms, it’s like copying data from a VISTA computer to a Min95 computer?"
+Kurisu: "Data created with the latest OS might not work on an older OS. It might cause errors. For example, if you sent your current memories to yourself in elementary school, the gap between your memories and your body could have serious consequences."
+Rintaro: "Anyway, is it correct to assume that we’ll be targeting ourselves in the past?"
+UNSPOKEN: Kurisu nods at my question.
+Kurisu: "Just like with D-Mail, we’re using cellphones as the transfer medium. To be precise, you can only leap into your own body, and only if you had a cellphone at the time of reception."
+UNSPOKEN: There was an exception in Lukako’s case where we sent a D-Mail to a pager, but that doesn’t apply to time leaping.
+Kurisu: "If you try sending memories to someone else... umm, how do I put this... there’s a danger that the electrical signals might be rejected."
+Itaru: "Wouldn’t want to jump into someone else’s body. I mean, unless it’s the body of a cute girl. Uhehe!"
+UNSPOKEN: Is this guy capable of a non-perverted thought?
+Kurisu: "Don’t ’uhehe’ me, you idiot! If it just bounces off, that’s fine, but I’m worried incompatible memory data might do serious damage to the recipient’s psyche. I don’t know what might happen. No one’s done it before, after all."
+UNSPOKEN: That makes us pioneers. I like it.
+Kurisu: "There are two things I do know. One, you definitely cannot go back before you were born; and two, you won’t exist in two places at once. That means you don’t have to worry about causing a paradox. You can’t kill your parents before you were born."
+Rintaro: "So the phones act like black and white holes..."

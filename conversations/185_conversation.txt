@@ -1,21 +1,40 @@
-Rintaro: Ah, nothing...
-UNSPOKEN: Faris was a retro PC maniac, wasn't she? Let's just make sure.
-Rintaro: Do you have any other information on the IBN 5100? It's a super rare PC. As a charisma-build maid, I expect you have a strong network in Akiba, correct? I'd like you to use that network and search for any IBN 5100s in Akiba now.
-UNSPOKEN: We only need to find one. It doesn't matter if it's the one I found at the shrine.
-Faris: Hmnya... I can look. But for a price, nya.
-Rintaro: A price?
-UNSPOKEN: Is she trying to strike a deal? That's unexpected.
-Rintaro: ...Let's hear it.
-Faris: I want you to come over to Faris's apartment, nya.
-Rintaro: Where is this apartment of yours?
-UNSPOKEN: I quickly prepare a memo pad and write down the address Faris recites.
-Rintaro: Oh, so you live in Akiba.
-UNSPOKEN: That'll make things quick. Judging by the address, it should be right next to the station.
-Faris: I'll be waiting, nyan♪
-UNSPOKEN: I return Mayuri's phone and stand up from the couch. Let's stop by Yanabayashi Shrine and then head to Faris's place.
-Rintaro: ...Well?
-UNSPOKEN: I look over my shoulder with a frown.
-Rintaro: Why are you guys tagging along?
-UNSPOKEN: Mayuri and Daru are following me, even though I didn't ask them to come. Kurisu stayed back at the lab.
-Mayuri: Mayushii's never been to Feris-chan's place. I thought I'd like to visit once. Hehe♪
-Itaru: I mean, it's Faris-tan's home. No way I'm missing this.
+UNSPOKEN: If only you weren’t so weak to seduction.
+Rintaro: "Christina. Report on the status of these translations."
+Kurisu: "Can you stop talking like that? It’s pretentious and annoying as hell."
+Mayuri: "Hell☆"
+UNSPOKEN: Mayuri takes a cute, idol-like pose and smiles for some reason.
+Mayuri: "Um, Chris-chan, as Okarin’s childhood friend, I promise you’ll get used to how he talks eventually."
+Kurisu: "I just hope it doesn’t take ten years..."
+Rintaro: "So you’re saying you want to stay with me for ten years? In other words, you want to work at this lab for the rest of your--"
+Kurisu: "It was sarcasm, get it? Sarcasm."
+Rintaro: "...Oh. Give me your report, Christina. If you don’t, I’ll call you an ’@channeler’--"
+Kurisu: "Didn’t you hear me the first time!?"
+UNSPOKEN: She glares at me again. My blood goes cold.
+Kurisu: "I’ve been working on the translation when I have time, but so far I haven’t seen anything new about time travel. It looks like SERN is still struggling to find a solution."
+UNSPOKEN: Maybe they’ll have to wait another 24 years like Titor said.
+Rintaro: "Daru, any other results?"
+Itaru: "Well, it looks like SERN’s in the middle of a big project, so the LHC’s at full operation. I’m trying to see if I can cut in and maybe use it secretly."
+Kurisu: "What? No way."
+UNSPOKEN: Kurisu’s stunned. Honestly, so am I.
+Mayuri: "Is that amazing?"
+Kurisu: "It’s not amazing. It’s downright outrageous! Super Hacka, what a monster!"
+Rintaro: "Hey, Christina. Are you doing that on purpose?"
+Kurisu: "Ugh... d-doing what?"
+UNSPOKEN: She’s an @channeler. No doubt about it.
+Itaru: "Anyway, I’m just doing it for laughs. It’s not like we have any reason to use the LHC."
+Rintaro: "It sounds like things are going smoothly. When do you begin stage three of the operation?"
+Itaru: "What’s stage three?"
+Rintaro: "SERN’s most secret, forbidden domain. We’re going to free the darkness hidden inside."
+Itaru: "In Japanese please."
+Rintaro: "The IBN 5100 database. I’m asking if you’ve started hacking it yet."
+UNSPOKEN: Daru frowns.
+Itaru: "We can’t, remember?"
+Rintaro: "You said all we needed was an IBN 5100 of our own!"
+Itaru: "Right. That’s the problem. We can’t do anything without one."
+Rintaro: "Huh?"
+UNSPOKEN: Again, this feeling of disconnect. The conversation isn’t making sense.
+Rintaro: "But I got you an IBN 5100. You haven’t started working on it yet?"
+Itaru: "Huh? You got one? When?"
+UNSPOKEN: Puzzled, I look at Kurisu and Mayuri. Mayuri looks confused, like always. Kurisu meets my eyes and shrugs her shoulders.
+Kurisu: "First I’ve heard of it."
+Rintaro: "Impossible!"

@@ -1,32 +1,20 @@
-Itaru: Thank you, Faris-tan! I'll be sure to savor it.
-UNSPOKEN: He bows deeply. Such a polite man. I take a sip of my iced coffee. Its bitterness and sweetness flow down my throat. When I look up, I see Faris standing next to me, her silver tray in front of her waist.
-Rintaro: Do you need something?
-Faris: I wanna hear the rest, nya♪ Kyouma and Daru-nyan were having a fun little chit-cat, nya? Something about a time machine. Faris really wants to hear, nyan!
-UNSPOKEN: She gives me a babyish look with upturned eyes. But I firmly reject her.
-Rintaro: It's top secret. Not for outsiders!
-Faris: And whose big mouth let the whole store hear, nya? Tell Faris, Daru-nyan...
-UNSPOKEN: She's targeting Daru now. Don't underestimate him, Faris NyanNyan. Daru is my most trustworthy right hand man, the wizard-class super hacka. He won't be tricked into divulging classified information!
-Itaru: We've built an amazing machine that can send emails to the past. I did most of the work, of course.
-UNSPOKEN: And he's broken! Women are scary...
-Faris: Is that a time machine, nya!?
-Itaru: I guess you could say that!
-Faris: Wow! You're awesome, nya! Your big brain makes my heart race, nyan.
-Itaru: You mean it? N-now I'm embarrassed, hehehe.
-UNSPOKEN: Dumbass. What's with that grin?
-Faris: Faris dreams of going on a journey through time nya.
-Itaru: I'll bring you along some day.
-Rintaro: Daru, don't make promises you can't keep.
-Faris: By the way, it's been bugging me, but what is time anyway, nya?
-Rintaro: What?
-Faris: Time is often compared to a river, nya, flowing from past to future. But is that really how it is, nya? If time is a river, then where is the present, nya? Is it a point? Is it a line? Where does the present begin and end, nya?
-Itaru: Now that you mention it, I only have a vague concept of time. Never gave it any serious thought.
-Rintaro: The present is a leaf floating on the river. It moves along with the flow from past to future.
-Faris: So are we riding on that leaf, nya? When you die, do you fall off, nyan?
-Rintaro: You could say that. All points upstream from the leaf are the past. Downstream, the future.
-Faris: Hmnya... But is that leaf only the present for humans, nya?
-Rintaro: Meaning...?
-Faris: Humans make units to define and observe time, which is how we know this leaf is the present. But if every living thing in the universe went extinct, nothing would exist to observe the present, nya. In that case, where would the present go, nya?
-Itaru: Wouldn't something like God or the will of the universe observe it?
-Faris: But what if God is a four-dimensional being who can freely move through time, nya?
-Rintaro: U-uh...?
-Faris: If God is the one who decides the present, then won't our present move with him, nya?
+Rintaro: "Hmm... Inspiration flashes in the corners of my brain."
+Itaru: "That Edison thing again?"
+UNSPOKEN: This sensation... yes! My natural mad scientist inspiration is about to explode!
+Rintaro: "I have it."
+UNSPOKEN: All eyes focus on me. With a broad grin, I proclaim--
+Rintaro: "If we can’t send it to a cellphone, then we’ll send it... to a pager!"
+UNSPOKEN: About 22 hours have passed since I made my mind-blowingly awesome proclamation.
+Luka: "H-hello..."
+UNSPOKEN: Luka enters the lab shyly, just as he did yesterday. He gives me a bashful smile when our eyes meet.
+Luka: "Mom had a pager."
+Mayuri: "Yay! That’s great, Luka-kun!"
+Kurisu: "Now we can proceed with the experiment."
+Itaru: "Luka-shi’s girl version... will definitely be moe."
+UNSPOKEN: Mayuri, Kurisu, and Daru are already on standby. Sending a D-Mail to a pager. Yesterday, we argued about whether it’s even possible. Eventually, we settled on ’probably.’ Data is data, after all. The rest depends on the pager radio wave stations 8 years ago, but it should be fine as long as our data gets through safely. We already googled how to send data to a pager. For the pagers back then, you would first enter the other person’s pager number, then, if in the Kanto region, enter *2*2. After that, you would enter the numbers to send. That’s how it worked, apparently. Pagers in 1992 could still only send numbers. Phone number display functions were also yet to be implemented, so your number was hidden from the other person by default. A few years after that, pagers started to implement Japanese character displays, enabling functionality similar to that of email. Therefore, the D-Mail Lukako’s about to send -- it’s technically not a mail, though -- has to be sent in numerical form. Naturally, I have a conversion table for that on hand. You can find information even from 18 years ago if you just google it. I was pretty worried by the lack of information on pagers at first, but that’s my little secret.
+Kurisu: "Urushibara-san, you need to think about what to send to your mother in the past."
+Luka: "Eh...? I do?"
+Rintaro: "If you want to grant your wish, then you must open the door with your own hands. We can only show you the way."
+Luka: "I understand..."
+UNSPOKEN: We explain to Lukako the function of the PhoneWave (name subject to change). The numbers we’re sending are one-byte characters, so we can send 36 of them. The pager’s number-to-letter conversion system uses two numbers to correspond to one Japanese character. Furthermore, since you first need to input *2*2, that means you can only send 16 hiragana characters. Lukako, understanding everything, takes out a notebook to begin writing drafts for the pager message. I show Lukako the site I found. It reads PAGER NUMBER AND LETTER CONVERSION.
+Luka: "Umm..."

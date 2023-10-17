@@ -1,17 +1,14 @@
-UNSPOKEN: The world lurches. I struggle to keep my balance. As I brace myself against further shaking, I try to analyze what I'm experiencing. This is far more intense than what happened when we sent the D-Mails yesterday. And yet, I've felt it before. I remember. This is what I felt right before the mass disappearance phenomenon. The shaking stops. I relax my body and look around. Has the past changed? Of course it has. That bizarre sensation just now was proof. I look around the room. The PhoneWave (name subject to change), which should have about 90 seconds left on the timer, is silent. Daru's here. Mayuri's here. Kurisu's here. ...Where's Moeka?
-Rintaro: Where's Shining Finger? Where'd she go?
-UNSPOKEN: Daru and Kurisu, who are discussing something in front of the X68000, look at me strangely. Ah... Again. This feeling of wrongness. It's the same as yesterday.
-Kurisu: Shining what?
-Itaru: Okarin. Japanese please.
-UNSPOKEN: I leave the development room and check the lounge, behind the sofa, in the dressing room, the bathroom, and the shower room. I look out the window at the street below. But Moeka is nowhere to be found. She's... gone. No way. This is exactly what happened on the streets of Akiba. Why did she disappear!? Because I experimented on her!? Where did she go!? Did I erase her from history!? Did I banish her into the space between dimensions!? I start quivering in horror at the magnitude of my error. In a daze, I step up to Mayuri, who's eating a banana. I grab her shoulders and shake her.
-Rintaro: Where's Kiryu Moeka? She was here just now, wasn't she!?
-Mayuri: Uhwhaaa? Whoooo?
-Rintaro: Kiryu Moeka!
-UNSPOKEN: Daru and Kurisu give me strange looks as well.
-Itaru: Who's that?
-Kurisu: Never heard of her.
-Rintaro: ...No way.
-UNSPOKEN: So I did erase Moeka's existence... No... that can't be. I won't accept that I killed her!
-Kurisu: Did it happen again, Okabe?
-Rintaro: What do you mean, 'again'?
-Kurisu: Something like this happened yesterday. You remembered something we didn't. Uh, what did you call it? Oh yeah, Reading Steiner.
+Itaru: "One second isn’t enough, right? So just run the microwave for about 30 seconds without sending a mail. As soon as it’s done, run it again with the timer set at one second. That should cause the discharge, right?"
+Kurisu: "Any basis for that?"
+Itaru: "Nope."
+Rintaro: "Damn. Mayuri, got anything else!?"
+Mayuri: "Um, well... we could change the flavor of rice ball I bought last night..."
+Rintaro: "Do you remember what kind of rice ball you ate last night?"
+Mayuri: "Smoked tuna."
+Kurisu: "She remembers!?"
+UNSPOKEN: Impressive.
+Mayuri: "So let’s change that to, um... fish eggs!"
+UNSPOKEN: ...Maybe we should find another test subject. Something is telling me we’re going to have to look outside the lab. I go for a walk to clear my head. After lunch at King Burger, I grab a coffee at the Starbecks on the first floor of Yodobashi. I left Mayuri and the others at the lab. I need some time to get my thoughts in order. I recall what happened when I sent myself the LOTO SIX numbers. The moment I sent that D-Mail, I felt a strong tremor, and then the world as I knew it changed slightly. The fact that I had sent a D-Mail had been undone. I know that because it had disappeared from my send history. However, it was in my inbox. The mail had definitely reached the past. What does this mean? The mail was received but never sent. Isn’t that a time paradox? Is that the reason why everyone else lost their memories? Why did that happen? The Butterfly Effect? That’s not an answer. Changing the past changed the world. Titor spoke of divergence. When divergence changes, are people’s memories reconstructed to match the new worldline? Then how come I remember the previous worldline even after the past changes? My deliberations are interrupted by an incoming mail. ...Tch. I don’t have time for this. It’s a mail, so I can just reply to it later. I concentrate on my coffee. However... All these mails... No doubt about it. It’s got to be Kiryu Moeka, the mail demon known as Shining Finger. How can she be so shy in real life and so persistent in email? There’s something wrong with that woman. I sigh and open my mail reluctantly.
+Rintaro: "What?"
+UNSPOKEN: She wants to send a D-Mail? That reminds me. Yesterday, I made Moeka Lab Mem 005. That means she’s qualified to participate in our experiments. Moeka seems serious, so she might meet my demands. Most importantly, all the other lab mems are completely useless when it comes to D-Mails. I still haven’t been able to verify whether or not I can keep my memories if someone else changes the past.
+Rintaro: "But wait..."

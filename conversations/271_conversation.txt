@@ -1,35 +1,31 @@
-Kurisu: Tell me what happened. I know you used the Time Leap Machine.
-Rintaro: ...What?
-UNSPOKEN: I look up in surprise. Kurisu doesn't meet my stare. Instead, she leans on the guard rail and gazes down at the plaza with her usual frown.
-Kurisu: You get a phone call, and suddenly you're like a different person. It was obvious.
-Rintaro: I came from three hours in the future.
-Kurisu: What happened?
-Rintaro: They... killed Mayuri.
-UNSPOKEN: I lower my head, trying to hold back the tears. Then I explain about SERN and Moeka, and about how Kurisu herself activated the Time Leap Machine and made this possible. I tell her about my previous leaps. I explain that the world itself wants Mayuri dead, that I can't save her no matter how I try. I keep talking for thirty minutes straight. During that time, Kurisu hardly says a word.
-Rintaro: ...It's all my fault.
-UNSPOKEN: Talking to Kurisu lets me sort out everything I've done. Everything I've seen.
-Rintaro: I shouldn't have told Daru to hack SERN. I shouldn't have asked you to build a time machine. I shouldn't have made Moeka a lab mem. Mayuri's death... is all my fault.
-UNSPOKEN: That's why I needed to bear the burden myself.  I was resolved to do whatever it took to save Mayuri, never faltering, never giving up. And yet, my resolve has already crumbled.
-Kurisu: If you know that Mayuri's going to die, then what are you doing wasting time here?
-UNSPOKEN: Kurisu's tone is haughty. Is this how I sound when I'm playing Hououin Kyouma?
-Rintaro: ...I just don't get it anymore.
-Kurisu: What don't you get?
-Rintaro: How to save Mayuri.
-Kurisu: Based on what you said, I guess the chronology protection conjecture is true.
-Rintaro: No matter what I do, Mayuri dies.
-Kurisu: And that's why you keep time leaping... There's no guarantee that the machine is safe, you know.
-UNSPOKEN: Kurisu lowers her gaze and cups her chin, as she often does when assessing a problem.
-Kurisu: Even if the machine works perfectly, repeated use may have serious side effects. For example, you may become disconnected from causality itself. You need to understand the risks if you're going to continue.
-Rintaro: Disconnected from causality, meaning?
-Kurisu: It happens all the time in sci-fi. You'll become trapped in a closed time loop, never aging, never dying, but doomed to repeat the same day for all eternity. Worst case, you may cease to exist entirely.
-UNSPOKEN: What?
-Kurisu: Every trace of your existence will vanish. Nobody will remember you, because your life will have never happened. Leaping through time is that dangerous.
-Rintaro: 'Humans are temporal beings.'
-UNSPOKEN: Kurisu looks surprised.
-Kurisu: Heidegger. I was thinking of that quote too.
-Rintaro: I heard it from you first.
-Kurisu: When?
-Rintaro: This isn't the first time I've leaped.
-Kurisu: Right. Of course.
-UNSPOKEN: Kurisu squats next to me, thinking deeply.
-Kurisu: If what you said is true, then I want to save Mayuri too. But as the co-creator of the Time Leap Machine, I can't recommend its continued use. Will you listen to my advice?
+Kurisu: "Don’t shout... I’ve been working all night, so let me rest a bit..."
+Rintaro: "Where is Mayuri!?"
+Itaru: "What’s wrong with you? She went to Luka-shi’s, remember?"
+UNSPOKEN: Damn, she already left? I should call or send a mail. I need to get in touch with her somehow! Mayuri went to see someone after leaving the shrine. The question is who. Think. Consider every possibility!
+Mayuri: "Tutturu♪ Mayushii here."
+Rintaro: "Mayuri! Where are--"
+Mayuri: "But I can’t answer the phone right now."
+UNSPOKEN: ...I got her voice mail?
+Mayuri: "Please leave your message after the beep♪"
+UNSPOKEN: ...It’s the same as last time. Damn! Why did I forget? Before I time leaped, I should have asked Mayuri where she was today. I’m not thinking straight. I have to calm down. Wait... I know. Last time, we failed because we went to Akihabara Station. I should have known that SERN would be watching. This time, we’ll take a taxi to another station, then hide somewhere until things calm down. For now, all I can do is wait for Mayuri to return. It’s driving me crazy. I consider explaining the situation to Kurisu and Daru, but I just don’t have the strength to do that right now. Besides, I don’t want to get them involved. I’ll take care of it myself. I won’t let any more of my friends die.
+Luka: "Hello. This is Urushibara."
+Rintaro: "Lukako! It’s me! Okabe!"
+Luka: "Okabe-san? What’s wrong?"
+Rintaro: "Is Mayuri there? If she is, let me speak to her!"
+Luka: "Okay. Just a moment please."
+Mayuri: "Tutturu♪ Mayushii here. What’s up, Okarin?"
+UNSPOKEN: Finally... I’ve managed to get ahold of Mayuri. This will give us hours to spare.
+Rintaro: "Where are you now? Yanabayashi Shrine!?"
+Mayuri: "Yup!"
+Rintaro: "I’m headed there now. Whatever you do, don’t move, okay!?"
+Mayuri: "Huh? Why not?"
+Kurisu: "What’s all the commotion?"
+UNSPOKEN: Kurisu’s eyes are half asleep.
+Rintaro: "Daru. Assistant. Leave right now and get as far from Akiba as you can. But under no circumstances use the train."
+Itaru: "What? Why?"
+Rintaro: "If you can, go somewhere you don’t normally go, and stay there overnight. Understand?"
+Itaru: "Wait, overnight? So you’re saying we should go to a love hotel and make hanky panky. I understand."
+Kurisu: "Shut it, perv."
+UNSPOKEN: Kurisu gets up.
+Kurisu: "What’s going on, Okabe?"
+Rintaro: "Please, just do as I say. We’ll talk later. Don’t come back to the lab until I say so!"

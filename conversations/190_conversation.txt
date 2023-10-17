@@ -1,32 +1,22 @@
-UNSPOKEN: Faris chuckles. But I notice something. Her eyes aren't smiling.
-Faris: Is to let me use your time machine, nya.
-UNSPOKEN: Yes. I had a feeling that was it.
-Faris: I heard what you said at MayQueen yesterday. You've built a time machine.
-Rintaro: Indeed. We have created the first successful time machine in human history.
-Itaru: Uh, SERN was the first.
-Rintaro: But don't misunderstand. We call it a time machine, but it's not the kind you can hop into and fly to whenever you want. All we can do is send a 36-byte email to someone's phone in the past. But even that is worthy of a Nobel Prize in physics. It is a transcendental super invention that will alter the course of human history forever.
-Faris: It can send an email to someone in the past? That's awesome! Faris wants to use it, nya!
-UNSPOKEN: Faris jumps up and down with joy.
-Rintaro: The time machine is our lab's greatest secret. If you want to use it, then you must become a lab mem.
-Faris: A lab mem? What's that, nya?
-Mayuri: Well, it means you get to be a part of our club♪ Mayushii would be super happy if Feris-chan became a lab mem!
-Itaru: Same here! That would be AWWWWWRIGHT! Please join! I'm begging here!
-Faris: How do I become a lab mem, nya?
-Rintaro: There's no contract. We only require that you perform... the blood oath.
-Faris: The... blood oath!!
-UNSPOKEN: The window is closed, but a gust of wind blows through the room. It's coming from the air conditioner. But outside the window, I see rainclouds cover the sky. I hear the rumbling of thunder inside my brain.
-Rintaro: Faris NyanNyan, if thou dost desire to join the hallowed order of lab mems, then by the code passed down in High Ancient from an age long forgotten... Pledge thy flesh, thy bone, thy blood, and thy soul to the Grail of Heaven, and swear fealty everlasting! This duty fulfilled, the old gods shall grant thee thy lab mem number.
-Itaru: I didn't understand a word of that...
-Mayuri: Oh no! What do I do? Mayushii never ate any blood loaf. Does that mean Mayushii's not a lab mem?
-Itaru: Don't worry, Mayu-shi. This is just Okarin's usual nonsense.
-Mayuri: Oh! I guess everything's fine then♪ Thank goodness!
-Faris: Very well, nya. I shall take the blood oath, nya...
-UNSPOKEN: With a grim expression, Faris grabs the small knife on top of her desk-- And suddenly slashes it against her wrist.
-Rintaro: --!?
-Mayuri: No!
-Itaru: Uh, isn't that a paper knife?
-Faris: Nyahaha♪ Daru-nyan's right, nya!
-UNSPOKEN: Gh, she surprised me! I clear my throat and pull myself together.
-Rintaro: Very well, Faris, I invest you as Lab Mem 007.
-Faris: Purrfect. So now can I use the time machine, nya?
-Rintaro: Indeed. But not a word to anyone. Death to traitors. That's the law of the lab.
+UNSPOKEN: The normally expressionless Moeka frowns in bewilderment.
+Rintaro: "You... don’t remember, do you?"
+UNSPOKEN: Moeka shakes her head faintly. Then she looks down and begins operating her phone at high speed. She really doesn’t know? If the IBN 5100 had been stolen from the lab, then Moeka would be my first suspect. But the IBN 5100 disappeared from Yanabayashi Shrine, not the lab. It can’t have been Moeka’s doing. So it was the D-Mail? Or perhaps it was the work of SERN?
+Rintaro: "I’m sorry, Finger."
+UNSPOKEN: I squat in front of Moeka and bow my head.
+Rintaro: "I suspected you. A lab mem! A comrade! I’m the worst sort of man. Hit me, please. I don’t mind. But there’s one thing I want you to know. In my long years running from the Organization, I’ve grown unable to trust anyone."
+UNSPOKEN: Why? Why did I have to be born with these gifts that others so covet!?
+Rintaro: "Once I start to suspect, everyone looks suspicious. No matter how many comrades gather around me, I always feel alone. Pitiful, aren’t I? D-did you just ignore my entire speech?"
+Itaru: "Hey, Okarin. You’re doing improv in the middle of the street. Has the heat gone to your head?"
+UNSPOKEN: So Moeka doesn’t know I had an IBN 5100. And judging by her responses, she hasn’t found one either. I feel like I’m getting farther and farther away from my goal.
+Mayuri: "I’ve been thinking... Moeka-san sure is pretty, isn’t she? She’s got a nice figure, and she’s tall, too! She’d look great in one of my costumes. Ehehe!"
+Rintaro: "Wh...at?"
+UNSPOKEN: For a second, I doubt my ears. I approach Mayuri.
+Rintaro: "You’ve met Moeka before?"
+Mayuri: "Sure I have!"
+Rintaro: "When!?"
+UNSPOKEN: I grab Mayuri by the shoulders and shake her. Her head bounces back and forth.
+Mayuri: "Ummmmm? When youuuuu brouuuught herrrr toooo theeee laaaaab!"
+Rintaro: "I did...? Daru. Do you remember her?"
+Itaru: "Sure. We met at the lab."
+UNSPOKEN: After Moeka sent her D-Mail, Mayuri, Daru, and Kurisu behaved as if they had never met her before. But now both Mayuri and Daru know her? Does that mean Moeka’s past was reconstructed again? Given the timing, it has to be Lukako’s D-Mail that did it. But all he did was tell his mother to eat a lot of vegetables. How can that be related to the lab mems’ knowledge of Moeka? Is this another example of the Butterfly Effect? The cause doesn’t match the effect at all.
+Mayuri: "Okarin? We need to get going. Faris-chan’s waiting, remember?"

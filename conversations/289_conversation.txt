@@ -1,40 +1,42 @@
-Suzuha: Yeah, that's right.
-Mayuri: Wow, a foreigner?
-Suzuha: No, I'm pretty sure he's Japanese. Barrel Titor is his codename in the Resistance. I don't think he's using it yet.
-UNSPOKEN: So that's why Suzuha called herself John Titor.
-Suzuha: I... don't know his real name. Some daughter, huh?
-UNSPOKEN: Suzuha looks like she's about to cry for an instant, but she quickly covers it with a bitter smile.
-Suzuha: He died before he could tell me.
-UNSPOKEN: Hearing that, I realize how hellish the world she came from must be.
-Rintaro: What about your surname, Amane?
-Suzuha: That was my mother's maiden name.
-Kurisu: So you have no leads?
-Suzuha: Leads... oh, there is one thing.
-UNSPOKEN: Suzuha claps her hands together and starts patting her pockets. A few seconds later, she reaches into one and pulls out...
-Mayuri: A pin?
-UNSPOKEN: I've seen Suzuha fiddling with it before. It's just a regular pin, the kind you stick on your hat or bag.
-Mayuri: There's something written on it.
-UNSPOKEN: It reads OSHM***A 7010.
-Suzuha: This belonged to my dad.
-Kurisu: A memento...
-Rintaro: Google it, Daru!
-UNSPOKEN: Daru runs a search, but gets only incomprehensible foreign sites.
-Suzuha: He was here in Akihabara, so I think we can exclude the foreign sites.
-Itaru: Okay, got it.
-UNSPOKEN: He narrows the search down to Japanese sites. But even then, none of the results look relevant.
-Itaru: Nothing!
-Mayuri: But this has to be some kind of hint!
-UNSPOKEN: With Suzuha's permission, I take a picture of the pin.
-Mayuri: Okay, all in favor of helping Suzu-san find her dad?
-UNSPOKEN: I want to argue that there's no time for that, but Mayuri's right when she says that the time machine won't be ready for a while. I guess there's no harm in letting her have her way. After all, there's no point in running, not even with two days' head start. Even if I dragged Mayuri to the ends of the Earth, we wouldn't be able to escape her death. I know that now.
-Rintaro: ...No objections.
-Mayuri: Thanks, Okarin♪ Ehehe!
-UNSPOKEN: Daru raises his hand in agreement. So does Kurisu. It's decided. We'll help Suzuha find her father.
-Suzuha: Everyone... thank you. But I want to be clear that my mission to 1975 comes first. That was my dad's final wish, after all. So if we still haven't found him by the time repairs are complete, I think we should give up. Is that okay?
-Mayuri: Are you sure?
-Suzuha: If we still haven't found him by then, it just wasn't meant to be.
-UNSPOKEN: It's a relief to hear Suzuha say that.
-Itaru: So where do we start?
-Rintaro: The pin is our only hint. We'll hit every store in Akiba that sells things like this. Maybe someone will know where it came from.
-Suzuha: What kind of stores?
-Rintaro: Akiba is full of niche stores where you can find strange and cool accessories.
+Kurisu: "You guys are hopeless. Better do something quick."
+Suzuha: "Umm, I don’t know what you guys are talking about..."
+Kurisu: "Just ignore them."
+UNSPOKEN: Let me get this straight. The reason I can’t save Mayuri... is that her death is the event upon which this attractor field converges? But that means... That means the world really is killing Mayuri.
+Itaru: "But then, isn’t it impossible to change the future? It always converges in the end, right? No matter what you do, the result is the same."
+UNSPOKEN: That’s right. That’s why Mayuri dies no matter how many times I leap.
+Suzuha: "We have to escape Attractor Field Alpha."
+Rintaro: "Escape?"
+Suzuha: "In other words, we’re going to jump to a worldline in Attractor Field Beta."
+Kurisu: "I thought attractor fields couldn’t interact."
+Suzuha: "Attractor fields are normally separate, but if we go to the instant they diverge..."
+Kurisu: "The instant they diverge... is that now?"
+Suzuha: "I was taught that a major divergence occurs in 2010. This year, an earth-shattering event causes divergence at the attractor field level. The last time such a divergence occurred was in the year 2000, and before that, in 1991."
+Mayuri: "Umm, what happened those years?"
+Suzuha: "Events that changed the face of the world."
+Mayuri: "Huh?"
+Rintaro: "1991 was the collapse of the Soviet Union, right? But what happened in 2000? 2001 had the 9/11 attacks..."
+Suzuha: "The Year 2000 Problem."
+Itaru: "Y2K? But that was just hype. Nothing happened."
+Suzuha: "That’s because the Alpha worldline we’re on represents a world where Y2K didn’t occur."
+UNSPOKEN: So in other words, there are worlds where it did occur?
+Suzuha: "And that brings us to 2010."
+Mayuri: "Did something big happen this year?"
+Suzuha: "What else could it be..."
+UNSPOKEN: Suzuha looks towards the development room.
+Suzuha: "But the creation of humanity’s first time machine?"
+Mayuri: "Oh yeah! Wow!"
+Kurisu: "One more question."
+UNSPOKEN: Kurisu keeps plowing ahead. I guess that’s what makes her a scientist.
+Kurisu: "These worldlines aren’t parallel worlds, are they?"
+Suzuha: "No. Ultimately, they’re just possibilities that exist simultaneously."
+Kurisu: "Then how do you observe the differences between worldlines? Wouldn’t you need a god’s eye view to do that?"
+Suzuha: "Normally. However..."
+UNSPOKEN: Suzuha looks at me. ...Don’t tell me!
+Rintaro: "Reading Steiner!?"
+Suzuha: "Is that what you call it? Okabe Rintaro, you have the power to observe changes across worldlines. Correct?"
+Rintaro: "Yeah."
+Suzuha: "That’s the key. Your power is the key to freeing the world from SERN’s rule. You have the power of a god."
+Rintaro: "My power..."
+Suzuha: "If you escape Attractor Field Alpha and reach a Beta worldline... then the result will change."
+UNSPOKEN: I feel a shiver of excitement.
+Rintaro: "So there’s hope?"

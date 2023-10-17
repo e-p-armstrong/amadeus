@@ -1,30 +1,28 @@
-UNSPOKEN: I'm immersed in a heated internet argument when an unfamiliar voice interrupts me. The door opens, and a girl peeks inside. I recognize her. It's the girl I met yesterday at the Braun Tube Workshop.
-Suzuha: Hi! I'm from the Braun Tube Workshop.
-UNSPOKEN: When our eyes meet, she smiles.
-Suzuha: The TV you sent in for repairs has been fixed. Mind picking it up?
-UNSPOKEN: Daru's typing gets even faster. Looks like he's in the zone. It would be a bad idea to disturb him with our voices. I nod to the girl and hurry outside.
-Suzuha: Why do we have to be sneaky?
-UNSPOKEN: Umm, what was this girl's name again? I think it was something like Aruma or Amore. ...Oh right, Amane. Amane Suzuha.
-Rintaro: Currently, my genius partner in crime is executing an important mission. I don't want to bother him.
-Suzuha: Hmmm. What exactly do you guys do?
-Rintaro: I told you before that learning our secrets could put you and everyone you know in grave danger.
-Suzuha: You're called the Future Gadget Laboratory, right?
-Rintaro: How did you know that!? I never told you. Wait, are you an Organization spy!?
-UNSPOKEN: I raise my guard and spring into praying mantis stance. But Suzuha just stares blankly.
-Suzuha: That's what it said on your mailbox.
-Rintaro: ...Oh.
-UNSPOKEN: I lower my guard. Why didn't she just say so?
-Rintaro: N-now that you know, it's not like you can un-know. I'll give you the short explanation. But you must not tell a soul.
-UNSPOKEN: Suzuha nods firmly. Is it just me, or are her eyes gleaming?
-Rintaro: We are the Future Gadget Laboratory, dedicated to defeating the evil organization that rules the world from the shadows. Muhahaha!
-Suzuha: Wow... Is the evil organization SERN?
-Rintaro: ...!? Y-yeah, but...
-Suzuha: Oh! So I was right? Those guys really are a contemptible lot, aren't they?
-UNSPOKEN: She nods to herself for some reason. And contemptible? I thought I was the only one who uses words like that in normal conversation.
-Rintaro: How did you know we were hacking into SERN!?
-Suzuha: What? You're hacking them? Right now?
-UNSPOKEN: Me and my big mouth.
-Rintaro: Just answer my question! How did you know about our business with SERN!?
-Suzuha: Ah, umm, well... Weeell, ahahah, actually, I overheard you this afternoon. If you stand here, you can hear stuff from the window.
-UNSPOKEN: The window... Come to think of it, it was open, and Daru and I were talking loudly. But can you really hear us from here? I look up to the second floor. The window's still fully open, but I can't hear a thing. I guess Daru's working quietly. I look down. There's an unfamiliar bicycle parked in front of the Braun Tube Workshop. One of those mountain bikes. Its frame is all sparkly, its tires mostly clean. It's probably new. It looks pretty fast, but whose is it?
-Suzuha: I've only been working here for a day, but...
+UNSPOKEN: I put away my phone, then turn to find Daru giving me an exasperated look.
+Itaru: "Just who the hell are you fighting with?"
+Rintaro: "Daru, I know what we must do."
+Itaru: "Whuzzat?"
+Rintaro: "Don’t you ’whuzzat’ me! You’re supposed to grin like you know exactly what I’m talking about! What kind of super hacka are you!?"
+UNSPOKEN: I wanted him to say something like Well, why the hell not. So, what’s in it for me? And then we’d continue like this, grinning slyly the whole time: Or something like that. Yup, a real cool conversation. But the real-world Daru just purses his lips.
+Itaru: "You always give such half-baked explanations. Try to sound intelligible before you try to sound intelligent."
+UNSPOKEN: Work with me here!
+Rintaro: "You are a super hacka."
+Itaru: "Stop saying hacka. At least say hacker."
+Rintaro: "See where I’m going with this?"
+Itaru: "No, not at all."
+Rintaro: "Hack into SERN."
+UNSPOKEN: Daru stares at me in disbelief.
+Itaru: "...Is that some kind of joke?"
+Rintaro: "I know you can do it, Daru. Expose their dastardly deeds and find any hints you can about the time machine."
+Itaru: "Dastardly deeds? You’re just imagining that stuff, Okarin."
+Rintaro: "We stand at a crossroads. Will the PhoneWave (name subject to change) become a functional time machine, or will it die as garbage in lab storage?"
+Itaru: "You serious?"
+Rintaro: "I’m always serious!"
+UNSPOKEN: I look Daru straight in the eye as I answer. Looks like that made him understand my position. Daru sweeps the garbage off his desk and sits up straight.
+Itaru: "I’m not responsible for the consequences, got it?"
+UNSPOKEN: Suddenly, Daru is bursting with energy. It’s like his earlier lethargy was a lie.
+Rintaro: "Deal. Get started."
+Itaru: "Let’s do this!"
+Rintaro: "For your payment, I’ll deposit a week’s supply of potato chips into your Swiss bank account."
+UNSPOKEN: Daru doesn’t respond. He’s already deep in concentration.
+Rintaro: "Anyway, I’m gonna sleep. It’s all yours."

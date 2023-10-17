@@ -1,29 +1,26 @@
-UNSPOKEN: I thought that I was alone, but someone was here before me. Kurisu is lying in the middle of the roof, arms and legs spread as if making a snow angel. The image of Kurisu in a pool of blood flashes through my mind. Is she alright!? I run towards her, but before I make it halfway, she suddenly sits up and turns to face me.
-Kurisu: ...Okabe.
-Rintaro: You're alive...
-UNSPOKEN: What a dumb thing to say. Fortunately, it looks like Kurisu didn't hear me. She's busy combing her disheveled hair with her fingers. I breathe a silent sigh of relief.
-Kurisu: Right. I forgot I might run into you here.
-Rintaro: What were you doing?
-Kurisu: ...Thinking.
-Rintaro: Oh...
-UNSPOKEN: Was she thinking about her death? I don't know what to say, so I keep my mouth shut. Kurisu appears to be in the same boat. She's staring at the capsule toy dispenser in the corner, her face wearing the usual frown. The awkward silence drags on. When you think about it, Kurisu's fate rests in my hands. My decision will determine whether she lives or dies. Her fantastic hypothesis yesterday was a desperate attempt to construct a scenario where she doesn't die. Even if she believes that her theory is correct, it must be difficult for her to avoid imagining her own death. I force a smile. I'm getting really uncomfortable here.
-Rintaro: Looks like I'm in your way, so I'll just go.
-Kurisu: ...Oh, okay.
-UNSPOKEN: Damn. I was expecting a sarcastic remark like Since when do mad scientists have manners? or something. Just then, something cold lands on the tip of my nose. When I look up, raindrops start landing on my forehead. An evening shower. It's only going to get more intense, and quickly. Kurisu hasn't moved a muscle. She's just standing there with her arms folded, staring at the ground as if she doesn't notice the rain at all.
-Rintaro: Hey. It's raining.
-Kurisu: Huh? Oh, yeah.
-UNSPOKEN: She's acting strange, like her mind is elsewhere. I knew it. She's been thinking about...
-Rintaro: Whoa!
-UNSPOKEN: In less than a minute, the rain turns into a full downpour. We had no time to seek shelter.
-Kurisu: What the hell!?
-UNSPOKEN: Kurisu's scream is drowned out by the roar of the rain.
-Kurisu: Whew, what a surprise.
-Rintaro: That's what you get for tempting the sky gods.
-UNSPOKEN: Now safely inside the building, we take a moment to catch our breath. It's been a week since Suzuha's time machine disappeared, but Radi-Kan is still closed. The lights are off, and it's pretty dark inside.
-Kurisu: You should've warned me sooner. Even my underwear's soaked.
-Rintaro: Same here. I bet you're glad it's dark, huh?
-Kurisu: What do you mean?
-Rintaro: If the lights were on, I'd be able to see everything.
-Kurisu: ...!
-UNSPOKEN: Even in the dim light, I can tell that Kurisu is scrambling to cover her chest.
-Kurisu: Ugh, I forgot that you're a perv too.
+Rintaro: "That’s not the problem!"
+UNSPOKEN: I fight the urge to grind my teeth. Instead, I fix Kurisu with my stare.
+Rintaro: "It’s taken me so long -- so long -- just to reach this point! This is my chance to escape the Alpha worldline and save Mayuri. I won’t let anyone get in my way. Anyone!"
+Kurisu: "Okabe..."
+Itaru: "W-why so serious, man?"
+UNSPOKEN: I’ve got good reason. To them, only half an hour has passed since the Time Leap Machine was built. But to me, many days have passed since this ordeal began.
+Rintaro: "Please!"
+UNSPOKEN: I bow my head deeply.
+Rintaro: "Please, hear me out."
+UNSPOKEN: Or else Mayuri will die, and in 26 years, the world will be ruled by SERN. Suzuha’s sacrifice will have been for nothing. Daru claps me on the shoulder, then smiles broadly and thrusts his thumb skyward.
+Itaru: "I-it’s not like I’m cracking for you or anything, okay!?"
+Kurisu: "Oh god..."
+UNSPOKEN: I burst out in laughter. Sir Super Hacka (tsundere version) is here to save the day. I couldn’t have asked for a better right-hand man. As Daru hooks the IBN 5100 to his PC, I explain the situation one more time. Let’s hope this is the last.
+Rintaro: "This all happened because of the very first D-Mail I sent to Daru. SERN intercepted that D-Mail with Echelon and figured out what it meant, then sent their Rounders after us. They will kill Mayuri, kidnap us, and steal the Time Leap Machine."
+UNSPOKEN: Some years after that, I assume, Daru and I escape and form the Resistance to which Suzuha belonged.
+Rintaro: "I tried to save Mayuri, but nothing worked. Every worldline converged on the same result, just as attractor field theory said they would."
+Itaru: "You know, if this is all in your head, I think you’ve got a career as a light novel author ahead of you."
+Rintaro: "It’s true. All of it. To prevent Mayuri’s death..."
+UNSPOKEN: And to free Suzuha’s future from SERN...
+Rintaro: "We need to escape from the Alpha worldline. And I think we can do that by canceling all of our changes to the timeline so far. That should return us to the Beta worldline, the worldline that existed before I sent that first D-Mail. There’s just one more step. We need to erase the first D-Mail from SERN’s database."
+UNSPOKEN: If what Suzuha said is correct, then erasing that data will take us over 1% divergence and back to the Beta worldline. It was just one short email, barely 36 bytes, but it changed the course of human history. The Butterfly Effect. 
+Kurisu: "Fascinating."
+UNSPOKEN: Kurisu mutters as she sips her hot coffee. It looks like she’s already recovered from her exhaustion.
+Itaru: "You believe him, Makise-shi?"
+Kurisu: "In theory. I’d like to see objective data, but that’s obviously impossible."
+Rintaro: "Relax. Your Time Leap Machine worked perfectly."

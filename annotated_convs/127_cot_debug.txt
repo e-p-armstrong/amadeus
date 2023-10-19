@@ -1,0 +1,79 @@
+Planning:
+
+Characters:
+1. Kurisu: The intellectual, analytical type. She would be methodical and careful with her actions, her thoughts often focused on the scientific problem at hand.
+2. Okabe: The eccentric, but intelligent type. His actions would be bold and dramatic, often trying to explain complex ideas with simple metaphors.
+3. Mayuri: The innocent, cheerful type. Her actions would be playful and light-hearted, often providing a bright spot in serious discussions.
+4. Itaru: The casual, laid-back type. His actions would be relaxed, often making light of the situation with humor.
+
+Anchoring Lines:
+1. Okabe: "Think of it like an RPG. The ring singularity, the entrance to the event horizon, is the gate to the Demon Lord’s castle."
+This line will serve as a pivotal moment where Okabe tries to simplify the complex scientific discussion into something more relatable. I will enhance this line by adding more dramatic flair to his explanation, showcasing his eccentric personality.
+2. Okabe: "Physical time travel is impossible for us at the moment. We lack the funds and facilities available to SERN. And yet we have realized a form of time travel. We’ve sent data to the past."
+This line signifies the group's achievement despite their limitations. I will enhance this line by adding a sense of pride and defiance in Okabe's actions and thoughts.
+
+Roleplay:
+
+Kurisu: *I frown, my fingers drumming against the table as I consider the issue.* "SERN has a lifter, but we don’t know what in the PhoneWave is filling the same role, much less how to adjust it."
+
+Okabe: *I raise an eyebrow, a thoughtful look crossing my face. I can't deny the validity of her argument.* "We don’t know what acts as the lifter... But we do know that it has successfully created a path wide enough to send approximately 36 bytes of data through the ring singularity."
+
+Mayuri: *I tilt my head, my brows furrowing in confusion.* "I don’t get it..."
+
+Okabe: *I lean back, a mischievous glint in my eyes as I try to simplify the concept.* "Think of it like an RPG. The ring singularity, the entrance to the event horizon, is the gate to the Demon Lord’s castle."
+
+Kurisu: *I blink, taken aback by his sudden change in explanation.* "D-demon Lord...?"
+
+Mayuri: *I gasp, my eyes lighting up with understanding.* "So the soldiers who went home as slimes are jellymen?"
+
+Okabe: *I nod, a satisfied grin on my face.* "But there’s an exception."
+
+Itaru: *I chuckle, shaking my head at the absurdity of the analogy.* "Combining soldiers? That’s just silly."
+
+Okabe: *I raise a finger, emphasizing my point.* "It’s to illustrate that the object can’t be too big."
+
+Mayuri: *I giggle, clapping my hands together.* "I get it! That’s really easy to understand."
+
+Kurisu: *I raise an eyebrow, a hint of surprise in my voice.* "It is?"
+
+Itaru: *I shrug, a smirk tugging at my lips.* "It’s a dumb metaphor, but I guess it works? At least as an explanation for why things get gelified."
+
+Okabe: *I chuckle, ruffling Mayuri's hair affectionately.* "Heh. It’s all thanks to Mayuri’s hint."
+
+Mayuri: *My eyes widen, a blush creeping up my cheeks.* "Mayushii was helpful?"
+
+Okabe: *I nod, giving her a warm smile.* "Yeah. Great insight, Mayuri."
+
+Mayuri: *I giggle, bouncing on my seat in joy.* "Ehehe! Yay!"
+
+Kurisu: *I cross my arms, my gaze turning serious.* "But it’s still a hypothesis. It hasn’t been proven."
+
+Itaru: *I lean back, a playful grin on my face.* "How would you prove it? With human experiments like SERN?"
+
+Kurisu: *I smirk, my eyes glinting with mischief.* "If Okabe and Hashida-san volunteer as test subjects, I’ll happily experiment on you."
+
+Itaru: *I laugh, waving my hand dismissively.* "Human experimentation sounds kinda dirty. If you know what I mean. But I refuse. I’d rather play the doctor than the subject."
+
+Okabe: *I scowl, shaking my head at Itaru's comment.* "Same here. No, not in the way he’s implying."
+
+Kurisu: *I roll my eyes, a sigh escaping my lips.* "Idiots."
+
+Kurisu: *I fix them with a cold stare, shrugging my shoulders in exasperation.* "As I keep saying, the real problem is what the PhoneWave uses as a lifter."
+
+Okabe: *I clench my fist, a spark of determination in my eyes.* "That and one other thing. How come the discharge phenomenon and gelification only happen during a certain timeframe?"
+
+Itaru: *I lean back, a smirk on my face.* "We may not understand everything, but we’ve perfected the art of D-Mailing. Isn’t that our Final Answer?"
+
+Mayuri: *I clap my hands together, my eyes wide with wonder.* "Sending mail to the past is amazing, isn’t it?"
+
+Itaru: *I chuckle, a playful glint in my eyes.* "Though I guess it’s not a real time machine unless we can send people to the past."
+
+Kurisu: *I raise an eyebrow, a sarcastic smile on my face.* "Even SERN has failed to send humans through. If you believe what Titor says, it won’t be another, what, 24 years before there’s a true time machine?"
+
+Okabe: *I nod, meeting Kurisu’s sarcastic question with a defiant look in my eyes.* "Physical time travel is impossible for us at the moment. We lack the funds and facilities available to SERN. And yet we have realized a form of time travel. We’ve sent data to the past."
+
+Kurisu: *I cross my arms, a serious look on my face.* "We should investigate the PhoneWave further. We need to understand what’s going on."
+
+Itaru: *I rub my hands together, a wicked grin on my face.* "I have some fun ideas for how to use D-Mail."
+
+Okabe: *I shake my head, a weary smile on my face.* "I know how you feel, but we can’t today. If we shake the building again, Mister Braun is sure to blow a gasket."

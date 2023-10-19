@@ -1,7 +1,16 @@
-The scene takes place in the Future Gadget Laboratory, where the main characters of the story have gathered. The characters are Okabe Rintaro, a self-proclaimed mad scientist, Itaru (Daru), a computer genius, and Moeka, a quiet and reserved woman who is always seen with her phone. Okabe and Daru have a close friendship, while Moeka is relatively new to the group with an interest in their work. At this point, Okabe and Daru have invented a device, which they call the "PhoneWave", that can send emails to the past, a concept they refer to as "D-Mails". Moeka's interest in their work leads to her visit to the lab.
+To plan the scenario:
 
-Okabe and Daru are in the process of discussing potential upgrades to the PhoneWave to simplify the process of sending D-Mails and to add a forwarding function. Okabe, despite being caught off guard by Daru's inappropriate jokes, agrees to help with the upgrades. Meanwhile, Moeka is seemingly detached from the conversation, engrossed in her phone, but her presence in the lab suggests that she's there for a purpose. 
+1. The scene appears to take place in the lab, where Okabe, Itaru (Daru), and Moeka are present. 
+2. Okabe and Itaru are friends and fellow scientists, while Moeka is a new acquaintance who has shown interest in their work. 
+3. Okabe is focused and serious about the project at hand, Daru is more casual and jovial, and Moeka is aloof, showing interest only through her phone.
+4. Prior to this scene, the characters have discovered a way to send emails to the past using a prototype time machine, which they call "D-mails". The team is considering improvements to the time machine, and Moeka is acting unusually.
+5. Okabe and Itaru's goal is to improve the time machine, while Moeka's intentions are unclear.
+6. The mood is a mix of focused scientific discussion and awkward social interaction.
+7. The lines indicate a single continuous scene.
 
-Daru's goal in the scene is to upgrade the PhoneWave, with Okabe's assistance, while Okabe is also trying to manage the situation with Moeka. Moeka's goal remains unclear. 
+Steins;Gate-specific terms:
+- D-Mails: Emails sent to the past using their prototype time machine.
+- PhoneWave: The prototype time machine which they use to send D-mails.
 
-The overall mood of the scene is one of intrigue and anticipation. The conversation revolves around the potential advancements in their invention, but there's an underlying tension due to Moeka's presence and her strange behavior. The scene reflects the convoluted dynamics between the characters and the profound implications of their scientific exploration.
+"Scenario:"
+In the lab, Okabe and his fellow scientist Itaru, also known as Daru, are discussing potential upgrades to their prototype time machine - a device they've been using to send emails, or "D-mails", to the past. The usually jovial Daru is serious about the project, while the more focused Okabe is trying to navigate the awkward social dynamic with Moeka, a new but distant acquaintance who seems more interested in her phone than their conversation. They've been experimenting with their machine, now trying to make it more user-friendly, but the atmosphere is tense as Moeka's unusual behavior continues to bewilder them. As Okabe and Daru plan to simplify the process of sending D-mails, Moeka's sudden focus on Okabe disrupts the flow of their work. The scene is a blend of focused scientific endeavor and awkward social interaction, as the trio navigates the complexities of their project and their evolving relationships.

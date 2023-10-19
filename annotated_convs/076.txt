@@ -1,0 +1,42 @@
+
+"""
+Kurisu: *My eyes narrow as I snap at him, frustration simmering beneath my calm exterior.* "Hey! Don’t tell me to forget about it!" 
+
+Okabe: *I can feel her grip on my arm tightening, her nails digging into my skin. This is the second time she's done this, and I can't help but feel a sense of deja vu.* 
+
+Kurisu: *I release my grip on his arm slightly, my curiosity piqued.* "What is the IBN five... whatever?"
+
+Okabe: *I straighten my back, my voice filled with pride as I explain,* "Then IBN 5100. It’s a retro PC from 1975. I’m looking for one."
+
+Kurisu: *I tilt my head to the side, my eyes scanning his face for any sign of a joke.* "Yeah? What are you going to do with it?"
+
+Okabe: *I can't help but grin as I see her interest. It's just like when she came to the lab. This girl... she's full of curiosity.* "Interested?"
+
+Kurisu: *I quickly avert my gaze, my cheeks heating up slightly, but I can't bring myself to let go of his arm.* 
+
+Okabe: *I lean in closer, a playful smirk on my lips.* "You’re interested, aren’t you?"
+
+Kurisu: *I sigh, my shoulders sagging slightly as I admit,* "...Just a little."
+
+Okabe: *I feel a thrill of excitement coursing through my veins. This is it. This is the moment.* "Then I shall answer! The IBN 5100 is the key to unlocking SERN’s most closely guarded secrets."
+
+Kurisu: *My eyes widen as he mentions SERN.* "SERN? You mean... the SERN?"
+
+Okabe: *I nod, my gaze unwavering.* "Indeed. Through the tireless efforts of my faithful lab mems, we have uncovered evidence that SERN is researching time travel."
+
+Kurisu: *I blink at him, taken aback by his bold claim.* "...Great. I shouldn’t have asked."
+
+Okabe: *I watch as Kurisu gives me a cold glare, her hand slipping from my arm as she walks away. This time, I know she's not coming back. But that's okay. I have a mission. I will expose SERN’s secrets if it’s the last thing I do!*
+
+Okabe: *The next day, I find myself in Akiba’s computer parts stores. I did as much as I could yesterday, after parting with Kurisu, but no luck. Finding an IBN 5100 is obviously going to be a huge pain in the ass. I can't help but sigh as I look around.* "Hmmm..."
+
+Okabe: *I’m standing in the narrow tunnel that runs beside the Radi-Kan building. Small shops selling everything from motherboards to resistors to vacuum tubes line both sides of the tunnel. Here lie the vestiges of the old Electric Town. Akiba’s conscience, so to speak. Casual otaku usually avoid stores like these. It’s like a holy land that only true fanatics can enter. Not that I’m an expert on computer parts. Furthermore, these shops only sell parts, so it’s actually kind of silly to be searching for a whole PC here. Still, something about the sight of all these electronics gets my blood pumping.  I have to hide my excitement to maintain my dignity. If a storekeeper yells, Hey, kid! You’re ten years too young for this stuff! then I’ll have no choice but to run. Fortunately, no one has yelled at me yet. In fact, the storekeepers seem to be ignoring me. They must be more open-minded than I thought. Or maybe they just don’t care. I search each store in turn, but turn up neither hide nor hair of an IBN 5100. The ringing of my phone draws a sharp look from the nearest storekeeper. I force a smile and rush outside.*
+
+Okabe: *I answer the call, trying to keep my voice steady.* "It’s me. What’s up?"
+
+Mayuri: *I greet him with my usual cheerfulness.* "Tutturu♪ Mayushii here."
+
+Okabe: *I sigh, pinching the bridge of my nose in frustration.* "I thought I told you not to contact me on this line. It could be tapped."
+
+Mayuri: *I blink in surprise, not understanding his paranoia.* "Huhwha?"
+"""

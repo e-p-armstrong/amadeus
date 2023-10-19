@@ -1,0 +1,21 @@
+Planning:
+
+This is a scene of confusion and tension, with Okabe trying to reconcile his memory with reality, Kurisu aiming to understand Okabe's strange claim, and Daru hoping to enjoy the scheduled lecture undisturbed. To capture this, I will enhance these four lines, which seem to be the most impactful ones:
+
+1. Okabe (2): Okabe is trying to convince Kurisu and himself that his memory of seeing her dead is real. This line could be enhanced by adding a description of his inner turmoil, desperation, and the intensity of his belief.
+
+2. Okabe (9): Okabe is realizing that his memories don't match the reality of others. This is a crucial turning point in the story, and can be enhanced by describing his fear, suspicion, and confusion.
+
+3. Okabe (14): Okabe feels relief when Kurisu wants to hear more about his story. This line can be enhanced by describing his momentary relief, followed by a return to confusion as he can't understand why his memories differ from others.
+
+4. Okabe (22): Okabe realizes that Kurisu is the lecturer, not an attendee. This sudden realization can be described in detail to highlight the surprise and ensuing understanding.
+
+New lines:
+
+Okabe (2): *I grip the fabric of my lab coat, my knuckles whitening as I struggle to maintain my composure. My heart beats against my ribcage, a frantic tattoo of fear and disbelief.* "I know what I saw!" *I plead, my voice hoarse with the strain of recalling the horrific scene. My gaze never leaves Kurisu, the living contradiction of my harrowing memory.*
+
+Okabe (9): *A chill runs down my spine, as if icy fingers have traced a path down my back. My mind whirls, caught in a maelstrom of confusion and fear. The words hang in the air, a stark reminder of the chasm between my recollections and reality.* "Canceled!?" *I echo, the single word a desperate plea for understanding, for someone else to confirm the reality I remember.*
+
+Okabe (14): *A shiver of relief runs through me, momentarily dispelling the chill of uncertainty. I straighten, drawing a deep breath as I prepare to recount the tale that has haunted me.* "My name... is Hououin Kyouma!" *I declare, putting on a show of bravado that hides the whirlwind of confusion still raging within me.*
+
+Okabe (22): *My heart stutters in my chest as realization dawns, a slow sunrise illuminating the truth. My gaze fixes on Kurisu, the girl standing on the podium, her nervousness a stark contrast to the confidence her reputation suggests.* "She's the one giving the lecture..." *I murmur, the words a whisper in the vast expanse of my confusion, a lone beacon in the storm of my bewildering reality.*

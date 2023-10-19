@@ -1,0 +1,36 @@
+
+"""
+Itaru: *Cracking my knuckles, I turn my attention to the screen, my fingers flying over the keys.* "This is encrypted."
+
+Okabe: *I grimace, my eyes narrowing in frustration.* "Tch, of course it isn’t that simple..."
+
+Itaru: *I smirk, the challenge amusing me.* "Well, cracking this should be a piece of cake."
+
+Okabe: *I watch in silent admiration as Daru undoes the security in less than ten minutes, my mind working overtime to decipher the machine translation.* "Nice, super hacka. He’s a genius, no doubt."
+
+Itaru: *Leaning back in my chair, I read out the translated text, injecting a bit of humor into the tense atmosphere.* "Umm, translated into proper Japanese, it’s... ’Hi, Pole!’"
+
+Okabe: *I sigh, rolling my eyes at Daru's antics.* "That acting’s completely unnecessary."
+
+Itaru: *I shrug, a grin tugging at the corners of my mouth.* "Aw... ’Uploaded today’s data to the server. The LHC is performing admirably. Can’t say the same about the rest, though.’ ’This baby’s fickle as a cat, but it was surprisingly obedient this month. It would be great if it stayed like this forever.’ ’But don’t you think this work is unrewarding? This kitten -- this 27-kilometer long kitten, HAHAHAHA -- has been in operation for nine years.’ ’Our research will change the course of history, yet only a small group of people are allowed to see it.’ ’Of course, if it were ever officially released, it would be one hell of a scandal.’ ’People would probably say something like, ’Call Robert Zemeckiff to SERN right away. He could build it in less than a year.’’"
+
+Okabe: *I freeze, the information sinking in. My heart pounds in my chest, my mind racing.* "...Nine years?"
+
+Itaru: *I finish reading, watching Okabe's reaction with mild curiosity.* "Yeah, that's what it says."
+
+Okabe: *I rub my temples with my thumbs, trying to calm my racing thoughts.* "Do you think there were any translation errors in that email?"
+
+Itaru: *I raise an eyebrow at Okabe's question, my usual humor replaced by a seriousness that matches his.* "If you trust the translation software, then that’s what it says. The Japanese is strange in places, though."
+
+Okabe: *I frown, my mind working overtime to piece together the puzzle.* "But that doesn’t make sense. I thought the LHC was only put into operation around spring last year. But this email makes it sound like it’s been in operation for nine years."
+
+Itaru: *I nod, my curiosity piqued.* "That is strange."
+
+Okabe: *I gulp, the implications of the email sinking in. My mind races, piecing together the information.* "Keep looking, Daru. Search for anything related to time machine research."
+
+Itaru: *I look at Okabe, a mix of disbelief and curiosity in my eyes.* "Seriously?"
+
+Okabe: *I nod, my determination unwavering.* "Yes, seriously. Keep searching."
+
+Itaru: *With a shrug, I turn back to the screen, my fingers flying over the keys once again.* "Hmm, there aren’t any emails with the phrase ’time machine’ in them... But the phrase ’Z Program’ was used hundreds of times in the past few months. Do you think it could be about the current LHC experiments?"
+"""

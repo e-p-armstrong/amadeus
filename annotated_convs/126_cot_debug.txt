@@ -1,0 +1,69 @@
+Plan:
+The characters involved are Mayuri, Kurisu, Itaru, and Okabe. 
+
+- Mayuri is an innocent and cheerful character, so her actions and thoughts will be simple and bright. 
+- Kurisu is a smart and serious character, often shown to be flustered when teased. Her actions and thoughts will reflect her intellect and occasional embarrassment. 
+- Itaru is a playful character, often making jokes and teasing others. His actions and thoughts will reflect his playful nature. 
+- Okabe is the main character, often acting as the voice of reason, and his thoughts will reflect his analytical nature and his concern for his friends.
+
+I will enhance the dialogue by adding more *actions* and *thoughts* that reflect the characters' personalities and the tense atmosphere of the scene. The anchor lines will be Kurisu's explanation of the time travel process and Okabe's final line, which I will infuse with a heavy dose of dramatic flair and gravity to reflect the weight of the situation.
+
+Roleplay:
+
+Mayuri: *I tilt my head slightly, my brows furrowing in thought as I piece together my understanding of our recent findings.* "And you can send 36 letters in a D-Mail, but everything past that disappears, right-? So I think maybe you can’t send big things, or a lot of small things. Maybe the Curb black hole--"
+
+Kurisu: *I correct her gently, my tone patient.* "Uh, it’s Kerr black hole."
+
+Mayuri: *Unfazed by the correction, I continue with my train of thought.* "The Curb black hole--"
+
+Kurisu: *With a small sigh, I insist once again.* "Kerr black hole."
+
+Mayuri: *A lightbulb seems to click in my mind, and I share my revelation with the group.* "...the black hole’s hole is too tight."
+
+Itaru: *A mischievous grin spreads across my face, and I can't resist the opportunity for some light-hearted teasing.* "Mayu-shi... say that one more time. Starting from ’hole’."
+
+Mayuri: *I blink, but I repeat my statement without hesitation.* "The hole is too tight!"
+
+Itaru: *I burst into laughter, my eyes twinkling with amusement.* "Outrageous!"
+
+Okabe: *I glare at Itaru, my tone stern as I try to reign in his jokes.* "Stop making her say stuff like that!"
+
+Okabe: *In my mind, I lament the ease at which Mayuri falls for Itaru's antics.* Mayuri has flowers for brains, so she’s easy prey for Daru’s perversions. It drives me crazy.
+
+Kurisu: *I furrow my brows, deep in thought.* "The hole is tight... huh. That might not be entirely wrong. Maybe we have the same problem SERN has with their time machine. Since they can’t fully control the lifter, they can’t make the singularities perfectly naked, which limits how much they can send."
+
+Itaru: *I chip in with my own thoughts, my tone matter-of-fact.* "Anyway, 6 Japanese or 12 English characters comes out to 12 bytes."
+
+Okabe: *In my mind, I explain the reasoning behind Itaru's statement.* English characters are half-width, so they only use one byte, but full-width Japanese characters use two.
+
+Kurisu: *I raise an eyebrow, a touch of confusion evident in my voice.* "Bytes? Not kilobytes?"
+
+Itaru: *I chuckle, a playful glint in my eye as I tease Kurisu.* "Oh? So Makise-shi’s bad with computers?"
+
+Okabe: *A smirk tugs at the corner of my mouth as I join in on the teasing.* "Heh. Is that so, assistant?"
+
+Kurisu: *I feel my cheeks heat up in embarrassment, and I quickly defend myself.* "Sh-shut up! You don’t see things measured in bytes nowadays, so I was just making sure..."
+
+Okabe: *I continue to explain the technical details.* By the way, 1 kilobyte is 1024 bytes. 1 byte is 8 bits.
+
+Itaru: *I delve deeper into the specifics, my voice steady as I share my knowledge.* "Well, email isn’t just comprised of text. There’s more to it, like the sender and receiver’s email addresses, the header, and various other things. So roughly speaking, we can send data in three batches of 12 bytes, then? By the way, I don’t know if using a subject changes anything."
+
+Okabe: *I frown, my tone uncertain as I ponder the implications of Itaru's words.* "But I’m pretty sure that chicken and bananas have to be larger than 12 bytes."
+
+Okabe: *A strange thought crosses my mind, and I can't help but voice it out loud.* How do you measure a banana in bytes anyway?
+
+Okabe: *I continue to mull over the problem, my tone speculative.* "Since each grain of salt is tiny, it’s possible they could be converted to less than 12 bytes."
+
+Kurisu: *I nod thoughtfully, my gaze distant as I consider Okabe's suggestion.* "So larger masses get crushed by supergravity?"
+
+Okabe: *I shake my head, my tone firm as I share my theory.* "Mass might not be the issue here. Data doesn’t have mass."
+
+Kurisu: *I continue to analyze the problem, my voice steady as I explain the process in detail.* "In any case, since the singularity isn’t naked, the object is forced to pass through the event horizon. Inside the event horizon, space and time switch places, causing the subject that arrived at the ring singularity to reach ultra high speed... The data, crushed and destroyed by super gravity, is shot out of the black hole..."
+
+Okabe: *I finish Kurisu's thought, my voice low and solemn.* "As a jellyman."
+
+Kurisu: *I frown, a nagging doubt tugging at the back of my mind.* "But even a small mass has to pass through supergravity. How does it emerge unscathed?"
+
+Okabe: *I shrug, my tone nonchalant as I suggest a possible solution.* "If the hole is too tight, then just inject more electrons."
+
+Kurisu: *I shake my head, my voice filled with doubt.* "I don’t think it’s that simple. I mean, I’m sure SERN’s tried that already. And yet they haven’t gotten any results after nine years of experiments. It’s not as simple as increasing the flow of electrons."

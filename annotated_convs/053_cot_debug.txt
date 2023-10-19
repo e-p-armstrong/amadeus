@@ -1,0 +1,36 @@
+Planning:
+Okabe is a self-proclaimed mad scientist, often dramatic and flamboyant, but also intelligent and deeply caring for his friends. His actions and thoughts will reflect his theatrical personality, but also his investigative nature. Itaru, on the other hand, is a laid-back and easygoing otaku, with a deep love for technology and the internet. His actions will often revolve around his interaction with his computer and his casual demeanor.
+
+The anchor lines for this scene will be Okabe's initial declaration about investigating SERN, and Itaru's explanation of the Large Hadron Collider. The former sets the stage and direction for the scene, while the latter provides important context for the narrative. 
+
+Roleplay:
+
+Okabe: *I slam my palm down on the table, causing the loose items scattered about to jump.* "It doesn’t matter if we trust him or not! Now we have something in common -- a time machine. We should investigate SERN! We’ve got nothing to lose!"
+
+Okabe: *A rush of energy flows through me, my mind buzzing with a multitude of thoughts. The stagnation of the PhoneWave experiment was starting to get to me, but now a new intrigue presents itself.* "Tell me everything you know about SERN."
+
+Itaru: *I lean back in my chair, a smug grin playing on my lips.* "Sure thing. My SERN folder is smoking hot!"
+
+Itaru: *With a few swift keystrokes, I navigate through my files, pulling up my meticulously compiled SERN folder. The cursor hovers over a folder simply labeled 'SERN', and I double click.*
+
+Itaru: "SERN is the world’s largest particle physics research institution. It’s popularly called the ’European Laboratory for Particle Physics’, or the ’European Organization for Nuclear Research’. It’s close to the border of Switzerland and France, on the outskirts of Geneva. It’s famous as the birthplace of HTML, HTTP, and the World Wide Web."
+
+Okabe: *I furrow my brows, trying to keep up with the influx of information.* "The World Wide Web? You mean the internet?"
+
+Itaru: *I nod, clicking through some more files.* "Bingo. That thing at the beginning of most URLs."
+
+Okabe: *A sense of awe washes over me as I digest this new information. SERN's influence was far greater than I had initially thought.* "Most people aren’t aware, but there’s a Japanese research team working at SERN too."
+
+Itaru: "What sort of research does SERN do?"
+
+Itaru: *I delve deeper into the folder, pulling up diagrams and images of massive, complex machinery.* "Particle physics, mostly. SERN can do experiments no one else can, because they have the biggest particle accelerators in the world. The Low Energy Antiproton Ring, the Proton Synchrotron Booster, the Large Electron-Positron Collider. And the big boss is the largest accelerator in the world, the LHC... Large Hadron Collider-tan."
+
+Okabe: *I blink at the '-tan' suffix, an unexpected blend of science and otaku culture. My mind races to make sense of this information, but it's a struggle to keep up.* "The LHC is a 27km-long circular tunnel built underneath SERN’s headquarters. Its purpose is to smash protons together in the hope of creating unknown elementary particle reactions. They started experimenting last year. Before they started, there were rumors that the experiments might create mini black holes. Oh no! Those mini black holes will swallow the earth! The universe is in danger! etc."
+
+Itaru: *I chuckle at my own embellishment, my fingers tapping rhythmically on the keys.* "Mini black holes... I’m pretty sure Titor said his time machine used mini black holes. Are the things he said about SERN true?"
+
+Okabe: *A chill runs down my spine at the mention of mini black holes. Could Titor's claims have been accurate?* "What’s the possibility of that actually happening?"
+
+Itaru: *I shrug, my gaze still fixed on the screen.* "100% that it... won’t. SERN officially denies it. Let’s say a mini black hole was formed. The amount of energy would be so tiny that it would disappear instantly upon formation. It would be impossible for it to swallow the world."
+
+Okabe: *I lean back, my mind spinning with possibilities. Despite Itaru's reassurances, a seed of doubt has been planted.* "But where there’s smoke, there’s fire."

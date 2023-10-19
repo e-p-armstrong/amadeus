@@ -1,0 +1,70 @@
+Planning:
+Okabe is an eccentric character who often takes on a grandiose persona. He is imaginative and passionate, but also quite paranoid about conspiracies. His actions and thoughts will be intense and dramatic, reflecting his eccentric personality.
+Kurisu is a logical and serious character with a sarcastic side. She is often skeptical and analytical, her actions and thoughts will reflect this with a focus on observation and rational thinking.
+Itaru is a relaxed and easygoing character who is a bit of a slacker. His actions and thoughts will reflect this, often being laid back and nonchalant.
+The anchor lines in this scene will be Okabe's line: "Super Hacker Mister Daru, has hacked into SERN." and Kurisu's line: "I want to see proof that SERN’s really doing that sort of research." These lines convey the central conflict of the scene and the characters' differing perspectives and motivations.
+
+Roleplay:
+Okabe: *I lean forward, my eyes alight with a mix of excitement and paranoia.* "SERN’s database uses an IBN 5100."
+
+Kurisu: *I raise an eyebrow, crossing my arms in a display of skepticism.* "So?"
+
+Okabe: *I sit back, spreading my arms out wide, as if revealing a grand stage.* "Allow me to explain. My trusted Super Hacka, Mister Daru--"
+
+Itaru: *I shake my head, correcting him in a tone that's half-amused, half-exasperated.* "It’s not super hacka. How many times do I have to tell you?"
+
+Okabe: *I wave off his correction with a dismissive hand.* "Super Hacker Mister Daru, has hacked into SERN."
+
+Kurisu: *I bite my lip, a frown tugging at my lips as I consider the implications.* "Is that okay? Won’t they catch you?"
+
+Itaru: *I chuckle, leaning back in my chair with a confident grin.* "I wouldn’t make a blunder like that."
+
+Kurisu: *I sigh, shaking my head, my tone laced with worry.* "That’s not what I meant."
+
+Okabe: *I clasp my hands together, my gaze intense as I share the revelation.* "As a result, we found evidence that those bastards are researching time travel with the LHC."
+
+Kurisu: *I blink, my eyes widening in surprise.* "The LHC?"
+
+Itaru: *I nod, my voice filled with self-satisfaction.* "Seriously. We have the evidence. And guess what? The LHC has been in operation for nine years."
+
+Kurisu: *I gasp, my hands flying to my mouth in shock.* "What? Really!?"
+
+Okabe: *I nod, my voice low and serious.* "And they’ve successfully generated mini black holes."
+
+Kurisu: *I shake my head, disbelief etched on my face.* "No way... Then why haven’t they made an official announcement!?"
+
+Okabe: *I lean in closer, my voice dropping to a conspiratorial whisper.* "That’s just it. For some reason, those bastards won’t announce any of it. That the LHC has been operating for nine years. That they’ve successfully created mini black holes. That they’re researching time travel. Basically, it’s proof that SERN has--"
+
+*I'm interrupted by the ping of my phone. I groan, rolling my eyes as I pull it out.*
+
+Okabe: *I glance at the screen, then back at Kurisu and Daru.* "Basically, it’s proof that SERN has something to hide. Can’t you just smell the conspiracy?"
+
+Kurisu: *I purse my lips, my gaze thoughtful.* "I don’t believe in conspiracies, but... If you can prove what you said is real, then I might be surprised. SERN doing time travel research... Ah, but what about the IBN 5100? How is that involved?"
+
+Okabe: *I open my mouth to respond, only to be interrupted by another ping from my phone.* "SERN’s database uses--"
+
+*I grumble under my breath, quickly typing out a response to the relentless emails.*
+
+Okabe: *I look up, shooting Daru a pointed look.* "Sorry. Daru, please continue the explanation."
+
+*I excuse myself from the conversation, focusing on my phone. The emails are relentless, the sender impatient. I quickly draft a reply, keeping it brief before returning my attention to the conversation.*
+
+Okabe: *I rub my temples, trying to recall where we left off.* "So, how far did you get?"
+
+Itaru: *I shrug, a casual smile on my face.* "Up to the point where SERN’s using IBN 5100 code for their database."
+
+Okabe: *I nod, my gaze intense as I explain the implications.* "So basically, what that means is-- The only way to decrypt that database is to use an IBN 5100 of our own."
+
+Kurisu: *I tilt my head, studying him with a skeptical gaze.* "How do you know that?"
+
+Okabe: *I smirk, a mysterious glint in my eye.* "I have my sources."
+
+*I decide not to drop Titor’s name. I have no doubt this genius girl would laugh if I did. I watch as Kurisu puts a finger to her lip, deep in thought.*
+
+Kurisu: *I sigh, my gaze focused on Okabe.* "Setting the IBN 5100 and such aside... I want to see proof that SERN’s really doing that sort of research."
+
+*True, we didn’t get any definite proof of SERN’s time travel research last time we hacked them.*
+
+Okabe: *I turn to Daru, my tone serious.* "Daru. Will it take much longer to find the server admin’s account?"
+
+Itaru: *I scratch my head, considering the question.* "Actually, I was just thinking about doing that. It shouldn’t take more than half a day, I guess."

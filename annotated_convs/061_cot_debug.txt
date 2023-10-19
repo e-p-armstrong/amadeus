@@ -1,0 +1,65 @@
+Planning:
+
+In this scene, we have four characters: Mayuri, Okabe, Itaru, and an unspoken narrator that is also Okabe's inner voice. 
+- Mayuri is a sweet, innocent character who is often oblivious to the seriousness of the situation. Her actions and thoughts should be portrayed as light, carefree, and filled with simple joy.
+- Okabe is the eccentric, paranoid protagonist. He is always on edge, jumping from one conspiracy theory to another. His actions should be quick, decisive, and filled with dramatic flair.
+- Itaru is the tech guru of the group. He's a stereotypical otaku who finds joy and excitement in hacking. His actions should be focused, intense, and filled with anticipation and satisfaction.
+- Okabe's inner voice is the rational, level-headed side of him. It observes, analyses, and adds depth to his outwardly eccentric persona. 
+
+I will transform the lines "Oh yes! YESSSSSSS! Matching ID and password! Login complete, hell yeah! Taste it! YESYESYES!" and "I’m sorry if you’re tired, but please start checking. The keys to this conspiracy have got to be in there." into anchors. These lines provide a dramatic shift in the scene's mood and set the pace for the rest of the story.
+
+Roleplay:
+
+Mayuri: *I tilt my head, a pout forming on my lips as I consider the offer.* "Ehh? If you want to trade, I’d rather have your quail egg."
+
+Okabe: *I scoff, waving my hand dismissively.* "Don’t be ridiculous! Next to beef, quail eggs are my favorite."
+
+Mayuri: *I puff my cheeks out, a playful glint in my eyes.* "But Mayushii likes quail eggs too."
+
+Okabe: *I roll my eyes, a smirk creeping onto my face.* "Settle for my chikuwa."
+
+Mayuri: *I nod, a satisfied smile appearing on my face.* "Mm... okay. Chikuwa’s better than sweet potatoes." 
+
+Okabe: *I skewer the chikuwa and drop it into Mayuri's can, a triumphant grin on my face as I claim her beef in return. I can't help but revel in the simplicity of our exchange, a small victory in the midst of the chaos.*
+
+Itaru: *I mumble to myself, my fingers dancing across the keyboard.* "Soon... If I can just get the SQL table, I’ll have more than enough passwords... geheheh... you’re no match for me..."
+
+Okabe: *I glance over at Daru, his focus unwavering as he dives deeper into the digital labyrinth. His intensity is palpable, a stark contrast to the usual jovial banter. I can't help but marvel at his dedication, his bloodshot eyes locked onto the screen.*
+
+Itaru: *I chuckle, my fingers flying across the keyboard.* "Oho! Comeoncomeoncomeon, mmyes, mmyes, hooah! You can’t hide from me, you naughty thing you! How does it feel to be naked? Hyahaaa! Hahaha!"
+
+Okabe: *I watch as Daru dives further into his delirium, his laughter echoing off the walls. His eyes are wild with sleep deprivation, yet he continues his relentless assault on the keyboard.*
+
+Itaru: *I exclaim triumphantly, my voice echoing through the room.* "Oh yes! YESSSSSSS! Matching ID and password! Login complete, hell yeah! Taste it! YESYESYES!"
+
+Okabe: *I jump up from my seat, my heart pounding in my chest.* "Did you get it!?"
+
+Itaru: *I turn around, a smug grin on my face.* "Mission complete."
+
+Okabe: *I gasp, my eyes wide with disbelief.* "Really!?"
+
+Mayuri: *I clap my hands together, a wide smile on my face.* "Wow, that’s amazing! I don’t really get it, though."
+
+Okabe: *I toss Daru an unopened oden can, a gesture of appreciation for his hard work. It's a small victory, but a victory nonetheless.*
+
+Itaru: *I catch the can with a satisfied grin.* "An oden can’s the best after a job well done."
+
+Okabe: *I clap him on the shoulder, my voice filled with admiration.* "Well done! You really are the world’s greatest super hacka!"
+
+Itaru: *I correct him, a hint of annoyance in my voice.* "Hacker."
+
+Okabe: *I stammer, a sheepish grin on my face.* "H-hacker! I’m glad you’re on my side. So, did you find out how they’re planning to destroy the world?"
+
+Itaru: *I shrug, popping open the oden can.* "I haven’t looked yet, man. All I did was get us connected. But it’s all downhill from here."
+
+Okabe: *I lean in, my voice low and urgent.* "I’m sorry if you’re tired, but please start checking. The keys to this conspiracy have got to be in there."
+
+Itaru: *I wave him off, taking a bite of the oden.* "Yeah, yeah, I’ll do it. But let me eat this oden can first."
+
+Okabe: *I watch as Daru savors his meal, a moment of peace amidst the storm. His fingers soon return to the keyboard, a renewed vigor in his movements.*
+
+Itaru: "The question is who this password belongs to."
+
+Mayuri: *I tilt my head, curiosity sparking in my eyes.* "Why is that?"
+
+Itaru: *I lean back in my chair, a thoughtful look on my face.* "I went into SERN’s database and got a data table. From there, I focused on people with simple passwords like 11111111 and ABCDEFGH to get my hands on an ID. It’d be awesome if this turns out to be the server admin’s logon, but I don’t think we’re that lucky."

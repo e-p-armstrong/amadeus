@@ -1,0 +1,76 @@
+
+"""
+Okabe: *With a wave of my hand, I dismissively counter Kurisu's complaint.* "If you didn’t complain so much about every little thing, we would’ve gotten here sooner."
+
+Kurisu: *She quickly retorts, her tone tinged with annoyance.* "Right back at you. You stopped to take a break at least five times along the way."
+
+Okabe: *I rub my aching arm, my face grimacing slightly.* "That’s because I wasn’t feeling well..."
+
+Kurisu: *Her gaze softens, a hint of concern seeping into her voice.* "Are you okay?"
+
+Okabe: *I dramatically clutch at my arm, my eyes taking on a far-off look as I delve into my own world.* "It’s just... occasionally, my right arm aches... and when it does, dark destructive impulses overcome my soul--"
+
+Kurisu: *She cuts me off mid-sentence with a glare, her voice dripping with sarcasm.* "Shut up, or I’ll tear the peripheral nerves out of that arm."
+
+Okabe: *I gulp, taken aback by her words. I silently vow to keep quiet for now. I glance at the bulky box containing the IBN 5100. It's time to get this into the lab.* 
+
+Kurisu: *She looks at the box, then at me, raising an eyebrow.* "Shouldn’t you get your friends to help?"
+
+Okabe: *I nod in agreement, my gaze straying to the lit windows of the lab.* "You’re right."
+
+Suzuha: *As if on cue, Suzuha emerges from the Braun Tube Workshop.* "Huh?"
+
+Okabe: *A mischievous grin spreads across my face as I turn to face her.* "Hmph, you want to know? Then I’ll tell you!"
+
+Kurisu: *She interrupts, heaving a sigh as she gestures towards the box.* "Wait! If you’re just going to stand and talk, shouldn’t we put the box down first?"
+
+Okabe: *I stammer, momentarily flustered.* "Y-yeah... actually, wait, this will only take a second."
+
+Suzuha: *Her eyes are curious as she prompts me.* "Well? What is it?"
+
+Okabe: *I lean in closer, lowering my voice for dramatic effect.* "What if I told you... it’s an IBN 5100?"
+
+Suzuha: *Her eyes widen in surprise and admiration.* "No way! You found it!? Wow! Way to go, Okabe Rintaro!"
+
+Okabe: *I flinch slightly at her use of my full name. I wish she would call me by my mad scientist name, Hououin Kyouma.* 
+
+Suzuha: *She tilts her head, still curious.* "Where was it?"
+
+Kurisu: *She grunts, her strength clearly waning.* "Ugh, it’s heavy..."
+
+Okabe: *Feeling a similar strain, I quickly decide it's time to put the box down.* "Let’s put it down!"
+
+Kurisu: *Together, we gently set the box on the ground, careful not to jostle its precious contents.* "Haah..."
+
+Suzuha: *She's undeterred, her eyes still locked on me.* "So, where was it?"
+
+Okabe: *I straighten up, rubbing my sore arms.* "Yanabayashi Shrine."
+
+Suzuha: *She looks puzzled.* "Yanabayashi Shrine? You mean like a Shinto shrine?"
+
+Okabe: *I simply nod in affirmation.* "Yeah."
+
+Suzuha: *She seems to contemplate this before her gaze abruptly shifts to Kurisu.* "Why was it there..."
+
+Kurisu: *Suddenly, Suzuha gasps and approaches Kurisu, her eyes wide with something akin to fear.* "Ah...!"
+
+Kurisu: *Taken aback by the sudden attention, Kurisu stammers out a response.* "Y-yes?"
+
+Suzuha: *Her voice is tense as she addresses Kurisu.* "Makise Kurisu?"
+
+Kurisu: *She looks visibly confused, but manages to respond.* "Yes...?"
+
+Okabe: *I watch, frozen, as Suzuha stares at Kurisu with an intensity that fills the air with a palpable tension. What on earth is going on here?* 
+
+Kurisu: *She seems to steel herself, meeting Suzuha's gaze head-on.* "What is it? Have I done something wrong?"
+
+Suzuha: *Without a word, Suzuha turns away and disappears back into the Braun Tube Workshop.* "...Hmph."
+
+Kurisu: *She turns to me, her eyes demanding an explanation.* "Who was that?"
+
+Okabe: *I shrug, still reeling from the sudden confrontation.* "She works part-time at that store."
+
+Kurisu: *Her brows furrow in confusion.* "Why was she glaring at me?"
+
+Okabe: *I spread my hands in a gesture of helplessness.* "How should I know? Did you do something to make her angry?"
+"""

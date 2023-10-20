@@ -1,0 +1,46 @@
+Planning/Brainstorming:
+The characters involved are Mayuri, Itaru, Kurisu, and Okabe. 
+
+Mayuri is a sweet, innocent, and cheerful character. Her *actions* should have a light-hearted and playful tone, filled with giggles and shy smiles. 
+
+Itaru is a tech-savvy, easy-going character. His *actions* should reflect his laid-back nature and knowledge about technology. 
+
+Kurisu is a determined and intelligent character. Her *actions* should reflect her dedication to explaining the complicated mechanics of the Time Leap Machine. 
+
+Okabe, the protagonist, is a passionate and eccentric character. His *actions* should reflect his intense curiosity and focus on the discussion about the Time Leap Machine.
+
+The anchor lines of this roleplay will be Okabe's line: "Very well. Time Leap Machine it is. Assistant! Explain for us all how the Time Leap Machine works." and Kurisu's line: "Next, we hijack the LHC, create a mini black hole, and use that black hole’s supergravity to compress the data into 36 bytes." These lines are pivotal as they set the direction of the discussion and lay out the primary function of the Time Leap Machine. 
+
+Roleplay:
+
+Okabe: *As the unspoken rule of the lab dictates, I nod my head in acceptance of Mayuri's decision.* "Very well. Time Leap Machine it is." *I then turn towards Kurisu, my gaze intense and filled with curiosity.* "Assistant! Explain for us all how the Time Leap Machine works."
+
+Mayuri: *I tilt my head slightly, my eyes sparkling with curiosity.* "Hmmm... I think Time Leap Machine is fine. Silly Hat PhoneWave-chan is super close though..."
+
+Itaru: *I chuckle softly, leaning back in my chair.* "Somehow I knew she’d say that."
+
+Kurisu: *I nod in agreement, a small smile tugging at the corners of my lips.* "Like I said, simple is best. Mayuri gets it."
+
+Mayuri: *I giggle, my cheeks flushing slightly in embarrassment.* "Ehehe!"
+
+Okabe: *Despite my desire to object, I bite my tongue and nod, accepting Mayuri's decision.* "Very well. Time Leap Machine it is. Assistant! Explain for us all how the Time Leap Machine works." *I demand, eager to understand the complex technology we've created.*
+
+Kurisu: *I nod, standing up and walking towards the whiteboard.* "In short, this device converts memories to data and sends them to the past. Let’s begin with what we all know. By freak coincidence, the PhoneWave is able to produce ring singularities, much like John Titor’s time machine. Through the ring singularity, we are able to send up to 36 bytes of data to the past. The signal can only be received by phones. While that does limit the range of effect, it also removes an element of uncertainty from the equation. Unlike D-Mails, memory data is sent in the form of a phone call, so we will be using a phone number, not an email address, to set the destination. The ring singularity is made naked and stable by a device known as a lifter. In our case, that’s the 42-inch CRT downstairs."
+
+Okabe: *I listen carefully, nodding in understanding.* "I see. So, what modifications have you made to turn the PhoneWave into a time leap machine?"
+
+Kurisu: *I point to the headgear attached to the PhoneWave.* "The PhoneWave now has headgear attached. This headgear records the nerve impulses in the temporal lobe of the brain -- specifically, the CA3 region of the hippocampus, where memories are stored. Then, using VR technology, we encode the nerve impulses into electrical signal data."
+
+Itaru: *I lean forward, my eyes focused on the headgear.* "It comes out to approximately 3. 24 terabytes."
+
+Okabe: *I raise an eyebrow, intrigued.* "3. 24 terabytes... It’s less than I expected. We’re talking about the entirety of a person’s memories."
+
+Kurisu: *I nod, continuing my explanation.* "By the way, we’ll set it up so that the data decodes automatically after a certain amount of time. Anybody well versed in programming can do this. I had Hashida make the code. Anyway, next we send the memory data through the net to the LHC in France."
+
+Okabe: *I lean back, thinking about the implications of this.* "This building has a direct line to SERN for some reason, so we can transfer data at insanely high speeds. But how long does it take to send 3. 24 terabytes of data?"
+
+Itaru: *I do some quick calculations in my head.* "We have 64 direct lines in parallel. So if we send it in 64 parts... It should upload in about 45 seconds."
+
+Okabe: *I nod, impressed.* "That’s... pretty fast."
+
+Kurisu: *I take a deep breath, preparing to explain the final step.* "Next, we hijack the LHC, create a mini black hole, and use that black hole’s supergravity to compress the data into 36 bytes."

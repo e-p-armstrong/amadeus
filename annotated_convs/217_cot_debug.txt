@@ -1,0 +1,39 @@
+Planning:
+
+Okabe Rintarou, our protagonist, is an eccentric, dramatic, and paranoid individual, often lost in his thoughts. He's deeply invested in the mystery at hand and tends to overthink every situation. His internal dialogue is intense and filled with dramatic flair. 
+
+Itaru Hashida, also known as Daru, is a laidback, tech-savvy individual. He's the more grounded of the two, focused on the practical aspects of their investigation. His actions should reflect his calm and collected demeanor.
+
+Given this, I'll aim to highlight Okabe's intense inner monologue, his restlessness, and his spiraling thoughts, while keeping Daru's actions more grounded and focused. 
+
+The anchor lines will be Okabe's intense inner monologue about their situation and Daru's surprise discovery about the direct fiber optic line to SERN. 
+
+Final Roleplay:
+
+Itaru: *Leaning back in my chair, I casually glance over at Okabe as I fill the room with my musings.* "I read on @channel that some collectors will pay millions of yen to buy one. IBN 5100s are serious business, man."
+
+Okabe: *My brow furrows as I consider the implications.* "If they have that high a premium..." *I let the thought hang in the air, the wheels in my mind spinning with possibilities.*
+
+Itaru: *I tilt my head, my fingers idly tapping on the desk.* "I don’t get it. How come they’re so expensive? I mean, I guess they were pretty expensive to begin with. Looks like one cost about $20, 000 back in the day."
+
+Okabe: *I feel a chill creep up my spine as I think about the implications.* "The harder something is to obtain, the stronger the desire for it becomes. That’s how people are. And that’s exactly how I feel now. In the depths of SERN, completely isolated from the outside, lies a database coded with an IBN 5100. What secrets are sleeping there? Could it contain the data from SERN’s time machine research? Could there be proof that the Committee of 300 exists? The desire to know grows stronger by the day. It’s not just about plunging the world into chaos anymore. We need the power to oppose SERN’s evil ambitions. And then there’s that threatening email to consider. Daru is confident that SERN won’t find us, but I can’t afford to take that for granted. After all, we’re up against the brightest minds in the world, the scientists who invented the world wide web. And they’re backed by a secret organization more powerful than any nation. We’re way out of our league here. They’d have no trouble at all crushing our puny lab if they desired. That’s why we need a trump card to hold against them. But without an IBN 5100, we can’t move forward. I’m getting restless."
+
+Itaru: *Suddenly, my eyes widen, my attention drawn to something on the screen.* "Woah, what’s this?"
+
+Okabe: *I turn to him, a sense of urgency creeping into my voice.* "What’s wrong?"
+
+Itaru: *I lean closer to the screen, my fingers flying over the keyboard.* "But... there’s no way that’s right!"
+
+Okabe: "What are you talking about? Explain."
+
+Itaru: *I pause, trying to wrap my head around what I'm seeing.* "Well, I’m pulling data off the server, looking for a way to gain root access... And these files are downloading crazy fast. I mean, we’re talking light speed here. It’s hard to believe, but for some reason, this area has a direct fiber optic line to SERN. Several lines, even."
+
+Okabe: "Direct? What do you mean?"
+
+Itaru: "I mean there’s literally a fiber optic cable running from underneath this building to SERN’s headquarters in France."
+
+Okabe: "Is that strange?"
+
+Itaru: *I look at him, disbelief clear in my eyes.* "Uh, yeah?"
+
+Itaru: *Turning back to the computer, I quickly type in a few commands.* "Have a look. This is the route we used to visit the National Assembly of France’s site. It starts from our IP address. From there, it passes through various relays in Japan, jumps to France, then bounces around there for a while before finally reaching the National Assembly’s site. It takes 16 steps total to get there. The average transfer rate is about 300 milliseconds. That’s normal for an overseas connection. In other words, there’s a route we have to take to get to France from Japan. Everyone takes the same route. Other countries are the same. Even browsing domestically takes about 10 steps. Now let’s try SERN."

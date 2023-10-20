@@ -1,0 +1,72 @@
+Planning stage:
+Okabe is our main character and narrator, he's generally over-the-top and dramatic, but in serious moments like this, he tends to be a bit more subdued. His thoughts will be analytical and slightly paranoid, fitting with his character's obsession with conspiracy theories. He'll also have some internal struggle as he grapples with the information being presented.
+Suzuha is the time traveler, she's tough and determined. Her dialogue will be straightforward, her actions resolute and a bit distant due to her mission.
+Mayuri is the heart of the group, she's cheerful and innocent. Her actions will often be bubbly, and her thoughts will be simple and kind-hearted.
+Kurisu is the genius scientist, she's logical and a bit tsundere. Her actions will often be introspective, and her thoughts analytical.
+Itaru is the group's hacker and a bit of an otaku. His actions will be laid back, his thoughts often humorous or technical.
+
+Anchor lines:
+1. Suzuha: "...It was written in Dad’s will."
+2. Suzuha: "We need to find the record of that email in SERN’s database and delete it. If you do that, then SERN will never know you exist. Their time machine won’t be completed in 2034. If we’re lucky, the program may be shut down entirely."
+
+Roleplay:
+
+Okabe: *I feel my eyebrows raise in surprise as I turn to look at Suzuha, a mixture of confusion and curiosity brewing in my mind.* She has a point. Everyone looks to Suzuha.
+
+Suzuha: *I clench my fists, my gaze downcast as I struggle to find the right words.* "...It was written in Dad’s will."
+
+Okabe: *I feel a chill run down my spine.* His will?
+
+Mayuri: *I tilt my head to the side, my eyes wide with confusion.* "What do you mean?"
+
+Suzuha: *I lift my gaze, my eyes hardened with determination as I recount my father's story.* "His will was what made me decide to time travel. My dad was one of the founding members of the Resistance. He hid from SERN and researched time travel on his own. He wanted to change the future. But SERN killed him. That’s why I’m here. To fulfill his dream."
+
+Kurisu: *I look down, my fingers absentmindedly twisting a strand of my hair as I muster up the courage to speak.* "...I’m sorry."
+
+Okabe: *I glance between Kurisu and Suzuha, noting the tension between them. My heart aches for them both, but I find myself unable to intervene.* Suzuha doesn’t look at Kurisu. She still seems to have a grudge against her. Kurisu would never actively cooperate with SERN. I know that, but I just can’t say it in front of Suzuha. For some reason, Suzuha really does see Kurisu as responsible for the problems of the future. But if that’s the case, why doesn’t Suzuha just kill Kurisu? Wouldn’t that change the future too? Maybe she can’t. Worldlines converge. No matter how hard I struggle, Mayuri dies. Similarly, it may be impossible for Suzuha to kill Kurisu... no matter how much she may want to. 
+
+Suzuha: *I clear my throat, attempting to steer the conversation away from the uncomfortable topic.* "Akihabara, 2010. The time machine created here accelerates SERN’s own time machine research. We have to stop that from happening in order to guide history in a new direction."
+
+Itaru: *I scratch my head, struggling to comprehend the gravity of our situation.* "Stop it? How?"
+
+Okabe: *I run a hand through my hair, my mind racing with a thousand possibilities.* "SERN already knows about us." *The memory of Moeka’s attack still fresh in my mind.*
+
+Suzuha: *I shift my weight, my gaze unwavering as I share my father's final wish.* "Dad believed that the ultimate cause was the very first email you sent with your time machine."
+
+Okabe: *My eyes widen, taken aback by this revelation.* "An email? It wasn’t because they caught us hacking?"
+
+Itaru: *I lean back, a confident smirk on my face.* "Like I said, nobody can catch my hacking."
+
+Kurisu: *I rub my temples, trying to piece together the fragments of our past.* "Which email are you talking about?"
+
+Mayuri: *I clap my hands together, my eyes lighting up as I remember.* "Um, I know! Wasn’t it the email Okarin sent that said Chris-chan died?"
+
+Okabe: *I feel my heart sink as the memory hits me like a ton of bricks.* Right. The email I sent to Daru right after Doctor Nakabachi’s conference.
+
+Kurisu: *I let out a soft sigh, a faint blush creeping up my cheeks.* "Oh, that..."
+
+Okabe: *I grimace, recalling our initial ignorance.* Back then, we hadn’t yet realized that the PhoneWave (name subject to change) was a time machine.
+
+Suzuha: *I cross my arms, my gaze steady and serious.* "SERN probably intercepted that email and realized what it meant."
+
+Okabe: *I swallow hard, the implications hitting me like a freight train.* "They were already on to us back then?" *I reflect on my first encounter with Moeka, the day after I sent that email.*
+
+Itaru: *I let out a low whistle, my face pale.* "We really jumped in the deep end, huh..."
+
+Mayuri: *I giggle, trying to lighten the mood.* "Mayushii’s good at the breaststroke!"
+
+Itaru: *I smirk, playing along with Mayuri's attempt to cheer us up.* "Alright, then do a sexy underwater pose."
+
+Okabe: *I furrow my brows, my mind racing with questions.* "But how did they intercept our email? Hundreds of millions of emails are sent around the world each day."
+
+Suzuha: *I lean forward, my tone grave as I reveal SERN's method.* "SERN uses the Echelon network to collect communications pertaining to time travel research worldwide."
+
+Okabe: *I gasp, my heart pounding in my chest.* "Echelon!? It really exists!?" *I can't help but shiver at the thought, the implications terrifying me.*
+
+Okabe: *I look around, noticing the blank expressions on everyone's faces.* No one else seems to get what Suzuha’s saying, though.
+
+Suzuha: *I nod, my gaze unwavering.* "Echelon sees everything. Any transmission that even hints at time travel is filtered and sent to SERN."
+
+Okabe: *I grip the edge of the table, my mind racing.* For example, an email that appeared to have come from the future.
+
+Suzuha: *I stand up, my voice filled with conviction.* "We need to find the record of that email in SERN’s database and delete it. If you do that, then SERN will never know you exist. Their time machine won’t be completed in 2034. If we’re lucky, the program may be shut down entirely."

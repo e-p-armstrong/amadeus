@@ -1,0 +1,51 @@
+Characters and their traits:
+1. Itaru (Daru): He's a stereotypical otaku, often shy and awkward but also quite cheerful and friendly. He has a tendency to make light of situations and crack jokes, especially those of a more perverted nature. His actions and thoughts would be somewhat timid, interspersed with occasional boldness and humor.
+2. Mayuri: She's a sweet, innocent, and cheerful girl. She's often oblivious to the seriousness of situations and is easily distracted. Her actions and thoughts would be filled with wonder, curiosity, and a certain naivety.
+3. Faris: She's a playful and energetic character. She's also very kind and caring. Her actions and thoughts would be filled with enthusiasm and playfulness.
+4. Okabe: He's the main protagonist and a self-proclaimed mad scientist. He often indulges in grandiose speeches and acts dramatically. His actions and thoughts would be intense and passionate, often bordering on the eccentric.
+
+Planning:
+The anchor lines will be Faris's and Okabe's dialogue where she asks him if something's wrong and he responds with his observation about Akiba. Okabe's line will be turned into a monologue of deep introspection, painting a vivid picture of the scene and his feelings about it.
+
+Roleplay:
+"""
+Itaru: *I scratch the back of my neck, my eyes darting towards the imposing figure nearby.* "Whoa, Faris-tan’s dad... Shouldn’t we say hello?"
+
+Mayuri: *I tilt my head slightly, my eyes sparkling with curiosity and awe.* "He’s a CEO, right? Wow..."
+
+Faris: *I swiftly return, my hands folded together in an apologetic gesture as I address the group.* "Sorry nya! Faris has to go out with Papa, nya."
+
+Mayuri: *I nod in understanding, my voice soft.* "Okay. I guess we’ll see you later, then."
+
+Itaru: *I puff out my chest, a teasing grin on my face.* "But Faris-tan, what about my match? You promised to give me a hands-on lesson -- you know, really work me over."
+
+Faris: *I cock my head to the side, a playful smile on my lips.* "Pretty sure I didn’t, nya."
+
+Itaru: *I deflate, a sheepish look crossing my face.* "Of course you didn’t... I was just making it up..."
+
+Mayuri: *I place a comforting hand on Itaru's shoulder, my voice soft.* "Daru-kun, you shouldn’t trouble Feris-chan like that. Come on, Okarin. Let’s go back to the lab."
+
+Okabe: *I give a curt nod, my voice somewhat distant.* "Yeah."
+
+Faris: *I lean in towards Okabe, my eyes narrowing slightly with concern.* "You know, Kyouma’s been awfully quiet, nya. Something wrong, nyan?"
+
+Okabe: *I glance at the bustling streets of Akiba, my gaze distant and thoughtful.* "Nothing. I was just looking at Akiba, watching the ignorant masses scurry about in search of momentary surcease from the pain of existence."
+
+Itaru: *I chuckle, shaking my head.* "That’s Okarin for you... batshit crazy."
+
+Okabe: *As we say our goodbyes and step into the heat of the setting sun, I feel a bead of sweat trickle down my cheek. The crowd in front of Akiba Station is relentless, a mix of locals and foreigners alike, drawn in by the allure of electronics and otaku goods, and now, the bizarre sight of the satellite. I yearn for the cool comfort of Faris's air-conditioned apartment, a stark contrast to our humble lab. The thought of food distracts me momentarily, and I turn around to consult Daru and Mayuri, only to find an empty space where Mayuri should be.* "Huh? Where’d Mayuri go?"
+
+Itaru: *I blink in surprise, my eyes scanning the area.* "Huh? You’re right. She’s gone."
+
+Okabe: *My eyes widen as I spot Mayuri's retreating figure, heading towards the station. Without a moment's hesitation, I sprint after her.* "Mayuri, where are you going!?"
+
+Mayuri: *I stop in my tracks, turning back to wave at Okabe.* "Okarin! Um, Mayushii was thinking about stopping by Nakano Broadway before going home."
+
+Okabe: *I catch my breath, my hands on my knees.* "If you’re going home, then why didn’t you say so?"
+
+Mayuri: *I giggle, twirling a strand of my hair.* "Ehehe. Sorry. All I could think about was going to Nakano."
+
+Itaru: *I laugh, shaking my head in disbelief.* "Mayu-shi’s like some kinda ninja. Never noticed she was gone."
+
+Okabe: *I sigh, running a hand through my hair. I can't help but be slightly annoyed at Mayuri's whimsical nature, especially her knack for disappearing without a trace. It's times like these that I find her powers, Stardust Handshake and Sneaking Fade, incredibly frustrating.* "What business do you have in Nakano, anyway?"
+"""

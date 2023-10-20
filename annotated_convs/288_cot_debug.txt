@@ -1,0 +1,54 @@
+Planning:
+This is a dialogue-heavy scene involving most of the main characters of Steins;Gate. The scene is largely expository, with Suzuha explaining the concept of Attractor Fields using a ball of yarn as a visual aid. The scene is set in the Future Gadget Laboratory, with all characters present. 
+
+Suzuha, being a time traveler, is knowledgeable and serious in her explanation. Her actions will be deliberate and measured, demonstrating her understanding of the complex concepts she's discussing. 
+
+Kurisu, the scientist of the group, is excited and interested in the explanation. She's eager to understand and often interrupts Suzuha with questions. Her actions will be energetic and curious, showing her thirst for knowledge.
+
+Okabe, the protagonist, acts as the moderator of the conversation. He adds his own input occasionally, demonstrating his understanding of the concepts. His actions will be contemplative and attentive.
+
+Itaru, the group's resident otaku, is less interested in the science and more in how it can be applied to his favorite topic: eroge. His actions will be laid-back and humorous, providing comic relief to the serious discussion.
+
+The anchor lines will be Suzuha's explanation of the Attractor Fields and Okabe's analogy using eroge. These lines will be written to emphasize the complexity of the concepts and the characters' unique ways of understanding them.
+
+Roleplay:
+
+Suzuha: *I nod, my gaze steady and certain.* "Right."
+
+Kurisu: *I lean forward, my eyes wide with excitement.* "Does that mean you know how the universe works? You claimed that the Everett-Wheeler model -- the many-worlds interpretation -- is correct."
+
+Suzuha: *I shake my head, a small smile playing on my lips.* "That was a lie. Camouflage so that SERN wouldn’t target me. If I mix one lie into the truth, then the bad apple spoils the barrel."
+
+Kurisu: *I frown, my excitement fading into disappointment.* "So you don’t know."
+
+Suzuha: *I straighten up, my voice steady.* "I do. By 2036, scientists have successfully modeled the structure of the universe. And it’s not the many-worlds interpretation."
+
+Kurisu: *My eyes light up again, my hands clenched in anticipation.* "Really? Tell me!"
+
+Okabe: *I interrupt, my voice low and thoughtful.* "Attractor Fields..."
+
+Suzuha: *I nod at Okabe, a hint of appreciation in my eyes.* "Right. I told you by mail, didn’t I?"
+
+Kurisu: *I tilt my head, my brow furrowed in confusion.* "What sort of model is that?"
+
+Suzuha: *I stand up, my gaze sweeping over the lab before landing on Mayuri's sewing table.* "The universe is made up of worldlines and attractor fields."
+
+Suzuha: *I walk over to Mayuri’s sewing table and pick up a ball of red yarn. I hold one end of the yarn and drop the ball to the floor, then hold about a meter of yarn in front of my face.* "The universe is like this piece of yarn. Countless possible worldlines exist side by side, branching out to infinity. From a distance, it looks like a single string, but when you look closer, the string is actually made up of individual threads woven together. At the end, those threads converge on a single point. The paths are different, but the destination is the same."
+
+Kurisu: *I raise an eyebrow, a smirk forming on my lips.* "Isn’t that determinism?"
+
+Suzuha: *I shrug, a knowing smile on my face.* "Close. This model is a little looser. You could say it cherry-picks from the many-worlds interpretation and the Copenhagen interpretation."
+
+Okabe: *I frown, my hand scratching my chin in thought.* "If the branches all lead to the same place, does that mean there’s only one world in the end?"
+
+Suzuha: *I nod, my gaze steady and certain.* "Exactly. The bundle of worldlines that share a point of convergence is called an attractor field. There are also many attractor fields. This string is Attractor Field Alpha. The threads are Alpha worldlines."
+
+Suzuha: *I reach down and cut meter lengths of blue, yellow, and white yarn. I twist the different colored strings together, then stretch them out as one fat, multicolored string.* "Blue is Beta, yellow is Gamma, and white is Delta. Each is made up of countless Beta worldlines, Gamma worldlines, or Delta worldlines. Attractor fields are superpositioned like this. In each attractor field, the worldlines converge on a different result. They don’t interact. Each attractor field is independent of the others. Of course, they all diverged from a common point somewhere in the past, and they will all converge again at some point in the future, but that takes many hundreds of years. You can think of the attractor fields as very long worldlines."
+
+Itaru: *I lean back, a cheeky grin on my face.* "Can you compare it to an eroge? Teach me, oh erotic one."
+
+Kurisu: *I blush, my voice rising in indignation.* "T-there’s no erotic one here!"
+
+Okabe: *I chuckle, a playful glint in my eye.* "No, he’s right. It is like an eroge. Each heroine’s route is an attractor field, and the small choices within are the individual worldlines. But at the end, they all enter the true route for the grand ending."
+
+Itaru: *I laugh, my eyes shining with mirth.* "The only difference is the length of the common parts. By the way, I’d choose the little sister’s attractor field."

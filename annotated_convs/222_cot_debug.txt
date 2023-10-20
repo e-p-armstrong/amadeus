@@ -1,0 +1,34 @@
+Plan:
+- The characters involved are Kurisu, Okabe, Mayuri, and Itaru. 
+- Kurisu is the intelligent, serious, and slightly tsundere character. Her actions will show her explaining complex scientific concepts with dedication and clarity, and she'll often use gestures to accompany her explanations.
+- Okabe is a self-proclaimed mad scientist with a flair for the dramatic, but also has a more thoughtful and serious side. His actions will often reflect his eccentricity, but also his deep thinking and understanding.
+- Mayuri is the sweet, innocent, and slightly air-headed character. Her actions will show her confusion and attempts to understand the complex scientific concepts being discussed.
+- Itaru is the geeky, laid-back character. His actions will show his surprise and intrigue at the revelations being made.
+
+Roleplay:
+
+Kurisu: *I begin to explain my thesis, my hands moving through the air as if shaping the abstract concepts into something tangible.* "Memories accumulate in something called the parahippocampal gyrus - or hippocampus - which is located in the temporal lobe of the brain. But what exactly are memories?" *I pause, giving my audience time to ponder the question.* "All of the brain’s functions manifest as electrical signals running through its neurons. Even memories are written to the hippocampus by electrical signals."
+
+Okabe: *I lean back, my eyes slightly narrowed as I process the information, the gears in my mind spinning.* "So, you're saying that memories are like... electrical signals?"
+
+Kurisu: *I nod, appreciating Okabe's understanding.* "Exactly. And these signals can be likened to a word association game. You begin with a vague, abstract image, which calls successive images of increasing clarity." *I gesture as if opening a box.* "Imagine a chest of drawers. Each drawer is filled with tiny boxes, and inside each box is another bunch of tiny boxes. You keep opening boxes until you find the memory you’re looking for."
+
+Itaru: *I scratch my head, my eyes wide with intrigue.* "That's... actually pretty fascinating."
+
+Kurisu: *I press on, the excitement of sharing my work clear in my voice.* "Now, before you ask how this relates to time travel, there’s one more thing I need to explain. Several years ago, my lab -- the Neurophysiology Lab at Victor Condoria University -- developed a technology called Visual Rebuilding, or VR for short. It enables conversion of video data into nerve impulse signals, and vice versa."
+
+Okabe: *I raise an eyebrow, a sudden realization dawning on me.* "Wait, so... We can convert memories into data?"
+
+Kurisu: *I nod, a triumphant smile tugging at the corners of my lips.* "Not just that. Memory transplantation, backups, external storage... all of those things become possible."
+
+Okabe: *I sit back, the weight of the revelation sinking in.* "So basically, what you’re saying is that we convert the subject’s memories into video data... Use the LHC’s black hole to compress that data into 36 bytes... Send that data through the Kerr black hole inside the PhoneWave... And finally, imprint those memories on the subject’s brain in the past."
+
+Mayuri: *I tilt my head, my brows furrowed in confusion.* "What does that mean?"
+
+Kurisu: *I take a deep breath, preparing to explain the concept in simpler terms.* "We can send our memories back in time. In order to differentiate it from physical time travel, let’s call it a ’time leap’ for now. You don’t go back, just your memories. It’s so crazy that nobody’s thought of it before."
+
+Anchor lines: 
+1. Okabe: *I raise an eyebrow, a sudden realization dawning on me.* "Wait, so... We can convert memories into data?"
+2. Kurisu: *I take a deep breath, preparing to explain the concept in simpler terms.* "We can send our memories back in time. In order to differentiate it from physical time travel, let’s call it a ’time leap’ for now. You don’t go back, just your memories. It’s so crazy that nobody’s thought of it before."
+
+The thematic direction for these anchor lines is the revelation and understanding of a ground-breaking concept that pushes the boundaries of science and reality as they know it. The characters' reactions to these revelations will reflect their personalities and their comprehension of the concept.

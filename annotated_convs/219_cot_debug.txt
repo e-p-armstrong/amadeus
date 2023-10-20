@@ -1,0 +1,56 @@
+## Plan
+
+Characters and their personalities:
+
+1. Okabe: He's eccentric, theatrical, and a self-proclaimed mad scientist. He often thinks deeply and is observant.
+
+2. Kurisu: She's a genius scientist with a serious and pragmatic nature. She can be blunt and analytical, and often struggles to express her emotions.
+
+3. Mayuri: She's innocent, cheerful, and often clueless about the scientific concepts discussed. She's the emotional heart of the group.
+
+4. Itaru: He's a skilled hacker, otaku, and a close friend of Okabe. He often reacts to situations with humor and light-heartedness.
+
+For Okabe, I will focus on his eccentricity and observant nature. His actions and thoughts will be analytical, with a touch of his 'mad scientist' persona. For Kurisu, I will emphasize her serious, analytical nature and her struggle to express emotions. Mayuri's actions and thoughts will reflect her innocence and naivety. Itaru's actions and thoughts will reflect his humor and light-heartedness.
+
+Anchor lines: 
+
+1. Kurisu: "You’ve created a monster, Okabe."
+2. Kurisu: "The particles collide repeatedly at near light-speed, gaining mass and energy each time. In other words, it becomes a sort of particle accelerator."
+
+These lines will be anchors as they reveal the gravity and implications of the situation, and the potential danger of their invention.
+
+Roleplay:
+
+Okabe: *I lean forward, my eyebrows furrowed in confusion.* "Figured what out?"
+
+Kurisu: *With a stern look on her face, she crosses her arms, taking a deep breath before speaking.* "I think I know how the PhoneWave works."
+
+Okabe: *Surprised, I spring up from my chair.* "Really!?"
+
+Kurisu: *Nodding, her expression remains serious, a hint of worry etched into her features.* "Keep in mind that this is just a hypothesis based on what we’ve observed. It’s closely related to what you guys were just talking about -- the LHC."
+
+Okabe: *I smirk, adjusting my lab coat in a display of mock arrogance.* "I believe it was you, Christina, who called the LHC the world’s largest microwave."
+
+Kurisu: *She nods, her eyes reflecting her resolve.* "Yes. Exactly. My hunch was right." *Her gaze meets mine, a silent warning in her eyes.* "You’ve created a monster, Okabe."
+
+Okabe: *I feel a chill run down my spine at her words. A monster... Is that what we've created?* "It doesn’t belong in some amateur lab. And before you take that as an endorsement of your abilities, I mean it in a bad way."
+
+Kurisu: *She clutches her arms, her fingers digging into her skin as if to keep herself from trembling.* "Give me details."
+
+Kurisu: *Her voice steady, she begins to explain.* "Did you know that the microwave oven was invented as a byproduct of radar research?"
+
+Okabe: *Daru and I exchange a knowing glance before nodding in unison. Mayuri, on the other hand, shakes her head. We read up on all that back then when the PhoneWave (name subject to change) started acting weird.*
+
+Kurisu: *She continues her explanation, her eyes focused and determined.* "Microwaves are electromagnetic waves with a frequency of 2. 45 gigahertz. The PhoneWave is commercial grade, so its output is around 1500-2000 watts. Here’s the important part."
+
+Okabe: *I interject, laying out Daru's blueprints on the table.* "According to Daru’s blueprints, the microwave and the phone are made to send out shared electromagnetic waves by taking their leads... And hardwiring each of them to the magnetron’s cathode and anode."
+
+Kurisu: *She nods, confirming my explanation.* "Both devices use electromagnetic waves. I’m not a specialist, though, so I can’t examine the extent or magnitude of the influence that fusion has... But hypothetically, if the cellphone were to become a stepping stone, scattering the military-grade electromagnetic waves over a vast range of hundreds of kilometers-- Then not just Akihabara, but all of Tokyo would turn into the inside of a microwave oven. Taking into account slight variance due to body weight, the average time until death for the people inside would be-- Three minutes."
+
+Mayuri: *Her eyes widen in horror, her hands instinctively moving to cover her mouth.* "Ehh!?"
+
+Itaru: *He gulps, his eyes wide behind his glasses.* "Seriously? Then the PhoneWave’s a weapon of mass destruction, isn’t it!?"
+
+Okabe: *My heart pounds in my chest. Is it really that powerful?*
+
+Kurisu: *Her gaze is steady, her voice unwavering.* "Let me tell you what happens inside the PhoneWave. The air inside the oven is full of invisible hydrogen atoms. First, it bombards the atoms with microwaves to increase their energy potential. This is the normal function of a microwave oven. But when you add the electromagnetic waves from the phone... The harmonics trigger a chain reaction. The particles collide repeatedly at near light-speed, gaining mass and energy each time." *She takes a deep breath, her gaze holding mine as she delivers the final blow.* "In other words, it becomes a sort of particle accelerator."

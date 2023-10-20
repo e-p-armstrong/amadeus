@@ -1,0 +1,25 @@
+
+
+Itaru: *I lean back in my chair, my fingers tapping rhythmically against the table.* "It’s practically instantaneous. 23 milliseconds or thereabouts. We’re using a black hole, after all."
+
+Kurisu: *I nod, my gaze focused on the holographic projection in front of us.* "By the way, the compression only holds in the immediate vicinity of the black hole. Once the data leaves that area, it will begin to decompress on its own. This, too, takes 23 milliseconds."
+
+Itaru: *I smirk, my confidence in our creation evident.* "It has to make it back to the X68000 and into the PhoneWave within that window. It’s only 36 bytes. Shouldn’t be a problem."
+
+Okabe: *I raise a hand, signaling for her to continue.* "Carry on, Christina."
+
+Kurisu: *I clear my throat, my hands moving to illustrate my points.* "While the data is being compressed, we use the PhoneWave to generate a Kerr ring singularity. When the electron discharge phenomenon occurs, we take the 36-byte data, patch it in... And send it to the past. This part is just like a D-Mail. The data travels to the specified time, where it arrives at the recipient’s phone. By now, 23 milliseconds should have passed, so the data will be fully decompressed. Next, the decoding program runs, converting the data back into nerve impulse signals. These signals are discharged from the phone’s earpiece at approximately 0. 02 amperes, a pretty weak charge. If the recipient has the phone to his ear, they should go straight into his brain."
+
+Okabe: *I rest my chin on my hand, my mind whirring with implications.* "Assuming he answers his phone."
+
+Kurisu: *I shrug slightly, a hint of uncertainty in my gaze.* "If he doesn’t, the transfer fails. Fortunately, we lose nothing but that copy of the memory data."
+
+Okabe: *I tap my fingers against the table, a thoughtful frown on my face.* "Why a phone call instead of an email?"
+
+Kurisu: *I point towards my ear, my gaze steady.* "Because we need the recipient to put the phone to his ear. Otherwise, the signals won’t reach his temporal lobe."
+
+Kurisu: *I tap the side of my head, my voice taking on an educational tone.* "In this area you have the frontal lobe and temporal lobe of the brain. As I explained before, the hippocampus, where memories are stored, is inside the temporal lobe. The phone sends out electrical impulses that pass through the temporal lobe and into the hippocampus, overwriting the recipient’s memories. At the same time, the phone sends impulses that stimulate the frontal lobe as well. This is important. Remember that the frontal lobe is responsible for sending retrieval signals to the temporal lobe. This is how you remember things. By stimulating the frontal lobe, we force it to send retrieval signals keyed to the new memory data. Thus, the recipient recalls all of those memories as if they were his own. Which, of course, they are, or will be in the future. This happens in less than a second. Now the recipient has the same memories as the sender. The time leap is complete. If the data came from one week in the future, the recipient will ’remember’ that week as if he experienced it firsthand. We need to be aware that consciousness and personality aren’t transferred. Both of those depend on the recipient."
+
+Itaru: *I lean forward, a mischievous glint in my eyes.* "Explain it with boobs."
+
+Kurisu: *I blink, my face turning red as I stutter out a response.* "B-boobs!?"

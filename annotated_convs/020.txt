@@ -36,7 +36,7 @@ Okabe: *Feeling the disapproving stares of the professors, I sink back into my s
 
 Kurisu: *I take a deep breath, trying to regain control of the discussion.* "By the way, time travel to the future is available to us right now, according to Einstein’s special theory of relativity. For example, let’s say someone were to go to Haneda Airport and board a plane headed to Okinawa. Upon arrival, that person would be about one hundred millionth of a second farther into the future than I am."
 
-Okabe: *I frown, trying to understand what she means.* "What does that mean?"
+Okabe: *I frown, trying to understand what she means.*
 
 Kurisu: *I explain, trying to simplify the concept for Okabe.* "According to the special theory of relativity, time moves slower for objects as they approach the speed of light. For example, if you could run at near the speed of light, you could reach a point where time only moves half as fast for you. If you were to keep running at that speed for 24 hours, 48 hours would elapse in the rest of the world, meaning you would ’jump’ one day into the future. Understand, Hououin Kyouma?"
 

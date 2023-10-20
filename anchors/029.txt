@@ -1,0 +1,25 @@
+Character Archetypes/Personalities:
+
+Okabe: Eccentric, dramatic, serious, and focused on their scientific pursuits. His actions should reflect his intense nature and his fondness for melodrama.
+
+Itaru: Laid-back, casual, a bit of a geek. His actions should reflect his relaxed demeanor and his love for anime and maid cafes.
+
+Plan:
+
+(1) Okabe: This line will be enhanced to highlight Okabe's seriousness and the sense of urgency he feels. His actions should reflect his focused and intense nature.
+
+(3) Okabe: Okabe's intense nature will be further emphasized in this line. His mention of John Titor should come with a sense of gravity and importance.
+
+(6) Itaru: This line will be enhanced to reflect Itaru's laid-back and relaxed nature. His casual mention of his location should contrast starkly with Okabe's intensity.
+
+(7) Okabe: Okabe's sense of urgency and his dramatic nature will be highlighted in this line. His instructions to Itaru should come with a sense of command and importance.
+
+Enhanced Lines:
+
+(1) Okabe: *I grip the phone with a white-knuckled intensity, my voice dropping to a conspiratorial whisper that echoes through the dimly lit laboratory. The cold metal of the device seems to seep through my skin, chilling my bones with the gravity of the situation.* "It's me. Report."
+
+(3) Okabe: *I push past his casual dismissal, my mind whirling with the implications of Titor's return. The words tumble from my mouth, heavy with unspoken questions and theories, each syllable echoing in the silence that follows.* "Are you aware that John Titor has returned?"
+
+(6) Itaru: *I'm lounging in the plush café chair, my voice casual, a stark contrast to Okabe's intensity. The background chatter of the café and the soft jingle of a nearby arcade game fill the silence between us as I absentmindedly twirl a forkful of parfait.* "I'm at MayQueen+Nyan²."
+
+(7) Okabe: *I sigh, shaking my head in disbelief, the weight of our situation pressing down on me. The harsh fluorescent lights of the lab flicker ominously overhead, casting long, dramatic shadows across the room. My voice hardens, becomes an unwavering command, as I attempt to reign in the chaos.* "Don't move until I get there."

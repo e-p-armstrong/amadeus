@@ -1,0 +1,27 @@
+Character Archetypes/Personalities:
+
+Okabe: Eccentric, dramatic, intelligent, and a bit of a mad scientist character. He often gets lost in his own world, and his actions can be over the top, especially when he is talking about his "experiments" or "discoveries."
+
+Mayuri: Cheerful, gentle, and somewhat naive. She is often seen smiling and is the person who keeps Okabe grounded.
+
+Luka: Shy, timid, and polite. He is easily flustered and is often seen trying to please others.
+
+Lines to enhance:
+
+(2) Mayuri: The line shows her cheerful and carefree nature. She is not bothered by Okabe's eccentricities and takes life as it comes.
+
+(5) Okabe: This line is a turning point in the conversation where Okabe brings up the topic of the scream he heard earlier. He is serious about it and is trying to gather information.
+
+(11) Luka: This line shows Luka's innocence and his willingness to help Okabe despite not fully understanding what he is supposed to do.
+
+(14) Okabe: This line is Okabe at his most dramatic. He is fully immersed in his roleplay and is making a show of it, pulling Luka into his world.
+
+Enhanced lines:
+
+(2) Mayuri: *I rummage through my bag, my fingers dancing over its contents until they finally close around the familiar, cool metal of Pockety. This little timepiece, a relic of my childhood, is more than just an instrument to measure time; it's a vessel filled with countless memories, each tick and tock a testament to the passage of moments spent in laughter, in joy, in friendship.* "Well, time for me to go to work!"
+
+(5) Okabe: *I hold onto her words, letting them linger in the air for a moment before I let my own voice interrupt the harmony. The question, though seemingly casual, feels heavy on my tongue, like a secret I'm not sure I should be sharing. My gaze meets hers, earnest and probing.* "Wait, Mayuri. Back at Radi-Kan, you heard a man scream, right?"
+
+(11) Luka: *I reemerge from the shadows of the shrine, my hands clutching the white zigzaggy thing Okabe had asked for. The cool breeze gently tugs at my robes as I make my way towards him, my heart pounding with a mix of excitement and anxiety. Despite my confusion, I am determined to assist him, to fulfill the role he has entrusted to me.* "Thanks for waiting, Okabe-san."
+
+(14) Okabe: *A shiver of anticipation courses through me, the chill of it snaking down my spine and making me shudder. My grip tightens around my wrist, the convulsion of my arm under my touch mirroring the wild pounding of my heart. I fix my gaze on my trembling hand, my breath hitching in my throat as I try to keep my voice steady, my eyes wide with feigned fear and genuine excitement.* "Guh! It's the evil spirit... in my arm! Be still, foul spirit! Guh... Hurry, Lukako! It's trying to take over!"

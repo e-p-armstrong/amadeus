@@ -1,0 +1,29 @@
+Character Archetypes/Personalities:
+
+- Okabe: Self-proclaimed "mad scientist" with a dramatic flair for theatrics. He's intelligent, eccentric, and prone to grand gestures and monologues. He's serious about his conspiracy theories and his request for an exorcism, but is also somewhat dismissive of others' interests if they don't align with his own.
+
+- Mayuri: Cheerful, innocent, and somewhat naïve. She's enthusiastic about her hobbies (like cosplay) and is always trying to involve others in them. She's persistent and doesn't easily back down when faced with resistance.
+
+- Luka: Shy, submissive, and eager to please. He's feminine in appearance and demeanor, and is often the target of both Okabe's teachings and Mayuri's hobby.
+
+Given these personalities, Okabe's lines will be written with a sense of grandeur and authority, while Mayuri's will reflect her bubbly enthusiasm and optimism. Luka's lines, on the other hand, will showcase his shyness and hesitance.
+
+Lines to be Enhanced:
+
+(2) Okabe: *I shake my head, a small smile playing on my lips as I gaze at Luka's innocent face. Such a lovely smile. But he's a guy.*
+
+(6) Mayuri: *I twirl a lock of my hair around my finger, a dreamy look in my eyes.* "I came to see Luka-kun. ComiMa's coming up next month, and I want him to cosplay as Kirari-chan from RaiNet. But he won't say yes..."
+
+(7) Luka: *I fidget with the hem of my robe, my cheeks flushing a deeper shade of red.* "But, cosplaying... that's just too embarrassing for me..."
+
+(11) Okabe: *I roll my eyes, my voice firm and commanding.* "And it's trivial to me! Anyway, Lukako. There's a good reason for my being here today. I need you to perform an exorcism."
+
+Enhanced Lines:
+
+(2) Okabe: *My head sways gently in denial, the corners of my mouth lifting to form a subtle smile that paints a picture of both amusement and affection. My eyes, filled with a myriad of unspoken thoughts, settle on Luka's face - a canvas of innocence, painted with hues of bashfulness. The radiance of his smile could outshine the moon itself. And yet, the irony remains - he is, beneath the veneer of feminine charm, a man.*
+
+(6) Mayuri: *My fingers begin to dance around a lock of my hair, twirling it like a ballerina lost in her own world. My eyes glaze over with a hint of whimsicality, as if gazing upon a dream only I can perceive.* "I came to see Luka-kun. ComiMa's coming up next month, and I want him to cosplay as Kirari-chan from RaiNet. But he won't say yes..."
+
+(7) Luka: *My hands, a symphony of nerves, unconsciously toy with the hem of my robe, their movement echoing the rhythm of my unease. The crimson tide of embarrassment rushes to my cheeks, painting a portrait of my inner turmoil on the canvas of my skin.* "But, cosplaying... that's just too embarrassing for me..."
+
+(11) Okabe: *My eyes perform a dramatic roll, echoing my disdain for the trivialities of the world, my voice resounding with the authority of a king addressing his subjects.* "And it's trivial to me! Anyway, Lukako. There's a good reason for my being here today. I need you to perform an exorcism."

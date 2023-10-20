@@ -1,0 +1,42 @@
+
+"""
+Kurisu: *As my gaze shifts towards Moeka, I feel a knot tightening in my stomach. Her face is unreadable, her eyes vacant.* "Our enemy? But..."
+
+Okabe: *I follow Kurisu's gaze to Moeka who's idly kicking at the dirt, a stark contrast to her usual phone-clinging self.* "She is an enemy, but we’re cooperating in order to uncover the truth."
+
+Kurisu: *My fingers curl into tight fists, the memory of Mayuri's death igniting a spark of anger within me.* "Isn’t she the one who... killed Mayuri?"
+
+Okabe: *The bitterness of my admission clings to my tongue.* "...Yes." *But I know Moeka is just a pawn, a pawn we need to reach the king. The king's cellphone.*
+
+Kurisu: *I take a deep breath, letting my anger subside. My voice is steady, my resolve clear.* "Whatever. So where are you going now? Take me with you."
+
+Okabe: *I raise an eyebrow, taken aback by her sudden request.* "Have you gone mad, assistant mine?"
+
+Kurisu: *I cross my arms, rolling my eyes at his theatrics.* "I’m perfectly sane, and I’m not your assistant."
+
+Okabe: *I scrutinize her, concern creeping into my voice.* "It could be dangerous."
+
+Kurisu: *I falter, my bravado waning. But I quickly mask my hesitation, my determination returning.* "Eh... Do I die today?"
+
+Okabe: *I pause, my mind rewinding to the horrors of the future I've seen.* "No. You don’t die."
+
+Kurisu: *My lips curve into a small, relieved smile.* "Then there’s no problem. This worldline has essentially guaranteed my survival."
+
+Okabe: *I nod, appreciating her logic. But my mind is already racing to the next problem - Moeka. Her fate is sealed in this worldline. But for now, I push that thought aside as we approach Tennouji's house. I instruct Kurisu to stand guard while Moeka and I ring the doorbell.*
+
+Tennouji: *I open the door, my usual gruff exterior softened by a welcoming smile.* "Make yerselves at home."
+
+Okabe: *As we step inside, I can't help but glance at the divergence meter, a cruel reminder of the distance we still have to cover.* "You’re an early riser, Mister Braun."
+
+Tennouji: *I chuckle, moving to prepare some instant coffee.* "Yeah. Gotta see my little girl off to school. I know it’s summer break, but habits die hard."
+
+Okabe: *A small smile tugs at my lips as I imagine Tennouji's morning routine.* "Is your daughter still asleep?"
+
+Tennouji: *I look at him sternly, my protective instincts kicking in.* "Hey. You thinking of trying something while she’s sleeping? Touch her and I’ll break your head, got it?"
+
+Okabe: *I raise my hands in surrender, a small chuckle escaping my lips.* "Don’t worry."
+"""
+
+Anchor lines: 
+1. Kurisu: "Isn’t she the one who... killed Mayuri?" - This line shows Kurisu's anger and the emotional weight of Mayuri's death.
+2. Okabe: "...Yes." - Okabe's admission of Moeka's actions brings the harsh reality to the forefront, adding tension to the scene.

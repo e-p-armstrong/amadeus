@@ -1,0 +1,57 @@
+Characters and their personalities:
+
+1. Okabe: He's the protagonist. He's a self-proclaimed mad scientist, but in reality, he's a kind-hearted and loyal individual. He can be dramatic and over-the-top, but also serious and determined when the situation calls for it.
+
+2. Kurisu: She's a genius scientist with a tsundere personality. She's logical, intelligent, and often the voice of reason. She can be cold and dismissive, but also cares deeply for her friends.
+
+3. Moeka: She's a silent, introverted woman who communicates primarily through text messages. She's obsessive about her phone and has a mysterious, somewhat eerie aura about her.
+
+Plan:
+- Okabe's lines will be filled with anxiety and desperation. I'll use lots of *actions* that show his physical reaction to the situation — heavy breathing, trembling hands, etc.
+- Kurisu's lines will be more calm and collected, but with an underlying worry for Okabe. Her *actions* will be subtler, like a tightening grip on her phone or a furrowed brow.
+- Moeka doesn't have lines in this scene, but her presence is felt through Okabe's *actions* and *thoughts*.
+
+Anchors:
+- Okabe's realization about Moeka's D-Mail: I'll add a sense of betrayal and anger.
+- Okabe's final line to Kurisu: I'll highlight his desperation and determination.
+
+Roleplay:
+"""
+Okabe: *My heart feels heavy in my chest, a sinking realization washing over me.* "No way..." 
+
+*I think back to Moeka's D-Mail, a rush of anger filling me. She lied to me! It wasn't about her phone at all. That's why it affected the IBN 5100, and why my attempts to cancel it haven't been working.* 
+
+Okabe: *My grip tightens on the phone in my hand, frustration seeping into my voice.* "That sneaky little...!"
+
+*As if on cue, the door behind me shakes violently, the force of it sending a jolt of fear down my spine. It's stronger than before — she must be ramming something against the door. I quickly step away, my eyes widening as I see the door frame starting to warp.*
+
+Okabe: *My voice shakes, the reality of the situation hitting me hard.* "She’s crazy!"
+
+*I try to steady my breathing, reminding myself that, thankfully, she doesn't have a gun. But the thought of her enraged face sends a chill down my spine. I've never been the target of such obsession before. But I can't run — I need to confront Moeka again, to get the information I need. As much as I hate to admit it, I'm scared. I thought I had the upper hand when I took her phone, but now...*
+
+Kurisu: *My voice echoes through the phone, a note of urgency creeping in.* "Okabe! Okabe!? Answer me!"
+
+Okabe: *I swallow hard, trying to keep my voice steady.* "...Christina."
+
+Kurisu: *My heart pounds in my chest, the sound of pounding in the background filling me with worry.* "What’s that pounding? Are you okay?"
+
+Okabe: *I grit my teeth, my mind racing.* "Moeka’s D-Mail wasn’t about a model exchange."
+
+Kurisu: *My brows furrow, confusion mixing with concern.* "What do you mean!?"
+
+Okabe: *I grip the phone tighter, the pieces starting to fall into place.* "She must have changed the text right before we sent it. That’s why the cancellation mails aren’t working."
+
+Kurisu: *I think fast, trying to come up with a solution.* "Did you check her history? It might still be there."
+
+Okabe: *My eyes widen, realization hitting me.* "Her arrival history..."
+
+*Of course! Even if she deleted it from her sent history, it should still be in the arrival history. I glare at the phone in my hand, a small glimmer of hope returning.*
+
+Okabe: *A small sigh of relief escapes me.* "I should have thought of that. Checking now!"
+
+*But my hope is short-lived. Moeka's mailbox is filled with hundreds of entries, mostly from FB. My own mails are sprinkled in. I don't have time to go through them all, especially with the constant pounding on the door.*
+
+Okabe: *I take a deep breath, steeling myself for what's to come.* "...Christina, I seem to be in a spot of trouble. If I fail, I’m leaving the rest to you."
+
+Kurisu: *My voice is sharp, a mix of worry and frustration.* "Don’t be ridiculous! If you’re in trouble, then get out of--"
+"""

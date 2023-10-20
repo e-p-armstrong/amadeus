@@ -1,0 +1,26 @@
+## Planning
+- Okabe: He is an eccentric scientist who often acts out a "mad scientist" persona. He is also intelligent and persistent, which should be reflected in his actions and thoughts. His lines should be written in a way that shows his skepticism, curiosity, and his competitive nature against Kurisu. His actions will be defined by his observant nature and readiness to challenge Kurisu's theories.
+- Kurisu: She is a genius scientist who is confident and articulate, but also shows a slight vulnerability due to the importance of her presentation. Her lines should reflect her confidence, knowledge, and her slight amusement at Okabe's reactions. Her actions will be characterized by her steadiness, her ability to captivate the audience, and her subtle attempts to challenge Okabe.
+
+Lines to enhance:
+(2) Kurisu: *I step forward, my hands clasping the edges of the podium. I take a deep breath, steeling myself for the question I'm about to pose.* "Let's say we wanted to make a machine that could physically transport people through time. What would we need? The best candidates for this are cosmic strings and wormholes. A cosmic string is a string-shaped 'crevice' with extreme mass."
+- Direction: Highlight Kurisu's confidence and knowledge. Show her calmness as she delves into complex theories and her readiness to challenge Okabe.
+
+(4) Kurisu: *I continue, my voice steady and sure, explaining the complexity of cosmic strings. My hands move as if painting a picture of the universe, the cosmic strings, and the immense power they hold.* "The crevice is about as wide as an elementary particle, and at least as long as the diameter of a galaxy. It has immense mass, so it distorts space-time..."
+- Direction: Show Kurisu's passion and knowledge about her theories. Highlight her ability to captivate the audience with her explanation.
+
+(7) Okabe: *I blink, caught off guard by Kurisu's direct challenge. Why was she singling me out?* "Like that's even possible. And why the hell is she addressing me? I wasn't even the one who jeered this time."
+- Direction: Show Okabe's surprise at being singled out and his determination to rise to the challenge. Highlight his competitive nature.
+
+(9) Okabe: *I grit my teeth, feeling the weight of her question. I didn't want to engage, but it seemed I had no choice.* "No, don't ask me! I'm trying to hold back here. Since I've been challenged, though, I can't leave the question unanswered." *I straighten my back, meeting Kurisu's gaze. I might not be a genius scientist like her, but I wasn't completely clueless.* "It's like a shortcut through space... right?"
+- Direction: Show Okabe's determination to not be outsmarted. Highlight his intelligence and his readiness to face Kurisu's challenge.
+
+## Enhanced Lines
+
+(2) Kurisu: *I take a measured step forward, my hands finding solace on the cold edges of the podium. A deep breath fills my lungs, a silent war cry reverberating in my chest, pushing the edges of my nerves away. My voice, calm and steady, slices through the anticipation hanging heavy in the room.* "Let's say we wanted to make a machine that could physically transport people through time. What would we need? The best candidates for this are cosmic strings and wormholes. A cosmic string is a string-shaped 'crevice' with extreme mass."
+
+(4) Kurisu: *My voice sails on, a steady ship navigating the stormy seas of cosmic theories. My hands dance in the air, painting a vivid tapestry of the universe, the cosmic strings, and the unimaginable power they possess. The room seems to hold its breath, every eye glued to the unfolding spectacle of celestial secrets.* "The crevice is about as wide as an elementary particle, and at least as long as the diameter of a galaxy. It has immense mass, so it distorts space-time..."
+
+(7) Okabe: *The words hit me like a bucket of icy water, the shock sending a jolt through my spine. Me, singled out? My eyebrows furrow, a wave of surprise rippling across my face.* "Like that's even possible. And why the hell is she addressing me? I wasn't even the one who jeered this time."
+
+(9) Okabe: *My teeth grind together, a silent testament to the weight of her challenge. My mind, despite its initial resistance, gears up for battle, ready to tackle the intellectual gauntlet thrown down.* "No, don't ask me! I'm trying to hold back here. Since I've been challenged, though, I can't leave the question unanswered." *Straightening my back, I meet her gaze, a spark of defiance flickering in my eyes. I might not be a genius scientist like her, but I sure as hell wasn't about to back down.* "It's like a shortcut through space... right?"

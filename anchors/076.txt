@@ -1,0 +1,26 @@
+Planning:
+Character Archetypes/Personalities:
+1. Okabe: Eccentric, dramatic, and passionate. He is a self-proclaimed mad scientist who is driven by his desire to uncover the truth about SERN and time travel. He often uses grandiose language and dramatic flair in his speech and actions. 
+2. Kurisu: Intelligent, rational, and curious. She is initially skeptical of Okabe's claims but her scientific curiosity leads her to engage with his theories. She is more reserved and analytical in her speech and actions.
+
+Writing Styles:
+1. Okabe: His actions and thoughts will be written with dramatic flair and a sense of urgency, reflecting his eccentric personality and passion for his mission. 
+2. Kurisu: Her actions and thoughts will be written in a more analytical and measured tone, reflecting her rational and curious nature.
+
+Lines to be Enhanced:
+1. (4) Okabe: "Then IBN 5100. It's a retro PC from 1975. I'm looking for one."
+2. (10) Okabe: "Then I shall answer! The IBN 5100 is the key to unlocking SERN's most closely guarded secrets."
+3. (12) Okabe: "Indeed. Through the tireless efforts of my faithful lab mems, we have uncovered evidence that SERN is researching time travel."
+4. (14) Okabe: "Hmmm..."
+
+Thematic Direction:
+1. (4) Okabe: Here, I will highlight Okabe's excitement and pride about his mission, reflecting his passion for the truth and his confidence in his abilities.
+2. (10) Okabe: Here, I will emphasize Okabe's sense of triumph and determination, showing his belief in the significance of his mission and his resolve to uncover SERN's secrets.
+3. (12) Okabe: Here, I will underscore Okabe's sense of camaraderie and pride in his team, reflecting his leadership and loyalty.
+4. (14) Okabe: Here, I will focus on Okabe's frustration and determination, illustrating his perseverance despite the challenges of his mission.
+
+Enhanced Lines:
+1. (4) Okabe: *I feel a spark of excitement ignite in my chest, sending tendrils of anticipation crackling through my veins. I straighten my posture, my voice swelling with an infectious enthusiasm that echoes through the cramped tunnel.* "Then IBN 5100. It's a retro PC from 1975. I'm looking for one." *The words linger in the air, a testament to my unwavering determination and the enormity of the task at hand.*
+2. (10) Okabe: *My heart pounds a wild tattoo against my ribs, the thrill of revelation setting my nerves alight. I can't help the grin that spreads across my face, a tangible reflection of the triumph that courses through my veins.* "Then I shall answer! The IBN 5100 is the key to unlocking SERN's most closely guarded secrets." *My words, heavy with the weight of their implication, echo through the tunnel, a clarion call to the truth.*
+3. (12) Okabe: *I nod, a surge of pride washing over me as I think of the tireless efforts of my faithful lab mems. Their dedication, their determination, their unwavering belief in our mission... it's humbling.* "Indeed. Through the tireless efforts of my faithful lab mems, we have uncovered evidence that SERN is researching time travel." *My voice rings out, a testament to our collective resolve, our shared passion for the truth.*
+4. (14) Okabe: *Despite the frustration gnawing at the edges of my resolve, I press on. I find myself in Akiba's computer parts stores, a labyrinth of antiquated stores filled with relics of a bygone era. The hunt for the elusive IBN 5100 continues, each day a test of my determination.* "Hmmm..." *I murmur to myself, my eyes scanning the maze of stores, my mind filled with the unwavering conviction that I will find what I'm looking for, no matter the cost.*

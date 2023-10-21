@@ -1,0 +1,27 @@
+Character Archetypes/Personalities:
+
+Okabe: Over-the-top, theatrical, and dramatic. He tends to embellish his actions and words, often coming off as eccentric or odd. However, beneath the surface, he is deeply committed to his friends and his research. His actions should be filled with flair and drama, as he loves to play the part of the mad scientist.
+
+Itaru: Pragmatic, grounded, and slightly sarcastic. He's the one who keeps Okabe's feet on the ground and provides the reality check when needed. His actions should reflect his laid-back attitude, often acting as the counterbalance to Okabe's theatrics.
+
+Lines to Enhance:
+
+(1) Okabe: Okabe's first line sets the tone for the scene and is an ideal candidate for the first anchor. It introduces the key element of the story – the old PC – and provides an opportunity to delve deeper into Okabe's thoughts and perceptions.
+
+(9) Okabe: This line is crucial as it showcases Okabe's defensiveness and ownership over the PhoneWave. It provides a chance to explore Okabe's feelings about his invention and his relationship with Itaru.
+
+(19) Okabe: The revelation of Okabe's hypothesis is a significant turning point in the scene. It's a chance to build suspense and tension in the narrative, while also showcasing Okabe's dramatic flair.
+
+(23) Okabe: Okabe's last line in the scene is an ideal anchor as it provides a closing note and sets the stage for the next part of their experiment. It provides a chance to delve deeper into Okabe's thoughts about the PhoneWave and the potential dangers it presents.
+
+---
+
+Enhanced Lines:
+
+(1) Okabe: *I approach the archaic PC with a blend of fascination and disbelief, my fingers lightly grazing the worn-out keyboard. It's a relic from another era, its once cutting-edge technology dwarfed by the capabilities of my humble cellphone. The hum of its fan is a nostalgic melody, a testament to its enduring spirit. I scrutinize the PC, finding it hard to believe that such a relic could still be operational. I mean, it's a 20-year-old machine with specs lower than my cellphone.*
+
+(9) Okabe: *My eyes flicker with a protective glint as I turn to Itaru, my words laced with a hint of indignation. We've poured our blood, sweat, and tears into this machine, and it's as much mine as it is his. I can't help but feel a surge of possessiveness, a sense of ownership that's stronger than any patent or copyright. I roll my eyes, muttering under my breath.* "Selfish bastard. Besides, we made the PhoneWave (name subject to change) together. It's OUR crazy machine."
+
+(19) Okabe: *I linger on the precipice of revelation, tasting the sweet tang of suspense on my tongue. A smirk tugs at the corner of my lips, as I see the anticipation mirrored in Itaru's wide eyes. This is the moment, the climax, the big reveal. I pause, letting the tension build before revealing my hypothesis. I savor the dramatic pause, noting Daru's anticipation with a smirk. I lean forward, my voice dropping to a conspiratorial whisper.* "It's the result of the microwave's electromagnetic waves."
+
+(23) Okabe: *My gaze sweeps over the tangle of wires snaking around our makeshift time machine. I can't shake off the feeling of foreboding, the specter of potential disaster looming over us. We've tampered with the threads of time, and the consequences are as unpredictable as they are terrifying. I glance at the mess of wires, choosing to keep my contact's identity a secret. I want to explain that he's not imaginary, but revealing the identity of my contact would be a betrayal. The last thing I need is another enemy, especially one whose power and cunning rivals that of the Organization. I look at the PhoneWave (name subject to change), now an indecipherable mess of wires. All we did was hook it up to a computer, yet it turned out like something MacDyver would put together. Now we can access the microwave's terminal mode and see exactly what's going on in its computer brain.*

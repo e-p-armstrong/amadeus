@@ -1,0 +1,23 @@
+Planning and Brainstorming:
+
+Okabe: Eccentric, paranoid, and dramatic. His actions and thoughts should be filled with suspicion and theatrical flair. He's wary of Kurisu, believing her to be a spy. His dialogue should be filled with tension and suspicion.
+
+Kurisu: Intelligent, curious, and somewhat impatient. She's trying to get to the bottom of Okabe's wild claims. Her actions and thoughts should reflect her scientific curiosity and growing frustration with Okabe's eccentricities.
+
+Luka: Timid and gentle. His dialogue should be soft and hesitant.
+
+The chosen anchor lines are:
+(2) Okabe: "Wait a minute. How do you know my phone number?"
+(8) Okabe: "Huh? What!? What was that!? Is she messing with me!? She's messing with me!" "Your accomplishments mean nothing to me."
+(15) Kurisu: "Not because I wanted to or anything. Don't get me wrong." "...I can't stop thinking about what you said yesterday."
+(18) Okabe: "Of course! You're working for SERN, not the Organization! You're here to kill me, aren't you!? That's what I thought! You have the face of a killer!"
+
+New Lines:
+
+(2) Okabe: *I pause, the chilly breeze of uncertainty sending a shiver down my spine. My hand instinctively reaches for the reassuring weight of my phone, a lifeline in this sea of conspiracies.* "Wait a minute. How do you know my phone number?" *My voice wavers on the edge of accusation, a subtle tremor betraying my paranoia.*
+
+(8) Okabe: *My mind spins, a whirlwind of suspicion and confusion. The words echo in my head, a mocking chorus of deceit. Is she playing with me? Is this all part of her game?* "Huh? What!? What was that!? Is she messing with me!? She's messing with me!" *My voice rises in pitch, the bitter taste of betrayal lingering on my tongue.* "Your accomplishments mean nothing to me." *I spit out the words, venom seeping into every syllable.*
+
+(15) Kurisu: *I shift my gaze away, the faint warmth spreading across my cheeks a stark contrast to the cold wind. I swallow hard, the words lodged in my throat like a stubborn pebble.* "Not because I wanted to or anything. Don't get me wrong." *I force out the words, a poorly disguised attempt at nonchalance.* "...I can't stop thinking about what you said yesterday." *I confess, my voice barely a whisper against the rustling leaves, a testament to the storm raging within me.*
+
+(18) Okabe: *My heart pounds in my chest, a frantic drum echoing my fears. I can almost see it, the looming shadow of SERN, the dread tightening its icy grip around my heart.* "Of course! You're working for SERN, not the Organization! You're here to kill me, aren't you!? That's what I thought! You have the face of a killer!" *I accuse, my voice rising with each word, a crescendo of paranoia and dread.*

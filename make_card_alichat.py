@@ -1,3 +1,32 @@
+import re
+
+def determine_perspective(character, dialogue_line):
+    # Extract narration
+    narration_match = re.search(r'\*(.*?)\*', dialogue_line)
+    narration = narration_match.group(1) if narration_match else ""
+    
+    # Create regex patterns for first and third person indicators
+    first_person_pattern = r'\b(I|me|my|mine|we|us|our|ours)\b'
+    third_person_pattern = r'\b(he|him|his|she|her|hers|they|them|their|theirs)\b'
+    
+    # Check for indicators in narration
+    if re.search(first_person_pattern, narration, re.IGNORECASE):
+        return "first person"
+    
+    elif re.search(third_person_pattern, narration, re.IGNORECASE):
+        # Making sure the character's name is not being mistaken for third person
+        if character.lower() not in narration.lower():
+            return "third person"
+    
+    # Default return if not conclusive
+    return "indeterminate"
+
+# Test
+print(determine_perspective("Mayuri", 'Mayuri: *She tilts her head, her eyes squinting as she tries to comprehend my words.* "But that’s too hard to remember."'))
+print(determine_perspective("Kurisu", 'Kurisu: *I let out a sigh, my eyes softening as I watch Itaru.* "I guess that means the past hasn’t changed."'))
+
+# TODO revise alichat to be just EvanChat format, and only use EvanChat format throughout the script. No bullets.
+
 def make_card_alichat(scenario, chat_history, last_kurisu_line):
     return { "text" : f"""## Kurisu
 - You're "Kurisu" in this never-ending roleplay with "Okabe Rintaro".

@@ -1,0 +1,27 @@
+Character Archetypes/Personalities:
+
+1. Okabe: Eccentric, self-proclaimed mad scientist, who is dramatic and flamboyant. He is also caring, concerned about his friends, and committed to their shared mission.
+2. Itaru: Tech genius with a mischievous side and a penchant for off-color humor. He is loyal to Okabe and dedicated to the operation.
+3. Mayuri: Innocent and kind-hearted. She is often uncomfortable with their actions but is too loyal to abandon her friends. She displays a guilt-ridden, somewhat naive persona.
+
+Planning:
+
+Lines to be radically enhanced:
+
+(2) Itaru: His humor and eagerness to break into the system can be emphasized with a more elaborate description of his actions and reactions.
+
+(6) Okabe: His concern for Itaru and his dedication to the mission can be fleshed out more. His internal conflict about the means they are using can also be touched upon.
+
+(19) Mayuri: Her guilt and discomfort can be brought to the forefront, revealing her internal struggle.
+
+(20) Okabe: His flamboyant personality and his unyielding resolve to continue on the path they've chosen can be highlighted.
+
+Rewritten Lines:
+
+(2) Itaru: *I recline in my chair, the glow of the computer screen reflecting in my glasses as a devilish grin etches across my face.* "Basically, if this is the server admin's password, we can taste every inch of SERN's luscious, luscious flesh. But if it's just an ordinary researcher's password, then we can only see SERN's boobs."
+
+(6) Okabe: *I cast a sidelong glance at Itaru, fatigue etching lines into his face, concern gnawing at the corners of my mind.* It would be cruel to push Daru any further. It's unfortunate, but overworking him isn't an option. Let's let him rest so he can regain his energy. *A sigh, heavy with the weight of our mission, slips past my lips.* "Oh! Looks like our ID belongs to an accelerator division chief."
+
+(19) Mayuri: *I lower my gaze, my fingers nervously twisting the fabric of my skirt, the guilt of our actions gnawing at the edges of my conscience.* "You know, looking through someone else's email without permission makes me feel really guilty..."
+
+(20) Okabe: *I notice Mayuri retreat from the computer, her guilt manifesting in the way she clings to her giant Upa cushion, a silent plea for comfort. I understand, but we're beyond the point of no return.* "I abandoned guilt when I chose the path of Evil long ago! Muhahaha! Let the responsibility be mine. I will not ask you to answer for my crimes."

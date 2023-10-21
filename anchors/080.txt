@@ -1,0 +1,27 @@
+Character Archetypes/Personalities:
+
+Okabe: He is the paranoid and anxious protagonist who is always on edge, constantly worried about the threat posed by SERN. He is determined and intelligent, with a strong sense of responsibility towards his mission. His actions and thoughts should reflect his underlying fear, determination, and frustration at Daru's lack of cooperation.
+
+Itaru (Daru): Daru is a laid-back, friendly character who loves gaming and is a big fan of Faris. He's not as concerned about the SERN threat as Okabe. His actions and thoughts should reflect his casual, relaxed demeanor, his love for gaming, and his playful dismissal of Okabe's worries.
+
+Faris: She is the cheerful host of the gaming tournament, known for her vibrant energy and quirky cat-themed speech. Her actions and thoughts should reflect her joy and excitement about the event, her playful nature, and her gratitude towards the participants.
+
+Lines to be used as anchors:
+
+(1) Okabe: The surprise and tension Okabe feels upon seeing Daru at the gaming tournament instead of focusing on the threat posed by SERN.
+
+(3) Okabe: His frustration at Daru's lack of concern about the SERN threat, and his nervousness about the organization's growing power.
+
+(10) Itaru: His playful refusal to cooperate with Okabe, prioritizing winning the tournament over the mission. 
+
+(15) Faris: Her excitement and joy about the tournament, as she announces the rules and thanks the participants.
+
+Enhanced lines:
+
+(1) Okabe: *As I whirl around, my heartbeat quickens, hammering a staccato rhythm against my ribcage. A jolt of surprise electrifies my senses, etching a bewildered expression on my face.* "Wha, Daru!? What are you doing here!? What about SERN!?"
+
+(3) Okabe: *A grimace tugs at the corners of my mouth, the taste of unease bitter on my tongue. My gaze darts around the room, each face a stark reminder of our potential enemy. Sweat prickles at my temples, the weight of our mission heavy on my shoulders.* "SERN's power grows stronger by the day, and here you are without a care in the world."
+
+(10) Itaru: *A chuckle rumbles in my chest, the sound akin to the clinking of a winning game piece. My head shakes in playful refusal, my lips curling into a teasing smirk.* "But I refuse. I'm in this thing to win."
+
+(15) Faris: *My heart dances to the beat of the crowd's excitement as I twirl under the spotlight, a wide smile blooming across my face.* "Hi everyone♪ Thanks for waiting, nyan! The afternoon Faris Cup is about to begin nya!" *My hand sweeps across the crowd, their enthusiasm echoing back to me in waves of anticipation.* "Thank you, nya!" *My voice rings out, strong and clear, a beacon of joy in the bustling café.* "The rules are simple. Faris will face off against each one of you nya. Faris will even go paw-to-paw with ten people at once, nyan. If you beat Faris, you'll get her home cooking as a reward, nya. Now then, everyone! Enjoy the contest!"

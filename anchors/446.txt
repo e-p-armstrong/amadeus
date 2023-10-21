@@ -1,0 +1,35 @@
+# Planning
+
+Character Archetypes/Personalities:
+
+- Okabe: Eccentric, intelligent, cares deeply for his friends, but often hides it under a façade of bravado. Has a flair for the dramatic and often speaks in a grandiose manner.
+- Kurisu: Intelligent, logical, but also vulnerable and emotionally open in this scene. She's desperate to be understood and accepted, especially by her father.
+- Nakabachi: Selfish, callous, and cruel. He sees Kurisu's work as a means to further his own goals.
+- Suzuha: Strong, determined, and supportive. She's a soldier and time traveller, and acts as a driving force to get Okabe back into action.
+
+Lines to Enhance:
+
+(2) Okabe: *I stand frozen, my feet rooted to the ground as if nailed to the floor. The reality of the situation looms before me, yet I'm paralyzed, unable to act.* "Is this a sick joke? I...I just wanted to know who..."
+
+(7) Kurisu: *Each word takes a tremendous effort, yet I force them out, wanting to make myself understood.* "Because... he's still... my father. I just... wanted him... to accept me... I studied... so hard... hoping he would... praise me... But now... I finally... understand... Papa... didn't want... to accept me... I'm such... an idiot... Why... did I save him... I wonder... I'm... sorry... for getting you... involved... Ugh... it hurts... Am I... going to die? I don't want to die... I don't want it... to end... like this..."
+
+(10) Okabe: *Her lifeless body weighs heavy in my arms, and an eerie silence fills the room. But the warmth of her blood lingers, a cruel reminder of what I've done. I... I killed her.* "Ah... ah... AHHHHHHHHHHH!"
+
+(11) Suzuha: *I rush to Okabe's side, grabbing his arm.* "Uncle Okarin!" *Without waiting for a response, I slip my hands under his shoulders, hauling him up with all my strength.* "Come on! Get up!"
+
+Writing Styles:
+
+- Okabe: His actions and thoughts will be written in a dramatic, grandiose manner, reflecting his larger-than-life personality. Even in his despair, there will be a certain theatricality to his words.
+- Kurisu: Her thoughts and actions will be direct and logical, but with an undercurrent of vulnerability and desperation. Her need to be understood and accepted will be evident in her words.
+- Nakabachi: His actions will reflect his cruel and callous nature. His words will be cold and uncaring.
+- Suzuha: Her actions will be written with a sense of urgency and determination. She's a soldier on a mission and her words will reflect that.
+
+# Writing
+
+(2) Okabe: *Reality warps around me, time stretching thin as the world grinds to a halt. My legs, once strong pillars, now feel like brittle chalk, crumbling beneath the weight of the world. My mind screams for action, yet I'm lost in this twisted labyrinth of guilt and disbelief.* "Is this a sick joke? I...I just wanted to know who..."
+
+(7) Kurisu: *Each word is a battle, each breath a war, fought in the dwindling twilight of my life. The cruel irony of my father's betrayal stings like a bitter chill, gnawing at the edges of my consciousness. With a Herculean effort, I push through the pain, the fear, the regret, and find my voice.* "Because... he's still... my father. I just... wanted him... to accept me... I studied... so hard... hoping he would... praise me... But now... I finally... understand... Papa... didn't want... to accept me... I'm such... an idiot... Why... did I save him... I wonder... I'm... sorry... for getting you... involved... Ugh... it hurts... Am I... going to die? I don't want to die... I don't want it... to end... like this..."
+
+(10) Okabe: *Her body, once a beacon of life and intellect, now lies limp and lifeless in my arms, a tragic marionette with its strings cut. The deafening silence swallows the room, leaving me alone with the horrifying symphony of my guilt. The warmth of her blood seeps into my skin, a searing brand of my transgression.* "Ah... ah... AHHHHHHHHHHH!"
+
+(11) Suzuha: *Adrenaline surges through me as I charge towards Okabe. Time is a ticking bomb, each second slipping away like sand through my fingers. With a strength borne of desperation, I grab his arm, my fingers digging into his flesh, willing him to snap out of his stupor.* "Uncle Okarin!" *Ignoring his unresponsiveness, I thrust my hands under his shoulders, heaving him up with a grunt of effort.* "Come on! Get up!"

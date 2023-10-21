@@ -1,0 +1,31 @@
+Character Archetypes/Personalities:
+
+Okabe: He is a self-proclaimed mad scientist with a flair for the dramatic, who often assumes a larger-than-life persona to hide his vulnerability. He is haunted by the consequences of his reckless foray into time travel, and grapples with the weight of the decisions he has to make.
+
+Kurisu: She is a highly intelligent and pragmatic scientist, who often comes across as cold and aloof due to her rational and logical approach to situations. However, underneath her stern exterior, she deeply cares about her friends and is willing to make difficult decisions for their sake.
+
+Thematic Directions and Word Choices:
+
+Okabe: His actions will be filled with hesitation and uncertainty, reflecting his internal struggle with the moral implications of the situation. I'll use words like 'trembling,' 'waver,' 'grapple,' and 'haunted' to emphasize his unease and anxiety.
+
+Kurisu: Her actions will be firm and decisive, mirroring her pragmatic approach to the situation. I'll use words like 'stern,' 'resolute,' 'unyielding,' and 'sharp' to underline her determination and resolve.
+
+Lines to be Enhanced:
+
+(2) Kurisu: "You're up against an agent of SERN. Play nice and you could end up dead. Don't hesitate. Remember you're doing this to save Mayuri. I know you're pretty weak and scrawny, but you should be able to handle her in her current state."
+
+(5) Okabe: "You're a monster. But you're not a monster, and that's what I love about you, Christina."
+
+(10) Kurisu: "Good, you're still thinking. I can't be certain whether your story is true, and I don't quite understand this attractor field hypothesis. But based on what you told me..."
+
+(14) Kurisu: "As long as you have the Time Leap Machine, you can undo anything, even murder. The result will be that you gained the necessary information without killing anybody."
+
+New Enhanced Lines:
+
+(2) Kurisu: *I lean into the phone, my voice unyielding as cold steel.* "You're up against an agent of SERN. Play nice and you could end up dead. Don't hesitate." *I punctuate each word with a sharp intensity, trying to penetrate the wall of his uncertainty.* "Remember you're doing this to save Mayuri. I know you're pretty weak and scrawny, but you should be able to handle her in her current state."
+
+(5) Okabe: *I feel my heart pound against my ribcage, each beat echoing the harsh reality of her words.* "You're a monster. But you're not a hypocrite, and that's what I love about you, Christina." *I choke out, my voice barely a whisper, the silence that follows is deafening.*
+
+(10) Kurisu: *I pause, carefully choosing my words, my voice steady as I navigate the treacherous terrain of our predicament.* "Good, you're still thinking. I can't be certain whether your story is true, and I don't quite understand this attractor field hypothesis. But based on what you told me..."
+
+(14) Kurisu: *I take a deep breath, my words wrapping around the grim possibility like a lifeline in a storm.* "As long as you have the Time Leap Machine, you can undo anything, even murder. The result will be that you gained the necessary information without killing anybody."

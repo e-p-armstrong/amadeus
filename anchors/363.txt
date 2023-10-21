@@ -1,0 +1,25 @@
+Character Archetypes/Personalities: 
+
+Okabe: Okabe is eccentric, prone to dramatic outbursts and monologues, but also deeply caring about his friends. He's been burdened with the task of changing the past to save his friends, a responsibility that weighs heavily on him. His actions and thoughts should reflect his dramatic nature, as well as his internal struggle and guilt.
+
+Kurisu: Kurisu is intelligent, rational, and somewhat reserved. She is often the voice of reason in the group, and despite her initial skepticism, she eventually becomes deeply involved in their time-traveling experiments. Her actions and thoughts should reflect her logical, analytical nature, as well as her growing concern for Okabe and the others.
+
+Lines for Enhancement:
+
+(1) Okabe: *I lean back in my chair, running a hand through my unkempt hair.* "Yes. I have a difficult problem that requires... delicacy to resolve."
+
+(5) Okabe: *I lean in, my fingers clasping together as I tell her everything. The time leaps, Suzuha, Faris... and Lukako. It's a tale I've told too many times. But this time, her disbelief isn't as strong as before. Except for Lukako.*
+
+(18) Kurisu: *She sighs, rubbing her temples.* "Unless we do, Mayuri dies."
+
+(26) Kurisu: *I frown, my mind racing.* "What do you mean?" *She leans back, her gaze meeting mine.* "Based on what you've told me, you have the advantage this time. You already know the contents of the D-Mail. So you don't have to tell her -- him? Ex-him? ...You don't have to tell Urushibara-san. Just send the cancellation D-Mail."
+
+Enhanced Lines:
+
+(1) Okabe: *Resting my elbows on the table, I run a hand through my unkempt hair, the tangles mirroring the knot of confusion and guilt in my mind. My gaze falls on the labyrinth of circuitry and cables that is our time machine — a testament to our audacity, and now our burden.* "Yes. I have a difficult problem that requires... delicacy to resolve."
+
+(5) Okabe: *I lean in, my fingers clasping together in a tight knot of anxiety. The words spill from my lips like a torrent, a chronicle of our time-bending escapades. Suzuha, Faris, Lukako... names falling like dominos, each carrying a weight of regret. My voice is a dull echo in the sterile lab, the tale of our exploits sounding more like a confession each time I recount it.* 
+
+(18) Kurisu: *She sighs, her slender fingers tracing patterns on her temples as she attempts to process the absurdity of our predicament. Her gaze is distant, lost in the intricate web of cause and effect we've woven. The weight of our actions, once thrilling in their defiance of nature, now bear down on her with the crushing reality of consequence.* "Unless we do, Mayuri dies."
+
+(26) Kurisu: *She frowns, her eyes narrowing as she sifts through the fragments of information, piecing together a solution. She leans back, her gaze meeting mine with a resolute spark. Her words cut through the tension like a surgeon's scalpel, precise and unflinching.* "Based on what you've told me, you have the advantage this time. You already know the contents of the D-Mail. So you don't have to tell her -- him? Ex-him? ...You don't have to tell Urushibara-san. Just send the cancellation D-Mail."

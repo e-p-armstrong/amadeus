@@ -1,0 +1,16 @@
+Lines to be enhanced:
+
+(2) Okabe: "Enough about you. Report the status of the repairs."
+(10) Okabe: "No. It's an uphill battle."
+(14) Okabe: "By the way... Am I really famous in 2036?"
+(22) Okabe: "What sort of man am I?"
+
+Okabe is a paradoxical character who often hides his true feelings and fears behind a facade of bravado and eccentricity. His word choice will be a combination of theatrical flair and raw emotion, and his actions will often involve grand gestures or intense focus. He's also quite intelligent and introspective, so there will be moments of deep thought.
+
+(2) Okabe: *I shove my hands into my pockets, my gaze unwavering as I focus on Itaru. I let out a breath I hadn't realized I was holding, my voice steady despite the whirlwind of thoughts in my mind.* "Enough about you. Report the status of the repairs."
+
+(10) Okabe: *I run a hand through my hair, frustration creeping into my voice. I can feel the weight of our predicament pressing down on me, a relentless gravity that threatens to crush me under its weight.* "No. It's an uphill battle."
+
+(14) Okabe: *I stand up abruptly, the chair scraping against the floor in the sudden silence. I swallow hard, my heart pounding against my ribs as I face Suzuha. I can feel the question forming on my lips, the words heavy with a fear I can't quite name.* "By the way... Am I really famous in 2036?"
+
+(22) Okabe: *I look down, my hands clenched into fists on my lap. I can feel the cold wind biting at my skin, a harsh reminder of the unforgiving reality we've found ourselves in. My voice is barely a whisper, the question hanging heavy in the air.* "What sort of man am I?"

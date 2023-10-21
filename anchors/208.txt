@@ -1,0 +1,22 @@
+## Brainstorming and Planning:
+Okabe's character can be described as eccentric, dramatic, and intensely loyal to his friends. He is also deeply intelligent and passionate about his scientific pursuits. For Okabe, I'll use energetic, grandiose language, and his actions will be bold and theatrical, reflecting his self-proclaimed 'mad scientist' persona. His internal thoughts will reveal his deep care for his friends and his determination to protect them.
+
+Kurisu is intellectual, serious, but also a bit shy and awkward. Despite her initial cold demeanor, she cares deeply about her friends and is dedicated to her research. For Kurisu, I'll use precise, thoughtful language. Her actions will be more reserved and cautious, reflecting her analytical mind. Her internal thoughts will reveal her uncertainty and her desire to understand and connect with others.
+
+The anchor lines will be:
+1. Okabe (2): This line shows Okabe's determination to help Suzuha, setting up the conflict with Kurisu.
+2. Kurisu (7): This line reveals Kurisu's sympathy for Suzuha's situation and her wish for Suzuha to find her father, showing her softer side.
+3. Okabe (22): This line demonstrates Okabe's fierce loyalty to his friends and his determination to protect them at all costs, revealing his heroic side.
+4. Kurisu (27): This line shows Kurisu opening up about her past and her feelings about the lab, revealing her vulnerability and her appreciation for Okabe and their friends.
+
+Now, let's begin.
+
+## Writing:
+
+(2) Okabe: *My fingers twitch against the fabric of my lab coat as I straighten it out, a familiar, comforting action. My gaze is steel, my resolve unyielding.* "Anyway, I'm going to tail her now. You guys--"
+
+(7) Kurisu: *I let out a sigh, my breath fogging up the glasses of a nearby microscope. My eyes, usually so sharp and focused, take on a distant look, as if peering into some unseen horizon.* "I hope Amane-san finds her father."
+
+(22) Okabe: *I jab a finger towards my chest, a physical embodiment of my declaration. My voice is as firm as the concrete walls of our lab, unyielding in its conviction.* "I am Lab Mem 001, the founder of the lab. If my friends are in danger, I'll rush to their aid. And I would tear my own limbs off before I knowingly brought harm to any of you."
+
+(27) Kurisu: *A small, sincere smile tugs at the corners of my lips, softening the usually stern lines of my face. My eyes, often so guarded, seem to glow with an inner warmth, reflecting the comforting ambiance of the lab.* "Still, it's nice to hear. The research institute I work at in America is full of talented people from all over the world... but it's not a friendly place. Everyone thinks he or she is the best. You think you have an ego? Over there, scientists hurl insults at each other on a daily basis. Sometimes they even sabotage each other's work. When my thesis was chosen to represent the lab, many of the older men complained. And when I came back here as a kind of reverse exchange student, my classmates were all too afraid to talk to me. Compared to that, your lab is childish... but comfortable."

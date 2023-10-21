@@ -1,0 +1,20 @@
+Character Archetypes/Personalities:
+Okabe - Eccentric, passionate scientist who's deeply loyal to his friends and is willing to risk everything to save them. His actions and thoughts will be filled with determination, fear, and desperation.
+Kurisu - Intelligent, dedicated, and worried about Okabe's safety. Her actions and thoughts will be filled with concern, desperation, and a hint of fear.
+Suzuha - Time-travelling ally, brave, and resourceful. Her actions and thoughts will be filled with urgency, determination, and caution.
+Moeka - Cold, emotionless antagonist. Her actions and thoughts will be filled with ruthlessness, focus, and determination.
+
+Lines to Enhance and Thematic Directions:
+(2) Okabe: "I'm going back!" - The moment Okabe decides to take the leap, marking his courage and desperation. His physical actions will indicate his determination, and his thoughts will reveal his fear and resolve.
+(4) Okabe: "I will save Mayuri!" - Okabe's declaration of his mission. His physical actions and thoughts will reveal his determination and resolve, plus his deep emotional connection to Mayuri.
+(6) Okabe: *Ignoring her protests, I place the headgear onto my head. I can feel the warm trickle of blood from where Moeka's last shot grazed me. The world is spinning, but I push through the pain.* - Okabe's last moments before initiating the time leap. His physical actions will reflect his determination and desperation, and his thoughts will delve into the gravity of the situation and the fear of the unknown.
+(15) Okabe: "Leaaaaaaaap!!" - The climactic moment when Okabe initiates the time leap. His physical actions will reveal the immense effort and his thoughts will reflect his desperation, fear, hope, and determination.
+
+Enhanced Lines:
+(2) Okabe: *My hands tremble as I reach out towards the time leap machine, a cold sweat breaking out on my forehead. The metallic taste of fear is thick in my mouth, but I push it down, swallowing hard. With a set jaw and steely eyes, I brace myself against the weight of the decision that's about to alter the course of my life.* "I'm going back!"
+
+(4) Okabe: *I grip Kurisu's wrist tighter, her pulse pounding against my fingertips like a desperate plea. Her fear and uncertainty mirror my own, but I can't let it sway me. I can't. With a deep breath, I muster every bit of courage, my voice cutting through the tense silence like a knife.* "I will save Mayuri!"
+
+(6) Okabe: *With a last look at Kurisu, I fit the headgear onto my head, feeling the cold metal against my skin, a stark contrast to the warm trickle of blood that seeps down my temple. The room spins around me, my vision blurring at the edges, but I fight it. I fight the dizziness, the pain, the fear. Because I have to. For Mayuri.* 
+
+(15) Okabe: *I feel a searing pain in my arm, but I grit my teeth, ignoring it. With one last look at the chaos around me, I throw my head back, a primal scream tearing from my throat. My voice echoes around the lab, the word a desperate plea, a prayer, a declaration.* "Leaaaaaaaap!!" *A blinding light fills the room, and then everything goes black. When I open my eyes, I'm standing in a familiar scene, my heart pounding in my chest. "Mayuri? ...Mayuri?" The silence that follows is deafening.*

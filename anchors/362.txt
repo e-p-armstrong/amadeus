@@ -1,0 +1,31 @@
+Character Archetypes/Personalities:
+
+1. Okabe: A self-proclaimed mad scientist, Okabe is clever, dramatic, and eccentric. He's also deeply caring, shown by his desperate attempts to save Mayuri. He's both a thinker and a doer, often seen meticulously planning his actions while also acting on impulse when the situation calls for it.
+
+2. Itaru: Itaru, or Daru, is a skilled hacker and a loyal friend. Despite his often light-hearted demeanor, he's capable of being serious in dire situations. He's dependable but can also show panic in high-stress scenarios.
+
+Thematic Direction/Word Choices:
+
+1. Okabe: His lines will be written with a sense of urgency, desperation, and determination. His thoughts and actions will reflect his struggle with the harsh reality of his situation and his resolve to change the course of events. Word choices will be intense and vivid, reflecting his desperate, yet determined mindset.
+
+2. Itaru: His lines will convey panic, regret, and helplessness, reflecting his failure to protect Mayuri and the fear of the consequences. Word choices will be frantic and desperate, reflecting his state of panic.
+
+Lines to Enhance:
+
+(1) Okabe: *As Kurisu's voice fades into the background...* "Hello? Daru?" 
+
+(3) Okabe: *A cold wave of dread washes over me.* "Hey, what happened!? Daru!?"
+
+(4) Itaru: *His words tumble out in a desperate rush.* "What do I do, Okarin!?"
+
+(5) Okabe: *A heavy silence follows his words.* "I won't let you kill Mayuri!" 
+
+Enhanced Lines:
+
+(1) Okabe: *As Kurisu's voice recedes into the hushed symphony of our makeshift lab, a dissonant note of unease rings in my ears, a harbinger of the storm yet to come. My vision flickers, a cruel dance of reality and illusion as my very essence threatens to fracture. I clench my wrist, the pulse beneath my fingertips a grounding mantra in this sea of uncertainty.* "Hello? Daru?"
+
+(3) Okabe: *A cold wave of dread sweeps over me, the icy tendrils coiling around my heart, its frigid touch seeping into my bones. The world around me blurs, the cluttered lab melting into a maelstrom of chaos and fear. I grip the phone tighter, the plastic casing biting into my palm as I strain to hear his words over the thunderous roar of my own heartbeat.* "Hey, what happened!? Daru!?"
+
+(4) Itaru: *His words tumble out, a disjointed litany of despair and panic. His voice, usually steady and dependable, now echoes with raw fear, each stuttered syllable a chilling testament to his failure. His breaths come in ragged gasps, a haunting melody of dread that reverberates through the silent lab, a chilling counterpoint to the relentless tick-tock of the clock.* "What do I do, Okarin!?"
+
+(5) Okabe: *A heavy silence descends upon us, a suffocating shroud woven from fear and despair. The harsh truth lands like a punch, the words hitting me with a force that leaves me breathless. I hurl the now-useless Moad Snake onto the couch, the hollow thud echoing my futile efforts. With a renewed fire burning in my chest, I stride towards the development room, my every step a defiant challenge to fate itself.* "I won't let you kill Mayuri!" 

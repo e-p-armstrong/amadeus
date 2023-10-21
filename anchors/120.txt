@@ -1,0 +1,28 @@
+Character Archetypes/Personalities:
+
+- Okabe: Eccentric, competitive, and a self-proclaimed mad scientist. His actions and thoughts should reflect his eccentricity and determination.
+- Kurisu: Brilliant, slightly clumsy, and determined. Her actions and thoughts should demonstrate her intelligence and her somewhat clumsy nature.
+- Mayuri: Cheerful, nurturing, and a peacekeeper. Her actions and thoughts should be soothing and friendly.
+- Itaru: Laid-back and a tech wizard. His actions and thoughts should be relaxed and witty.
+
+Planning Stage:
+
+Lines to be enhanced:
+
+(1) Okabe: I will emphasize his eccentricity and his competitive nature, focusing on the importance of the untouched banana.
+
+(10) Kurisu: I will focus on her intelligence, determination, and clumsiness as she starts the microwave and watches the banana transform.
+
+(13) Okabe: I will emphasize his eccentricity and his satisfaction at the success of the experiment.
+
+(17) Okabe: I will focus on his wounded pride and the growing unease he feels with Kurisu's increasing authority.
+
+Rewritten Lines:
+
+(1) Okabe: *A wild gleam sparkles in my eyes as they sweep over the cluttered table, coming to rest on the last untouched banana - the final soldier standing in this battlefield of science. The rest lay defeated, their physical forms morphed into a gel-like state, victims to our relentless pursuit of knowledge. The weight of the experiment settles heavily on my shoulders, a testament to the world-altering discoveries we're on the brink of.*
+
+(10) Kurisu: *With a determination matching the gravity of our experiment, I gingerly lift the last banana, a silent promise to Mayuri lingering in the air. Bending low, I gingerly place it into the gaping mouth of the microwave, my heart pounding with anticipation. An unexpected bump on the table sends a jolt of pain through my skull - my clumsy nature rearing its head at the most inopportune moment. I shake off the embarrassment, my attention riveted on the miraculous sight unfolding within the microwave.*
+
+(13) Okabe: *The sight of the gelified banana sends a surge of triumph coursing through my veins. I throw my head back, my laughter echoing in the lab, a victorious symphony to the gods of science. The thrill of success seizes me, my heart pounding in sync with the wild rhythm of my laughter. The sweet taste of victory, the exhilarating sense of accomplishment - it's a heady mix that sends me spiraling into a vortex of euphoria.*
+
+(17) Okabe: *As I watch Kurisu take control, a bitter sting of wounded pride gnaws at me. It's a sharp contrast to the exhilarating rush of success moments ago. Her rising authority in the lab is like a thorn in my side, a constant reminder of the shifting dynamics. I brood, my mind clouded with a concoction of frustration and unease, a far cry from the manic euphoria that had consumed me earlier.*

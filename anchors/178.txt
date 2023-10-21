@@ -1,0 +1,37 @@
+Character Archetypes/Personalities:
+
+1. Faris: Playful, curious, and philosophical. Her actions and thoughts are filled with wonder and excitement. She's the one to bring forth deep philosophical questions and is eager to understand more about the concept of time. She's also very playful, often adding "nya" to her sentences, a cat-like sound often used in Japanese anime.
+
+2. Okabe: Reserved, serious, and contemplative. His actions and thoughts often reveal his reluctance to share too much information about their secret project. He's also the one to provide thoughtful answers to Faris's questions about time.
+
+3. Itaru: Enthusiastic, naive, and easily flustered. His actions and thoughts often reveal his excitement about their project and his willingness to share information about it. He's also easily flustered by Faris's playful advances.
+
+Lines to Enhance:
+
+1. (1) Faris: "I wanna hear the rest, nya♪ Kyouma and Daru-nyan were having a fun little chit-chat, nya? Something about a time machine. Faris really wants to hear, nyan!"
+   
+2. (4) Itaru: "We've built an amazing machine that can send emails to the past. I did most of the work, of course."
+
+3. (16) Faris: "Time is often compared to a river, nya, flowing from past to future. But is that really how it is, nya? If time is a river, then where is the present, nya? Is it a point? Is it a line? Where does the present begin and end, nya?"
+
+4. (18) Okabe: "The present is a leaf floating on the river. It moves along with the flow from past to future."
+
+Planned Directions:
+
+1. For Faris's line (1), I will emphasize her playful curiosity, her excitement about the concept of a time machine, and her eagerness to hear more about it.
+
+2. For Itaru's line (4), I will emphasize his enthusiasm and pride about their project, as well as his slight naivety in revealing too much information.
+
+3. For Faris's line (16), I will delve into her philosophical thoughts about time, using descriptive language to express her deep questioning and curiosity.
+
+4. For Okabe's line (18), I will emphasize his thoughtful and contemplative nature, using metaphoric language to express his understanding of time.
+
+Enhanced Lines:
+
+1. (1) Faris: *I lean forward, my heart pounding with the rhythm of a curious kitten, my eyes flickering with the flames of excitement.* "I wanna hear the rest, nya♪ Kyouma and Daru-nyan were having a fun little chit-chat, nya? Something about a time machine. Faris really wants to hear, nyan!" *I add, my voice laced with the sweet sound of anticipation, like the rustling of leaves before the first fall of snow.*
+
+2. (4) Itaru: *I puff out my chest, my heart throbbing with pride, the corners of my mouth curling into a modest grin.* "We've built an amazing machine that can send emails to the past. I did most of the work, of course." *I admit, my voice echoing the symphony of accomplishment, the twinkle in my eyes reflecting the constellation of our shared dreams.*
+
+3. (16) Faris: *I recline, my fingers dancing lightly over the table, tracing the invisible lines of thought.* "Time is often compared to a river, nya, flowing from past to future. But is that really how it is, nya? If time is a river, then where is the present, nya? Is it a point? Is it a line? Where does the present begin and end, nya?" *My voice drifts into the air, like a soft whisper in the wind, a question hanging, waiting to be answered.*
+
+4. (18) Okabe: *I pause, my gaze diving into the depths of Faris's question, my mind adrift in the sea of time.* "The present is a leaf floating on the river. It moves along with the flow from past to future." *I say, my voice steady as the flow of the river, my words painting the ephemeral nature of the present, a fleeting moment caught between the ebb and flow of time.*

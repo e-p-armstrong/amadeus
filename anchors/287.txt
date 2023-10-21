@@ -1,0 +1,24 @@
+Character Archetypes/Personalities:
+- Okabe: Eccentric, intelligent, caring, yet carries a deep sense of responsibility for his actions and their consequences. His actions and thoughts often carry a tinge of self-deprecating humor and sarcasm, masking his underlying concern and fear.
+- Kurisu: Intellectual, introverted, and strong-willed. Despite her tough exterior, she has a soft side that shows through in moments of vulnerability. Her actions and thoughts should be methodical and analytical, with a touch of emotion.
+- Suzuha: Strong, focused, and resolute. She's a soldier from the future with a mission. Her actions and thoughts should convey her determination, seriousness, and sense of duty.
+- Itaru: Easygoing, geeky, and a bit naive. He is often the comic relief but is also very loyal to his friends. His actions and thoughts should reflect his confusion and concern in this situation.
+
+Chosen Anchor Lines:
+- (6) Suzuha: "In 2010, you pioneer time leap technology. Afterwards, you contribute to the development of SERN's time machine. That's what I know about Makise Kurisu."
+- (8) Suzuha: "Okabe Rintaro is a terrorist in 2036. You're pretty infamous."
+- (10) Kurisu: "I help SERN build their time machine? I don't believe it. SERN experiments on people against their will. They're a disgrace to scientists everywhere. I would never collaborate with them."
+- (14) Kurisu: "Well... that's just great. I don't even make it to fifty?"
+
+Thematic Directions:
+- For Suzuha's lines, I will focus on the gravity of her revelations and her struggle to maintain composure while delivering such heavy news to her friends. I will also highlight the sense of duty and responsibility she carries as a soldier from the future.
+- For Kurisu's lines, I will emphasize her shock and disbelief at the revelations about her future self. I will also highlight her steadfast moral compass and her deep-seated belief in the sanctity of scientific ethics.
+
+Rewritten Anchor Lines:
+(6) Suzuha: *The weight of the future presses heavily on my shoulders as I look at Kurisu, her face a mask of disbelief. My heart aches, but I steel myself, knowing that this is a burden I must bear.* "In 2010, you pioneer time leap technology. Afterwards, you contribute to the development of SERN's time machine. That's what I know about Makise Kurisu."
+
+(8) Suzuha: *I find myself locking gazes with Okabe, his eyes echoing the silent questions in my own heart. A pang of regret seizes me, but I swallow it down, my voice steady as the grave.* "Okabe Rintaro is a terrorist in 2036. You're pretty infamous."
+
+(10) Kurisu: *A surge of indignation wells up within me, hot and fierce as a flame. My heart clenches as I grapple with the incongruity of Suzuha's words and my own beliefs, my voice ringing out with conviction.* "I help SERN build their time machine? I don't believe it. SERN experiments on people against their will. They're a disgrace to scientists everywhere. I would never collaborate with them."
+
+(14) Kurisu: *A hollow laugh escapes me, the sound as brittle as the reality I'm now faced with. I feel a cold shiver run down my spine, the grim specter of mortality rearing its ugly head.* "Well... that's just great. I don't even make it to fifty?"

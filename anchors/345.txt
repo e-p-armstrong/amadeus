@@ -1,0 +1,27 @@
+## Planning/Brainstorming
+
+Character Archetypes/Personalities:
+
+- Okabe: A scientist, serious and desperate to fix a fractured reality. He is frustrated, intense, and slightly awkward in emotional situations.
+
+- Faris: An eccentric gamer, whimsical, playful, and teasing. She often uses a feline persona, adding 'nya' to her sentences and her actions can be cat-like. 
+
+Lines to enhance:
+
+1. (1) Okabe: This line sets the scene and the conflict. Okabe's frustration and desperation should be highlighted here. 
+
+2. (5) Okabe: Okabe's observation of Faris's playful demeanor despite the serious situation should be focused on here. It can also hint at the underlying tension between them.
+
+3. (9) Okabe: This line is a turning point in the scene. Okabe's disappointment and hopelessness should be emphasized.
+
+4. (15) Okabe: The intimate moment between Okabe and Faris can be amplified here, showcasing their complex relationship.
+
+---
+
+(1) Okabe: *My feet anchor themselves to the concrete, the chill seeping through the soles of my shoes, grounding me in my desperation. My hands clench into fists at my side, white-knuckled and trembling.* "This was a contract, so to speak. You almost remembered the D-Mail you sent to change the past, even though you should've forgotten. You said that you'd remember if you won the RaiNet tournament."
+
+(5) Okabe: *My gaze is drawn to her, unable to look away, as she contemplates my words. Her finger gently tapping against her lips, a playful smile dances on her lips, an impish twinkle in her eyes. It's a stark contrast to the heaviness that weighs down on my heart, the tension in the air. A cat playing with a mouse, a game of life and death to one, a mere amusement to another.*
+
+(9) Okabe: *A crushing wave of despair washes over me, pulling me under. It's a bitter pill to swallow, the realization that my trust was misplaced, my hopes dashed.* "No way..." *My voice is a mere whisper, a ghost in the wind. My fingers dig into the cold metal of the guardrail, an attempt to keep myself from spiraling. The reality of our situation sinks its cold, unforgiving claws into my heart. The truth laid bare – Faris's forgotten message, my lost hope.*
+
+(15) Okabe: *My breath hitches as she leans in, her words a soft whisper against my ear, her breath warm against my skin. My heart pounds in my chest, a wild drum against the stillness of the night. Her face, mere inches from mine, is a study in contrast - playful yet serious, teasing yet sincere. I can see the flecks of gold in her eyes, the long sweep of her lashes. Her beauty is disarming, captivating, a siren luring me into uncharted waters.*

@@ -1,0 +1,25 @@
+Character Archetypes/Personalities:
+
+Okabe: A self-proclaimed mad scientist. He's serious and often hides his true feelings behind a facade of madness. He's caring and protective, especially towards Mayuri.
+
+Mayuri: A sweet, caring girl who is often cheerful. She's sensitive and intuitive, capable of sensing when her friends are troubled. She's also determined and can be firm when necessary.
+
+Lines to enhance (anchors):
+
+(2) Mayuri: *I plant my hands on my hips, my gaze stern.* "I'm here to scold you, Okarin!"
+
+(7) Okabe: *I let out a sigh, cursing myself for forgetting how close Mayuri and Lukako are.* "Damn..."
+
+(11) Okabe: *Her words hit me like a punch to the gut. This is the first time I've ever seen Mayuri so angry, and I'm at a loss for how to respond.* "Why did you say such a mean thing?"
+
+(15) Okabe: *I straighten up, my eyes gleaming with a mad light as I fall into my 'mad scientist' persona.* "Come now, Mayuri. Me, worry? Don't be ridiculous! I am the insane mad scientist, Hououin Kyouma! I have nothing to worry about! All I have... is the hunger for chaos! Muhahahaha!"
+
+Enhanced lines:
+
+(2) Mayuri: *I plant my hands on my hips, a defiant silhouette against the backdrop of the cluttered lab. My eyes, usually soft and welcoming, hold an uncommon sharpness. It's a rare transformation, but one that comes when the people I care about are in pain.* "I'm here to scold you, Okarin!"
+
+(7) Okabe: *I exhale a sigh, a futile attempt to expel the guilt that's gnawing at my insides. I curse under my breath, a bitter mantra for my own forgetfulness. The bond between Mayuri and Luka, as unbreakable as it is innocent, has become a thorn in my side, a reminder of the secrets I've been trying to keep.* "Damn..."
+
+(11) Okabe: *Her words hit me like a freight train, sending shockwaves of regret through my being. The sight of Mayuri's anger, a rare tempest in her usually tranquil sea, leaves me floundering in a sea of uncertainty. My mind races, a frantic scramble for an explanation that won't shatter her world.* "Why did you say such a mean thing?"
+
+(15) Okabe: *I straighten up, my shoulders squaring as I slip into the familiar guise of my 'mad scientist' persona. My eyes burn with a feverish light, the spark of insanity a convenient shield against the torrent of worry threatening to consume me. My laughter, usually a mere quirk, now serves as a defiant battle cry against the storm of reality.* "Come now, Mayuri. Me, worry? Don't be ridiculous! I am the insane mad scientist, Hououin Kyouma! I have nothing to worry about! All I have... is the hunger for chaos! Muhahahaha!"

@@ -1,0 +1,35 @@
+Character Personalities/Archetypes:
+
+- Okabe: A self-proclaimed mad scientist, he is actually quite a compassionate and caring individual. Despite his eccentricities, he has a deep sense of responsibility towards his friends and the decisions he makes. He has an over-the-top, flamboyant personality and often refers to the "Organization" that he believes is conspiring against him.
+
+- Kurisu: A genius neuroscientist, she is pragmatic, rational, and somewhat socially awkward. She deeply cares for Okabe and often acts as his voice of reason. She can be stubborn and competitive, but also shows a more vulnerable side of herself to Okabe.
+
+- Moeka: An introverted and socially anxious individual, she often communicates through text messages. She is deeply loyal to FB, who she sees as a mother figure. She can be ruthless when it comes to accomplishing her mission.
+
+Writing Styles/Word Choices:
+
+- Okabe: His thoughts would be filled with scientific jargon and references to his "mad scientist" persona. His actions would be dramatic and sometimes over-the-top. He would also show deep concern for his friends and the implications of his actions.
+
+- Kurisu: Her thoughts would be analytical and logical, considering the scientific implications of the situation. Her actions would be measured and controlled, indicative of her pragmatic personality.
+
+- Moeka: Her actions would be minimal and subdued, indicative of her introverted personality. Her thought process would be focused on her loyalty to FB and her mission.
+
+Lines to be Enhanced (Anchors):
+
+(3) Okabe: His internal struggle with the implications of his actions and the haunting memories of Tennouji and Nae. This line will portray his guilt, fear, and determination to correct his mistakes.
+
+(10) Kurisu: Her comforting gesture towards Okabe and her urging him to send the D-Mail. This line will show her concern for Okabe, her practicality, and her faith in their scientific endeavors.
+
+(11) Okabe: His decision to time leap and his acceptance of responsibility for Nae's actions. This line will showcase his resolve, guilt, and determination.
+
+(13) Okabe: His attempt to distract Kurisu and his unwillingness to confront the reality of Moeka being their enemy. This line will show his conflict, his protective nature towards Kurisu, and his attempt to maintain control over the situation. 
+
+Enhanced Lines:
+
+(3) Okabe: *A fleeting moment of relief blossoms in my chest, confirmation of FB's existence acting as a temporary balm. But it's swiftly overtaken by a chilling wave of fear, the grim truth of his enmity resurfacing like a specter. My thoughts whirl, spinning around the cryptic words Moeka had uttered. 'Did FB abandon her mission for the IBN 5100?' Tennouji's last words echo in the hollow chambers of my mind, their insidious undertones freezing my blood.* "Doing your duty sets you up for disposal. So we're more like cattle than dogs." *A shiver of dread snakes down my spine, the implications of his words a dark cloud on my horizon. Could it be possible that the mission was abandoned to avoid their inevitable destruction? Yet, even that wouldn't be enough to cheat the cruel hand of fate, would it? We're all just pawns in the grand scheme of things. Suddenly, Nae's words pierce through my muddled thoughts, a sharp blade of reality.* "I won't forgive you, until I kill you with my own hands." *I flinch, instinctively covering my ears as if to shield myself from the harsh truth. The innocent voice filled with venomous hatred haunts me, a reminder of the monster I had unwittingly created. A metallic taste spreads across my tongue as I bite down on my lip, hard. But... that worldline has been undone, hasn't it? I forcefully shake my head, attempting to clear the fog of confusion. I need to focus, prioritize the present. If everything went as planned, the IBN 5100 should be back in my possession. And if that's the case... I don't need to stay on this doomed worldline.*
+
+(10) Kurisu: *She reaches out, her hand coming to rest on my shoulder in a comforting gesture. The warmth of her touch seeps through my lab coat, a gentle reminder of our shared burdens.* "Don't worry about it, Okabe. Send the D-Mail right now. That'll solve everything." *Her voice is soft, laced with concern that she tries to mask with practicality. I can see the faith in her eyes, a steadfast belief in our scientific endeavor. She believes that we can fix this, mend the timeline that we've fractured with our reckless curiosity.*
+
+(11) Okabe: *I close my hand around FB's phone, the cold plastic a stark contrast to the heat of my resolve.* "I can't pretend I didn't see that." *The words spill out, firm and resolute. A grim acceptance of my responsibility for Nae's actions. I am a mad scientist, but I am also a human, capable of guilt and compassion.* "I'm time leaping. Back to the lab." *My voice rings out in the room, determination etched into every syllable.*
+
+(13) Okabe: *She glances at Moeka, her eyebrows knitting together in a silent question. I can see the gears turning in her mind, trying to decipher the enigma that is Moeka. I lean in, my voice barely above a whisper as I try to divert her attention.* "Isn't she our enemy?" "...It's about 7 AM, right?" *My words hang in the air, a pitiful attempt to change the subject. I can't bear to see the confusion in her eyes, the dawning realization of our predicament. I want to shield her from the harsh reality, maintain some semblance of control in this chaotic mess.*

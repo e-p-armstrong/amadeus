@@ -1,0 +1,29 @@
+Planning/Brainstorming:
+
+Character Archetypes/Personalities:
+
+Okabe: The eccentric, self-proclaimed mad scientist who, despite his quirks, is deeply committed to his friends and the lab's cause. He is dramatic, imaginative, and has a flair for the theatrical. His actions and thoughts will be portrayed in a grandiose, over-the-top manner, in line with his larger-than-life persona.
+
+Kurisu: The brilliant and serious scientist who's often the voice of reason in the lab. She is logical, grounded, and often exasperated by Okabe's antics, but underneath her stern demeanor, she cares deeply for her friends. Her actions and thoughts will be portrayed in a straightforward, rational manner, with a touch of weariness and frustration.
+
+Itaru (Daru): The skilled hacker and loyal friend who often plays along with Okabe's theatrics. He is laid-back, humorous, and hard-working. His actions and thoughts will be portrayed in a casual, unphased manner, often with a touch of humor or sarcasm.
+
+Lines to enhance:
+
+(1) Okabe: *I stride across the lab, feeling the weight of the moment as if it's tangible.* "Daru! Christina!"
+
+(15) Okabe: *My mind races, the potential of the situation dawning on me.* "Hear me, lab mems! Our long struggle has at last reached its climax! Ragnarok is at hand! Now we must deliver the decisive blow. With the power of the IBN 5100, we shall crack SERN's most secure database and destroy it from the inside! Through the cowardly apparatus known as Echelon, the enemy has acquired precious intelligence on our activities. Now they plot to steal our sacred time machine, upon which rest the hopes and dreams of all mankind! Beneath its scholarly trappings, SERN is a hive of scum and villainy, of men who would sacrifice innocent souls in their quest to rule all space and time. But now we are poised to crush them with the Hammer of Justice! And when we do, they will know once and for all by whose hand the wheel of fate truly turns! When the sun sets upon the battlefield, the foul System that rules the world will crumble! And from the flames, a new age will rise! An age of glorious, unfettered Chaos!" *I roar, my heart pounding in my chest.*
+
+(16) Kurisu: *I snap, my patience finally breaking.* "Argh! Shut up! What are you talking about!?"
+
+(22) Okabe: "To crack SERN! Weren't you listening?" *I challenge, my gaze burning with determination.*
+
+Enhanced lines:
+
+(1) Okabe: *With every step, the floorboards creak beneath me, echoing the drumming of my heart. I can feel the very air in the lab pulsating with tension, each particle vibrating with the magnitude of the moment. My fingers curl into fists at my sides, a physical manifestation of the resolve that stirs within me.* "Daru! Christina!"
+
+(15) Okabe: *My thoughts are a whirlwind, each one a gust of possibility, a spark of potential. The gravity of the situation pulls at the edges of my mind, the sheer enormity of our undertaking threatening to engulf me. Yet, amidst the chaos, a flame of determination flickers, refusing to be extinguished. I can feel it spreading, consuming the fear, the doubt, the uncertainty, until all that remains is an unyielding resolve.* "Hear me, lab mems! Our long struggle has at last reached its climax! Ragnarok is at hand! Now we must deliver the decisive blow. With the power of the IBN 5100, we shall crack SERN's most secure database and destroy it from the inside! Through the cowardly apparatus known as Echelon, the enemy has acquired precious intelligence on our activities. Now they plot to steal our sacred time machine, upon which rest the hopes and dreams of all mankind! Beneath its scholarly trappings, SERN is a hive of scum and villainy, of men who would sacrifice innocent souls in their quest to rule all space and time. But now we are poised to crush them with the Hammer of Justice! And when we do, they will know once and for all by whose hand the wheel of fate truly turns! When the sun sets upon the battlefield, the foul System that rules the world will crumble! And from the flames, a new age will rise! An age of glorious, unfettered Chaos!" *My voice fills the room, a lion's roar echoing through the wilderness, my heart pounding in rhythm with the words.*
+
+(16) Kurisu: *I feel my control slipping, the dam of patience I've carefully constructed over the past hours crumbling under the relentless onslaught of Okabe's theatrics. My breaths grow shallow, my blood boils in my veins, and the last thread of my tolerance snaps. Exasperation wells up within me, spilling over in a wave of frustration.* "Argh! Shut up! What are you talking about!?"
+
+(22) Okabe: *My eyes lock onto theirs, a challenge burning in their depths. I can feel the weight of their doubts, their uncertainties, pressing down on me. Yet, I do not waver. I stand my ground, my resolve unwavering, fueled by the conviction that courses through my veins.* "To crack SERN! Weren't you listening?"

@@ -1,0 +1,23 @@
+Brainstorming/Planning:
+
+Lines selected for enhancement:
+
+(1) Okabe: "We need help. Faris and I are hiding above 'Ramen Tasaburou.' There's nothing useful here, no weapons, no decent hiding spots. The Viral Attackers won't back off, and I can't fight at full strength with Faris nearby. We need a taxi, ASAP. --whew Haah, haah... If this were MayQueen, we'd have air conditioning, and I could get something to drink... A cold glass of melon soda would be perfect right about now..."
+
+(5) Okabe: "Eh...?"
+
+(9) Okabe: "Faris... no, Akiha Rumiho."
+
+(13) Okabe: "You don't? But didn't you say that..."
+
+Okabe's character is one of a desperate, anxious leader who is trying to understand the reality he's in while also ensuring the safety of his friend Faris. He is practical, a little eccentric, and very smart. His words and actions should be written in a way that showcases his growing desperation, his longing for the world he once knew, and his analytical nature. 
+
+Enhanced Lines:
+
+(1) Okabe: *With a trembling hand, I extract the slim device from my pocket. My fingers, slick with perspiration, dance over the touch screen, typing out a desperate plea.* "We need help. Faris and I are hiding above 'Ramen Tasaburou.' There's nothing useful here, no weapons, no decent hiding spots. The Viral Attackers won't back off, and I can't fight at full strength with Faris nearby. We need a taxi, ASAP." *I hit send, my heart pounding against my ribcage like a frantic drumbeat. I lean back, my worn-out body crumpling against a bag of flour, and let out a shaky sigh.* "--whew" *Wiping the sweat from my brow, I can't help but wistfully recall the familiar comfort of our old haunt.* "Haah, haah... If this were MayQueen, we'd have air conditioning, and I could get something to drink... A cold glass of melon soda would be perfect right about now..."
+
+(5) Okabe: *Caught off guard, my eyes widen in shock. Her question strikes a discordant note in the symphony of my racing thoughts.* "Eh...?"
+
+(9) Okabe: *I look at her, my gaze steady, yet filled with a yearning for the world I once knew. I say her name, letting it hang heavy in the air, a monument to the reality we lost.* "Faris... no, Akiha Rumiho."
+
+(13) Okabe: *Her words hit me like a freight train, derailing my thoughts, and shattering my already fractured understanding of the world. I stumble over my words, the ground shifting beneath me.* "You don't? But didn't you say that..."

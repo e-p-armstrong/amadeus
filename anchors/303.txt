@@ -1,0 +1,31 @@
+Planning:
+
+The main characters in this scene are Okabe, Suzuha, Mayuri, and Itaru (Daru). 
+
+1. Okabe: A self-proclaimed mad scientist, he's eccentric, with a flair for the dramatic. He's also intelligent, caring and determined. His actions and thoughts would be analytical, passionate, and driven by a strong sense of responsibility. 
+
+2. Suzuha: A time-traveler from a dystopian future, she's serious, brave, and dedicated to her mission. Her actions and thoughts would reflect her determination, courage, and the weight of her responsibility.
+
+3. Mayuri: She's innocent, kind-hearted, and optimistic. Her actions would be gentle, caring, and hopeful.
+
+4. Itaru (Daru): He's a talented hacker, a bit geeky, and light-hearted. His actions would be casual, humorous, and pragmatic.
+
+The lines I've chosen to enhance are:
+
+(3) Suzuha's revelation of Okabe's death in the future. I'll focus on emphasizing her regret and the gravity of the information she's sharing.
+
+(6) Okabe's concern for Daru. I'll highlight Okabe's anxiety and his deep-seated care for his friends.
+
+(9) Suzuha's determination to change the future. I'll emphasize her resolve and her developing emotional connection to the group.
+
+(12) Okabe's reflection on Suzuha's revelations. I'll underline his shock, his mental processing of the situation, and his resolve to continue the mission. 
+
+---
+
+(3) Suzuha: *The words hang heavy on my tongue, a bitter truth that I wish I didn't have to share. I swallow hard, my heart pounding against my chest as if trying to escape the harsh reality of the future. My gaze locks with Okabe's, a silent apology lingering in the depths of my eyes.* "Never. You were... killed by SERN. In 2025."
+
+(6) Okabe: *The harsh reality of Suzuha's words send my mind spinning, each syllable echoing like a death knell in my ears. My fists clench at my sides, the blood draining from my face as I think of my friends... my family. A shiver of dread trickles down my spine, the chill of fear creeping into my voice as I ask about Daru.* "What about Daru?"
+
+(9) Suzuha: *The wind rustles through my hair, the warmth of the sun doing little to erase the chill of my words. I let out a soft sigh, the weight of the future pressing down on my shoulders. Yet, amidst the despair, a glimmer of determination sparks in my eyes, a beacon of hope amidst the storm.* "Anyway, I don't want that to happen to you guys. That's one more reason I need to find an IBN 5100 and change the future. Until I came to this time, you guys were just stories, history. But now... you're my friends. I want to save you."
+
+(12) Okabe: *My mind churns with Suzuha's revelations, the harsh reality of our future casting a long, ominous shadow over the sun-drenched rooftop. A sigh escapes my lips, the taste of Dr P bittersweet on my tongue. As I gaze out at the setting sun, I steel myself for the challenges ahead, the mission to change our fate burning like a beacon in the depths of my soul.*

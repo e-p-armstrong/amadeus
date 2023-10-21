@@ -1,0 +1,27 @@
+Character Archetypes/Personalities:
+
+Okabe: Eccentric, animated, and dramatic, Okabe often takes on the persona of a mad scientist. He speaks in riddles and metaphors, and his actions are typically exaggerated and theatrical. 
+
+Nae: Innocent and naive, Nae is easily impressed and captivated by Okabe's eccentricities. She speaks plainly and simply, and her actions are typically small and childlike.
+
+Suzuha: Observant and straightforward, Suzuha often serves as the voice of reason amongst the group. She speaks with a casual tone, and her actions are typically calm and collected.
+
+Lines to enhance:
+
+(1) Okabe: "Indeed. World leaders would kill to get their hands on my genius brain cells."
+
+(10) Okabe: I need to show composure as an adult.
+
+(15) Okabe: "You heard everything, didn't you?"
+
+(28) Okabe: "You didn't see the second one?"
+
+Enhanced Lines:
+
+(1) Okabe: *I inflate my chest like a proud peacock, tilting my head back to allow an unobstructed view of my sardonic grin. My voice dances on the wind, a puppeteer commanding attention.* "Indeed. World leaders would kill to get their hands on my genius brain cells."
+
+(10) Okabe: *My breath sighs out of me, a gust of wind carrying away the remains of my playful bravado. My hand, calloused and worn, finds solace in the chaotic strands of my hair as I attempt to regain my composure.* I need to show composure as an adult.
+
+(15) Okabe: *I turn to face Suzuha, my eyes burrowing into hers like twin drills seeking truth. My voice, once a symphony of eccentricity, now a single, solemn note echoing in the stillness.* "You heard everything, didn't you?"
+
+(28) Okabe: *My brow creases, carving deep lines of concern into my forehead. My gaze, once playful, now a piercing laser, seeking confirmation of a reality I'm not yet ready to face.* "You didn't see the second one?"

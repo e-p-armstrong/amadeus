@@ -1,0 +1,35 @@
+Character Archetypes/Personalities:
+
+Okabe: A passionate, eccentric scientist. He's anxious and somewhat bewildered, but also determined and fiercely loyal to his friends.
+
+Suzuha: A time-traveler with first-hand experience of the timeline's perils. She's calm, knowledgeable, and harbors a quiet strength. She's also serious, and her tone can be slightly ominous at times.
+
+Thematic Directions:
+
+Line (1) Suzuha: This line sets the stage for their mission. The action should reflect Suzuha's gravity and calmness, and her understanding of the stakes involved.
+
+Line (4) Okabe: Okabe's confusion and anxiety are palpable here. The action should emphasize his bewilderment and concern.
+
+Line (7) Suzuha: Suzuha reveals critical information here, and her actions should illustrate her seriousness and knowledge.
+
+Line (12) Okabe: This line is filled with fear and uncertainty. The action should heighten Okabe's anxiety and show the gravity of their mission.
+
+Lines to enhance:
+
+(1) Suzuha: *I lean back, my hands clasped together as if I'm praying, a deep sigh escaping my lips.* "That day's a turning point, remember?" *I fix my gaze on Okabe, hoping to see understanding in his eyes.* "Meaning the probability of Makise Kurisu's death is roughly 50%."
+
+(4) Okabe: *I furrow my brow, puzzled.* "What do you mean?"
+
+(7) Suzuha: *I close my eyes for a moment, collecting my thoughts.* "Remember what I said about World War Three? It all started because of something called the Nakabachi Paper, a paper Doctor Nakabachi wrote detailing his theory of time travel."
+
+(12) Okabe: *I take a deep breath, my mind filled with worst-case scenarios.* "Hey. For argument's sake... what happens if we fail to save Kurisu?"
+
+Enhanced lines:
+
+(1) Suzuha: *I recline in my seat, my hands knotted together in my lap, the very image of a woman in prayer. A deep sigh slips past my lips, carrying with it the weight of a thousand unsaid words. My gaze, as unwavering as the North Star, locks onto Okabe.* "That day's a turning point, remember?" *My voice is a whisper against the oppressive silence, a beacon in the darkness.* "Meaning the probability of Makise Kurisu's death is roughly 50%."
+
+(4) Okabe: *The gears in my mind grind to a halt, the cogs of comprehension jammed by Suzuha's ominous words. My brow creases, a physical manifestation of my inner turmoil. I swallow down the fear that threatens to choke me, my voice wobbling like a tightrope walker battling a gust of wind.* "What do you mean?"
+
+(7) Suzuha: *I press my eyes shut, the darkness behind my eyelids a welcome reprieve from the harsh glare of reality. My thoughts swarm like bees, buzzing with information that could make or break our mission. With a steadying breath, I lift my gaze to Okabe, my voice steady despite the storm brewing within me.* "Remember what I said about World War Three? It all started because of something called the Nakabachi Paper, a paper Doctor Nakabachi wrote detailing his theory of time travel."
+
+(12) Okabe: *My breath stutters in my chest, each inhale a battle won against the suffocating grip of fear. My mind is a whirlwind of nightmarish possibilities, each more terrifying than the last. I force the words past my lips, each syllable heavy with the weight of our mission.* "Hey. For argument's sake... what happens if we fail to save Kurisu?"

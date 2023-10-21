@@ -1,0 +1,23 @@
+Character Archetypes/Personalities:
+1. Suzuha: Confident, assertive, and calm under pressure. She's a seasoned time traveler, knowledgeable and pragmatic. She has a clear sense of mission and is determined to achieve their objective. She's also empathetic and observant, able to gauge Okabe's emotions accurately.
+2. Okabe: Nervous, anxious, but also intelligent and capable. He's not as experienced as Suzuha in physical time travel, but he has a strong understanding of the process and the potential risks involved. He's deeply committed to their mission to save Kurisu and is willing to face his fears to achieve this.
+
+Lines to enhance (these lines are important as they show the interactions between the characters, their internal thoughts and feelings, and provide key information about the time travel process):
+
+(1) Suzuha: *I outstretch my hand towards Okabe, my gaze unwavering.* "Give me your phone."
+
+(8) Okabe: *I can hear Mayuri and Daru cheering outside, their voices muffled by the wind. I notice Mayuri catching my phone, her face lighting up in relief. After giving them a final nod, I pull the hatch shut, the noise abruptly silenced. Turning to Suzuha, I see her setting the time display panel. July 28, 2010. 11:50 AM.*
+
+(15) Suzuha: *I study him, trying to gauge his emotions.* "Uncle, this is your first time time traveling, right?"
+
+(23) Suzuha: *I take a deep breath, preparing myself for the mission ahead.* "I'll go over the mission one more time. Once we arrive, there'll be no time for chitchat. The objective is to prevent Makise Kurisu's death."
+
+---
+
+(1) Suzuha: *I stretch my arm towards Okabe, my fingers steady and open like the wings of a falcon poised for flight. My gaze, as unwavering as the North Star, locks onto his. The air between us is charged with a palpable tension, the gravity of the mission weighing heavily on us both.* "Give me your phone."
+
+(8) Okabe: *The muffled echoes of Mayuri and Daru’s cheers from the outside world filter through the wind, their joyous cacophony a poignant contrast to the silent dread coiling within me. As I see Mayuri's face, alight with relief as she snags my phone from the air, I give them a final nod, a silent vow etched in my heart. I pull the hatch shut, the world outside receding into silence as if swallowed by a great beast. Turning to Suzuha, I witness the cold, unyielding numbers on the time display panel. July 28, 2010. 11:50 AM.*
+
+(15) Suzuha: *I scrutinize him, my gaze tracing the lines of worry etched onto his face, his eyes reflecting the whirlpool of emotions within. His uncertainty is a living, breathing entity in the confined space, and I find myself attempting to navigate this storm, to anchor him amidst the tempest.* "Uncle, this is your first time time traveling, right?"
+
+(23) Suzuha: *Drawing a deep breath, I steel myself, each intake of air a bolstering gust of resolve. My heart pounds a rhythm of duty, my thoughts aligning with the singular focus of our mission. The weight of the future rests on our shoulders, a burden we carry willingly.* "I'll go over the mission one more time. Once we arrive, there'll be no time for chitchat. The objective is to prevent Makise Kurisu's death."

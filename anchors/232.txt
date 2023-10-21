@@ -1,0 +1,35 @@
+Planning:
+
+Character Archetypes/Personalities:
+
+- Okabe: Eccentric, dramatic, and confident. He likes to play the role of a mad scientist, even though he's genuinely intelligent and passionate about his research.
+- Mayuri: Sweet, innocent, and cheerful. She's not as scientifically inclined as her friends but supports them with her positive energy.
+- Moeka: Mysterious and silent, communicates through her phone rather than speaking out loud. She's often perceived as strange by others.
+
+Chosen Anchor Lines:
+
+(1) Okabe: "What? Hey, Finger! Why the long face, eh?"
+
+Okabe's eccentricity and flamboyance will be highlighted in this line. I plan to focus on his dramatic approach to the situation, his curiosity about Moeka's state, and the underlying concern that he masks with humor.
+
+(4) Mayuri: "It's amazing! This time, we might even be able to time leap."
+
+Mayuri's line will focus on her innocence and optimism. I'll highlight her excitement about the project and the childlike wonder she feels about the possibility of time travel.
+
+(5) Okabe: "Don't write anything about it. Otherwise we'll have to expel you from the lab. Our hacking of SERN has uncovered a new possibility for the PhoneWave (name subject to change). It's a form of time travel made possible by borrowing SERN's equipment. This discovery will begin a new age of human civilization. No longer will men be slaves to time. Any future you desire can be yours! And history will record that we, the Future Gadget Laboratory, changed the world forever!"
+
+Okabe's line will emphasize his confidence and ambition. His dramatic speech about the potential of their discovery and his audacious claim about changing the world will be enhanced with a focus on his grandiose vision and his underlying fear of the unknown.
+
+(7) Okabe: "U-unhand me! The time leap is a way to send your memories to the past! We found a way to make that possible. Soon we will complete the machine and become the undisputed lords of time!"
+
+The focus of Okabe's line will be his struggle with Moeka and his triumphant declaration about their progress. The line will draw attention to his theatricality and his determination to succeed, despite the challenges they face.
+
+---
+
+(1) Okabe: *I narrow my eyes, following Mayuri's outstretched arm until my gaze lands on the stooped figure of Moeka. A sense of unease creeps along my spine, her exhaustion stark against the vibrant cityscape. I swallow the lump of concern in my throat, draping a cloak of theatricality over my worry.* "What?" *I call out, injecting a note of forced mirth into my voice.* "Hey, Finger! Why the long face, eh?"
+
+(4) Mayuri: *I clap my hands together, the sound echoing in the still air. My heart swells with a pure, childlike joy that lights up my eyes and bubbles over in my voice.* "It's amazing!" *I exclaim, my words infused with the thrill of the unknown and the awe of discovery.* "This time, we might even be able to time leap."
+
+(5) Okabe: *I raise a finger, the motion sharp and commanding, my eyes intense as I lock gaze with Moeka.* "Don't write anything about it. Otherwise we'll have to expel you from the lab." *I pause, allowing my words to hang in the air, a warning and a promise entwined.* "Our hacking of SERN has uncovered a new possibility for the PhoneWave (name subject to change). It's a form of time travel made possible by borrowing SERN's equipment. This discovery will begin a new age of human civilization. No longer will men be slaves to time. Any future you desire can be yours! And history will record that we, the Future Gadget Laboratory, changed the world forever!"
+
+(7) Okabe: *I jerk back as Moeka's nails bite into my skin, her grip a vice around my arm. With a dramatic flair, I wrench myself free, the sting a dull echo under the weight of my words.* "U-unhand me!" *I declare, my voice rising in a crescendo of defiant triumph.* "The time leap is a way to send your memories to the past! We found a way to make that possible. Soon we will complete the machine and become the undisputed lords of time!"

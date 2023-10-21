@@ -1,0 +1,30 @@
+## Planning Stage
+
+### Character Personalities:
+
+Okabe: An eccentric scientist who is desperately trying to fix the timeline to save his friend Mayuri. He's dealing with frustration, desperation, and guilt over his choices. His actions will be written in a style reflecting his desperation and determination, with a tinge of dark humor.
+
+Moeka: A shy woman, now driven to desperation in her quest to reach FB. Her actions will reflect her despair, desperation, and single-minded determination.
+
+Kurisu: A talented and rational scientist who is annoyed with Okabe for his unavailability. Her actions will reflect her frustration and concern for Okabe, mixed with suspicion.
+
+### Selected Anchor Lines:
+
+(1) Okabe: "...uugh... If you lend me your phone, I promise to help you search for FB."
+(3) Okabe: "...Dammit. Hello?"
+(7) Okabe: "Is that the first thing that comes to mind? You really are a mainstream girl."
+(10) Kurisu: "...What are you doing? Where are you?"
+
+### Thematic Directions:
+
+For Okabe's lines, I will emphasize his desperation and frustration, his struggle with his choices, and his dark humor. For Kurisu's line, I will emphasize her frustration, concern, and growing suspicion.
+
+## Rewritten Anchor Lines:
+
+(1) Okabe: *I grapple with the edge of desperation, my hand reaching out in vain, my fingertips brushing the cold, elusive metal of her phone. A guttural sound, caught between a growl and a sigh, slips from my throat. My words hang heavy in the tension-filled air, a lie wrapped in a promise, my voice a serpent's whisper.* "If you lend me your phone, I promise to help you search for FB."
+
+(3) Okabe: *A wave of frustration crashes over me, a tempest in the sea of my mind. The word slips past my lips like a curse, echoing in the silent room. As my phone vibrates, a lifeline in the storm, I move towards the door, casting a lingering glance at Moeka, her form a statue of despair. I answer, my voice a thin veneer of normalcy over the turmoil within.* "Hello?"
+
+(7) Okabe: *A dry chuckle bubbles up from my chest, a dash of dark humor in the bitter cocktail of emotions. Her accusation hangs in the air, a question wrapped in a statement, a challenge. I shake my head, my lips curling into a wry smile as I shoot back, my words a playful jab.* "Is that the first thing that comes to mind? You really are a mainstream girl."
+
+(10) Kurisu: *A spark of suspicion flickers in my mind, fueled by his evasiveness. My fingers drum impatiently on the lab table, my voice a mix of concern and irritation. His absence, his silence, they all weave a web of questions, each one sharper than the last. I lean into the phone, my words a probe, a plea for transparency.* "...What are you doing? Where are you?"

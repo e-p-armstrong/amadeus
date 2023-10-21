@@ -1,0 +1,18 @@
+Planning:
+
+Character Archetypes/Personalities:
+1. Itaru: Anxious, caring, a bit cowardly, and highly intelligent. His actions should reflect his worry and hesitance. He is not the type to rush into danger, but he deeply cares about Okabe and is concerned about his safety. His word choices will be more plain and straightforward, reflecting his practical, logical nature.
+2. Okabe: Determined, brave, and a bit eccentric. He is the type to take matters into his own hands, even in dangerous situations. His actions should show his resolve and courage. His word choices will be more dramatic and theatrical, reflecting his unique personality and the persona he has created for himself.
+
+Lines to enhance:
+1. Itaru's line "(1) Itaru: *My fingers tighten around the edge of my shirt, my voice shaky as I call out to him.* "Hey, where are you going!?""
+2. Okabe's line "(2) Okabe: *I turn to Itaru, my back straight, determination flashing in my eyes. I clench my fist, steeling myself for the challenge ahead.* "I'm going to find whoever's doing this and stop them!" 
+3. Itaru's line "(3) Itaru: *I watch as Okabe walks away, my heart pounding in my chest. I can't help but let out a sigh, my voice trembling with worry.* "But how are you gonna find them in this crowd!?"
+
+Enhanced lines:
+
+(1) Itaru: *My fingers knot anxiously into the fabric of my shirt, my knuckles white against the faded material. A shiver runs down my spine, my voice catching in my throat as I call out, the words laced with a fear I can't fully suppress.* "Hey, where are you going!?"
+
+(2) Okabe: *I pivot on my heel, my spine rigid like an unyielding oak against a storm. A surge of defiance flashes in the depths of my eyes, tempered steel meeting the fiery glow of the setting sun. My fist clenches, the white of my knuckles a stark contrast against the dark uncertainty that lays before me.* "I'm going to find whoever's doing this and stop them!" *With a resolute nod, I stride towards the chaos, each footfall a tangible echo of my unyielding resolve.*
+
+(3) Itaru: *I stand rooted to the spot, my eyes following Okabe's retreating figure, a solitary beacon of determination amidst a sea of chaos. My heart pounds a deafening rhythm against my ribs, each beat a stark reminder of the danger lurking in the crowd. A sigh escapes my lips, a tremulous note in the symphony of my anxiety.* "But how are you gonna find them in this crowd!?"

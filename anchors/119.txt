@@ -1,0 +1,39 @@
+Brainstorming:
+
+Okabe: Passionate, charismatic, and quite eccentric. His actions should be dramatic and theatrical, with his internal thoughts being just as intense. His words should be bold and confident, with an edge of unpredictability.
+
+Kurisu: Analytical, cautious, and pragmatic. Her actions should be thoughtful, measured, and precise. Her thoughts should be clear, logical, and slightly guarded. Her spoken words should be firm and decisive, with a hint of impatience.
+
+Mayuri: Innocent, gentle, and somewhat naive. Her actions should be soft and gentle, with her thoughts reflecting her innocence. Her spoken words should be simple and straightforward, with a hint of positivity.
+
+Itaru: Calm, pragmatic, and somewhat cynical. His actions should be relaxed and casual, with his thoughts being analytical and slightly skeptical. His spoken words should be straightforward, with a hint of sarcasm.
+
+Lines to enhance:
+
+(7) Kurisu: "Hey. We don't have time for this nonsense. Let's just abbreviate it to 'D-Mail' and move on."
+
+(16) Okabe: "Why so timid? Don't you want our time travel experiments to succeed? That's why we put our lives on the line to hack SERN! What we need to figure out is how to turn the PhoneWave (name subject to change) into a usable time machine."
+
+(20) Okabe: "Damn you! You dare insult the insane mad scientist, Hououin Kyouma!?"
+
+(29) Kurisu: "Let's try it right now!"
+
+Thematic directions:
+
+For Kurisu's first line, I will focus on her frustration and impatience, her desire for progress, and her logical thinking. 
+
+For Okabe's first line, I will focus on his passion and determination, his willingness to take risks, and his belief in their project.
+
+For Okabe's second line, I will focus on his eccentricity, his pride, and his fiery response to Kurisu's insult.
+
+For Kurisu's second line, I will focus on her excitement, her enthusiasm, and her eagerness to test Okabe's hypothesis.
+
+New lines:
+
+(7) Kurisu: *I let out a sigh of exasperation, my fingers drumming impatiently on the table. The incessant bickering was a wasteful diversion, an unnecessary delay in our pursuit of understanding. A spark of frustration ignited in my chest, burning bright and hot.* "Hey. We don't have time for this nonsense." *I declared, my voice cutting through the din.* "Let's just abbreviate it to 'D-Mail' and move on."
+
+(16) Okabe: *My chest pounded with a fervor that echoed through every fiber of my being. The challenge, the uncertainty, the thrill of the unknown — it was all intoxicating. The specter of SERN loomed ominously, but it was a risk we were willing to take. Our dreams, our ambitions, they were worth the gamble.* "Why so timid? Don't you want our time travel experiments to succeed?" *I challenged, my voice resounding with unwavering conviction.* "That's why we put our lives on the line to hack SERN! What we need to figure out is how to turn the PhoneWave (name subject to change) into a usable time machine."
+
+(20) Okabe: *A surge of indignation rushed through me, stinging like a thousand needles. Her words were a blow to my pride, a mockery of my genius. My heart pounded in my chest, each beat a defiant proclamation of my identity.* "Damn you!" *I roared, my voice reverberating through the lab.* "You dare insult the insane mad scientist, Hououin Kyouma!?"
+
+(29) Kurisu: *A spark of excitement ignited within me, setting my heart ablaze. The hypothesis, the potential, the tantalizing possibility of success — it was a siren call, impossible to resist. My pulse quickened, my blood sang with anticipation.* "Let's try it right now!" *I exclaimed, my voice ringing with unbridled enthusiasm.*

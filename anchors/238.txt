@@ -1,0 +1,43 @@
+Planning:
+
+Archetypes/Personalities:
+Okabe: Eccentric, dramatic, leader
+Kurisu: Brilliant, serious, reserved
+Itaru: Skilled, casual, laid-back
+Mayuri: Sweet, caring, innocent
+Mister Braun: Gruff, intimidating, stern
+Suzuha: Casual, playful, straightforward
+Nae: Shy, innocent, straightforward
+
+Word choices/writing styles:
+Okabe's *actions* will be filled with theatrical flair, his thoughts often exaggerated or dramatic, using more complex and unusual word choices.
+Kurisu's *actions* will be more reserved and precise, her thoughts analytical and insightful, using more straightforward and academic word choices.
+Itaru's *actions* will be casual and relaxed, his thoughts pragmatic and laid-back, using more colloquial and relaxed word choices.
+Mayuri's *actions* will be gentle and kind, her thoughts simple and caring, using more simple and expressive word choices.
+Mister Braun's *actions* will be gruff and firm, his thoughts direct and to the point, using more stern and straightforward word choices.
+Suzuha's *actions* will be casual and straightforward, her thoughts pragmatic and straightforward, using more casual and straightforward word choices.
+Nae's *actions* will be shy and innocent, her thoughts simple and innocent, using more simple and straightforward word choices.
+
+Lines to enhance:
+
+(5) Okabe: *I chuckle dryly, running a hand through my hair.* "In other words, you're sending me to die."
+
+(10) Okabe: *I sigh, resigning myself to the task.* "...Fine. But hear this. I will not die! Like the immortal phoenix, I will return, no matter how many times it takes!"
+
+(11) Mayuri: *I look up from my costume, my eyes wide and hopeful.* "Don't die. Okay?"
+
+(16) Okabe: *I look around the store, my eyes narrowing in thought. Could our lifter be a CRT?* "No thanks. I'm not some kind of retro TV otaku. I'd rather buy an LCD."
+
+Thematic direction: The focus will be on Okabe's dramatic persona and the gravity of his task, contrasted with the lighthearted, casual interactions between the characters. The tension and camaraderie within the group will be highlighted. The enhanced lines will serve as dramatic anchors that underscore the high stakes, the characters' individual personalities, and the overall group dynamic.
+
+-----
+
+Enhanced Lines:
+
+(5) Okabe: *A dry chuckle echoes in the room, the sound a hollow accompaniment to the dread gnawing at my insides. My hand runs through my unruly locks, a futile attempt to alleviate the mounting pressure. A flicker of resignation crosses my eyes, quickly replaced by a spark of defiance.* "In other words, you're sending me to die."
+
+(10) Okabe: *A sigh slips from my lips, the weight of the task bearing down on me. My resolve hardens, a quiet determination settling in my gaze. The words tumble out, draped in an undertone of theatrical flair, a testament to the character I've created.* "...Fine. But hear this. I will not die! Like the immortal phoenix, I will return, no matter how many times it takes!"
+
+(11) Mayuri: *My attention lifts from the delicate fabric in my hands, my gaze filled with a naive hope that tugs at the heartstrings. The words spill out, simple yet profound, a desperate plea wrapped in the innocence only I possess.* "Don't die. Okay?"
+
+(16) Okabe: *My gaze sweeps over the antiquated technology surrounding me, the gears in my mind spinning in overdrive. The question lingers, a tantalizing possibility that tugs at the edges of my understanding. A dismissive smirk plays on my lips as I reject the proposal with a nonchalant wave of my hand.* "No thanks. I'm not some kind of retro TV otaku. I'd rather buy an LCD."

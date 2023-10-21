@@ -1,0 +1,20 @@
+Character Archetypes/Personalities:
+- Okabe: The protagonist, who is grappling with the weight of an enormous decision. He is intelligent, eccentric, and deeply caring, often showing a tormented, introspective side when faced with difficult choices. His words and actions should reflect his internal struggle, fear, and the desperation to find a way out of the dire situation.
+- Suzuha: The time-traveler, she is determined, stoic, and pragmatic. Suzuha is a voice of reason, providing critical information and trying to guide Okabe on the right path. Her words and actions should reflect her resolute spirit, her unwavering belief in their mission, and her understanding of the stakes.
+- Itaru: The hacker and Okabe's best friend, he is analytical and questioning. He often provides a grounded perspective and raises logical queries. His words and actions should reflect his analytical nature, his skepticism, and his concern for their situation.
+
+Lines for Enhancement:
+(5) Okabe: An important line where Okabe acknowledges the gravity of the situation and the role Kurisu plays in their plan. This line will focus on Okabe's desperation and struggle to accept the reality.
+(9) Okabe: Okabe's frustration and confusion come to the fore as he questions the logic behind Suzuha's claim about Kurisu. This line will highlight Okabe's emotional turmoil and his struggle to make sense of the situation.
+(14) Suzuha: Suzuha reveals the truth about Okabe's future demise, a heavy and impactful line that needs to be enhanced to capture the gravity of the moment.
+(18) Suzuha: Suzuha's final words in the scene, emphasizing the uncertainty and the hope that comes with their mission. This line will focus on Suzuha's determination and the weight of her words.
+
+Enhanced Lines:
+
+(5) Okabe: *I feel the room close in around me, a vice-like grip of desperation clenching at my heart. Each breath I take feels heavy, like I'm drawing in the dread and fear that permeates the air around us. My hands curl into tight fists at my sides, the knuckles turning white under the strain.* "And to reach that worldline, we have to save Kurisu?"
+
+(9) Okabe: *Anguish and confusion wage a war within me, tearing at the fabric of my understanding. My teeth grind against each other as I try to keep my emotions in check, my voice rising in a crescendo of frustration, echoing the turmoil inside me.* "Why Kurisu? I mean, I know she's a genius, but are you telling me she's the hero who'll save 5.7 billion people?"
+
+(14) Suzuha: *I feel a lump forming in my throat, a bitter pill of truth that I have to deliver. My gaze never leaves his, my eyes mirroring the mix of sadness and determination that I carry within me.* "You passed away ten years ago -- 15 years from now, that is. The year 2025."
+
+(18) Suzuha: *I square my shoulders, my voice resolute as I lay out the harsh reality and the sliver of hope that lies ahead. Every word I utter is laced with conviction, ringing out in the silence that follows, a beacon of possibility in a sea of uncertainty.* "Uncle Okarin. Like I said, Steins Gate is unobserved. Nobody knows what future awaits us there. There's a chance that a dystopia rises from the ashes of World War Three..."

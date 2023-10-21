@@ -1,0 +1,37 @@
+Character Personalities:
+1. Okabe: Eccentric, passionate, anxious, over-thinker.
+2. Suzuha: Determined, resourceful, strategic, tough.
+3. Kurisu: Intelligent, curious, slightly shy.
+
+Word Choices and Styles:
+1. Okabe: Descriptive and poetic language. His thoughts should be reflective and somewhat chaotic, mirroring his eccentric personality and current state of mind.
+2. Suzuha: Clear and direct language. Her actions should be decisive and calculated, reflecting her strategic and resourceful nature.
+3. Kurisu: Subtle and soft language. Her actions should convey her intelligent but slightly shy nature.
+
+Lines to enhance as anchors:
+
+(1) Suzuha: "Let's do this. You keep an eye on Makise Kurisu and stop whoever tries to kill her."
+
+Direction: Suzuha's determination and strategic mindset, combined with her concern for Kurisu and Okabe.
+
+(3) Suzuha: "I'll back you up. Also, remember how I took away your phone? The you of July 28th is here too. Meaning there are currently two Okabe Rintaros in this world. Whatever you do, don't let your past self see you. It could cause a major time paradox."
+
+Direction: Suzuha's strategic mind at work, her concern for the potential consequences of their actions.
+
+(8) Okabe: "You hide! I'll provide a distraction."
+
+Direction: Okabe's anxiety and fear, his determination to accomplish the mission despite his worries.
+
+(10) Okabe: "!?"
+
+Direction: Okabe's surprise at encountering Kurisu, his internal conflict of accomplishing the mission and not revealing himself.
+
+Rewritten anchors:
+
+(1) Suzuha: *As determination floods my veins, I tighten my grip on Okabe's shoulders, steeling myself for the mission ahead.* "Let's do this. You keep an eye on Makise Kurisu and stop whoever tries to kill her." *My words resound in the confined space, a stark contrast to the fluttering uncertainty that threatens to consume us.*
+
+(3) Suzuha: *With a determined glint in my eyes, I hold up his phone, its familiar weight a stark reminder of the paradoxical reality we're treading.* "I'll back you up. Also, remember how I took away your phone? The you of July 28th is here too. Meaning there are currently two Okabe Rintaros in this world. Whatever you do, don't let your past self see you. It could cause a major time paradox." *My voice carries a note of urgency, a desperate plea to tread carefully in this treacherous dance with time.*
+
+(8) Okabe: *In the face of Suzuha's unwavering determination, a surge of anxiety grips me, my heart pounding a relentless tattoo against my ribs.* "You hide! I'll provide a distraction." *My voice trembles with the effort of maintaining composure, the gravity of our mission threatening to shatter my resolve.*
+
+(10) Okabe: *As Kurisu's voice echoes in the dimly lit hallway, my heart lurches in my chest, the familiar cadence of her words a jarring reminder of the reality we're trying to alter.* "!?" *A myriad of thoughts crash against the walls of my mind, the sudden encounter threatening to upend the precarious balance of our mission.*

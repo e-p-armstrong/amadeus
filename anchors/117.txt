@@ -1,0 +1,33 @@
+Character Archetypes/Personalities:
+
+1. Okabe: Assertive, passionate, and a bit dramatic. His actions and thoughts should be bold and filled with energy.
+2. Kurisu: Intelligent, serious, and slightly sarcastic. Her actions and thoughts should reflect her analytical mind and scientific approach to problems.
+3. Mayuri: Innocent, sweet, and a bit naive. Her actions and thoughts should be simple, genuine, and filled with curiosity.
+4. Itaru: Observant, quiet, and insightful. His actions and thoughts should display his keen observation skills and calm demeanor.
+
+Word Choices/Writing Styles:
+
+1. Okabe: Energetic and assertive words. His thoughts and actions should be written in a dramatic and passionate style.
+2. Kurisu: Precise and analytical words. Her thoughts and actions should be written in a clear, logical style.
+3. Mayuri: Simple and sincere words. Her thoughts and actions should be written in a straightforward, innocent style.
+4. Itaru: Observant and quiet words. His thoughts and actions should be written in a calm, insightful style.
+
+Lines to Enhance:
+
+(1) Okabe: *I slam my hands down on the table, leaning forward with a stern glare.* "Christina! I ordered you to investigate SERN! What have you learned?"
+
+(5) Okabe: *I couldn't help but feel a sense of relief.* So even SERN is having difficulties? *I lean back in my chair, my fingers steepled in thought.* "Now then. Have you learned anything that could help us complete the PhoneWave (name subject to change)?"
+
+(12) Mayuri: *I gasp, my eyes widening in fear.* "It makes a black hole? Here? It won't suck us in, will it?" *I clutch my chicken plushie tighter, looking around the room anxiously.*
+
+(16) Kurisu: *I sigh, rubbing my temples in frustration.* "We don't know the cause of the discharge phenomenon."
+
+Enhanced Lines:
+
+(1) Okabe: *With a surge of impatience, I thrust my hands onto the cold, metallic surface of the table, leaning forward, my eyes blazing with an intense, unyielding glare.* "Christina! I ordered you to investigate SERN! What have you learned?"
+
+(5) Okabe: *A wave of relief washes over me, soothing the sharp edges of my anxiety. As I lean back into the worn leather of my chair, my fingers come together in a thoughtful steeple, a silent testament to the gears of my mind whirring into action.* "Now then. Have you learned anything that could help us complete the PhoneWave (name subject to change)?"
+
+(12) Mayuri: *A gasp escapes my lips, my eyes stretching wide with fear. My heart pounds against my chest, each beat echoing the terrifying thought.* "It makes a black hole? Here? It won't suck us in, will it?" *I clutch my chicken plushie tighter, my gaze darting around the room, as if expecting the walls to start closing in.*
+
+(16) Kurisu: *I let out a weary sigh, my fingers massaging my temples as if trying to coax the elusive answer from the recesses of my mind.* "We don't know the cause of the discharge phenomenon."

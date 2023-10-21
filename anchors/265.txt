@@ -1,0 +1,31 @@
+### Planning and Brainstorming
+
+The characters involved are:
+
+1. Okabe: He is the protagonist, a self-proclaimed mad scientist who is desperate to change a tragic event through time travel. He is characterized by his dramatic flair, eccentricity, and intense emotions. His actions and thoughts will be written with a sense of urgency, desperation, and determination, conveying his intense emotional state.
+   
+2. Kurisu: She is a genius scientist who is practical, logical, and emotionally reserved, yet deeply caring. Her lines will be written with an air of caution, concern, and surprise, reflecting her rational nature and her concern for Okabe.
+   
+3. Itaru (Daru): He is a talented hacker and a reliable friend. His lines will be written in a more laid-back, almost nonchalant style, reflecting his casual, easy-going personality.
+
+4. Mayuri: She is Okabe's childhood friend who is cheerful and innocent. Her lines will be written with a sense of cheerfulness and naivety.
+
+The anchor lines I have chosen are:
+
+- (1) Okabe: *Before the crew-cut man has a chance to enter the development room, I slam my hand onto the switch.* "Do it, Kurisu! Activate the machine!" *The room fills instantly with white smoke, rendering it impossible to see.*
+
+- (3) Okabe: *Through the thick smoke, I see a blue-white light beginning to shine. The discharge is starting! The light rapidly grows brighter, the floor begins to shake.* "Please! Give me one more chance!" *I crouch down, holding the headset steady with one hand. The singularity is open! This is reality. It wasn't a dream. I etch that fact into my mind as I brace myself for the time leap. Once more, the world explodes into light. I can't hear anything. It feels like something is crushing my eardrums. I let out a strained grunt, my body convulsing as if struck by lightning.* "Ah!" *Slowly, the shattered pieces of the world reform. I find myself standing in the lab development room, in front of the Time Leap Machine with my phone to my ear.* "...Gh." *My brain throbs again. This isn't like a headache. It's somehow deeper. With the pain comes a torrent of emotions -- sorrow, longing, hope, joy -- that threatens to wash away my psyche.* "...It worked again." *I reassure myself. I quickly make my way back to the lounge, almost crashing into Kurisu.*
+
+- (7) Okabe: *Relief washes over me.* "You're a genius." *I pat Kurisu on the shoulders, almost in an embrace, gratitude filling my voice.*
+
+- (14) Kurisu: *She looks at me with concern, sensing my urgency.* "Okabe? You look kind of crazy. What's wrong?"
+
+### Writing
+
+(1) Okabe: *With the world on my shoulders and the future hanging in the balance, I lash out, my fingers slamming into the switch with a desperation only the damned could understand.* "Do it, Kurisu! Activate the machine!" *Reality warps around me, the room swallowed by a tempest of white smoke, a clouded veil that obscures the physical world yet unveils the precipice of the extraordinary.*
+
+(3) Okabe: *Beneath the shroud of smoke, a cerulean glow begins to pulse, the birth cries of a new reality echoed in the trembling floor beneath me.* "Please! Give me one more chance!" *I anchor myself to the present, one hand gripping the headset as if my very existence depended on it. This is not fantasy, not some fevered dream. This is reality. A reality I etch into the marrow of my being as I brace for the leap through time. The world shatters, replaced by a blinding onslaught of light, and a silence so profound it feels as if my eardrums have been ruptured.* "Ah!" *Like a phoenix rising from the ashes, the fragments of reality recompose, and I find myself once more in the lab, a phantom echo of a phone call still ringing in my ears.* "...Gh." *The pain is a relentless echo, not a headache but a symphony of pain resonating from the very core of my being. With it comes a maelstorm of emotions that threatens to erode my sanity.* "...It worked again." *I whisper to the empty air, my voice a lifeline in the chaos as I stumble back into the lounge, nearly colliding with Kurisu.*
+
+(7) Okabe: *A wave of relief crashes over me, a soothing balm for the raw nerves that had frayed under the pressure of the impossible.* "You're a genius." *My hand finds Kurisu's shoulder, an anchor in the storm, my voice thick with gratitude and the weight of unspoken words.*
+
+(14) Kurisu: *With a look of concern etched onto her face, she tries to decipher the chaotic symphony playing out in my eyes.* "Okabe? You look kind of crazy. What's wrong?"

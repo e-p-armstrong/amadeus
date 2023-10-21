@@ -1,0 +1,33 @@
+Planning and Brainstorming:
+
+Character Archetypes/Personalities:
+
+1. Itaru: Eager, comic relief, somewhat perverted but with a good heart.
+2. Kurisu: Genius scientist, somewhat frustrated with the conditions of the makeshift lab but intrigued by the science, attempts to maintain a professional demeanor.
+3. Okabe: Eccentric, attempting to balance Itaru's antics and Kurisu's scientific curiosity, grappling with the enigma of the PhoneWave himself.
+
+Writing Styles/Word Choices:
+
+1. Itaru: Casual language, showing his eagerness and comic nature. His thoughts often wander to non-scientific matters, even in the middle of serious discussions.
+2. Kurisu: Scientific and precise language, showing her genius and dedication. She is often deep in thought, her mind racing with theories and questions.
+3. Okabe: Eccentric language, often caught between the two extremes of Itaru and Kurisu. His thoughts are often focused on the enigma of the PhoneWave, and he often finds amusement in the antics of his friends.
+
+Lines to be enhanced:
+
+(1) Itaru: I'll focus on showing his eagerness and dedication to winning the cooking competition, even though it's a trivial matter in the grand scheme of things.
+
+(5) Okabe: I'll show Okabe's fascination and wonder with the PhoneWave, as well as his disappointment when the experiment doesn't work.
+
+(10) Kurisu: I'll delve into Kurisu's scientific curiosity and frustration with the conditions of the lab, as well as her dedication to figuring out the enigma of the PhoneWave.
+
+(18) Kurisu: I'll emphasize her frustration with the lab conditions and her exhaustion from the day's work, as well as her anticipation for the next day's experiment.
+
+---
+
+(1) Itaru: *My heart pounds like a drum in my chest, a symphony of anticipation echoing through my veins. My fingers dance on the phone, crafting the perfect message, a lifeline to my past self.* "One more time. I'll try sending my past self some more advice. This time, something that'll ensure my victory."
+
+(5) Okabe: *My gaze is transfixed on Itaru's actions, my heart mirroring the rhythm of the PhoneWave. The whirring sound, once a harbinger of altered reality, now echoes through the room, a haunting melody of disappointment. A moment of silence. Then, the cruel nothingness.* "Oh...?"
+
+(10) Kurisu: *My mind is a labyrinth of theories and possibilities, each one more perplexing than the last. My gaze flickers to the PhoneWave, a beast of our creation that defies the laws of time. My fingers drum on my crossed arms, a rhythmic testament to my restless curiosity.* "After I left yesterday, I was thinking. How exactly does the PhoneWave make time travel possible?"
+
+(18) Kurisu: *I can feel the weight of the day pressing down on me, a tangible reminder of our foray into the unknown. With a sigh, I stretch my stiff muscles, my gaze drifting over the lab one last time. It's a mess of wires and makeshift equipment, a testament to our determination and desperation.* "Well, I'm going back to my hotel. I've had enough of this filthy man cave. See you tomorrow. Don't forget to write that report." *With a final glance, I leave behind the chaos, my lab coat a ghostly reminder of my presence.*

@@ -1,0 +1,29 @@
+Brainstorming and planning:
+
+Okabe Rintaro: Okabe is the ringleader of the group, often paranoid and dramatic. He is intelligent and passionate about their project, but his eccentric personality often leads to him making grand, theatrical gestures and statements. His fear and desperation about the missing IBN 5100 should be evident in his lines, creating a sense of urgency and crisis in the scene. His word choice and actions would be frantic, intense, and anxious.
+
+Kurisu Makise: Kurisu is the most level-headed member of the group, often serving as the voice of reason. She is incredibly intelligent and analytical, always thinking critically about their project and its implications. Her lines should reflect her calm, rational demeanor, even in the face of crisis. Her actions would be thoughtful, deliberate, and controlled.
+
+Mayuri Shiina: Mayuri is the heart of the group, always cheerful and optimistic. She is not as scientifically inclined as the others, but her lines should reflect her kindness and innocence. Her actions would be gentle, simple, and kind-hearted.
+
+Itaru Hashida: Itaru is the group's resident hacker and tech genius. He is laid-back and often sarcastic, using humor to lighten the mood. His lines should reflect his casual, nonchalant attitude, with actions that are relaxed and easy-going.
+
+Lines to enhance:
+
+(1) Okabe: His frantic search for the IBN 5100, the panic in his voice, and his desperation to convince the others of the seriousness of the situation.
+
+(5) Okabe: His sense of dread about the missing IBN 5100, his theories about who could have taken it, and his fear as he waits for a response from Moeka.
+
+(6) Kurisu: Her attempt to calm Okabe down and rationalize the situation, her patience and understanding in the face of his panic.
+
+(8) Kurisu: Her theory about the disappearance of the IBN 5100, her analytical thinking and calm deduction in the midst of chaos.
+
+---
+
+(1) Okabe: *I tear through the lab, the rustle of scattered papers and the clatter of knocked-over equipment punctuating my frantic search. My heart beats a wild tattoo in my chest, echoing the rhythm of my spiraling thoughts.* "The IBN 5100 was right here! Where did it go!?" *I scream, my voice ricocheting off the cluttered walls. My gaze flits between my friends, a silent plea etched into my wide, panic-stricken eyes.* "Why are you staring at me like that!? The legendary PC that was donated to Yanabayashi Shrine!! You've seen it! Remember!?" *Desperation seeps into my tone, a silent cry for help in the face of impending disaster.*
+
+(5) Okabe: *A heavy weight settles in the pit of my stomach, a churning sea of dread that threatens to pull me under. The IBN 5100 was our lifeline, the key to our success, and now it's gone. Could it be the Organization? Or SERN? Or...* "Don't tell me it was John Titor!? Of course! Titor's goal was to obtain an IBN 5100! And I've already contacted him several times. But how did he get my personal information!?" *I gasp, my mind whirling in a cyclone of theories and suspicions. My fingers tremble as I send a mail to Moeka, the one who's always been overly interested in the IBN 5100. Is she the culprit? I wait, my heart pounding a deafening rhythm against my ribs, but no response comes.*
+
+(6) Kurisu: *I let out a sigh, my breath escaping in a long, steady stream as I try to inject some calm into the chaotic atmosphere. My fingers rub small circles on my temples, an attempt to massage away the mounting frustration.* "Calm down. Tell us what happened. You don't have to be precise. Just say whatever comes to mind. We can work it out later."
+
+(8) Kurisu: *I tap a steady rhythm on the table, each beat a testament to my calm in the face of chaos. My brows furrow, creasing in deep thought as I analyze the situation.* "Hmmm... The IBN 5100 may have disappeared as a result of changes someone made to the past."

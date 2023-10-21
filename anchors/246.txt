@@ -1,0 +1,24 @@
+Planning/Brainstorming:
+
+The chosen anchor lines are:
+
+(1) Okabe: "Very well. Time Leap Machine it is." 
+This line is important as it marks the acceptance of their invention's name and the beginning of a deeper understanding of its operation. Okabe's character is eccentric, passionate, and curious. His actions should reflect these traits, with an emphasis on his fascination and eagerness to understand the machine.
+
+(7) Kurisu: "In short, this device converts memories to data and sends them to the past. Let's begin with what we all know..."
+This is a key line, as Kurisu explains the workings of the Time Leap Machine. Kurisu's character is intelligent, reserved, and meticulous. Her actions should reflect these traits, showcasing her detailed understanding and logical approach to explaining the device.
+
+(11) Okabe: "I raise an eyebrow, intrigued. 3. 24 terabytes... It's less than I expected. We're talking about the entirety of a person's memories."
+Okabe's reaction to the data size is a critical point in the conversation. His intrigue and thoughtfulness should be emphasized here, highlighting his deep consideration of the implications of their creation.
+
+(16) Kurisu: "Next, we hijack the LHC, create a mini black hole, and use that black hole's supergravity to compress the data into 36 bytes."
+This line is the climax of Kurisu's explanation, revealing the daring and innovative nature of their invention. Kurisu's boldness and meticulousness should be highlighted in her actions, showcasing her scientific prowess.
+
+---
+(1) Okabe: *With a weighty sigh, I concede to the whimsical name chosen by Mayuri, knowing her propensity for oddly endearing monikers. I roll the words around in my mouth, each syllable acting as an affirmation of the reality we were about to step into.* "Very well. Time Leap Machine it is." *Turning to face Kurisu, my eyes flicker with an unquenchable curiosity, the world around us fading into a blur as the gravity of our invention takes hold.* "Assistant! Explain for us all how the Time Leap Machine works."
+
+(7) Kurisu: *With a deep breath, I rise from my seat, every inch of my posture radiating authority and confidence. My hand instinctively reaches for the whiteboard marker, the familiar weight grounding me as I prepare to dive into the complex labyrinth of our creation.* "In short, this device converts memories to data and sends them to the past. Let's begin with what we all know..."
+
+(11) Okabe: *My brow furrows, the gears in my mind whirring as I attempt to wrap my head around the colossal amount of data being discussed. The number echoes in my skull, a resounding testament to the enormity of our endeavor.* "I raise an eyebrow, intrigued. 3. 24 terabytes... It's less than I expected. We're talking about the entirety of a person's memories."
+
+(16) Kurisu: *I pause, my heart pounding as I prepare to reveal the most audacious part of our plan. My fingers tighten around the marker, the chalky smell filling the air as I sketch out the final piece of our daring puzzle.* "Next, we hijack the LHC, create a mini black hole, and use that black hole's supergravity to compress the data into 36 bytes."

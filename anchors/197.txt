@@ -1,0 +1,33 @@
+Planning and brainstorming:
+
+Character archetypes/personalities:
+
+- Okabe: The eccentric protagonist, passionate about his scientific pursuits. He's intense and often acts impulsively. His thoughts often revolve around scientific theories and he uses grandiose language to describe his actions. He tends to dramatize the situation, showing his flair for theatrics.
+
+- Mayuri: Gentle and soft-spoken, she often finds herself in the midst of the chaos caused by her friends. Her thought processes are innocent and straightforward, and her actions reflect her sweet and caring nature.
+
+- Faris: Playful and flirtatious, she loves to tease others, especially Okabe. Her actions are usually exaggerated and playful, reflecting her cat-like persona.
+
+- Kurisu: The voice of reason in the group, she is pragmatic and serious. Her thoughts and actions are usually straightforward, reflecting her logical and analytical mind.
+
+- Itaru: A laid-back and easygoing character, he often finds himself caught between the intense dynamics of his friends. His actions are usually relaxed and his thoughts often reflect his calm demeanor.
+
+Lines to enhance:
+
+- (1) Okabe: Okabe is trying to hold his ground against Kurisu's impatient demands. This line can be used to highlight his internal struggle and his determination to stand firm.
+
+- (3) Okabe: This line presents Okabe's realization and frustration about his friends siding against him. This can be enhanced to show his sense of betrayal and shock.
+
+- (5) Okabe: Okabe finally gives in to the pressure and agrees to proceed with the experiment. This line can be enhanced to show his defeat and resignation.
+
+- (19) Mayuri: Mayuri pleads with Faris to wait for a few turns. This line can be enhanced to show her desperation and hope.
+
+Enhanced lines:
+
+(1) Okabe: *My teeth grind together, each nerve in my body strung taut as a wire as Kurisu's voice drills into my eardrum through the phone. A bitter taste floods my mouth, the metallic tang of frustration. The plastic casing of the phone creaks under my tightening grip, mirroring the pressure building within me. I can almost hear the crack of my resolve, echoing in the hollow silence of my mind.* "Don't rush me, dammit!"
+
+(3) Okabe: *I can feel my blood turning to ice as Mayuri's words sink in. The world around me seems to blur as I stare at her in disbelief. The soft glow of the lamp casts eerie shadows on her innocent face, the very picture of betrayal. A lump forms in my throat, choking me, the sour taste of defeat threatening to spill from my lips.* "Wh-what? Even Mayuri's on Faris's side?"
+
+(5) Okabe: *My voice comes out in a shaky whisper, my words hanging heavy in the air. I can feel the weight of my surrender pressing down on me, my spirit crumbling like a sandcastle against the relentless tide. A sigh escapes my lips, the sound echoing in the silence of the room. I can feel the eyes of my friends on me, their gazes piercing through my facade.* "W-wait! Fine. Activate the PhoneWave (name subject to change)." 
+
+(19) Mayuri: *My voice wavers, my plea hanging in the air like a fragile thread about to snap. I can feel the tension in the room, the expectant silence pressing down on me. My gaze flickers to Faris, her triumphant smile feeling like a dagger in my chest. I can barely hear my own voice, the words sounding distant, as if they were coming from somewhere far away.* "H-hey, could you wait one... no, two or three turns, nya? Please, nya?"

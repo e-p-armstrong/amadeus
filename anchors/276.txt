@@ -1,0 +1,34 @@
+Planning:
+
+Character Personalities:
+1. Okabe: Guilty, desperate, and broken. He's an eccentric scientist who's been carrying the weight of his actions and their consequences. His lines should reflect his mental and emotional turmoil, guilt, and helplessness. His actions and thoughts are heavy, his words filled with regret and despair. His body language should reflect his exhaustion and desolation.
+
+2. Kurisu: Concerned, intelligent, and rational. She's a fellow researcher and a friend who's trying to understand Okabe's predicament. Her lines should reflect her attempt to rationalize the situation, her worry for Okabe, and her own internal conflict. Her actions should be calculated, her thoughts analytical, and her words firm but empathetic.
+
+Lines for anchor:
+
+(6) Okabe: "They... killed Mayuri." 
+
+This line is the confession of Okabe's repeated failures and the guilt he's been carrying. It's a pivotal moment in the scene where he reveals the harsh truth about Mayuri's death and his role in it. 
+
+(7) Kurisu: "If you know that Mayuri's going to die, then what are you doing wasting time here?"
+
+This line reflects Kurisu's frustration and desperation. She's trying to bring Okabe back to reality, to make him understand the urgency of their situation. 
+
+(13) Kurisu: "And that's why you keep time leaping... There's no guarantee that the machine is safe, you know."
+
+This line is a revelation of Kurisu's fear and concern for Okabe. She's trying to make him understand the potential dangers of his actions.
+
+(21) Kurisu: "If what you said is true, then I want to save Mayuri too. But as the co-creator of the Time Leap Machine, I can't recommend its continued use. Will you listen to my advice?"
+
+This line is Kurisu's offer of help and her plea to Okabe. It's a sign of her commitment to their shared goal and her concern for Okabe's well-being.
+
+Enhanced Lines:
+
+(6) Okabe: *My heart clenches, my voice barely above a whisper as I try to form the words that have been haunting me.* "They... killed Mayuri." *I swallow hard, the taste of regret bitter on my tongue. My hands clench into fists, the cold metal of the guard rail biting into my skin as I force myself to continue.* "It's all my fault."
+
+(7) Kurisu: *I turn to him sharply, my words escaping me in a breathless rush, my heart pounding in my chest.* "If you know that Mayuri's going to die, then what are you doing wasting time here?" *My gaze never wavers, my determination and desperation reflected in the intensity of my stare.*
+
+(13) Kurisu: *I let out a deep sigh, my fingers tracing over the guard rail as I gather my thoughts.* "And that's why you keep time leaping... There's no guarantee that the machine is safe, you know." *I glance at him, my gaze filled with worry and concern, the fear of losing him to the cruel hands of time evident in my eyes.*
+
+(21) Kurisu: *I take a deep breath, my fingers playing with the hem of my lab coat as I muster the courage to speak.* "If what you said is true, then I want to save Mayuri too. But as the co-creator of the Time Leap Machine, I can't recommend its continued use. Will you listen to my advice?" *I look at him, my gaze pleading, my words hanging in the air between us, an offer of help, a plea for sanity.*

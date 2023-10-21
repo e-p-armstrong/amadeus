@@ -1,0 +1,25 @@
+Planning:
+
+Okabe: The self-proclaimed mad scientist, often dramatic and eccentric, whose grandiose monologues and conspiracy theories mask his underlying fear and anxiety. His actions should be written in a way that conveys his intense personality, but also hints at his deeper insecurities and protectiveness towards his friends.
+
+Mayuri: The innocent and empathetic heart of the group, who is always concerned for Okabe's wellbeing. Her actions should reflect her gentleness and care, with a touch of naivety.
+
+Itaru: The practical and somewhat cynical member of the group, often skeptical of Okabe's grand theories. His lines should be written in a more straightforward, pragmatic style, with hints of underlying amusement and fondness for his friends.
+
+Kurisu: The rational and analytical newcomer, whose skepticism and curiosity about Okabe's claims lead to tension. Her actions should be written to reflect her scientific mind, with a subtle undercurrent of concern and intrigue about the group dynamics.
+
+Lines to be enhanced as anchors:
+(4) Okabe: "Gwaaaah!"
+(7) Mayuri: "Okarin, are you okay?"
+(14) Okabe: "You are wrong, Christina. Our experiments have already proven... That I... That my Reading Steiner is genuine!"
+(23) Kurisu: "I think you're putting too much emphasis on appearances."
+
+Enhanced lines:
+
+(4) Okabe: *A searing pain slices through my skull, as if reality itself is tearing at the seams. My legs buckle beneath me, and I collapse to the floor in agony, my voice tearing from my throat in a raw, primal cry.* "Gwaaaah!"
+
+(7) Mayuri: *A pang of worry knots my stomach as I rush to Okabe's side. My fingers flutter anxiously, like lost birds, unsure of where to land. My voice, soft as a lullaby, breaks through the chaos.* "Okarin, are you okay?"
+
+(14) Okabe: *I rise, slowly, every fiber of my being vibrating with a fierce determination. My gaze locks onto Kurisu, my eyes alight with the fire of conviction. My voice, a defiant roar against the tide of skepticism, shatters the silence.* "You are wrong, Christina. Our experiments have already proven... That I... That my Reading Steiner is genuine!"
+
+(23) Kurisu: *I regard Okabe with a bemused smile, a gentle shake of my head. My words, laced with a hint of amusement and an undertone of genuine concern, float through the quiet lab.* "I think you're putting too much emphasis on appearances."

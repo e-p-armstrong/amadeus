@@ -1,0 +1,26 @@
+Planning:
+
+Kurisu is a sharp-witted and intelligent woman who is often annoyed by Okabe's eccentricities, but also cares about him. She tends to be direct, and her actions and thoughts should reflect her quick thinking and assertive nature.
+
+Mayuri is a kind-hearted and gentle woman who is often the voice of reason in the group. She is very close to Okabe, and her actions and thoughts should reflect her kindness and slight naivety.
+
+Okabe is eccentric, quirky, and a bit dramatic. He often acts and thinks in a grandiose and exaggerated manner, fitting of his self-proclaimed 'mad scientist' persona.
+
+Lines to enhance:
+(3) Okabe: "Phew. You're still alive. Don't scare me like that. What are you guys doing packed into that tiny shower anyway?"
+
+(4) Kurisu: "Get out, you perv!"
+
+(6) Mayuri: "Mayushii's sad... I feel kinda dirty...."
+
+(8) Okabe: "It's me. We have a problem. I'm under attack from the Mongolian Spot and Ditzy sisters. They're going directly after my sanity, a bold move against the insane mad scientist Hououin Kyouma. This is the strongest offensive I've encountered so far. I realize now that vulnerability itself can be a powerful weapon. They're pulling out all the stops, and I don't think my pants can take it. Give in to the temptation? Nonsense. I could never do that. They're fellow lab members, my loyal assistant and my childhood friend. ...Must I? Is it truly the will of Steins Gate that I give in? That I raise my hand against my closest companions? If so... then how cruel the fates be! El... Psy... Kongroo!"
+
+---
+
+(3) Okabe: *I reel back, my heart pulsating like a drum in my chest, a symphony of panic and surprise. My hands shake, yet I manage to force a laugh, a hollow echo of my usual confidence.* "Phew. You're still alive." *I swallow hard, tasting the bitter sting of embarrassment.* "Don't scare me like that. What are you guys doing packed into that tiny shower anyway?"
+
+(4) Kurisu: *I narrow my eyes, the heat of indignation burning brightly in them. I draw myself up, my body language screaming defiance and outrage. My voice, though strained, carries a sharp edge, a clear warning.* "Get out, you perv!"
+
+(6) Mayuri: *I wrap my arms tighter around myself, feeling exposed and vulnerable. My heart aches, a dull throb of sadness that resonates through my body. My voice is a mere whisper, a soft echo of hurt and confusion.* "Mayushii's sad... I feel kinda dirty...."
+
+(8) Okabe: *I lean heavily against the wall outside the shower room, my heart still hammering like a runaway train. I draw in a shaky breath, attempting to regain some semblance of control. As I bring the phone to my ear, my voice takes on a dramatic tone, an act to mask my embarrassment.* "It's me. We have a problem. I'm under attack from the Mongolian Spot and Ditzy sisters. They're going directly after my sanity, a bold move against the insane mad scientist Hououin Kyouma. This is the strongest offensive I've encountered so far. I realize now that vulnerability itself can be a powerful weapon. They're pulling out all the stops, and I don't think my pants can take it. Give in to the temptation? Nonsense. I could never do that. They're fellow lab members, my loyal assistant and my childhood friend. ...Must I? Is it truly the will of Steins Gate that I give in? That I raise my hand against my closest companions? If so... then how cruel the fates be! El... Psy... Kongroo!"

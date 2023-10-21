@@ -1,0 +1,29 @@
+Brainstorming:
+
+The characters:
+
+1. Okabe: Eccentric, dramatic, and passionate. He is the driving force behind their experiments, always pushing the boundaries and unafraid to delve into the unknown. His actions and thoughts should be written in a bold, almost theatrical style.
+
+2. Itaru: The tech genius of the group, Itaru is more laid-back and down-to-earth than Okabe, but shares his excitement for their scientific endeavors. He's confident in his abilities, and his lines should reflect that.
+
+3. Kurisu: A serious, analytical, and somewhat reserved character. She's the voice of reason in the group, always questioning their actions and the potential consequences. Her lines should be written in a more introspective, thoughtful style.
+
+Lines to enhance:
+
+(5) Okabe: Okabe is preparing for the experiment with anticipation and uncertainty. His actions should reflect the gravity of the moment and his determination to proceed despite the risks.
+
+(20) Kurisu: Kurisu reveals her deep-seated belief about not altering the past. This line is the core of her character, highlighting her introspective nature and strong personal convictions.
+
+(23) Okabe: Okabe challenges Kurisu's convictions with a series of hypothetical scenarios. His words should be imbued with an air of playful defiance, teasing out Kurisu's true feelings about their experiment.
+
+(26) Kurisu: Kurisu's embarrassment and defensiveness in this line reveal her vulnerability and the internal conflict she feels about their experiment. Her actions should reflect her discomfort and her struggle to articulate her feelings.
+
+---
+
+(5) Okabe: *I find my gaze drawn to Itaru, my heart echoing the rhythmic dance of his fingers across the keys. My own hands move with a rehearsed certainty, entering the forwarding address into our creation, our rebellion against time itself — the PhoneWave. I steal a glance at my watch, its hands mocking me with the certainty of their movement. Uncertainty gnaws at me — the PhoneWave's success at this ungodly hour remains a gamble. Yet, we are past the point of retreat, standing on the precipice of a moment that could shatter reality as we know it.*
+
+(20) Kurisu: *My gaze falls to my hands, the steady rhythm of my heartbeat a stark contrast to the storm brewing within me. Each word I utter feels heavy, loaded with the weight of my convictions.* "Changing the past feels like cheating. I may only have 18 years of life experience, but I don't want to change any of those memories."
+
+(23) Okabe: *Leaning back, I fix her with a challenging gaze, a playful smirk tugging at the corners of my lips. My words are a gauntlet thrown, a flurry of fantastical scenarios meant to provoke, to tease out the truth hiding behind her defenses.* "Even if we solved all of the PhoneWave (name subject to change)'s problems, you wouldn't use it? Even if John Titor said you could use his time machine to travel to whatever time you wish, you wouldn't use it? Even if a blue robot cat from the future were to jump out of your desk and give you a doorway to everywhere, you wouldn't use it?"
+
+(26) Kurisu: *I feel a flush creep up my cheeks, my heart pounding as if attempting to escape the cage of my ribcage. I stumble over my words, caught off guard by his playful accusation.* "S-something wrong with that?"

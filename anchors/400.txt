@@ -1,0 +1,26 @@
+Planning:
+The two main characters in the scene are Okabe and Kurisu.
+
+Okabe: He's a self-proclaimed mad scientist, prone to bouts of grandiosity and dramatic flair. Despite his eccentricity, he's deeply committed to his friends and is driven by a desire to protect them. He's under immense pressure to fix the effects of his actions and is grappling with feelings of guilt, fear, and determination. His actions should reflect his inner turmoil and resolve, with a touch of his inherent theatrical nature.
+
+Kurisu: She's a genius neuroscientist with a serious and logical disposition. Despite her cold exterior, she's empathetic and deeply cares for her friends. She's pragmatic and tries to keep Okabe grounded, but she's also wrestling with feelings of concern and frustration at their predicament. Her actions should reflect her analytical mind and her concern for Okabe, with a touch of vulnerability.
+
+Lines to enhance:
+
+(2) Okabe: "Set up the machine. I'm sending another D-Mail."
+
+(6) Okabe: "As Kurisu works, I start typing the D-Mail, my fingers moving swiftly over the keys, the message a desperate plea: Do NOT go!! Not @shrine! It's a trap! I address the mail to the PhoneWave (name subject to change)."
+
+(12) Okabe: "Nothing. Why won't it change!?"
+
+(28) Okabe: "Moeka's handler. She's obsessed with FB. If the mail comes from FB, she'll do whatever it says."
+
+Enhanced lines:
+
+(2) Okabe: *I swallow hard, my heart drumming a relentless rhythm against my ribs, each beat echoing the urgency of our mission. My hands hover over the console, trembling not from fear, but from the weight of our task. Shadows dance on my face, reflecting the flickering light of the machine.* "Set up the machine. I'm sending another D-Mail."
+
+(6) Okabe: *In the dim glow of the monitor, I see my own reflection — a specter of determination. My fingers tap dance over the keys, each stroke a prayer, a plea, a promise. The words form a lifeline, a desperate tether thrown into the abyss of the past: Do NOT go!! Not @shrine! It's a trap! Addressing it to the PhoneWave (name subject to change), I hold my breath, hoping against hope.* 
+
+(12) Okabe: *I stare at the screen, my eyes stinging with the harsh glare and unshed tears. The silence that follows is deafening, mocking. It's a void where the rush of Reading Steiner should have been, a cruel reminder of our failure. My fist clenches, knuckles whitening, my voice a raspy whisper against the crushing silence.* "Nothing. Why won't it change!?"
+
+(28) Okabe: *A spark ignites in my mind, a flash of inspiration in the darkness of despair. Moeka's face swims into focus, her eyes always searching, always yearning for validation from FB. I can almost hear the echo of her obsession, the unwavering loyalty in her voice.* "Moeka's handler. She's obsessed with FB. If the mail comes from FB, she'll do whatever it says."

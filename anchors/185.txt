@@ -1,0 +1,28 @@
+## Planning and brainstorming
+
+Okabe is a self-proclaimed mad scientist who thrives on eccentricity. He is often melodramatic, passionate, and enjoys playing the part of a grandiose leader. His actions should reflect his theatrical nature and hidden insecurities. He is also deeply caring for his friends, which could be subtly reflected in his concern for their well-being amidst the chaos of their operations.
+
+Kurisu is a sensible, intelligent, and no-nonsense character who is often exasperated by Okabe's theatrics. She is also highly dedicated to her work and highly analytical. Her actions should reflect her frustration, determination, and the subtle hints of affection she has for Okabe despite their constant bantering.
+
+Mayuri is Okabe's childhood friend and brings a light-hearted, innocent perspective to the serious and often complicated operations of the team. She is cheerful, naive, and often tries to mediate the tension between Okabe and Kurisu. Her actions should reflect her positivity, her attempts to diffuse tension, and her genuine concern for her friends.
+
+Itaru (Daru) is a tech whiz who is deeply engrossed in his hacking operations. He is often oblivious to the emotional undertones of the situation and focuses on the technical aspects of their operations. His actions should reflect his concentration, his casual attitude, and his hidden genius.
+
+Lines that could serve as anchors:
+
+(1) Okabe: "Christina. Report on the status of these translations."
+(8) Kurisu: "Didn't you hear me the first time!? I've been working on the translation when I have time, but so far I haven't seen anything new about time travel. It looks like SERN is still struggling to find a solution."
+(14) Okabe: "Hey, Christina. Are you doing that on purpose?"
+(28) Okabe: "Impossible!"
+
+These lines contain important narrative details and emotional undercurrents. By expanding on these lines, I can emphasize the tension, the stakes, and the character dynamics in the scene.
+
+---
+
+(1) Okabe: *Leaning into the weight of my command, I cross my arms over my chest, sinking back into the worn leather of my chair. My gaze, usually wild with excitement, is stern now, reflecting the severity of our situation. The familiar hum of the lab equipment fills the silence as I wait for her response.* "Christina. Report on the status of these translations."
+
+(8) Kurisu: *The words escape me in a rush, my patience finally wearing thin. My hands are clenched at my sides, knuckles white against the relentless onslaught of Okabe's incessant theatrics. I hold his gaze, my own eyes ablaze with a mix of frustration and determination. I take a deep, steadying breath, a futile attempt to regain my composure.* "Didn't you hear me the first time!? I've been working on the translation when I have time, but so far I haven't seen anything new about time travel. It looks like SERN is still struggling to find a solution."
+
+(14) Okabe: *My words are heavy with suspicion, a slight furrow creasing my brow. I squint at Kurisu, trying to decipher the enigma that she is. Is she mocking me? The fluorescent lights overhead cast an eerie glow on the scene, amplifying the tension that hangs between us.* "Hey, Christina. Are you doing that on purpose?"
+
+(28) Okabe: *The words hit me like a freight train, my heart pounding a frantic rhythm against my rib cage. I push myself up from my chair, the sudden motion sending it clattering to the floor behind me. The room seems to close in on me, the walls of reality collapsing under the weight of the impossible.* "Impossible!"

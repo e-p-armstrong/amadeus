@@ -1,0 +1,30 @@
+Character Archetypes/Personalities:
+
+1. Mayuri: She is cheerful, innocent, and a bit naive. She cares deeply for her friends and often shows this through her actions and words. Her lines should reflect her childlike wonder and sincere emotions.
+
+2. Kurisu: She is smart, assertive, and pragmatic, but also shows a softer side to her close friends. Her lines should have a balance of her intellectual thought process and her emotional side.
+
+3. Okabe: He is eccentric and dramatic, often presenting himself as a mad scientist. However, beneath the eccentricity lies a caring and responsible individual. His lines should reflect his dramatic flair but also his deep thoughts and sentiments.
+
+Lines to be selected for embellishment:
+
+(7) Mayuri: *As I watch Kurisu walk away, I stand still, my gaze turning skyward. I raise my hand towards the stars, performing my Stardust Handshake.*
+
+(8) Okabe: *Watching Mayuri, I notice a shooting star streak across the sky.* "...Hey, Okarin."
+
+(11) Mayuri: *I lower my hand, turning to Okabe with a soft smile on my face.* "I was so afraid that Okarin might die. So Granny and I prayed to the sky together. 'Don't die, Okarin.'"
+
+(16) Okabe: *I chuckle, placing a hand on Mayuri's head.* "No. It was simply the choice of Steins Gate."
+
+Thematic direction:
+For Mayuri's lines, I will focus on her childlike wonder, emotional depth, and genuine concern for Okabe, blending these with a sense of nostalgia and a hint of melancholy. For Okabe's lines, I will emphasize his thoughtful side, mixed with his characteristic flair and his deep bond with Mayuri.
+
+New, enhanced lines:
+
+(7) Mayuri: *As Kurisu's silhouette blurs into the distance, I find myself rooted to the spot, the world around me fading into a quiet hum. My gaze lifts towards the velvet expanse of the night sky, each star a memory, each twinkle a silent promise. I raise my hand, fingers splayed, reaching out to the cosmos, tracing an ancient dance of friendship and hope — my Stardust Handshake.*
+
+(8) Okabe: *My eyes follow Mayuri's outstretched hand, the quiet strength in her gesture pulling me into a moment of shared silence. A shooting star arcs across the sky, its ephemeral glow illuminating the deep furrows of our shared past. My voice, hushed and heavy with a thousand unsaid words, breaks the silence.* "...Hey, Okarin."
+
+(11) Mayuri: *As the star's trace lingers, I gently lower my hand, turning to face Okabe. Shadows and starlight play on my face as a soft smile blooms, a silent testament to a time bathed in fear and hope. My voice, a whisper against the night, carries the echo of a child's desperate plea.* "I was so afraid that Okarin might die. So Granny and I prayed to the sky together. 'Don't die, Okarin.'"
+
+(16) Okabe: *A chuckle slips past my lips, a tender mockery of our shared past. My hand finds its way to Mayuri's head, a comforting weight amidst the unraveling memories. The corners of my mouth lift into a small, knowing smile, my voice a rumble of certainty against the shifting sands of time.* "No. It was simply the choice of Steins Gate."

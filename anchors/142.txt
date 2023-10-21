@@ -1,0 +1,21 @@
+Character Archetypes/Personalities:
+1. Okabe: Eccentric, prone to dramatics, a self-proclaimed mad scientist. He takes on a larger-than-life persona of "Hououin Kyouma" to hide his insecurities. His actions/thoughts should reflect his theatrical nature and deep concern for his friends.
+2. Luka: Shy, gentle, and apologetic. His actions/thoughts should be filled with anxiety and a constant need for approval.
+3. Mayuri: Innocent, kind, and a peacekeeper. Her actions/thoughts should be caring and gentle, always trying to soothe tension.
+4. Kurisu: Intelligent, pragmatic, and a little tsundere. Her actions/thoughts should be analytical and straight-to-the-point, often questioning Okabe's eccentricities.
+5. Itaru: Laid-back, nerdy, a comic relief. His actions/thoughts should be filled with humor and an easy-going attitude.
+
+Lines to be Anchored:
+1. (3) Okabe: "Ah...!" *Without thinking, I reach out, grabbing Lukako by his slender wrist.* "Where did you get this!?" 
+2. (11) Okabe: *I blink in surprise, my mind racing to remember such an event.* "I... did?" *My question hangs in the air, unanswered, as Lukako nods, his eyes shimmering with unshed tears.*
+3. (21) Okabe: "I sent the winning numbers in a D-Mail just now. We discussed it and decided that's what we would do. You all watched it happen. Then the past changed. It actually changed." *My voice echoes in the room, a stark testament to the unbelievable power we now hold.*
+4. (27) Okabe: *My eyes widen in disbelief as I stare at the numbers on the ticket in Lukako's trembling hands.*
+
+Enhanced Anchor Lines:
+1. (3) Okabe: *A sharp intake of breath escapes my lips as my heart dances a frantic jig within the cage of my ribs. An electric shock of realization zings through my veins, setting my nerves on fire.* "Ah...!" *Without thinking, my hand shoots out, fingers closing around Lukako's slender wrist in a vice-like grip. The world seems to fall away, leaving only Lukako, the lottery ticket, and me.* "Where did you get this!?" 
+
+2. (11) Okabe: *My heart stutters, a jagged rhythm of confusion and disbelief. The world around me blurs as I blink, my mind a whirlwind of fragmented memories and echoing doubts.* "I... did?" *The words tumble from my lips, a question hanging in the air like a specter, unanswered, as Lukako nods, his eyes shimmering with the fragile sheen of unshed tears.*
+
+3. (21) Okabe: "I sent the winning numbers in a D-Mail just now. We discussed it and decided that's what we would do. You all watched it happen. Then the past changed. It actually changed." *My voice booms in the confines of the lab, echoes bouncing off the cold, sterile walls, a stark testament to the unthinkable power we've stumbled upon. A shiver runs down my spine, the gravity of our discovery settling heavily on my shoulders.*
+
+4. (27) Okabe: *A gasp lodges in my throat as disbelief washes over me like a frigid wave, chilling me to the bone. My eyes, wide as saucers, are glued to the numbers on the lottery ticket nestled in Lukako's trembling hands. Each digit is a punch to the gut, a cruel mockery of our attempt to control the uncontrollable - time itself.*

@@ -1,0 +1,37 @@
+Character archetypes/personalities:
+
+- Okabe: Okabe is a self-proclaimed 'mad scientist' with a strong belief in his own abilities and experiences. He's known for his eccentricity and dramatic flair, often engaging in theatrical monologues and referring to his experiences in a grandiose manner. He's persistent and stubborn, often clashing with Kurisu due to their differing beliefs. Despite his outward bravado, he's deeply committed to his research and is genuinely affected by the implications of their experiments. His word choice and actions will reflect his dramatic persona, but also his underlying frustration and anxiety.
+
+- Kurisu: Kurisu is a young, brilliant scientist who is known for her sharp mind and skeptical nature. She's practical and often serves as the voice of reason in the lab, frequently challenging Okabe's wild claims with logical counterarguments. She's often exasperated by Okabe's theatrics but is also intrigued by the phenomena they're investigating. Her actions and thoughts will reflect her scientific mind and skepticism, as well as her occasional frustration with Okabe's antics.
+
+- Itaru: Itaru is a laid-back and jovial character, often providing comic relief in contrast to the tense dynamic between Okabe and Kurisu. He's a loyal friend, albeit somewhat absent-minded at times. His actions and words will reflect his lighthearted nature and obliviousness to the tense situation in the lab.
+
+Lines to enhance:
+
+(1) Okabe: "You might not remember this, but earlier, I changed the past with a D-Mail."
+
+(7) Okabe: "...Everything is the choice of Steins Gate! This is the power of my magic eye, Reading Steiner! Muhahaha!"
+
+(9) Okabe: "Hello?"
+
+(15) Okabe: "Go jump in the river!"
+
+Thematic directions:
+
+1. Line 1 - Okabe's conviction and frustration: This line is a pivotal moment where Okabe attempts to convince Kurisu of his experiences. His actions will reveal his deep belief in his abilities and his frustration at Kurisu's skepticism.
+
+2. Line 7 - Okabe's dramatic flair and desperation: Here, Okabe resorts to his theatrical persona in response to Kurisu's logical counterarguments. His actions will reflect his dramatic nature and his desperation to convince Kurisu.
+
+3. Line 9 - Okabe's frustration and anxiety: In this line, Okabe's frustration with Kurisu's skepticism and Itaru's trivialities come to a head. His actions will convey his frustration and his deep anxiety about the implications of their experiments.
+
+4. Line 15 - Okabe's exasperation and relief: This line highlights Okabe's exasperation with Itaru's trivialities, but also his relief at the interruption from the tense discussion with Kurisu. His actions will reflect his exasperation and his momentary relief.
+
+---
+
+(1) Okabe: *I stand before Kurisu, my hands clenched tightly at my sides, each word falling from my lips like a heavy stone into a still pond.* "You might not remember this, but earlier, I changed the past with a D-Mail."
+
+(7) Okabe: *My heart pounds in my chest, a drumbeat of desperation that echoes in my ears. I square my shoulders, my eyes ablaze with the fires of defiance and the cool glint of resolve.* "...Everything is the choice of Steins Gate! This is the power of my magic eye, Reading Steiner! Muhahaha!"
+
+(9) Okabe: *I swallow hard, my heart heavy with the weight of Kurisu's skepticism and Itaru's trivialities. My voice is a whisper against the silence, a stark contrast to the turmoil inside me.* "Hello?"
+
+(15) Okabe: *I feel a laugh bubble up from my chest, a momentary relief from the tension that had strung me taut as a bowstring. I shake my head, the corners of my mouth pulling up into a wry smile.* "Go jump in the river!"

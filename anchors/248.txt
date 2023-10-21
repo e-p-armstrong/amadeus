@@ -1,0 +1,29 @@
+Character Archetypes/Personalities:
+
+- Okabe Rintarou: A self-proclaimed mad scientist with a dramatic flair. His thoughts and actions should reflect his eccentricity, but also his deep-seated curiosity and passion for science.
+
+- Itaru "Daru" Hashida: A skilled hacker and otaku. His lines should reflect his laid-back demeanor, sense of humor, and casual approach to the intense scientific discussions.
+
+- Kurisu Makise: A genius scientist who's pragmatic and logical, but also somewhat socially awkward. Her lines should reflect her analytical nature, along with her underlying emotions and concerns.
+
+- Mayuri Shiina: Okabe's childhood friend, who's innocent, cheerful, and somewhat clueless about the technical aspects of the group's work. Her lines should reflect her innocence and confusion, but also her carefree spirit and loyalty to her friends.
+
+Lines to Enhance:
+
+- (2) Okabe: Okabe's explanation of how the Time Leap Machine works and its implications. The extended action here will reflect his dramatic persona, his intensity, and the gravity of their discovery.
+
+- (8) Kurisu: Kurisu's proposal to hand over the Time Leap Machine to the government. Her extended action will reflect her pragmatic approach, her concern for the potential misuse of the machine, and her struggle with the ethical implications of their discovery.
+
+- (13) Kurisu: Kurisu's question to Okabe about his intentions. The extended action here will reflect her serious demeanor, her concern for Okabe, and the tension in the room.
+
+- (14) Okabe: Okabe's declaration to experiment with the Time Leap Machine. His extended action will reflect his determination, his passion for discovery, and the weight of his decision.
+
+Enhanced Lines:
+
+(2) Okabe: *I lean forward, my fingers intertwining, creating a mesh of shadows on the table beneath. The dim light of the lab casts an eerie glow on my face as I fix my gaze on each of them, one by one, my voice a low rumble echoing in the confines of the room.* "Basically, that little bastard would suddenly have all your perverted memories, but his personality wouldn't change. It's not like you'll become that famous anime detective with 'the looks of a child and the brains of an adult'."
+
+(8) Kurisu: *There's a heavy silence following my question, during which I find my fingers instinctively reaching for the fabric of my lab coat, tugging at it as if it's a lifeline in this ocean of uncertainty. I lower my gaze, my eyes tracing the patterns on the tabletop, my voice barely above a whisper when I finally speak.* "It's too much for us to handle, that's for sure. The safest thing would be to hand it over to the government for professional research."
+
+(13) Kurisu: *I lift my gaze from the table, my eyes meeting Okabe's. There's a gravity in my gaze, a seriousness that's usually masked by my analytical demeanor. I want him to understand the weight of my question, the underlying fear and concern that it carries.* "What about you, Okabe? And I mean you, not Hououin Kyouma."
+
+(14) Okabe: *For a moment, I'm silent, my gaze drifting to the Time Leap Machine. It sits there, an ominous reminder of our creation, our responsibility. My fingers drum a silent beat on the tabletop, a physical manifestation of my internal conflict. When I finally speak, my voice is firm, the words ringing in the air with a finality that leaves no room for doubt.* "I want to experiment. But there are still questions we need to answer... Who will time leap?"

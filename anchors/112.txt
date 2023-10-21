@@ -1,0 +1,27 @@
+Character Archetypes/Personalities:
+
+Okabe: Intellectual, curious, mildly sarcastic, and a good leader. He maintains a degree of seriousness and focus in their conversation. His actions and thoughts should reflect his inquisitive nature and leadership.
+
+Kurisu: Intelligent, patient, and resourceful. She is the expert, simplifying complex concepts for Itaru's understanding. Her actions and thoughts should display her patience, knowledge, and ability to deal with Itaru's antics.
+
+Itaru: Comedic, laid-back, and a little perverted. He provides comic relief to the intense conversation. His actions and thoughts should reflect his jovial nature and his playful teasing of Kurisu.
+
+Lines to Enhance:
+
+(4) Kurisu: *I lean back in my chair, crossing my arms over my chest.* "It's almost the same. The same as Titor's theory. Basically... The LHC smashes protons together at 99. 9999991% the speed of light. By doing so, they compress a mass of 10kg into an extremely tiny space of 10m."
+
+(11) Okabe: *I chuckle, shaking my head at their antics.* "Don't listen to this fool, Christina. Continue."
+
+(20) Kurisu: *I sigh, but a small smile tugs at the corner of my lips.* "Fine. Say there are two cute girls, Mic-chan and Cro-chan."
+
+(32) Okabe: *I nod, my gaze focused on Kurisu.* "Before, you said that such a black hole's existence would be impossible to prove. What did you mean?"
+
+Enhanced Lines:
+
+(4) Kurisu: *Exhaling a weary sigh, I lean back, my chair creaking under the shift in weight. My arms fold across my chest, a shield against the onslaught of their relentless curiosity. My eyes, heavy with the burden of knowledge, scan the document one more time before addressing them.* "It's almost the same. The same as Titor's theory. Basically... The LHC smashes protons together at 99. 9999991% the speed of light. By doing so, they compress a mass of 10kg into an extremely tiny space of 10m."
+
+(11) Okabe: *A soft chuckle escapes my lips, the sound echoing around the room, a stark contrast to the serious tone of our discussion. Shaking my head, I watch their playful antics, the humor in their banter a welcome respite from the weight of our subject matter.* "Don't listen to this fool, Christina. Continue."
+
+(20) Kurisu: *With a resigned sigh, I let a small, almost imperceptible smile tug at the corners of my lips. My fingers drum against the table, a rhythmic beat that matches the cadence of my thoughts as I prepare to simplify the complex into the absurd.* "Fine. Say there are two cute girls, Mic-chan and Cro-chan."
+
+(32) Okabe: *Nodding, I lean in, my gaze intense and focused on Kurisu. The room around us seems to blur as my mind latches onto her words, the question that's been nagging at me finally finding its voice.* "Before, you said that such a black hole's existence would be impossible to prove. What did you mean?"

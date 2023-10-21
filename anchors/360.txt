@@ -1,0 +1,27 @@
+Character Archetypes/Personalities:
+
+1. Luka: Shy, gentle, and soft-spoken. Often struggles to express herself due to her timid nature. 
+
+2. Okabe: Eccentric, brilliant, and often dramatic. He has a deep sense of responsibility and guilt. His desperation to find the IBN 5100 often overshadows his consideration for others' feelings. 
+
+3. Luka’s Father: Kind and understanding, but often oblivious to the emotional undercurrents in a situation. 
+
+Lines to transform into anchors:
+
+(2) Okabe: *I rub the back of my neck, my cheeks burning with embarrassment.* "I understand. I mean, I uh... touched your, uh, naughty bits, I guess..." *A wave of regret washes over me as I realize I've only made the situation more uncomfortable.*
+
+(6) Okabe: *I try to steer the conversation to a less awkward topic.* "By the way, do you know about the IBN 5100?"
+
+(9) Luka: *I flinch slightly, my voice wavering.* "No, I..." *I can see her discomfort growing, and I realize I may be pushing too hard. I need to treat her with more respect, more delicacy. After all, I don't want to cause her any more distress.*
+
+(19) Okabe: *I press my hands to my temples, trying to suppress the groan building in my throat.* "The worldline is still twisted, and the IBN 5100 remains elusive... it's like a mirage I can never reach." *I take a deep breath, attempting to regain my composure.* "...Pardon my asking, but the PC was donated by Akiha Rumiho-san, correct?"
+
+---
+
+(2) Okabe: *I find myself rubbing the back of my neck, an unconscious gesture of unease. The heat of embarrassment radiates from my face, painting my cheeks a vivid scarlet.* "I understand. I mean, I uh... touched your, uh, naughty bits, I guess..." *Regret floods my veins, a bitter poison that makes me wince. The words hang in the air, a tangible reminder of my thoughtless actions, exacerbating the awkwardness of the situation.*
+
+(6) Okabe: *With a deep breath, I attempt to navigate away from the treacherous waters of our previous topic, my words tentatively probing for a safe harbor.* "By the way, do you know about the IBN 5100?" *The question emerges from my lips, a desperate lifeline thrown into the turbulent sea of our conversation.*
+
+(9) Luka: *My voice wavers, a tremulous note caught in the storm of our dialogue.* "No, I..." *The discomfort creeps up my spine, a prickling sensation that has me flinching. His gaze is heavy, burdened with a desperation I can't fully comprehend. I'm aware of the pressure he's under, but the intensity is too much, my fragile resolve threatening to shatter under the weight.*
+
+(19) Okabe: *My fingers press into my temples, the cool skin beneath my touch a stark contrast to the heated confusion swirling in my mind.* "The worldline is still twisted, and the IBN 5100 remains elusive... it's like a mirage I can never reach." *The words spill from my lips, a bitter lament for the elusive information that slips through my fingers like sand. I force a deep breath into my lungs, desperate to regain control of the spiraling situation.* "...Pardon my asking, but the PC was donated by Akiha Rumiho-san, correct?"

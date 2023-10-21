@@ -1,0 +1,29 @@
+Character Archetypes/Personalities:
+
+1. Okabe: He is eccentric, animated, and dramatic. He often carries himself with a pseudo-intellectual air, getting lost in his theatrics.
+
+2. Kurisu: She is a mature, serious, and intelligent woman with a stubborn streak. She often struggles with expressing her feelings, especially frustration or concern.
+
+3. Luka: A shy and timid character, Luka often finds himself overwhelmed by the situations he encounters.
+
+4. Mayuri: She is gentle and caring, always looking out for others. She often wears her heart on her sleeve and is quick to express her feelings.
+
+Lines to Enhance (Anchors):
+
+1. (3) Kurisu: Her departure is a powerful moment, marking a fracture in their partnership. Her actions should convey her frustration and disappointment.
+
+2. (5) Okabe: The revelation about Luka is a critical point in the scene, with his actions reflecting the awkwardness and gravity of the situation.
+
+3. (7) Okabe: His decision to take responsibility for his actions is a moment of growth and determination. 
+
+4. (11) Okabe: His desperate call to wake up Christina shows his growing anxiety and panic.
+
+Enhanced Lines:
+
+(3) Kurisu: *My mouth tightens into a grim line, the sting of his words lingering in the air between us. A hot flash of indignation sparks in my chest, burning through my veins as I shoot him a glare that could curdle milk.* "Yeah, okay. So that's the thanks I get for going out of my way to help you. I'm gone. You're on your own now." *With a huff, I spin around, the heels of my boots clicking against the cold stone floor in a steady, resounding rhythm, the echoes of my departure reverberating through the lab.*
+
+(5) Okabe: *I swallow hard, the words sticking in my throat like a lump of lead. My fingers drum a nervous tattoo against my thighs, their rhythm a stark contrast to the erratic thumping of my heart. Each beat echoes through my body, a reminder of the chaos we've wrought.* "Well, basically... Y-you're actually a guy." *The confession slips past my lips, spilling into the room like a dark secret, my voice barely louder than the faint rustle of leaves outside.*
+
+(7) Okabe: *A sigh slips past my lips, the weight of my missteps pressing down on me like an anchor. My hand rakes through my hair, fingers tangling in the mess of brown locks as I search for a lifeline in this sea of guilt.* "...I'm going to see her now, so don't worry."
+
+(11) Okabe: *My fists tighten, knuckles paling under the strain, the rough fabric of my gloves digging into my skin. My gaze locks onto the device in my hands, the screen glaring back at me like an accusing eye.* "Christina! Please wake up!"

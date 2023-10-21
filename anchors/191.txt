@@ -1,0 +1,20 @@
+Planning:
+Characters:
+1. Itaru (Daru): A hikikomori (a shut-in), Daru is a skilled hacker and Otaku, with a love for all things "moe" (adorably cute). His actions and thoughts will be filled with references to Otaku culture, and his sense of humor. He's dramatic and tends to overreact.
+2. Okabe: The self-proclaimed "mad scientist," Okabe is dramatic, eccentric, and prone to bouts of paranoia. He often refers to a mysterious "Organization" and plays along with delusions of grandeur. His actions will be filled with theatricality, conspiracy theories, and paranoia.
+3. Mayuri: The heart and soul of the group, Mayuri is innocent and endearing. She has a childlike sense of wonder and is often the voice of reason. Her actions will be filled with naivety, fascination, and innocent wonder.
+
+Lines to enhance:
+1. (3) Itaru: Daru's reaction to Okabe's revelation about Faris' real name. His actions will highlight his dramatic nature and his love for Faris' professional persona.
+2. (9) Mayuri: Mayuri revealing Faris' real name. Her actions will emphasize her hesitance and carefulness about keeping secrets.
+3. (14) Okabe: Okabe's realization of their destination. His actions will be filled with paranoia and suspicion.
+4. (21) Okabe: The group's introduction to Faris' personal space. His actions will capture the awe and curiosity.
+
+Enhanced Lines:
+(3) Itaru: *My heart feels as though it's been punctured, the air rushing out in a gasp that tastes like disbelief.* "Uwahh, you're the worst! Why do you have to crush my dreams like that, man?" *I clasp my hands over my ears, trying to shield myself from the harsh reality, my eyes squeezed shut as if denying sight could also deny truth.*
+
+(9) Mayuri: *My heart pounds in my chest, a drum echoing the gravity of the secret I'm about to reveal.* "Okay. Feris-chan's real name is Akiha Rumiho-chan!" *The words tumble from my lips, spilling into the air between us, as I watch their faces for a reaction, hoping I've done right by my friend.*
+
+(14) Okabe: *I mutter the name under my breath, the syllables rolling off my tongue like a secret code.* "Akiha..." *A spark of recognition ignites within me, burning away the fog of confusion.* The same characters as in Akihabara. Appropriate. *My eyes trace the towering form of the building before us, its steel and glass structure reflecting our own stunned faces back at us.* "Our destination turns out to be this high-rise apartment building next to UPX."
+
+(21) Okabe: *As we step into the room, a sense of awe washes over me. We're led into a room, where Faris stands before a large window, her silhouette framed against the sprawling cityscape beyond.* "She lives... here?" *Every detail of the room screams of a life far removed from our shared reality, a stark contrast to the playful persona we've come to know.*

@@ -1,0 +1,27 @@
+Planning:
+
+Okabe: A self-proclaimed mad scientist. He is eccentric, passionate, and intelligent, but his bravado often masks a deeper fear and uncertainty. His actions and thoughts would be frantic and analytical, with a hint of underlying panic.
+
+Mayuri: Okabe's childhood friend. She is sweet, caring, and a bit naive. Her actions and thoughts would be tinged with worry and confusion, her innocence contrasting with the dangerous reality they're in.
+
+SERN Agent: Cold, intimidating, and relentless. They are the embodiment of the faceless threat they've been running from. Their actions and thoughts would be precise and devoid of unnecessary emotion.
+
+Lines I'll enhance:
+
+1) Okabe: (1) "No... stopping... until... we're on... the train..."
+
+2) Okabe: (4) "Of course... the bomb threat..."
+
+3) SERN Agent: (9) "Come with us."
+
+4) Okabe: (12) "SERN!"
+
+Enhanced lines:
+
+1) Okabe: (1) *Each breath rips through my lungs like a wildfire, my heart pounding out a frenzied rhythm against my ribcage. The world spins around me, a blur of colours and sounds, but I force myself to keep moving.* "No... stopping... until... we're on... the train..." *I manage to choke out between laboured breaths, my words tasting like desperation and determination.*
+
+2) Okabe: (4) *A chill of realization sweeps over me, pulling the colour from my face, leaving it as pale as the moonlit night. My mind races, the pieces of the puzzle snapping into place with a horrifying clarity.* "Of course... the bomb threat..." *The words tumble from my lips, a barely audible whisper swallowed by the chaos around us. Fear gnaws at the edges of my resolve, threatening to topple the facade of courage I've built.*
+
+3) SERN Agent: (9) *I step forward, my gaze locked onto Okabe, a predator honing in on its prey. My voice is steady, void of emotion, a chilling contrast to the frenzy around us.* "Come with us." *The command hangs in the air, a suffocating fog of inevitability.*
+
+4) Okabe: (12) *Fear grips me, each heartbeat a deafening drum in my ears. I can taste the bitter tang of dread on my tongue, the word slipping from my lips before I can stop it.* "SERN!" *My voice echoes in the crowded station, a beacon of alarm cutting through the noise. I force a smirk onto my face, a hollow mask of defiance to hide the terror gnawing at my insides.*

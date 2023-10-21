@@ -1,0 +1,39 @@
+Character archetypes/personalities: 
+
+- Okabe is a self-proclaimed mad scientist, often consumed by his thoughts. He is philosophical and enigmatic, with a tendency to ruminate on existential matters.
+
+- Itaru, aka Daru, is the group's tech expert, often playful and light-hearted. He's also a bit of an otaku, with a penchant for gaming and teasing the others.
+
+- Mayuri is innocent and whimsical, often lost in her own world. Her actions are often spontaneous and unpredictable.
+
+- Faris embodies a cat-like persona, playful and mysterious. She often speaks in a distinctive cat-like manner ("nya") and is good at deflecting Itaru's teasing.
+
+Word choices/writing styles:
+
+- Okabe's lines will be introspective and philosophical, with a hint of melancholy and existentialism.
+
+- Itaru's lines will carry a playful and light-hearted tone, filled with casual language and gaming references.
+
+- Mayuri's lines will be whimsical and dreamy, embodying her innocent and spontaneous nature.
+
+- Faris's lines will be playful and mysterious, with a dash of her distinctive cat-like mannerism.
+
+Lines to enhance as anchors: 
+
+(1) Itaru: The scene opens with Itaru's line, setting the tone for the light-hearted exchange. His line can be enhanced to reflect his playful personality, as well as his awe of Faris's father.
+
+(11) Okabe: Okabe's philosophical musing is a defining part of his character. This line can be enhanced to delve deeper into his existential thoughts and his perception of the world around him.
+
+(13) Okabe: Okabe's realization of Mayuri's absence serves as a minor plot twist in the scene. This line can be enhanced to highlight his surprise, and his immediate reaction to the situation.
+
+(18) Mayuri: Mayuri's response is a testament to her whimsical nature. This line can be enhanced to reflect her carefree spirit, her obliviousness to the confusion she caused, and her excitement about visiting Nakano Broadway.
+
+---
+
+(1) Itaru: *As the imposing figure of Faris-tan's dad looms nearby, I find my fingers unconsciously scratching the back of my neck, an old habit I resort to when I'm nervous or awestruck. My eyes dart towards him, then back to my friends, caught between the urge to greet him and the fear of embarrassing myself. I swallow, my voice hitching slightly as I manage to ask,* "Whoa, Faris-tan's dad... Shouldn't we say hello?"
+
+(11) Okabe: *I turn my gaze towards the bustling streets of Akiba, my eyes distant and thoughtful as they take in the sea of faces, each engrossed in their own little worlds. I can't help but see them as ignorant masses, desperately seeking a fleeting respite from the gnawing pain of existence. The world around me blurs into a kaleidoscope of colors and sounds, but all I can hear is the deafening silence of my own thoughts.* "Nothing. I was just looking at Akiba, watching the ignorant masses scurry about in search of momentary surcease from the pain of existence."
+
+(13) Okabe: *As we bid our goodbyes and venture into the sweltering heat of the setting sun, I feel a bead of sweat trickle down my cheek. The relentless crowd in front of Akiba Station, a motley mix of locals and foreigners, all lured by the siren call of electronics and otaku goods, feels like a living, breathing entity of its own. In the midst of this chaos, I yearn for the cool comfort of Faris's air-conditioned apartment and the homey simplicity of our lab. I turn around to consult Daru and Mayuri about our plan, only to find a void where Mayuri had been standing.* "Huh? Where'd Mayuri go?"
+
+(18) Mayuri: *I halt my steps, turning around to wave at Okabe with a giggle, my eyes sparkling with anticipation and excitement. My fingers absent-mindedly twirl a strand of my hair as I break into a wide grin, oblivious to the confusion my sudden disappearance had caused. My heart is already at Nakano Broadway, lost among its countless wonders.* "Ehehe. Sorry. All I could think about was going to Nakano."

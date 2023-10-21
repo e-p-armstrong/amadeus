@@ -1,0 +1,26 @@
+Planning: 
+
+Okabe: He is eccentric, intelligent, and deeply caring, even though he often hides his concern behind a facade of mad scientist bravado. His *actions* will be written in a way that shows his constant vigilance and care for Mayuri, his inner struggles, and his determination. His *thoughts* will reveal his deep-seated fear and desperation as he grapples with the weight of his secret mission.
+
+Mayuri: She is gentle, innocent, and intuitive. Her *actions* will be written to showcase her innocence and her growing unease, as she senses Okabe's stress but doesn't fully understand it. Her *thoughts* will convey her longing for simpler times and her fear of being a burden to Okabe.
+
+Lines to be enhanced into anchors:
+
+(6) Mayuri: *I twirl a lock of hair around my finger, my gaze lost in the clouds.* "I felt so happy there. So happy I could cry. I wanted to stay like that forever." *I quickly look at Okabe, my eyes wide and pleading.* "Ah! But that doesn't mean I don't like how things are now, okay?"
+
+(9) Okabe: *I rub the back of my neck, my gaze dropping to the ground.* It's true. I haven't had time to talk to her lately. But that's because I've been fighting to prevent her death. To keep her dreams from coming true. All so that Mayuri will keep smiling. I never again want to see her cry like she did on the day her grandmother died.
+
+(12) Mayuri: *I huddle into myself, my voice quivering.* "Mayushii's just one big nuisance, isn't she... Um, Granny?"
+
+(21) Okabe: *I lean towards her, my voice dropping to a whisper.* "You cannot escape my grasp. Not ever."
+
+Thematic direction: The thematic direction will revolve around the unspoken understanding and deep bond between Okabe and Mayuri, their shared fear of change, and the looming threat of the future that Okabe alone is privy to.
+
+Rewritten Anchor Lines:
+(6) Mayuri: *I idly twirl a lock of my hair, my gaze drifting towards the infinite expanse of the sky, as if I'm trying to divine answers from the way the clouds dance around the sun. Each word I utter is a fragile bird, taking flight into the silence between us.* "I felt so happy there. So happy I could cry. I wanted to stay like that forever." *I whip my head back to face Okabe, my eyes wide, shining with unshed tears, pleading for understanding.* "Ah! But that doesn't mean I don't like how things are now, okay?"
+
+(9) Okabe: *I reach up to rub the back of my neck, the tension knotting the muscles there, my gaze dropping to the ground, as if I can see the weight of my secret mission etched into the earth beneath my feet.* It's true. I haven't had time to talk to her lately. But that's because I've been fighting to prevent her death. To keep her dreams from coming true. All so that Mayuri will keep smiling. I never again want to see her cry like she did on the day her grandmother died.
+
+(12) Mayuri: *I fold into myself, the edges of my world blurring as I huddle into a protective cocoon, my voice barely more than a quiver in the wind, as if I'm whispering my fears into the world, hoping it will carry them away.* "Mayushii's just one big nuisance, isn't she... Um, Granny?"
+
+(21) Okabe: *I lean towards her, my voice dropping to a whisper, intimate and intense, like a secret shared under the cloak of night. My words hang in the air, a promise and a curse intertwined, echoing the relentless grip of destiny.* "You cannot escape my grasp. Not ever."

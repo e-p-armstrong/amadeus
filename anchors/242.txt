@@ -1,0 +1,29 @@
+Brainstorming/Planning:
+
+Okabe: The main character, Okabe, is a self-proclaimed mad scientist with a flair for the dramatic. He is intelligent and committed to his friends and their shared mission. His actions and thoughts should be written in a way that showcases his bravado, pride, and underlying sincerity. His dialogue will be filled with confidence and dramatic flair, often bordering on the absurd.
+
+Kurisu: Kurisu is a brilliant scientist who is often the voice of reason in the group. She is dedicated, logical, and somewhat impatient, but also deeply caring. Her actions and thoughts should be written in a way that showcases her intelligence, determination, and subtle emotional depth. Her dialogue will be straightforward and often filled with scientific jargon, but it will also reveal hints of her softer side.
+
+Mayuri: Mayuri is a kind-hearted and somewhat naive young woman. She is not as scientifically inclined as the others, but she is supportive and caring. Her actions and thoughts should be written in a way that showcases her gentleness, carefree nature, and love for her friends. Her dialogue will be simple and often filled with innocence and genuine concern.
+
+Itaru: Itaru is a skilled hacker and a vital member of the group. He is thoughtful, knowledgeable, and often the voice of practicality. His actions and thoughts should be written in a way that showcases his technological prowess, thoughtfulness, and grounded nature. His dialogue will be technical and often filled with practical considerations.
+
+Anchor lines:
+
+(3) Kurisu: This line is important as it presents Kurisu's scientific discovery regarding the PhoneWave's functioning. I will highlight her intellectual prowess, determination, and the joy of discovery.
+
+(6) Kurisu: In this line, Kurisu corrects Okabe's misunderstanding about electron streams and highlights the miracle of their discovery. I will emphasize her patience, her pride in their work, and the awe-inspiring reality of their achievement.
+
+(7) Okabe: This line showcases Okabe's dramatic flair and his belief in the concept of 'Steins Gate'. I will enhance his defiance, conviction, and the theatricality of his statement.
+
+(14) Kurisu: In this line, Kurisu delegates a task to Okabe, showing her leadership and assertiveness. I will highlight her sternness, her trust in Okabe, and her anticipation of the next steps in their project.
+
+Enhanced lines:
+
+(3) Kurisu: *My fingers dance across the keyboard, each keystroke a testament to the relentless pursuit of knowledge that has led us to this moment. My heart pounds in my chest, the thrill of discovery setting my veins aflame.* "We've found the answer. The electrons emitted by the 42-inch CRT are holding the PhoneWave's black hole open. And the discharge phenomenon is the result."
+
+(6) Kurisu: *I raise my hand, my fingers splayed out as if holding an invisible sphere, as I correct Okabe's misconception with a soft but firm voice.* "It's not about having a strong electron stream. If stronger were better, SERN would've solved the lifter problem long ago." *I pause, my gaze sweeping across the cluttered room, every innocuous item now a testament to our scientific triumph.* "Somehow, the conditions here were perfect to create a time machine. Frankly, it's a miracle."
+
+(7) Okabe: *I lunge forward, my hand slicing through the air as I counter Kurisu's statement with fervent conviction. My voice booms through the room, each word imbued with an unwavering belief in our destiny.* "No, Christina! Not a miracle! This is the choice of Steins Gate!"
+
+(14) Kurisu: *I straighten my posture, my stern gaze fixed on Okabe as I delegate the crucial task. My heart pounds with a mix of anticipation and apprehension, the weight of our discovery heavy on my shoulders.* "Go downstairs and turn that TV back on."

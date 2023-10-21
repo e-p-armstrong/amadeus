@@ -1,0 +1,30 @@
+Planning and Brainstorming:
+
+The characters involved are:
+
+1. Okabe: Eccentric, flamboyant, and over-the-top. He speaks with an air of grandeur and often refers to himself in third person as Hououin Kyouma. He's intelligent and deeply cares about his friends, even though he tries to hide it under his 'mad scientist' persona.
+
+2. Kurisu: Genius scientist, serious, pragmatic, and reserved. She's not very good at expressing her feelings, but she's very observant and quick to pick up on details. Her explanations are always precise and well-thought-out.
+
+3. Mayuri: Naive, innocent, and kind-hearted. She's not scientifically minded but she's very supportive of her friends.
+
+4. Itaru (Daru): Laid-back, smart, and a bit of a pervert. He's the group's hacker and is well-versed in otaku culture.
+
+The chosen lines to embellish are:
+
+(2) Kurisu: "I think I know how the PhoneWave works."
+(6) Kurisu: "Yes. Exactly. My hunch was right. You've created a monster, Okabe."
+(12) Kurisu: "Both devices use electromagnetic waves. I'm not a specialist, though, so I can't examine the extent or magnitude of the influence that fusion has... But hypothetically, if the cellphone were to become a stepping stone, scattering the military-grade electromagnetic waves over a vast range of hundreds of kilometers-- Then not just Akihabara, but all of Tokyo would turn into the inside of a microwave oven. Taking into account slight variance due to body weight, the average time until death for the people inside would be-- Three minutes."
+(16) Kurisu: "In other words, it becomes a sort of particle accelerator."
+
+For Okabe, I'll use flamboyant language and grandiose gestures. For Kurisu, I'll use precise and clear language, but also show her internal struggle and fears. For Mayuri, I'll use simple language and innocent reactions. For Daru, I'll use laid-back and nonchalant language.
+
+New Text:
+
+(2) Kurisu: *My chest tightens with apprehension, my fingers clenching into fists at my side as I steel myself for the words about to spill from my lips.* "I think I know how the PhoneWave works."
+
+(6) Kurisu: *My breath hitches in my throat, the gravity of the situation pressing down on my shoulders like a lead weight. I force myself to meet Okabe's gaze, my voice barely more than a whisper as I confirm his fears.* "Yes. Exactly. My hunch was right. You've created a monster, Okabe."
+
+(12) Kurisu: *I swallow hard, my heart pounding like a drum against my ribcage as I deliver the chilling news. My voice is steady, but there's a tremor in my hands that I can't quite hide.* "Both devices use electromagnetic waves. I'm not a specialist, though, so I can't examine the extent or magnitude of the influence that fusion has... But hypothetically, if the cellphone were to become a stepping stone, scattering the military-grade electromagnetic waves over a vast range of hundreds of kilometers-- Then not just Akihabara, but all of Tokyo would turn into the inside of a microwave oven. Taking into account slight variance due to body weight, the average time until death for the people inside would be-- Three minutes."
+
+(16) Kurisu: *I draw in a shaky breath, my palms slick with sweat as I try to steady my nerves. I fix my gaze on Okabe, willing him to understand the gravity of the situation as I lay out the stark reality of our invention.* "In other words, it becomes a sort of particle accelerator."

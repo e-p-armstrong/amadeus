@@ -1,0 +1,29 @@
+Character Archetypes/Personalities:
+- Okabe Rintaro: Eccentric, passionate, desperate. His language is filled with urgency and frustration, underscored by a sense of impending doom and the weight of responsibility. His movements are often impulsive, reflecting his emotional state.
+- Kurisu: Pragmatic, intelligent, patient. She explains the science with clarity and calm, despite the tension in the room. Her movements are controlled and precise, reflecting her scientific mind.
+
+Approach/Style:
+- Okabe's lines will be filled with dramatic and urgent language, reflecting his frantic search for a solution and his desperation to save Mayuri. His actions will be impulsive and passionate, filled with physical motion that underscores his emotional turmoil.
+- Kurisu's lines will be calm and precise, filled with detailed and technical explanations that reflect her intelligence and scientific mind. Her actions will be measured and controlled, reflecting her careful thought and patience in explaining the intricacies of their invention.
+
+Lines to enhance:
+
+(4) Okabe: "But I can travel to any time I had a cell phone, can't I!?" *I slam my hand on the table, hope flaring in my chest.*
+
+(10) Okabe: "So how come I can only leap 48 hours?" *My voice is a bare whisper, the reality of our situation sinking in.*
+
+(16) Okabe: *My heart drops, a cold dread washing over me.* "So what you're saying is..."
+
+(22) Okabe: *I slump in my chair, the weight of our situation crashing down on me.* "We can't do anything!? Even with the Time Leap Machine, we can't stop SERN from killing Mayuri five hours from now!?"
+
+---
+
+New Enhanced Lines:
+
+(4) Okabe: "But I can travel to any time I had a cell phone, can't I!?" *I slam my palm onto the worn surface of the table, my veins pulsating with a wild surge of desperate hope. The echo of the impact reverberates through the room, a stark punctuation to my words. My heart pounds a frenetic rhythm against my chest, each beat a plea for a lifeline, for a glimmer of hope in the shadowed uncertainty.*
+
+(10) Okabe: "So how come I can only leap 48 hours?" *My voice is a mere thread of sound, a ghost of my usual confidence, fading into the sterile air of our makeshift lab. I feel the cold tendrils of reality creeping in, insidious and unyielding, wrapping around my heart and squeezing, the echo of Kurisu's words hanging heavy between us.*
+
+(16) Okabe: *A cold dread seizes my heart, each word from Kurisu's lips a hammer striking against the walls of my hope.* "So what you're saying is..." *The words trail off into a choked whisper, swallowed by the oppressive silence. I feel the weight of her revelation settling deep within me, a sinking stone in the pit of my stomach.*
+
+(22) Okabe: *I slump in my chair, the harsh fluorescent lights above casting long, grotesque shadows around the room. Desolation sweeps over me like a tidal wave, crashing against the shores of my crumbling resolve.* "We can't do anything!? Even with the Time Leap Machine, we can't stop SERN from killing Mayuri five hours from now!?" *Each word is a plea, a cry into the void, the bitter sting of defeat lingering on my tongue.*

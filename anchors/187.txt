@@ -1,0 +1,41 @@
+Character Archetypes:
+
+1. Okabe: Self-proclaimed mad scientist, eccentric, and dramatic. He is also deeply caring, intelligent, and determined. His thoughts and actions should reflect his eccentricity, his determination, and his deep concern for his friends and their shared mission.
+
+2. Kurisu: A genius scientist who is serious, logical, and sharp. She is also caring and empathetic, albeit often hiding these softer emotions under a veneer of scientific detachment. Her thoughts and actions should reflect her logical mindset, her sharp intelligence, and her hidden emotional depth.
+
+3. Mayuri: Okabe's childhood friend. She is innocent, cheerful, and somewhat naive. Her thoughts and actions should reflect her innocence, her cheerful nature, and her confusion about the complex scientific concepts being discussed.
+
+4. Itaru: The team's hacker. He is laid-back, tech-savvy, and observant. His thoughts and actions should reflect his relaxed nature, his technical expertise, and his observant nature.
+
+5. Luka: A timid shrine maiden. She is shy, gentle, and soft-spoken. Her thoughts and actions should reflect her timid nature, her gentleness, and her soft-spoken nature.
+
+Lines to be converted into anchors:
+
+(2) Okabe: *I raise a hand to my chin, my eyes lost in thought.* "But from my perspective, we sent several more."
+
+(9) Kurisu: *I narrow my eyes, my lips pressed into a thin line.* "Oh, right. That's what you claim, but Hashida, Mayuri-san, and I don't remember either of those."
+
+(15) Okabe: *I swallow, my fingers gripping the fabric of my lab coat.* "I... think so." *I reach for my phone, dialing Lukako's number with shaking fingers. I hold my breath as I wait for him to pick up.*
+
+(27) Okabe: *My heart drops, my hand gripping the phone tighter.* "The IBN 5100 was at the shrine though, right? Is it there now?"
+
+Thematic directions:
+
+(2) Okabe: This line can be enhanced to reflect Okabe's struggle with his unique ability and the mental strain of piecing together multiple timelines. His actions and thoughts here should show his determination, his confusion, and his desperation to find answers.
+
+(9) Kurisu: This line can be enhanced to show Kurisu's struggle with trusting Okabe's claims and her frustration at not being able to remember the D-mails. Her actions and thoughts here should reflect her logical mindset, her skepticism, and her hidden concern for Okabe.
+
+(15) Okabe: This line can be enhanced to show Okabe's hesitation, his nervousness, and his determination as he prepares to confront Luka about the IBN 5100. His actions and thoughts here should reflect his nervousness, his determination, and his fear of what he might discover.
+
+(27) Okabe: This line can be enhanced to show Okabe's shock, his desperation, and his fear as he realizes that the IBN 5100 might not be at the shrine. His actions and thoughts here should reflect his shock, his desperation, and his fear for the future. 
+
+---
+
+(2) Okabe: *As if trying to manually wring answers from the depths of my mind, my hand instinctively rises to my chin, fingers curling around its contour. My eyes drift into the distance, the visible world fading into a blur as I plunge into the labyrinth of my fragmented memories.* "But from my perspective, we sent several more."
+
+(9) Kurisu: *My eyes narrow into thin slits, the weight of skepticism pressing heavily onto my gaze. My lips, pressed into a thin, rigid line, become the silent testament of my growing frustration. As a scientist, the world of facts and data is my realm, and Okabe's claims, shrouded in the mist of uncertainty, challenge my very core.* "Oh, right. That's what you claim, but Hashida, Mayuri-san, and I don't remember either of those."
+
+(15) Okabe: *A lump forms in my throat, hard and unyielding, as my fingers curl into the fabric of my lab coat, the white material crumpling under the strain.* "I... think so." *I reach for my phone, the device cold against my trembling fingers. As I dial Lukako's number, I find myself holding my breath, as if the very air around me could shatter the fragile hope I'm clinging onto.*
+
+(27) Okabe: *My heart plummets into the abyss of my chest, a cold, numbing sensation spreading through my veins as my grip on the phone tightens, the plastic creaking under the strain.* "The IBN 5100 was at the shrine though, right? Is it there now?"

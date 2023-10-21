@@ -1,0 +1,27 @@
+Planning and brainstorming:
+
+Character Archetypes/Personalities:
+
+Okabe: Okabe is a self-proclaimed mad scientist, often caught in his own world of conspiracies and theories. He's eccentric, dramatic, and often talks in riddles. He's also caring and protective of his friends. His actions and thoughts will be written in a dramatic, theatrical style, reflecting his larger-than-life persona, but also with an underlying layer of concern and urgency given the situation.
+
+Faris: Faris is a playful and energetic girl who often uses cat-like speech and actions. However, in this scene, she's despondent and withdrawn due to her recent loss. Her actions and thoughts will be written in a way that contrasts her usual lively demeanor, emphasizing her current state of distress.
+
+Lines to enhance:
+
+(1) Okabe: This line sets the stage for Okabe's search for Faris, showing his determination and concern. This line will be reimagined with more urgency and a sense of purpose, as Okabe navigates through the city, searching for Faris.
+
+(5) Okabe: Okabe finally finds a glimmer of hope when he's allowed to see Faris. This line will be enhanced with relief and anticipation, as Okabe steps into the building, ready to face the challenge ahead.
+
+(7) Okabe: This is the first time Okabe sees Faris in her current state. His surprise and concern will be emphasized in this line, as he attempts to break through her sorrow and bring her back to reality.
+
+(11) Okabe: Okabe finally gets to the point, asking Faris about the D-Mail. His urgency and determination will be highlighted in this line, as he tries to get Faris to remember her actions.
+
+---
+
+(1) Okabe: *As the bald man and his lackeys bristle at my words, I feel a shiver of danger creep up my spine. I take in the hostile glares, the clenched fists, the tension in the air, and decide that discretion is the better part of valor. With a nod and a wave, I excuse myself, leaving them in my wake. My mind is a whirlwind of thoughts and worries as I navigate the labyrinthine streets of the city, my heart pounding in sync with the rhythmic thrum of life around me. I stop by the assembly hall, pestering the staff with my inquiries about Faris, but my efforts yield nothing. With a frustrated sigh, I pull out my phone and dial Daru's number, only to be met with disappointment lacing his voice.* "Maybe she went home already?" *The possibility sends a fresh wave of anxiety through me. I return to Faris's apartment building, my fingers hovering over the intercom, a knot of apprehension tightening in my stomach.*
+
+(5) Okabe: *A glimmer of hope ignites in my chest as the intercom goes silent. I hold my breath, the seconds stretching into an eternity as I wait for the response. Then, with a mechanical click, the door's automatic lock disengages, granting me access to the elevator hall. Relief washes over me, its soothing balm easing the tension in my shoulders. I step inside, the cool air of the building enveloping me, a stark contrast to the city's relentless heat. The elevator ride is a blur, my thoughts consumed with Faris and the task at hand.*
+
+(7) Okabe: *As the apartment door swings open, I'm greeted by a sight that hits me like a sledgehammer. There, sitting on the sofa, is Faris, hugging her knees close to her chest. Her usual vibrant energy, her infectious laughter, her cat-like playfulness – all of it is replaced by an unsettling stillness. Her eyes, once bright and full of life, now stare blankly at the floor, lost and distant.* "Faris! Finally. There's something I need to ask you."
+
+(11) Okabe: *Her words, so unlike the cheerful banter I'm used to, hit me like a punch to the gut. The reality of her distress sinks in, the weight of it threatening to pull me under. But I don't have the luxury of time. I shake off the creeping despair, steeling myself for what I need to do.* "Listen, Faris!" *I step forward, reaching out to grip her shoulders. Her eyes blink open, but they're glazed over, the spark in them reduced to mere embers.* "A couple of days ago, you used the time machine we invented to send a D-Mail. Do you remember that?"

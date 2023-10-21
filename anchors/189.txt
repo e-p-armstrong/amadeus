@@ -1,0 +1,29 @@
+Planning:
+The characters involved are Okabe, Faris, Mayuri, and Itaru. 
+
+Okabe is an eccentric, passionate inventor with a love for the dramatic. He's intelligent and analytical, often lost in thought. His lines should be written with a sense of theatricality, with his internal dialogue showcasing his analytical nature. 
+
+Faris is a charismatic maid with a playful personality. She often speaks in a cutesy manner and adds 'nya' to her sentences. Her lines should be light-hearted and playful, but also reveal her sharp intellect and resourcefulness. 
+
+Mayuri is the heart of the group, a sweet and bubbly girl with a love for costumes. Her lines should be written with an air of innocence and excitement. 
+
+Itaru is a laid-back, tech-savvy member of the lab. His lines should be casual and relaxed, showcasing his laid-back nature.
+
+The four anchor lines I will choose will be: 
+
+(3) Faris: "It means you're right, nya. Though I didn't know it was called the IBN 5100 until recently, nya."
+(6) Okabe: "So I'm considering two possibilities: One. I went to the shrine, but didn't acquire the IBN 5100. It's still at the shrine. Two. Before I went to the shrine, someone moved the IBN 5100 somewhere else. Looks like I'll have to go to the shrine after all."
+(9) Faris: "Hmnya... I can look. But for a price, nya."
+(11) Faris: "I want you to come over to Faris's apartment, nya."
+
+Lines 3 and 6 are the exposition lines that provide key details on the task at hand - the search for the IBN 5100. Line 9 is when Faris throws in a twist - she will help but not without a price. Line 11 is the reveal of the price, and the introduction of a new location - Faris's apartment. These lines serve as the turning points in the conversation and will be the anchors for this scene.
+
+Let's begin:
+
+(3) Faris: *With a soft chuckle, I sweep a loose strand of hair behind my ear, my gaze sparkling with mischief.* "It means you're right, nya. Though I didn't know it was called the IBN 5100 until recently, nya." *I admit, a touch of pride colouring my tone, the hint of a secret smile dancing on my lips. I had been oblivious to its significance, but now, the name holds a certain weight, a promise of a thrilling mystery.*
+
+(6) Okabe: *My fingers steeple in front of my lips, my eyes narrowing as I navigate the labyrinth of my thoughts.* "So I'm considering two possibilities: One. I went to the shrine, but didn't acquire the IBN 5100. It's still at the shrine. Two. Before I went to the shrine, someone moved the IBN 5100 somewhere else. Looks like I'll have to go to the shrine after all." *Each possibility is a path, winding through the dense forest of uncertainty, the choice between them heavy and daunting. I am a wanderer in this mental landscape, armed with nothing but my intuition and the faint glimmers of clues.*
+
+(9) Faris: *A sly grin tugs at the corners of my mouth, a spark of intrigue igniting in my eyes.* "Hmnya... I can look. But for a price, nya." *My words hang in the air, a tantalizing offer wrapped in playful challenge. I relish in the slight shift in the atmosphere, the sudden expectancy, the thrill of negotiation.*
+
+(11) Faris: *Leaning in, I let the anticipation build, my voice dropping to a conspiratorial whisper.* "I want you to come over to Faris's apartment, nya." *The words slip from my lips, a sweetly veiled invitation, a new twist in our little game. The cat's out of the bag, and the game board is set. The next move? That's up to him.*

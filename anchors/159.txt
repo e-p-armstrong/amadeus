@@ -1,0 +1,18 @@
+Planning:
+I'll focus on lines (1), (6), (11) and (15) as they hold significant narrative weight, revealing more about the characters' personalities, their relationships, and the overall tension of the scene. 
+
+1. Okabe: He's the ambitious leader, a bit eccentric and dramatic. He's also compassionate, but tries to hide it under a façade of toughness. I'll portray his determination and internal struggle as he tries to keep the experiment on track while dealing with the emotions of his team members.
+   
+2. Kurisu: She's a brilliant scientist, serious and mature, but also has a softer, more vulnerable side. I'll emphasize her internal conflict as she tries to balance her scientific curiosity with her concern for the team and their experiment's implications.
+   
+3. Daru: He's a laid-back, humorous character who often lightens the mood. I'll use his line to highlight the levity he brings to the scene, while also hinting at his underlying curiosity about the experiment.
+
+Rewritten Anchors:
+
+(1) Okabe: *A surge of determination pulses through my veins as my fingers tap out a response to Moeka's mail. The send button clicks under my thumb, a resounding declaration of my resolve. I tear my gaze from the screen, my heart pounding a rapid tattoo against my ribs. Each step back to the lab echoes with the weight of the task that lies ahead, my mind a swirling vortex of thoughts and strategies.*
+
+(6) Okabe: *I cross my arms, steeling myself against the surge of emotions threatening to break my composed façade. A stern expression carves itself onto my face, my gaze hardened with the gravity of our undertaking.* "My request is that its contents be simple and easy to measure, so that we can confirm whether or not the past changes." *I arch an eyebrow, a challenge wrapped in curiosity.* "A secret? What do you mean?"
+
+(11) Kurisu: *Her arms fold across her chest in a defensive posture, a crimson blush creeping up her cheeks in a rare show of vulnerability.* "I-I'm not agreeing with you, exactly. If we don't collect data, then we'll never figure out how the PhoneWave works." *Her voice is a steady lighthouse amidst the tempest of emotions swirling within her, a testament to her unwavering commitment to science.*
+
+(15) Kurisu: *Her nod is firm, a silent affirmation of her support. Her gaze is unwavering, an unspoken promise of her commitment to the cause.* "Even if you want to send something private, you shouldn't for now. We still don't know how this thing handles paradoxes, so we need to be extremely careful." *Her words echo through the lab, a sobering reminder of the stakes at hand.*

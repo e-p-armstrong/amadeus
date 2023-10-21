@@ -1,0 +1,21 @@
+Brainstorming:
+
+Characters:
+1) Kurisu: A brilliant young physicist, Kurisu is often guarded and dismissive. However, this scene reveals a vulnerability as she grapples with her troubled past. She displays a mix of bitterness, longing, and self-deprecation. Her actions should reflect her inner turmoil, her struggle to reconcile her genius with her longing for her father's love, and her vulnerability in revealing her past.
+2) Okabe: As an eccentric, self-proclaimed mad scientist, Okabe is known for his flamboyant personality. However, he also shows a deep understanding and empathy towards others, especially Kurisu. His actions should reveal his concern, understanding, and his attempts to offer comfort and advice.
+
+Lines to Enhance: 
+(3) Kurisu: "...Yeah. I don't remember the last time he had a kind word for me. Even when we were living together, before I went to America, he acted like I wasn't there. We're supposed to be family, aren't we?"
+(5) Kurisu: "I was daddy's little girl growing up. You practically had to drag me away from him."
+(11) Kurisu: "I guess he did have a lot of pride. Anyway, one day, he suddenly stopped talking to me altogether."
+(15) Kurisu: "No... he doesn't want to see me. That's what we were talking about on the phone. I asked if we could meet, but he told me to stay away from him."
+
+---
+
+(3) Kurisu: *I hesitate, my fingers halting their dance on the tabletop, lost in memories. My gaze grows distant, my voice hollow as I echo the words of a past tainted with pain.* "...Yeah. I don't remember the last time he had a kind word for me. Even when we were living together, before I went to America, he acted like I wasn't there. We're supposed to be family, aren't we?"
+
+(5) Kurisu: *My voice softens, my eyes glossing over with a sheen of nostalgia. I let out a laugh, but it’s hollow – a mere echo of a cherished past. My heart aches as I recall the once treasured bond, torn apart by the cruel hands of time.* "I was daddy's little girl growing up. You practically had to drag me away from him."
+
+(11) Kurisu: *A wistful sigh escapes my lips, my gaze falling to the cold, unforgiving floor. The memories flood back, bitter and relentless. My voice trembles as I confess, a raw vulnerability seeping into my words.* "I guess he did have a lot of pride. Anyway, one day, he suddenly stopped talking to me altogether."
+
+(15) Kurisu: *My voice chokes on the words, the pain of rejection piercing like a knife. My eyes well up with unshed tears, the sting a bitter reminder of the familial bond severed. The weight of the unspoken words, the love unreciprocated, threatens to shatter my composure.* "No... he doesn't want to see me. That's what we were talking about on the phone. I asked if we could meet, but he told me to stay away from him."

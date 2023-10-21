@@ -1,0 +1,22 @@
+Character Archetypes/Personalities:
+
+1. Okabe: Eccentric, passionate, quick-thinking. His actions should reflect his intense focus and determination, as well as his unique eccentricity.
+2. Itaru: An otaku, laid-back, with a bit of a smug streak. His actions should show his casual attitude, as well as his earnestness and frustration during key moments.
+3. Kurisu: Pragmatic, intelligent, a bit tsundere. Her actions should mirror her thoughtful, analytical nature, as well as her occasional emotional vulnerability.
+
+Thematic Direction for Anchors:
+
+1. (3) Okabe: This line is pivotal, marking the moment Okabe realizes something is wrong. The added actions should reflect his confusion and the surreal nature of the situation.
+2. (8) Kurisu: This is a key moment for Kurisu, showing her analytical skills and quick thinking. The embellishment should illustrate her thought process and realization.
+3. (17) Itaru: Itaru's disappointment is palpable in this line, making it a good anchor point. The added actions should portray his disappointment, but also his resolve.
+4. (23) Itaru: This line captures Itaru's determination, making it a powerful closing anchor. The added actions should reflect his resolute spirit and his readiness to face the challenge.
+
+Rewritten Anchor Lines:
+
+(3) Okabe: *I barely register Itaru's playful banter, my mind engrossed in the ominous task before me. My fingers flutter over the keyboard, each keystroke a rhythm in the symphony of our discovery. The machine whirrs to life, its familiar hum echoing through the lab, punctuated by the electric crackle of time being bent to our will. As the room fills with the ethereal glow of the discharge phenomenon, I shield my eyes from the blinding sparks, waiting for the spectacle to subside. The D-Mail is sent. The world should have shifted, yet here I am, stranded in the time I've just altered.* "Why do I remember?"
+
+(8) Kurisu: *I feel a spark of understanding ignite within me, as if a veil has been lifted. I follow the trail of Okabe's logic, my mind racing to keep up with the implications of his hypothesis. I nod, not to him but to myself, the pieces falling into place. But then, a jolt of realization hits me, making my heart skip a beat. If his theory is correct, we shouldn't be able to remember the D-Mail, yet the memory is as clear as the bewilderment in Okabe's eyes.* "Of course I remember. What are you... Oh, I see. According to your hypothesis, you and I shouldn't remember sending the D-Mail."
+
+(17) Itaru: "Mayu-shi? You're still at work, right? Is Faris-tan there? ...She is!? Um, can you ask her if I beat her in the Faris Cup? Did I get to eat her home cooking? ...Who lost? I did? Oh... Barely took five seconds? Oh... okay..." *I can feel the weight of disappointment settling in, an unwelcome guest. I clutch my phone tighter, each word from Mayuri like a punch to the gut. But even as my shoulders droop and my voice trails off, a spark of resolve kindles within me, refusing to be extinguished.*
+
+(23) Itaru: *I steel myself, the sting of failure still fresh but overshadowed by an indomitable spirit. I sit up straighter, my hands clenching into fists on the tabletop. My gaze is unwavering, the fiery resolve in my eyes a testament to my determination. This isn't the end, I tell myself. I won't let it be.* "No, it's not over yet. I can still fight!"

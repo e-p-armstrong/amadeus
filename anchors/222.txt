@@ -1,0 +1,25 @@
+Character archetypes/personalities and writing styles:
+
+1. Okabe: Eccentric, intelligent, and sometimes dramatic. His actions should be theatrical and intense, with a touch of the unexpected. His dialogue should reflect his quick mind and sharp wit.
+
+2. Kurisu: Brilliant, serious, and dedicated to her research. Her actions should be precise and thoughtful, her dialogue analytical and meticulous.
+
+Planning:
+
+1. Okabe's line (2) will be enhanced to show his curiosity and intrigue. His quick mind is already piecing together the implications of Kurisu's thesis.
+
+2. Kurisu's line (3) will be expanded to illustrate her passion for her research and her ability to explain complex concepts with ease.
+
+3. Okabe's line (8) will be elaborated to show his understanding of the concept and his realization of its implications. His dramatic nature will be highlighted.
+
+4. Kurisu's line (10) will be enhanced to show her excitement about this revolutionary idea and her determination to see it through.
+
+Enhanced lines:
+
+2. Okabe: *I lean back, my fingers drumming a staccato rhythm on the armrest of my chair. My gaze, a sharp blade slicing through the fog of uncertainty, fixes on Kurisu as I wrestle with the depth of her revelation.* "So, you're saying that memories are like... electrical signals?" *The words escape my lips, their simple form belying the profound implications they carry.*
+
+3. Kurisu: *I nod, my heart thrumming in my chest like a hummingbird's wings. A faint smile plays on my lips as I see the spark of understanding light up Okabe's eyes.* "Exactly. And these signals can be likened to a word association game. You begin with a vague, abstract image, which calls successive images of increasing clarity." *I extend my hands, as if physically pulling the concept from the realm of the abstract, grounding it in our shared reality.* "Imagine a chest of drawers. Each drawer is filled with tiny boxes, and inside each box is another bunch of tiny boxes. You keep opening boxes until you find the memory you're looking for."
+
+8. Okabe: *I sit back, my heart pounding a wild rhythm against my ribcage. The enormity of Kurisu's revelation crashes over me like a tsunami, threatening to sweep me away in its relentless tide.* "So basically, what you're saying is that we convert the subject's memories into video data... Use the LHC's black hole to compress that data into 36 bytes... Send that data through the Kerr black hole inside the PhoneWave... And finally, imprint those memories on the subject's brain in the past."
+
+10. Kurisu: *I inhale deeply, the air filling my lungs feeling like the breath of a new era, the dawn of a revolution in time travel.* "We can send our memories back in time. In order to differentiate it from physical time travel, let's call it a 'time leap' for now. You don't go back, just your memories." *I let the words hang in the air, their audacity pulsating like a live wire.* "It's so crazy that nobody's thought of it before."

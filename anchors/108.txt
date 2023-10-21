@@ -1,0 +1,37 @@
+### Brainstorming/Planning
+
+**Character Archetypes/Personalities:**
+
+1. Okabe: A self-proclaimed mad scientist who is eccentric, passionate, and deeply caring for his friends. He is the leader of this group and feels a strong sense of responsibility for their safety.
+
+2. Kurisu: A brilliant young scientist who is stubborn, independent, and determined. She is not one to back down from a challenge, even in the face of danger.
+
+3. Itaru (Daru): A skilled hacker and close friend to Okabe. He is loyal and confident in his abilities, even in the most tense of situations.
+
+**Word Choices/Writing Styles:**
+
+1. Okabe: Dramatic, emotional, and filled with tension. His lines should convey his worry and concern for his friends, as well as the weight of the situation they are in.
+
+2. Kurisu: Strong, determined, and resolute. Her lines should demonstrate her unwavering commitment to truth and justice, even when faced with potential danger.
+
+3. Itaru (Daru): Surprised, confused, but confident. His lines should reflect his initial shock at the revelation, but also his readiness to face whatever comes next.
+
+**Anchor Lines:**
+
+1. Line (3) Okabe: This line sets the stage for the tension and fear of the scene. It's where Okabe first mentions the ominous "Jellyman's Report."
+
+2. Line (11) Okabe: This line is a turning point where Okabe expresses his concern for Kurisu and suggests she leave to protect her future.
+
+3. Line (14) Kurisu: Kurisu's refusal to leave and determination to expose the truth should be emphasized here.
+
+4. Line (25) Okabe: The final line of the scene where Okabe accepts the situation they are in and prepares to face the consequences.
+
+### Writing:
+
+(3) Okabe: *A chill seizes my spine, spreading like tendrils of ice through my veins. My heart pounds in my chest, its rhythm a deafening echo in the silence that engulfs us. The joy we once found in our scientific escapade has been usurped by a creeping dread, a monstrous shadow that threatens to consume us all. I draw a shaky breath, my throat parched.* "I... I remember, Daru. That email... 'Human is dead, mismatch.' Jellyman's Report... Could it mean...?"
+
+(11) Okabe: *I cut through her confusion, my voice laced with urgency, my words a plea for her safety. I can't bear the thought of her brilliant future being snuffed out by our reckless curiosity. I feel a pressure in my chest, a burden of responsibility that feels as if it could crush me.* "The Jellyman's Report... it just gives me a bad feeling. You're a genius. You're already published, for crying out loud. There's no need to throw away your promising future."
+
+(14) Kurisu: *I cross my arms over my chest, my gaze hardening into a defiant stare. I'm not afraid of the path that lies ahead, no matter how treacherous it may be. There's a fire in my heart, a burning desire for the truth that will not be extinguished.* "...I keep telling you, I'm not your assistant. Thanks for your concern. But I'm not leaving. We need to expose this truth to the world."
+
+(25) Okabe: *I take a moment to steady myself, drawing in a deep breath that does little to quell the storm within me. I glance between Daru and Kurisu, their faces etched with determination and fear in equal measure. It's a sight that both terrifies and inspires me. Steeling my resolve, I brace myself for the inevitable.* "Alright... let's begin."

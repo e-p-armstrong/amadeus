@@ -1,0 +1,25 @@
+Character archetypes/personalities:
+
+Okabe: Eccentric, dramatic, confident, tries to put on a brave front, but is not as tough as he portrays himself to be. His actions should convey his struggle to maintain his bravado in the face of adversity, his care for his friends, and his determination.
+
+Luka: Shy, nervous, eager to please, lacks self-confidence, but is willing to push his limits for his friends. His actions should reflect his anxiety, his inner turmoil, and his desire to help despite his self-doubt.
+
+Lines to enhance and thematic direction:
+
+(3) Okabe: I want to portray his bravado and determination, as well as his surprise at the weight of the object. His struggle should be evident in his actions.
+
+(7) Okabe: This line should reflect Okabe's vulnerability and his dependence on Luka. It's a significant moment where Okabe reveals his weakness to Luka and asks for his help.
+
+(13) Okabe: This line will focus on Okabe's reassurance towards Luka, his determination, and his trust in Luka. 
+
+(24) Luka: This line will capture Luka's struggle, his determination despite his physical discomfort, and his anxiety.
+
+---
+
+(3) Okabe: *Puffing out my chest in a display of bravado, I scoff at the cardboard behemoth before us.* "Hmph. No matter how heavy it may look, it's still just a computer. I can manage." *With a determined gleam in my eyes, I reach out, my fingers curling around the rough edges of the box. As I heave upwards, the world seems to tilt, the weight of the machine a solid, unyielding presence in my hands.* "Huff! ...Gah, it's heavy!" *The box thuds back to the ground, my arms quivering like leaves in the wind, the reality of our task crashing down upon me like a wave.*
+
+(7) Okabe: *I reach out, my hand shaking, the world spinning around me.* "Wait... d-don't go... I'm still okay..." *My words, a desperate plea, hang heavy in the air, my fingers curling around Luka's wrist with a strength born of desperation. I feel a shiver run down my spine, a cold dread seeping into my bones. I swallow hard, a knot forming in my throat, my heart pounding against my ribcage. The pain in my wrist is a distant concern now, overshadowed by a fear far more potent – the fear of being alone in this.*
+
+(13) Okabe: *I steel myself, my gaze locked onto Luka, my expression firm.* "We can manage... together. You're the only one I can depend on now." *I muster a smile, a beacon of hope amidst the storm, my hand reaching out in a gesture of solidarity. I can feel the weight of our mission pressing down on me, the responsibility of our shared dream a heavy cloak around my shoulders. But as I look into Luka's eyes, I see a mirror of my own determination reflected back at me, and it bolsters my resolve.*
+
+(24) Luka: *My heart is pounding in my chest, my hands trembling, my breath coming in short, shallow gasps.* "Okaayyyyy... B-but, my hand, my hand is cramping..." *I grit my teeth, my fingers white-knuckled around the edge of the box, the rough cardboard digging into my skin. I can feel the sweat trickling down my back, a cold shiver running down my spine, but I refuse to give up. I focus on Okabe's steady gaze, his unwavering confidence in me, and somehow, it gives me the strength to hold on.*

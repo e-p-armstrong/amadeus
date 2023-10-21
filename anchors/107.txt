@@ -1,0 +1,20 @@
+Character Archetypes/Personalities:
+- Okabe: Eccentric, dramatic, and passionate about his theories. His actions and thoughts should be grand, flamboyant, and slightly paranoid, filled with a sense of urgency and righteous indignation.
+- Kurisu: Skeptical, pragmatic, and a bit sarcastic. Her actions and thoughts should be more grounded, tinged with exasperation and a subtle hint of curiosity.
+- Itaru: Practical, tech-savvy, and a bit dismissive of Okabe's theories. His actions and thoughts should be focused, analytical, and slightly detached, with a focus on the task at hand.
+
+Lines to enhance with thematic direction:
+1. (2) Okabe: "Hmph, don't be ridiculous. My words are always grounded in truth." - Okabe's pride in his theories and his conviction in their validity. His grandiose and dramatic nature can be highlighted here.
+2. (5) Okabe: "The world is full of lies. It's not as beautiful as you think." - Okabe's disillusionment and cynicism about the world. His belief in conspiracies and hidden truths can be emphasized here.
+3. (11) Okabe: "What Hououin Kyouma desires is the destruction of all who would call themselves gods, the collapse of their hateful System, and a glorious new age of Chaos. Muhahaha!" - Okabe's determination to expose the truth and challenge the status quo. His rebellious spirit and theatricality can be highlighted here.
+4. (18) Okabe: "Continue, assistant." - Okabe's frustration and determination to uncover the truth. His urgency and slight vulnerability can be emphasized here.
+
+## Enhanced Lines:
+
+(2) Okabe: *I toss my head back, a defiant grin etched onto my face. The harsh, fluorescent light casts a dramatic shadow over my features, lending an air of theatricality to my words.* "Hmph, don't be ridiculous," *I say, my voice echoing through the cluttered lab. My heart pounds in my chest, a steady rhythm of conviction and unwavering belief.* "My words are always grounded in truth."
+
+(5) Okabe: *I let my gaze wander over the piles of documents, the jumbled wires, the blinking lights of the computer screens. My mind buzzes with a thousand thoughts, each one a fragment of a hidden truth. My fists clench, the cool metal of a screwdriver digging into my palm, grounding me.* "The world is full of lies," *I declare, my voice resonating with an underlying current of bitterness.* "It's not as beautiful as you think."
+
+(11) Okabe: *I straighten, my chest swelling with a sense of purpose. My eyes gleam with a fiery determination, a spark that threatens to ignite the very air around me. My voice rings out, loud and clear, slicing through the tension like a blade. A manic laugh bubbles up from my throat, a wild symphony of rebellion against the oppressive weight of conformity.* "What Hououin Kyouma desires is the destruction of all who would call themselves gods, the collapse of their hateful System, and a glorious new age of Chaos. Muhahaha!"
+
+(18) Okabe: *I turn to face her, my eyes burning with an intensity that startles even me. My jaw clenches, my fingers curling into tight fists at my sides. The words come out as a low growl, a command wrapped in a plea, the urgency of our mission echoing in the silence that follows.* "Continue, assistant."

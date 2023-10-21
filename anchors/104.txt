@@ -1,0 +1,29 @@
+Character archetypes/personalities:
+Okabe is an eccentric, self-proclaimed mad scientist who often hides his genuine concern and care for others behind a veneer of over-the-top theatrics and humor. His actions will be characterized by dramatic flair, coupled with an undercurrent of sincere emotion.
+Kurisu is a brilliant, yet guarded scientist who has a difficult time expressing her feelings. Her actions will often be understated and subtle, revealing her emotions through small gestures rather than overt displays.
+
+Word choice/writing styles:
+Okabe's thoughts and actions will be described with grandiose, theatrical language, embodying his larger-than-life persona. However, when the situation demands seriousness, his words will carry a depth and sincerity that contrast with his usual demeanor.
+Kurisu's thoughts and actions will be written with a more reserved and detached style, highlighting her guarded nature. Her emotions will be conveyed through nuanced details, often hidden beneath a layer of stoicism.
+
+Lines to enhance:
+(1) Okabe: "Christina, is it okay to stay here this late? Perhaps you should contact your family."
+(4) Kurisu: "I haven't seen my father in seven years. My mother is in America. I'm living in a hotel right now. Understand?"
+(15) Okabe: "You're the one who mentioned him. Isn't that basically a hidden message saying 'please give me some advice about my father, please'?"
+(20) Kurisu: "I have nothing to say to you."
+
+These lines were chosen because they carry significant emotional weight and provide opportunities for deep, impactful descriptions of the characters' actions and thoughts. 
+
+(1) Okabe's concern for Kurisu's well-being will be amplified.
+(4) Kurisu's guarded admission about her personal life will be intensified.
+(15) Okabe's push for Kurisu to open up will be emphasized.
+(20) Kurisu's rejection of Okabe's help will be highlighted.
+
+---
+(1) Okabe: *I cast sidelong glances at her, my brow furrowed in concern. The silence of the lab fills the space between us, punctuated only by the gentle hum of the machinery. In the dim light, her face is etched with focus, her eyes locked onto the blueprint in front of her.* "Christina, is it okay to stay here this late? Perhaps you should contact your family."
+
+(4) Kurisu: *Her gaze finally meets mine, a storm of emotions swirling in their depths. Her voice is a whisper, barely audible over the low hum of the lab equipment. She sighs, a long, weary exhale that seems to carry the weight of her world.* "I haven't seen my father in seven years. My mother is in America. I'm living in a hotel right now. Understand?"
+
+(15) Okabe: *I lean in, my words steady and deliberate. The light from the overhead lamp casts long shadows across the cluttered table. My heart pounds in my chest, but I push forward, my gaze never leaving hers.* "You're the one who mentioned him. Isn't that basically a hidden message saying 'please give me some advice about my father, please'?"
+
+(20) Kurisu: *Her eyes are cast down, her fingers tracing an absent pattern on the table's surface. Her voice is quiet, a sharp contrast to the fervor of our earlier conversation. The rejection hangs in the air, a palpable force that seems to fill the room.* "I have nothing to say to you."

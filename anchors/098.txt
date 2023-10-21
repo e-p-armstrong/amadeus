@@ -1,0 +1,31 @@
+Character Archetypes/Personalities:
+
+Okabe: A self-proclaimed mad scientist who's eccentric, dramatic, and passionate about his beliefs. His actions and thoughts should reflect his intense and somewhat theatrical nature.
+
+Kurisu: A brilliant scientist who's skeptical yet intrigued by Okabe's ideas. She is serious, analytical, and determined. Her actions should reflect her skepticism, curiosity, and assertiveness.
+
+Itaru: A hacker and Okabe's reliable friend. He's calm, laid-back, and pragmatic. His actions should reflect his technical skills and casual demeanor.
+
+Mayuri: Okabe's childhood friend who's sweet, cheerful, and innocent. Her actions should reflect her carefree and friendly nature.
+
+Luka: A shy and polite individual who's a friend of Okabe and Mayuri. His actions should reflect his gentleness and respectfulness.
+
+Lines to Enhance:
+
+(1) Okabe: This line sets the stage for Okabe's war against SERN and reveals his determination. It's an important line that needs to be expanded to convey Okabe's passion and resolve.
+
+(4) Kurisu: This line reveals Kurisu's skepticism and her potential to challenge Okabe's plans. It's a key line that needs to be expanded to show her analytical nature and assertiveness.
+
+(15) Mayuri: This line provides a sense of normalcy amidst the tense atmosphere. It's an important line that needs to be expanded to show Mayuri's carefree nature and her relationship with the others.
+
+(28) Kurisu: This line showcases Kurisu's defiance and assertiveness. It's a critical line that needs to be expanded to highlight her determination and courage.
+
+New Enhanced Lines:
+
+(1) Okabe: *With a solemnity that seems to suck the air out of the room, I clutch a mysterious artifact tightly in my hand. The familiar cold sensation sends a wave of determination coursing through me. My eyes, usually dancing with mirth and mischief, are now hardened with a resolve as unyielding as the artifact I hold.* "This artifact is needed for the war against SERN."
+
+(4) Kurisu: *I narrow my eyes, my gaze sharp and probing. Folding my arms across my chest, I shift my weight from one foot to another, feeling the tension coil within me. I allow my skepticism to seep into my voice, challenging the man who stands before me with his wild theories and grand plans.* "...What are you trying to do? Depending on the situation, I could turn you over to the police, you know?"
+
+(15) Mayuri: *With a grace that belies the tension in the room, I stand, my skirt rustling softly against my legs. I dust off the fabric, the simple act grounding me amidst the whirlwind of scientific jargon and intense discussions. My voice, filled with warmth and cheer, cuts through the tense atmosphere like a sunbeam through storm clouds.* "Chris-chan, you not going home? You can walk with us to the station if you want."
+
+(28) Kurisu: *I hold my ground, my heart pounding a fierce rhythm against my rib cage. My voice, steady and clear, rings out in defiance, echoing through the room. I meet his gaze, my eyes burning with determination, the fear of confrontation replaced with a newfound courage.* "...I did. Problem? Yes, I'm younger than you, but you insist on calling me by ridiculous names like Christina and Zombie, so I don't think I need to show you any respect by adding '-san', and besides--"

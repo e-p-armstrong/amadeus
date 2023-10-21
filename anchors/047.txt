@@ -1,0 +1,27 @@
+Planning and Brainstorming:
+
+Okabe is the eccentric and dramatic "mad scientist," who sees himself as a rebel against the world's established structures and ideas. His actions and thoughts should be grandiose, theatrical, with a flair of humor and a touch of paranoia. His language should be embellished and overly formal, matching his unique personality.
+
+Itaru, or Daru, is the laid-back and nonchalant hacker. He is a loyal friend to Okabe, tolerating and even enjoying his eccentricities. His actions and thoughts should be casual, relaxed, and often humorous. His language should be simple and informal, in contrast to Okabe's.
+
+Kurisu is the rational, intelligent, and somewhat cautious scientist. She is serious and professional, yet not without a sense of curiosity and wonder. Her actions and thoughts should be analytical, precise, and objective. Her language should be scientific and formal, reflecting her academic background.
+
+Lines to enhance:
+
+(1) Okabe: *I slam my palms on the table, my face twisted in shock.* "What!? I don't know anything about that!"
+
+(10) Okabe: *A memory surfaces, connecting dots in my mind. That's right. I went to see Doctor Nakabachi's conference yesterday. Come to think of it, he stole his time travel theory from John Titor. Maybe the current John Titor is actually Nakabachi.* *I turn back to Daru, my brow furrowing in confusion.* "But wait, Daru. Didn't you say that Doctor Nakabachi's presentation was cancelled?"
+
+(17) Okabe: *I strike a dramatic pose, pointing at Daru accusingly.* "I always speak the truth! If you don't trust me, I'll show you my send history." *I whip out my phone, scrolling through the history.* But no matter how many times I check, there's no record of it. It should be there, but it isn't. Just like the banana inside the PhoneWave (name subject to change). *I stare at the empty screen, my voice filled with confusion.* "It's gone..." *I shake my head, the memory clear as day.* "Where did it go? I could've sworn I sent it just before 1 PM."
+
+(22) Okabe: *I rise from my chair, my voice booming, my eyes sparkling with the thrill of discovery.* "Silence! I've reached the answer, and now the world will tremble!"
+
+---
+
+(1) Okabe: *With a sudden surge of disbelief, I find my palms crashing down onto the table, reverberating the cluttered mess of our scientific endeavours. My brows knit together, creating deep crevices of confusion on my forehead, my eyes wide open, reflecting a void of understanding.* "What!? I don't know anything about that!"
+
+(10) Okabe: *In the labyrinth of my mind, a memory emerges from the shadows, flickering like a lone candle against the suffocating darkness. It all falls into place, like a jigsaw puzzle completing an image of deception and intrigue. The conference, Nakabachi, the stolen theory. The potential implications send a shudder down my spine. I swivel back to Daru, my voice laced with a newfound suspicion.* "But wait, Daru. Didn't you say that Doctor Nakabachi's presentation was cancelled?"
+
+(17) Okabe: *With a flourish, I strike a pose worthy of a stage, my finger jabbing towards Daru like an accusing sword. My voice rings out, a proclamation of my unwavering truth.* "I always speak the truth! If you don't trust me, I'll show you my send history." *With a swift movement, I retrieve my phone, my fingers dancing over the screen in a desperate search for proof. But it eludes me, just like the enigmatic banana inside our PhoneWave. I gape at the empty history, a ghostly absence that contradicts my memory.* "It's gone..." *I shake my head, the recollection as vivid as the midday sun.* "Where did it go? I could've sworn I sent it just before 1 PM."
+
+(22) Okabe: *With a sudden burst of energy, I thrust myself upwards from my chair, my voice echoing through the room like a clap of thunder. My eyes gleam with the intoxicating thrill of discovery, a triumphant fire blazing in their depths.* "Silence! I've reached the answer, and now the world will tremble!"

@@ -1,0 +1,25 @@
+## Plan
+
+Okabe: He is eccentric, passionate, and dramatic. His actions will be characterized by grand gestures and a sense of theatricality. His thoughts should reflect his deep-rooted determination and vision. 
+
+Itaru (Daru): He is pragmatic, grounded, and a bit sarcastic. His actions will be more subdued, but his thoughts should reveal his analytical nature and hidden curiosity. 
+
+Lines to enhance:
+
+(3) Okabe: "Daru, I know what we must do." - I will expand this line to illustrate Okabe's conviction and anticipation.
+
+(11) Okabe: "Hack into SERN." - This is the crux of Okabe's proposal, thus, I'll expand on his thoughts and actions to highlight its significance.
+
+(18) Itaru: "I'm not responsible for the consequences, got it?" - This line will be expanded to showcase Daru's acceptance of the task, his skepticism, and the underlying excitement.
+
+(20) Itaru: "Let's do this!" - I will make this line more dynamic, showing Daru's transition from skepticism to readiness, and his determination to tackle the challenge.
+
+---
+
+(3) Okabe: *A spark ignites in my eyes as I imagine the path we're about to embark on. My heart pounds in my chest, a rhythm of impending revolution. I turn to face Daru, conviction seeping into every syllable.* "Daru, I know what we must do."
+
+(11) Okabe: *My fingers tighten around the edge of the table, my gaze burrowing into Daru's, unyielding and intense. The gravity of my next words hangs in the air between us, a palpable force that could tip the scales of our reality.* "Hack into SERN."
+
+(18) Itaru: *A weight settles in my chest, as if my heart has suddenly turned into lead. A sigh slips past my lips, carrying away the last remnants of my initial disbelief. My eyes meet Okabe's, their seriousness mirroring my own.* "I'm not responsible for the consequences, got it?"
+
+(20) Itaru: *A surge of energy electrifies the air around me, its crackling intensity reflected in the focused gleam of my eyes. My fingers hover above the keyboard, ready to dance to the rhythm of this daring symphony.* "Let's do this!"

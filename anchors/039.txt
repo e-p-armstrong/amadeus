@@ -1,0 +1,18 @@
+Character Archetypes/Personalities:
+Okabe: Eccentric, dramatic, ambitious, and idealistic. He is driven by his scientific curiosity and has a flair for theatrics.
+Itaru: Pragmatic, cautious, and practical. He is more grounded in reality and often serves as a counterbalance to Okabe's eccentricity.
+
+Lines for Enhancement and Thematic Direction:
+(2) Okabe: His line here shows his disregard for practical concerns in favor of his grand scientific ambitions. His actions should reflect his theatrical personality and unwavering belief in his cause.
+(7) Okabe: This line exhibits Okabe's impatience and his focus on efficiency. His actions should reflect his restlessness and his desire to expedite the experiment.
+(11) Itaru: Itaru's line here shows his concern for their safety and his practical thinking. His actions should reflect his caution and his analytical mind.
+(16) Okabe: Okabe's line here encapsulates his philosophy and his belief in the power of inspiration. His actions should reflect his conviction and his dramatic flair.
+
+Enhanced Lines:
+(2) Okabe: *I tilt my head back, a theatrical smirk dancing on my lips as I regard the yellow curve of bananas with an almost reverential gaze. The dim lab light bounces off my lab coat as I move, casting strange shadows on the lab's cluttered walls.* "She generously donated that money to our world-changing research efforts."
+
+(7) Okabe: *I let out an exasperated sigh, my foot tapping a frenzied rhythm on the cold lab floor. My fingers twitch in impatience, longing to bypass the unnecessary wait and dive straight into the heart of our experiment.* "In hindsight, we should've made the Mayushii Guidance skippable. Having to wait each time is quite annoying."
+
+(11) Itaru: *I pause, my fingers hovering over the keyboard as I turn to Okabe, a furrow creasing my brow. My gaze is sharp, the light of concern flickering in the depths of my eyes as I contemplate the potential danger of our experiment.* "You know, if the microwave's emissions are doing it, then shouldn't our cells be getting gelified too?"
+
+(16) Okabe: *I lift a finger, a triumphant grin spreading like wildfire across my face. My eyes sparkle with the fire of conviction, a testament to my unyielding belief in the power of inspiration and invention.* "Edison once said, 'Without one percent inspiration, ninety-nine percent of perspiration is wasted. So, inventors of the world... be inspired!' End quote."

@@ -1,0 +1,26 @@
+Character Archetypes/Personalities:
+1. Okabe Rintaro: Eccentric, imaginative, paranoid, protective. His actions and thoughts will be expressed in dramatic, almost theatrical language to reflect his larger-than-life personality.
+2. Itaru "Daru" Hashida: Grounded, calm, peacekeeper. His actions and thoughts will be written in a more casual, laid-back manner, reflecting his chill personality.
+3. Kurisu Makise: Brilliant, curious, patient, assertive. Her actions and thoughts will be written in a more formal, precise manner, reflecting her scientific mindset.
+
+Lines to be converted into anchors:
+1. (5) Okabe: "H-hey, Daru... could this possibly be... A teleporter... we've invented a teleporter!"
+2. (7) Okabe: "Who's there!? Impossible! What are you doing here!? The 18-year-old genius girl! A sadist who humiliates men in public! Also known as The Zombie! Makise... Kurisu!"
+3. (12) Okabe: "I was right! You're one of the Organization's top agents, an esper with superhuman powers! No wonder you rose from the dead!"
+4. (17) Okabe: "Are you being blackmailed? Or did she seduce you? YOU'VE CROSSED THE LINE, BIIITTCH!"
+
+Thematic direction:
+1. Line 5: The awe and terror of the discovery, the enormity of their achievement.
+2. Line 7: The shock and surprise of Kurisu's unexpected arrival, mixed with suspicion and paranoia.
+3. Line 12: The dramatic reveal of Okabe's conspiracy theory, his fear and excitement.
+4. Line 17: The betrayal and anger Okabe feels towards Daru, his determination to protect his friends and his invention.
+
+---
+
+(5) Okabe: *My heart hammers against my ribcage, each beat echoing the ticking of the clock of destiny. The silence of the lab is deafening, broken only by the low hum of the microwave and the racing thoughts in my mind. My gaze is fixed on the gelbana, the manifestation of an impossible dream. A realization begins to dawn, an idea so fantastical, so revolutionary, it sends a shiver down my spine.* "H-hey, Daru... could this possibly be... A teleporter... we've invented a teleporter!"
+
+(7) Okabe: *The sound of her voice sends a jolt of surprise through me, the familiar rhythm of my heart skipping a beat. I whirl around, my eyes wide and disbelieving. The phantom of my nightmares, the specter of my paranoia, standing in the flesh before me. The air in the lab turns cold, the taste of suspicion bitter on my tongue.* "Who's there!? Impossible! What are you doing here!? The 18-year-old genius girl! A sadist who humiliates men in public! Also known as The Zombie! Makise... Kurisu!"
+
+(12) Okabe: *A cold shiver runs down my spine, the realization sinking into the pit of my stomach like a stone. My heart pounds in my chest, the rhythm matching the drumroll of destiny. The pieces fall into place, the puzzle of her resurrection finally making sense. Fear and excitement mingle, a potent cocktail that sets my nerves on fire.* "I was right! You're one of the Organization's top agents, an esper with superhuman powers! No wonder you rose from the dead!"
+
+(17) Okabe: *The words hit me like a punch to the gut, the sting of betrayal sharper than the sharpest blade. My gaze darts between Daru and Kurisu, the seeds of suspicion sprouting into a dark forest of distrust. My fists clench at my sides, the familiar texture of determination hardening in my veins. The line has been crossed, the gauntlet thrown.* "Are you being blackmailed? Or did she seduce you? YOU'VE CROSSED THE LINE, BIIITTCH!"

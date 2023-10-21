@@ -1,0 +1,29 @@
+## Brainstorming and Planning:
+
+**Character archetypes/personalities:**
+
+Okabe: A self-proclaimed mad scientist, eccentric and overly dramatic. He often uses exaggerated body language and theatrical speech. His word choices and actions should reflect his larger-than-life persona.
+
+Kurisu: A genius scientist who is serious, straight-faced, and not easily swayed by Okabe's theatrics. She is methodical, analytical, and often bemused by Okabe's antics. Her actions and thoughts should reflect her composed and rational nature.
+
+Itaru: A perverted hacker who often breaks the tension with his risqué humor. He has a laid-back, carefree attitude and often teases the others. His actions and thoughts should reflect his relaxed demeanor and comedic nature.
+
+**Chosen anchor lines and thematic direction:**
+
+(3) Kurisu: She is focused on the task at hand, analyzing the anomaly in front of her. Her actions should reflect her curious and scientific nature.
+
+(10) Kurisu: This line showcases her annoyance and dismissal of Okabe's theatrics. It also hints at her underlying discomfort with the situation.
+
+(14) Kurisu: This line captures Kurisu's surprise and embarrassment, showing a more vulnerable side of her.
+
+(19) Okabe: This line showcases Okabe's triumphant nature and his enjoyment of teasing Kurisu.
+
+**Enhanced Anchor Lines:**
+
+(3) Kurisu: *I tilt my head slightly, my brows furrowing as I scrutinize the peculiar object before me. The soft ambient light from the overhead bulb casts an ethereal glow on the gelatinous banana, its surface glistening in an almost hypnotic dance of light and shadow. I extend my hand, fingers poised in mid-air for a moment, before slowly plunging into the squishy mass. The cool, slimy texture engulfs my index finger, the sensation sending an unexpected shiver down my spine.* "What are you doing!? That's precious data!"
+
+(10) Kurisu: *A derisive snort escapes me, my lips curling into a smirk as I roll my eyes at his theatrical display. My arms instinctively cross over my chest, a protective barrier against his absurdity. There's a trace of discomfort creeping at the edges of my calm demeanor, a fluttering unease that I quickly tamp down.* "As if. Who would eat some perv's banana?"
+
+(14) Kurisu: *I blink, my mind churning to comprehend his words. My heart stutters in my chest, a slow realization creeping in like the dawn breaking over a dark horizon. Heat floods my cheeks, a crimson tide of embarrassment that threatens to consume me. I swallow hard, my eyes widening in mortification as the implications of his words finally sink in.* "Huh? ...huh? ...Ah!!" 
+
+(19) Okabe: *A triumphant laugh rumbles deep within my chest, my heart pounding with the exhilarating thrill of victory. I can't help the wide grin that stretches across my face, the amusement twinkling in my eyes. My hands clap together in delight, the sharp sound echoing through the lab. I let my gaze wander back to Kurisu, a wicked gleam in my eyes, savouring the moment of her discomfiture.* "I get it. You're both pervs."

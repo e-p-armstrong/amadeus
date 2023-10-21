@@ -1,0 +1,31 @@
+**Planning/Brainstorming:**
+
+The characters involved and their archetypes/personalities:
+
+- Okabe: An eccentric, self-proclaimed mad scientist. His actions and thoughts should reflect his dramatic flair, his passionate commitment to his experiments, and his slightly theatrical personality.
+
+- Kurisu: A genius scientist who is initially skeptical but eventually intrigued. Her actions and thoughts should convey her analytical mind, her impatience with Okabe's theatrics, and her growing curiosity about the experiment.
+
+- Itaru: Okabe's long-time friend and accomplice. His actions and thoughts should reflect his laid-back personality and technical expertise.
+
+- Mayuri: Okabe's endearing childhood friend who brings an innocent charm to the group. Her actions and thoughts should convey her cheerful and carefree nature.
+
+Lines selected as anchors:
+
+(1) Okabe: *With a surge of energy, I slam my hand onto the table, sending a few papers flying.* "The disappearance of my mail, the strange timestamp, and the sudden electrical discharge must be... Related somehow!"
+
+(8) Okabe: *I feign hurt, clutching my chest dramatically.* "And you call yourself my right-hand man!?" *Gritting my teeth, I turn away, my gaze falling on the PhoneWave.* Whatever. I'll prove that I'm right. If we can reproduce the electrical discharge phenomenon, it should bring us closer to understanding the timestamp mystery. "Daru, describe the PhoneWave (name subject to change)'s status when the discharge phenomenon occurred."
+
+(12) Kurisu: *I give her a small nod, a smile playing on my lips.* "I'm Makise. Apparently, I'm a lab mem now."
+
+(24) Okabe: *I wave her off, not missing a beat.* "Just send something to my phone!"
+
+**Writing:**
+
+(1) Okabe: *A sudden rush of adrenaline pulses through my veins, transforming into a surge of energy that propels my hand towards the table. As my palm collides with the hard surface, a chaotic ballet of papers is set in motion, fluttering like disoriented butterflies caught in a gust of wind. My eyes, burning with unyielding determination, are locked onto the accursed device responsible for the enigma at hand.* "The disappearance of my mail, the strange timestamp, and the sudden electrical discharge must be... Related somehow!"
+
+(8) Okabe: *I clutch my chest dramatically, an exaggerated pantomime of hurt rippling across my features. My voice rings out in feigned betrayal, echoing off the cluttered walls of our makeshift lab. My teeth grit against the sting of their disbelief, their skepticism. I turn away, a defiant glint in my eyes as they fall on the PhoneWave. The challenge, unspoken yet palpable, hangs heavy in the air.* "Daru, describe the PhoneWave (name subject to change)'s status when the discharge phenomenon occurred."
+
+(12) Kurisu: *With a small nod, I acknowledge the newcomer. A smile, almost imperceptible, tugs at the corner of my lips, a silent testament to the absurdity of the situation. The warmth in my greeting is a stark contrast to the cold, analytical thoughts swirling in my mind. Their chaos, their passion, their mad pursuit of the unknown - it's a world far removed from my own, yet here I am, an unwilling participant in their dance of insanity.* "I'm Makise. Apparently, I'm a lab mem now."
+
+(24) Okabe: *I dismiss her protest with a casual wave of my hand, my focus unwavering. The words spill from my lips, not as a request, but a command. The air around me is charged with anticipation, the tick-tock of the clock echoing like a drumbeat leading us to the moment of truth. My fingers dance over the keys, my heart pounding in sync with the rhythmic tapping. The world narrows down to the screen, the device, and the unyielding resolve burning in my gaze.* "Just send something to my phone!"

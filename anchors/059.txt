@@ -1,0 +1,20 @@
+Brainstorming and Planning:
+1. The personalities of the characters: Suzuha is a serious and determined time-traveler, who is deeply engaged in the discussion about the IBM 5100. Okabe, a self-proclaimed mad scientist, is the strategic thinker, his mind constantly weaving theories and possibilities. Daru, the hacker, is intensely focused on his task. Mayuri, the cheerful and oblivious childhood friend of Okabe, brings a breath of fresh air and normalcy into the tense environment.
+
+2. The lines that will serve as anchors:
+   - Line (1): Suzuha revealing the hidden function of the IBM 5100. This line sets the stage for their pursuit of the rare computer. The focus here will be on Suzuha's intensity and determination.
+   - Line (4): Okabe's contemplation over the reasons behind the pursuit of the IBM 5100. This line reveals Okabe's analytical side, reflecting his thought process.
+   - Line (6): Okabe's observation of Daru's hacking progress and his decision to send the email to Titor. This line will be filled with suspense and anticipation.
+   - Line (7): Mayuri's entry into the lab. The line will emphasize her cheerful and oblivious nature, providing a sharp contrast to the tense atmosphere.
+
+3. Word choices/writing styles: Suzuha's lines will be written with a sense of urgency and determination, reflecting her mission-oriented personality. Okabe's lines will be filled with analytical observations and theories, reflecting his scientific mind. Mayuri's lines will be written in a light-hearted and cheerful manner, showcasing her carefree personality. 
+
+---
+
+(1) Suzuha: *My hands ball into fists, the muscles in my arms coiling like steel springs. I feel a rush of adrenaline, my heart pounding in my chest as I reveal our mission's crucial piece.* "Kuh! Anyway, the IBN 5100 has a hidden function! It can decipher IBN's proprietary programming language, which was written before APL and BASIC became widespread. Isn't that surprising?" *My voice is a rough whisper, thick with anticipation, my lips curling into a smirk as I revel in the thrill of the chase.*
+
+(4) Okabe: *My brows furrow, creasing my forehead as I delve into the labyrinth of my thoughts. My gaze remains fixed on Suzuha, her fingers twirling a metal pin, her words echoing in my mind.* "The reason Titor traveled to 1975 to obtain an IBN 5100 was because he needed that function. Maybe Moeka wants to use it too. Or maybe not. Shining Finger doesn't seem like the type who'd know about that sort of function." *My voice trails off, each word a thread in the vast tapestry of possibilities that my mind weaves.*
+
+(6) Okabe: *I exhale a long sigh, my gaze drifting towards Daru, his fingers flying across the keyboard. The lab is filled with the rhythmic cadence of his typing, a symphony of urgency and determination.* "Twenty hours have passed since Daru started hacking. Night gives way to a refreshing summer morning." *I murmur, my voice barely a ripple in the undercurrent of tension. I glance at my phone, my fingers ghosting over the keys.* "Alright, let's send it now. If he can't answer to my satisfaction, then the current Titor is an impostor. This is your litmus test, John Titor. Heh heh heh. So, what are your true colors?" *My lips curl into a smirk, my thumb pressing the send button with a sense of finality.*
+
+(7) Mayuri: *With a light skip in my step, I enter the room, my face lighting up with a bright smile. The tension in the room is palpable, yet I remain oblivious, my cheerful demeanor a stark contrast.* "Tutturu♪ Good morning!" *My voice is a joyful chirp, a splash of sunshine in the stormy sea of uncertainty and suspense.*

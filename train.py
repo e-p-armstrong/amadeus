@@ -14,6 +14,7 @@ from make_card_alichat import make_card_alichat
 from make_card_bullets import make_card_bullets
 import json
 import random
+from determine_perspective import determine_perspective
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
@@ -65,10 +66,11 @@ def format_chat_history(chat_history):
 card_dataset = []
 
 for ex in reformatted_data: # make a version of the dataset with the first card
+    fp = "first person" == determine_perspective(ex["completion"])
     card_dataset.append(make_card_alichat(ex["scenario"], format_chat_history(ex["history"]), ex["completion"]))
     
-for ex in reformatted_data: # make a version with the second, so that the model doesn't learn to predict correctly when given only a very specific type of card (experiment)
-    card_dataset.append(make_card_bullets(ex["scenario"], format_chat_history(ex["history"]), ex["completion"]))
+# for ex in reformatted_data: # make a version with the second, so that the model doesn't learn to predict correctly when given only a very specific type of card (experiment)
+#     card_dataset.append(make_card_bullets(ex["scenario"], format_chat_history(ex["history"]), ex["completion"]))
 
 # Load dataset and convert to Huggingface Dataset Dict
 dataset = Dataset.from_list(card_dataset)
@@ -197,7 +199,7 @@ trainer = SFTTrainer(
     # data_collator=transformers.DataCollatorForLanguageModeling(tokenizer,mlm=False),#
     data_collator=collator, 
     max_seq_length=4000,
-    dataset_text_field="text",
+    dataset_text_field ="text",
 )
 
 trainer.train()

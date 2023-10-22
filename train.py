@@ -10,8 +10,7 @@ from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
 import json
 from peft import LoraConfig, get_peft_model
 import transformers
-from make_card_alichat import make_card_alichat
-from make_card_bullets import make_card_bullets
+from make_card_evanchat import make_card_evanchat_daru, make_card_evanchat_faris, make_card_evanchat_kurisu, make_card_evanchat_luka, make_card_evanchat_mayuri, make_card_evanchat_okabe, make_card_evanchat_suzuha # Evanchat is my own take on character cards, where instead of PLists we use normal English, and we also list the character archetypes at the top of the card.
 import json
 import random
 from determine_perspective import determine_perspective
@@ -44,7 +43,8 @@ def parse_json_file(json_file_path):
         new_entry = {
             'history': parsed_history,
             'completion': entry['completion'],
-            'scenario': entry['scenario']
+            'scenario': entry['scenario'],
+            'speaker': entry['speaker']
         }
         
         # Append the new dictionary to the reformatted list
@@ -60,14 +60,19 @@ print(reformatted_data[0])
 
 
 # New dataset code:
-def format_chat_history(chat_history):
-    return '\n'.join([f'### Response:\n#### Kurisu: {line}' if speaker == "Kurisu" else f'### Instruction:\n#### {speaker}: {line}' for speaker, line in chat_history])
+def format_chat_history(chat_history, speaker):
+    return '\n'.join([f'### Response:\n#### {speaker}: {line}' if s == speaker else f'### Instruction:\n#### {s}: {line}' for s, line in chat_history])
 
 card_dataset = []
 
 for ex in reformatted_data: # make a version of the dataset with the first card
     fp = "first person" == determine_perspective(ex["completion"])
-    card_dataset.append(make_card_alichat(ex["scenario"], format_chat_history(ex["history"]), ex["completion"]))
+    if ex["speaker"] == "Kurisu":
+        card_dataset.append(make_card_evanchat_kurisu(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
+    if ex["speaker"] == "Itaru":
+        card_dataset.append(make_card_evanchat_daru(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
+        
+    
     
 # for ex in reformatted_data: # make a version with the second, so that the model doesn't learn to predict correctly when given only a very specific type of card (experiment)
 #     card_dataset.append(make_card_bullets(ex["scenario"], format_chat_history(ex["history"]), ex["completion"]))

@@ -1,8 +1,0 @@
-Plan:
-1. Describe the setting, which is after a lecture where Okabe had previously made a scene, and he is now in a one-on-one conversation with Kurisu.
-2. Describe Kurisu's relation to Okabe and her impression of him, which is that they're meeting for the first time and she's intrigued by his eccentric behavior.
-3. Describe Kurisu's current state, which is a mix of curiosity and confusion, as she tries to understand Okabe's previous outburst.
-4. Conclude by stating Kurisu's intention, which is to probe Okabe for more information about what he was trying to tell her during his outburst.
-
-Scenario:
-After attending a lecture where Okabe caused a commotion, Kurisu finds herself in a private conversation with the eccentric young man. Although this is their first encounter, Kurisu is intrigued by Okabe and his bizarre behavior during the lecture. Feeling a mix of curiosity and confusion, she recalls Okabe appearing to be upset and is trying to understand why. Kurisu, determined to uncover the meaning behind Okabe's earlier outburst, starts to probe him for more information.

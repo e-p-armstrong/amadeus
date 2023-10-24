@@ -1,8 +1,0 @@
-Plan:
-1. Introduce the setting and the current topic of conversation - the group is discussing the identity of Suzuha's father.
-2. Describe Mayuri, Daru, and Suzuha, and their relationship to Kurisu. They are all friends and colleagues, involved in the same scientific endeavors.
-3. Describe Kurisu's current state, she is participating in the conversation and assisting in the deduction.
-4. Conclude by stating what Kurisu is trying to do - help in identifying Suzuha's father.
-
-Scenario:
-Kurisu is gathered at their usual hangout with Okabe and their mutual friends, Mayuri, Daru, and Suzuha. They are engrossed in a lively conversation about the identity of Suzuha's father. Mayuri, an endearing, often oblivious friend, and Daru, a talented hacker with a knack for puns, are both closely connected to Kurisu through shared scientific endeavors. Suzuha is a new addition to their group, her origins and identity still a mystery to them. In this situation, Kurisu is actively participating in the conversation, trying to make sense of the clues and help uncover the truth about Suzuha's parentage.

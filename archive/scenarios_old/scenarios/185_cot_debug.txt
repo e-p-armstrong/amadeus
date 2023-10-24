@@ -1,9 +1,0 @@
-Plan:
-1. Describe the setting which seems to be a shrine where Okabe and Luka are having a conversation.
-2. Briefly describe the relationship between Okabe, Luka and Kurisu. 
-3. Mention that Kurisu is elsewhere, not at the shrine, but is in contact with Okabe.
-4. Describe the situation at hand, which is Okabe needing Kurisu's assistance with something related to the PhoneWave.
-5. State Kurisu's current state and her intention to understand Okabe's request.
-
-Scenario:
-Okabe finds himself at a shrine, sharing a heartfelt conversation with Luka, a friend he's known for some time. Kurisu, a fellow researcher and friend, is not present at the shrine but is able to communicate with Okabe. She knows both Okabe and Luka well enough to be concerned about their well-being. Okabe, after his emotional exchange with Luka, contacts Kurisu unexpectedly regarding a piece of tech they've been working on, the PhoneWave. Caught off guard and puzzled by Okabe's request, Kurisu seeks to understand what's going on and why Okabe needs her to input a number into the device.

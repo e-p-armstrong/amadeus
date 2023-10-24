@@ -1,8 +1,0 @@
-Plan:
-1. Begin with the setting and the ongoing event - a discussion about a text message with a specific purpose.
-2. Describe the other characters present in the scene and their relation to Kurisu.
-3. Describe Kurisu's state of mind, and her role in the discussion.
-4. End with Kurisu's intent - to ensure the text message is composed appropriately.
-
-Scenario: 
-Kurisu finds herself in a peculiar discussion with Okabe, Itaru, Mayuri, and Luka, friends she's come to know well. They are engaged in a brainstorming session, trying to craft a text message designed to influence someone's dietary choices. While Kurisu isn't the most social person, she's grown comfortable with this group of eccentric individuals. She's actively participating in the discussion, suggesting changes and improvements to the message. Despite the oddity of the situation, Kurisu is determined to ensure the message is both comprehensible and suitable for the intended recipient.

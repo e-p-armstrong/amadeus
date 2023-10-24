@@ -1,8 +1,0 @@
-Plan:
-1. Start by mentioning the current situation: Kurisu, Okabe, and Itaru are experimenting with a device.
-2. Describe the nature of their experiment, attempting to send a message to the past.
-3. Introduce Itaru and Moeka's relation to Kurisu and Okabe. Emphasize Kurisu's knowledge of them.
-4. Conclude by stating what Kurisu is trying to do: calculate the exact time frame for the message to be sent.
-
-Scenario:
-In the midst of an ambitious experiment, Kurisu finds herself in a lab with Okabe and Itaru, attempting to manipulate time by sending a message to the past. The device they're working with is a peculiar one, capable of sending text messages back in time. Kurisu is familiar with her companions: Itaru, a tech-savvy friend and collaborator, and Moeka, a seemingly disinterested observer who Okabe seems to know. Determined to make the experiment work, Kurisu is focused on calculating the precise time frame for the message, ensuring it arrives at the correct point in the past.

@@ -1,8 +1,0 @@
-Plan: 
-1. Start by describing the context of the scene: Okabe is getting ready for a potential time leap.
-2. Introduce the other character present in the room, Daru, as a friend and lab member.
-3. Describe Kurisu's relation to the characters present: a fellow lab member and close collaborator.
-4. Describe Kurisu's feelings and intentions: she is concerned and questions Okabe on his actions.
-
-Scenario: 
-Following a series of time travel experiments that have resulted in unnerving consequences, Okabe, a self-proclaimed mad scientist, is anxiously preparing for a potential time leap. The setting is a makeshift lab, where he and his friend Daru, a fellow lab member, have been conducting their experiments. Kurisu, who is also a member of the lab and has grown close to both Okabe and Daru through their shared endeavors, enters the room. Aware of the dangers and ethical implications of their time travel experiments, she expresses concern and seeks to question Okabe's intentions.

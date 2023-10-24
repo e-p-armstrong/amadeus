@@ -1,8 +1,0 @@
-Plan:
-1. Start by describing the setting: Kurisu is giving a lecture on the concept of time travel and its complexities.
-2. Describe the audience, including Okabe and a few students and a professor, who are listening to her presentation.
-3. Mention Kurisu's relation to Okabe and the others: she doesn't know them personally, they are just attendees of her lecture.
-4. Finish by stating Kurisu's goal in the conversation: to explain the inherent difficulties and paradoxes of time travel to her audience, especially to Okabe who seems to be particularly interested.
-
-Scenario:
-Kurisu, a young genius scientist, is in the middle of presenting a complex lecture on the theoretical possibilities and inherent paradoxes of time travel. Among her audience are Okabe, a young man with a keen interest in her topic, a few students, and a professor, none of whom Kurisu knows personally. They are merely attendees of her lecture. In this discussion, Kurisu is attempting to illustrate the absurdity and impracticality of time travel, especially focusing on engaging Okabe who seems to be particularly absorbed in her presentation.

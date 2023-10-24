@@ -30,13 +30,13 @@ Lab Mem = future gadget lab member
 Convergence = fate, which guides the world towards specific outcomes on certain timelines
 Write in {"first person" if first_person else "third person"}.
 Scenario:
-{scenario}
+{remove_quotes(scenario.strip()).strip()}
 ### Response:
 (OOC) Understood. I will take this info into account for the roleplay. (end OOC)
 ### New Roleplay:
-{chat_history}
+{chat_history.strip()}
 ### Response (2 paragraphs, engaging, natural, authentic, descriptive, creative):
-#### Kurisu: {last_kurisu_line}"""}
+#### Kurisu: {last_kurisu_line.strip()}"""}
     
 def make_card_evanchat_mayuri(scenario, chat_history, last_mayuri_line, first_person=True):
     return { "text" : f"""## Mayuri
@@ -68,13 +68,13 @@ Lab Mem = future gadget lab member
 Convergence = fate, which guides the world towards specific outcomes on certain timelines
 Write in {"first person" if first_person else "third person"}.
 Scenario:
-{scenario}
+{remove_quotes(scenario.strip()).strip()}
 ### Response:
 (OOC) Understood. I will take this info into account for the roleplay. (end OOC)
 ### New Roleplay:
-{chat_history}
+{chat_history.strip()}
 ### Response (2 paragraphs, engaging, natural, authentic, descriptive, creative):
-#### Mayuri: {last_mayuri_line}"""}
+#### Mayuri: {last_mayuri_line.strip()}"""}
     
     
 def make_card_evanchat_luka(scenario, chat_history, last_luka_line, first_person=True):
@@ -106,14 +106,14 @@ Lab Mem = future gadget lab member
 Convergence = fate, which guides the world towards specific outcomes on certain timelines
 Write in {"first person" if first_person else "third person"}.
 Scenario:
-{scenario}
+{remove_quotes(scenario.strip()).strip()}
 Note: You will write Luka's next reply in a chat between Okabe, Luka, and potentially other characters. Write a single reply only.
 ### Response:
 (OOC) Understood. I will take this info into account for the roleplay. (end OOC)
 ### New Roleplay:
-{chat_history}
+{chat_history.strip()}
 ### Response (2 paragraphs, engaging, natural, authentic, descriptive, creative):
-#### Luka: {last_luka_line}"""}
+#### Luka: {last_luka_line.strip()}"""}
     
     
 def make_card_evanchat_okabe(scenario, chat_history, last_okabe_line, first_person=True): # determine who the most recent speaker in model_chars is; that's who goes in the top, right after "### Input"
@@ -122,7 +122,7 @@ def make_card_evanchat_okabe(scenario, chat_history, last_okabe_line, first_pers
     c = ""
     desc = ""
     for char in model_chars:
-        if chat_history.contains(char):
+        if (char + ":") in chat_history:
             c = char
     if c == "Kurisu":
         desc = "Kurisu is a young genius girl, a skilled physicist, and the author of a few scientific papers on neuroscience"
@@ -162,13 +162,13 @@ Future Gadget Lab = the loose organization of Okabe's group of friends
 Lab Mem = future gadget lab member
 Convergence = fate, which guides the world towards specific outcomes on certain timelines
 Scenario:
-{scenario}
+{remove_quotes(scenario.strip()).strip()}
 ### Response:
 (OOC) Understood. I will take this info into account for the roleplay. (end OOC)
 ### New Roleplay:
-{chat_history}
+{chat_history.strip()}
 ### Response (2 paragraphs, engaging, natural, authentic, descriptive, creative):
-#### Okabe: {last_okabe_line}"""}
+#### Okabe: {last_okabe_line.strip()}"""}
     
 def make_card_evanchat_faris(scenario, chat_history, last_faris_line, first_person=True):
     return { "text" : f"""## Faris
@@ -196,13 +196,13 @@ Lab Mem = future gadget lab member
 Convergence = fate, which guides the world towards specific outcomes on certain timelines
 Write in {"first person" if first_person else "third person"}.
 Scenario:
-{scenario}
+{remove_quotes(scenario.strip()).strip()}
 ### Response:
 (OOC) Understood. I will take this info into account for the roleplay. (end OOC)
 ### New Roleplay:
-{chat_history}
+{chat_history.strip()}
 ### Response (2 paragraphs, engaging, natural, authentic, descriptive, creative):
-#### Faris: {last_faris_line}"""}
+#### Faris: {last_faris_line.strip()}"""}
     
 def make_card_evanchat_daru(scenario, chat_history, last_itaru_line, first_person=True):
     return { "text" : f"""## Itaru
@@ -231,13 +231,13 @@ Lab Mem = future gadget lab member
 Convergence = fate, which guides the world towards specific outcomes on certain timelines
 Write in {"first person" if first_person else "third person"}.
 Scenario:
-{scenario}
+{remove_quotes(scenario.strip()).strip()}
 ### Response:
 (OOC) Understood. I will take this info into account for the roleplay. (end OOC)
 ### New Roleplay:
-{chat_history}
+{chat_history.strip()}
 ### Response (2 paragraphs, engaging, natural, authentic, descriptive, creative):
-#### Itaru: {last_itaru_line}"""}
+#### Itaru: {last_itaru_line.strip()}"""}
     
 def make_card_evanchat_suzuha(scenario, chat_history, last_suzuha_line, first_person=True):
     return { "text" : f"""## Suzuha
@@ -272,10 +272,19 @@ Lab Mem = future gadget lab member
 Convergence = fate, which guides the world towards specific outcomes on certain timelines
 Write in {"first person" if first_person else "third person"}.
 Scenario:
-{scenario}
+{remove_quotes(scenario.strip()).strip()}
 ### Response:
 (OOC) Understood. I will take this info into account for the roleplay. (end OOC)
 ### New Roleplay:
-{chat_history}
+{chat_history.strip()}
 ### Response (2 paragraphs, engaging, natural, authentic, descriptive, creative):
-#### Suzuha: {last_suzuha_line}"""}
+#### Suzuha: {last_suzuha_line.strip()}"""}
+    
+    
+def remove_quotes(s: str) -> str:
+    while s and (s[0] in ['"', "'"]) or (s and s[-1] in ['"', "'"]):
+        if s[0] in ['"', "'"]:
+            s = s[1:]
+        if s and s[-1] in ['"', "'"]:
+            s = s[:-1]
+    return s

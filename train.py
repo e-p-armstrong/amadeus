@@ -56,7 +56,7 @@ def parse_json_file(json_file_path):
 json_file_path = "final_dataset.json"
 reformatted_data = parse_json_file(json_file_path)
 
-print(reformatted_data[0])
+print(reformatted_data[7])
 
 
 # New dataset code:
@@ -66,11 +66,23 @@ def format_chat_history(chat_history, speaker):
 card_dataset = []
 
 for ex in reformatted_data: # make a version of the dataset with the first card
-    fp = "first person" == determine_perspective(ex["completion"])
+    fp = "first person" == determine_perspective(ex["speaker"],ex["completion"])
     if ex["speaker"] == "Kurisu":
         card_dataset.append(make_card_evanchat_kurisu(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
-    if ex["speaker"] == "Itaru":
+    elif ex["speaker"] == "Itaru":
         card_dataset.append(make_card_evanchat_daru(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
+    elif ex["speaker"] == "Mayuri":
+        card_dataset.append(make_card_evanchat_mayuri(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
+    elif ex["speaker"] == "Faris":
+        card_dataset.append(make_card_evanchat_faris(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
+    elif ex["speaker"] == "Okabe":
+        card_dataset.append(make_card_evanchat_okabe(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
+    elif ex["speaker"] == "Luka":
+        card_dataset.append(make_card_evanchat_luka(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
+    elif ex["speaker"] == "Suzuha":
+        card_dataset.append(make_card_evanchat_suzuha(ex["scenario"], format_chat_history(ex["history"],ex["speaker"]), ex["completion"], fp))
+    else:
+        print("\n\n\nERROR unrecognized char: " + ex["speaker"] + "\nFIX THIS\n\n\n")
         
     
     
@@ -86,7 +98,7 @@ print(dataset,"\n\n\n")
 # dataset = dataset.map(lambda example: {"text": example["text"], "length": len(example["text"])})
 # dataset = dataset.sort("length", reverse=True)
 
-tokenizer = AutoTokenizer.from_pretrained("Undi95/ReMM-Mistral-13B", max_length=4000, padding_side="right")
+tokenizer = AutoTokenizer.from_pretrained("Gryphe/MythoMax-L2-13b", max_length=4000, padding_side="right")
 # tokenizer.add_special_tokens({"pad_token": "[PAD]"}) # Note, do not do this, it will break the embedding and cause a hard-to-fix error
 
 tokenizer.pad_token_id = tokenizer.eos_token_id
@@ -106,7 +118,7 @@ print(dataset["train"][0]["text"])
 # Model time!
 
 # Sillytavern response template: "### Response (2 paragraphs, engaging, natural, authentic, descriptive, creative):
-#### Kurisu:"
+####"
 response_template = [2277,
  29937,
  13291,
@@ -129,10 +141,7 @@ response_template = [2277,
  1230,
  1125,
  13,
- 4136,
- 9742,
- 28311,
- 29901]
+ 4136]
 
 # print("\n\n\n====================\n\n\n")
 # print(type(response_template), response_template)
@@ -156,7 +165,7 @@ quantization_config = BitsAndBytesConfig(
 )
 
 base_model = LlamaForCausalLM.from_pretrained(
-    "Undi95/ReMM-Mistral-13B",
+    "Gryphe/MythoMax-L2-13b",
     quantization_config=quantization_config,
     device_map="auto",
     trust_remote_code=True,
@@ -208,4 +217,4 @@ trainer = SFTTrainer(
 )
 
 trainer.train()
-trainer.save_model("MistralMakise-13b-")
+trainer.save_model("Kakkokari-13b-mythomax")

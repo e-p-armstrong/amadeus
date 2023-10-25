@@ -30,7 +30,7 @@ The dataset is generated from the `.scx.txt` files of Steins;Gate. It's essentia
 ### Processing with Notebook
 1. Open the `processing_refactor.ipynb` notebook.
 2. Before running the notebook, ensure you've toggled the `dataset_has_been_manually_edited` flag at the top:
-   - Set to `True` if working with the original dataset.
+   - Set to `True` if working with the original dataset. If this is true, it (shouldn't) make any OAI calls and will leave any gaps in the dataset alone.
    - Set to `False` if you're generating new data.
 3. Run the notebook to process the raw text file. The output will be the Augmental dataset, ready for model training.
 

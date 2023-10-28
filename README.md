@@ -53,9 +53,9 @@ This dataset is an evolution of the dataset that was used to train MythoMakise, 
 See the note on the Augmental Dataset HF page for legal considerations. TLDR: if the legal holders of the Steins;Gate IP tell me to take this down I will without a second thought.
 
 ## References and Useful Links and Self-promotional Links
-- [Reddit Post](https://www.reddit.com/r/AI/comments/abc123) introducing the dataset.
-- [Model Card](https://github.com/e-p-armstrong/amadeus/blob/main/model_card.md) detailing the specifics and innovations behind the model.
+- [Reddit Post](https://www.reddit.com/r/LocalLLaMA/comments/17fsbpe/augmental_an_rp_model_trained_on_a_new_dataset_of/) introducing the dataset.
+- [Model Card](https://huggingface.co/Heralax/Augmental-13b) detailing the specifics and innovations behind the model.
 - [Ko-fi Support Link](https://ko-fi.com/heralax)
-- [Essay on Substack](https://promptingweekly.substack.com/p/human-sourced-ai-augmented-a-promising) discussing the rationale behind the dataset.
+- [Essay on Substack](https://promptingweekly.substack.com/p/human-sourced-ai-augmented-a-promising?utm_source=profile&utm_medium=reader2) discussing the rationale behind the dataset.
 
 Feedback, suggestions, and contributions are always welcome! 
